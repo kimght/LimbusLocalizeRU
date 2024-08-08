@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.8",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -2716,6 +2716,370 @@
     {
       "path": "RU/EGOVoiceDig/Voice_EGO_Sinclair_10.json",
       "checksum": "8549af4d079f3ac1e2b9a6cfde5c4137"
+    },
+    {
+      "path": "Readme/Sprites/TurnUI.png",
+      "checksum": "3098bf36053a2a1ba570ee44030eb181"
+    },
+    {
+      "path": "Readme/Sprites/MirrorDungeon_Banner.png",
+      "checksum": "9cb420cd7c733716ccfa1ba18f236855"
+    },
+    {
+      "path": "Readme/Sprites/EX.png",
+      "checksum": "50f6e19f2d8bde97be853030a7b35134"
+    },
+    {
+      "path": "Readme/Sprites/SoldOut.png",
+      "checksum": "32ce50ca4c01d40ec1e78ee2bfed3764"
+    },
+    {
+      "path": "Readme/Sprites/MirrorDungeon_FloorBonus.png",
+      "checksum": "ba131f1ae6d33b5eab3a2386f3841950"
+    },
+    {
+      "path": "Readme/Sprites/Victory.png",
+      "checksum": "98922651691af05cca6644feacbbe3f4"
+    },
+    {
+      "path": "Readme/Sprites/NewInfo.png",
+      "checksum": "b5b59578415f25d6be164a1a61003ddf"
+    },
+    {
+      "path": "Readme/Sprites/Defeat.png",
+      "checksum": "443f93ae49fa0aa77bf3c5b11b3fc228"
+    },
+    {
+      "path": "Readme/Sprites/StarlightBonus.png",
+      "checksum": "6b646b03c1e553dcaa4554862b23a9db"
+    },
+    {
+      "path": "Readme/Sprites/Skip_Choice.png",
+      "checksum": "0aab9fdf8ce19d9c85673b317da385cd"
+    },
+    {
+      "path": "Readme/Sprites/Turn.png",
+      "checksum": "bef0eb90a14b7bc3f39893674e6202c9"
+    },
+    {
+      "path": "Readme/Sprites/Victory_Text.png",
+      "checksum": "c884f37d96c244218017d8239429012a"
+    },
+    {
+      "path": "Readme/Sprites/CritScarlet.png",
+      "checksum": "1dd057e96768589620f61199de4ba156"
+    },
+    {
+      "path": "Readme/Sprites/SupportTag.png",
+      "checksum": "08561b693c5f8727da77587fa000c9b8"
+    },
+    {
+      "path": "Readme/Sprites/Catchphrase.png",
+      "checksum": "9378ae494df054ad5930ba3c348ced2a"
+    },
+    {
+      "path": "Readme/Sprites/CritAmber.png",
+      "checksum": "f3d9a139aaa774156610b1f46a6fcac3"
+    },
+    {
+      "path": "Readme/Sprites/DanteAbility_Active.png",
+      "checksum": "d061bb3d94556620adcffee49d0159c8"
+    },
+    {
+      "path": "Readme/Sprites/UserInfo_Effect.png",
+      "checksum": "150a08ec1b8229c7b5ed249e007afdfa"
+    },
+    {
+      "path": "Readme/Sprites/Risk_Unindentified.png",
+      "checksum": "72deda6690392b3272718500784bb1c6"
+    },
+    {
+      "path": "Readme/Sprites/Overclock_Warning.png",
+      "checksum": "771baf2f71e729d227b499d6e8564b00"
+    },
+    {
+      "path": "Readme/Sprites/Overclock.png",
+      "checksum": "4a15d59e0ec147869a614122bddb6edb"
+    },
+    {
+      "path": "Readme/Sprites/Combo.png",
+      "checksum": "53bfcf3450f3f6bddd165e0ac67b6a0e"
+    },
+    {
+      "path": "Readme/Sprites/WaveUI.png",
+      "checksum": "417db6f3cafaf97c87cd20377f9db7e3"
+    },
+    {
+      "path": "Readme/Sprites/Mirror_SoldOut.png",
+      "checksum": "85ee49e24d9c4e116fa810bccc1413c7"
+    },
+    {
+      "path": "Readme/Sprites/EGO_Awaken.png",
+      "checksum": "b09e45c77524733977a832292b75c0b0"
+    },
+    {
+      "path": "Readme/Sprites/Overclock_Legacy_2.png",
+      "checksum": "1912f17bab79f9bdc8dde186565419ee"
+    },
+    {
+      "path": "Readme/Sprites/Start.png",
+      "checksum": "2c5c3068cb7c65826b9878fa05f4f31b"
+    },
+    {
+      "path": "Readme/Sprites/AutoButton_Enabled.png",
+      "checksum": "8f1d23b3ecce17ace56f7c5b61b803fc"
+    },
+    {
+      "path": "Readme/Sprites/CritAzure.png",
+      "checksum": "299f381fd52bb1e61c10cdf6328ab8d9"
+    },
+    {
+      "path": "Readme/Sprites/StartBattle.png",
+      "checksum": "4d50f00f3f714e09230800a344f91fcd"
+    },
+    {
+      "path": "Readme/Sprites/CritCrimson.png",
+      "checksum": "89b587ef5f45c9fbf0c187211aa95faf"
+    },
+    {
+      "path": "Readme/Sprites/New.png",
+      "checksum": "d0bd101d51e95a9d9cc37e60cbd5bc1a"
+    },
+    {
+      "path": "Readme/Sprites/DanteAbility_Durante.png",
+      "checksum": "10a6c4c85e971743887c50e658a3b3db"
+    },
+    {
+      "path": "Readme/Sprites/InParty.png",
+      "checksum": "dcfd8587e633304f2c50ba444fc8f501"
+    },
+    {
+      "path": "Readme/Sprites/AutoButton.png",
+      "checksum": "ecca5cd98ab3e3af2349dcded3284bdf"
+    },
+    {
+      "path": "Readme/Sprites/DanteAbility_Inactive.png",
+      "checksum": "6e355ef374d597a021e244521b86f8ed"
+    },
+    {
+      "path": "Readme/Sprites/EgoGift_MirrorButton.png",
+      "checksum": "23ff6ad8eb18a3c247baedb599fefc9b"
+    },
+    {
+      "path": "Readme/Sprites/CritViolet.png",
+      "checksum": "bc9351cd7653d03f964e55eab1ece993"
+    },
+    {
+      "path": "Readme/Sprites/CritIndigo.png",
+      "checksum": "0a77a2bab8b2b8f4251f696d95509d4f"
+    },
+    {
+      "path": "Readme/Sprites/LunacyTag.png",
+      "checksum": "9cd0b817c36677e2227f22c616f4dcda"
+    },
+    {
+      "path": "Readme/Sprites/NewGacha.png",
+      "checksum": "19a20b1e5c97e00911cd3f2c67f66a1d"
+    },
+    {
+      "path": "Readme/Sprites/EGO_Erode.png",
+      "checksum": "d062ea517328082ca783aedf9e063d94"
+    },
+    {
+      "path": "Readme/Sprites/TextButton.png",
+      "checksum": "8c76a9ab4c55a1bb0cddfc9a99cc2ce8"
+    },
+    {
+      "path": "Readme/Sprites/Skip.png",
+      "checksum": "6b5c49409d24edd776a759f59434ac45"
+    },
+    {
+      "path": "Readme/Sprites/DungeonClearLogo.png",
+      "checksum": "167f08438cf48f5727b06f9f31c42fa0"
+    },
+    {
+      "path": "Readme/Sprites/Defeat_Text.png",
+      "checksum": "1968bb8eb2b0a5053d942d6ba3c75693"
+    },
+    {
+      "path": "Readme/Sprites/Motto.png",
+      "checksum": "4681f165b51f36cdc3a109e1785a9f45"
+    },
+    {
+      "path": "Readme/Sprites/CritShamrock.png",
+      "checksum": "cd91088b9c1e6b064a5762f6116cdd91"
+    },
+    {
+      "path": "Readme/Sprites/Story/Don't_Start.png",
+      "checksum": "e8468b734c52c4c12c15216443ce7cd6"
+    },
+    {
+      "path": "Readme/Sprites/Event/YCGD_Logo.png",
+      "checksum": "5efdbbf25b40c27182be55bf0eb03e53"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN3_Clear.png",
+      "checksum": "615f2c570cffd0287e74aa3292aa2672"
+    },
+    {
+      "path": "Readme/Sprites/Event/7thAnniversary.png",
+      "checksum": "f5155bdfece79361014498b8ff6c3889"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Stage.png",
+      "checksum": "a83dd1c07127bd7e38bbd3a868dcabde"
+    },
+    {
+      "path": "Readme/Sprites/Event/WP3_Victory.png",
+      "checksum": "e2a9b0faad8eb173e15705d9533d779a"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN2_Desc.png",
+      "checksum": "d6c66a13d1ecfc38905f94c849c89c00"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Story.png",
+      "checksum": "337ed56c500649efb368a37ec6bfec8c"
+    },
+    {
+      "path": "Readme/Sprites/Event/TimeKillingTime_ExchangeBanner.png",
+      "checksum": "a31215517b1501cce154dfe13bec13cc"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Lock.png",
+      "checksum": "2f01cf7c217338fc5cba71622ca6e698"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Stage_Mouseover.png",
+      "checksum": "2dad0660b0f30861070d127666a33be7"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_ExchangeBG.png",
+      "checksum": "f94f26111aac499662e0ad630b082d1f"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Get.png",
+      "checksum": "b324270b97e09724cb8601543acf62cb"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN2_Mission_Banner.png",
+      "checksum": "32fd9ec7c437f9c6dabed7c72ff23d15"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN3_Mission_Banner.png",
+      "checksum": "a322af746a36ba98102ae7175b744b9b"
+    },
+    {
+      "path": "Readme/Sprites/Event/NewManagerGacha.png",
+      "checksum": "d93353da289e35a25d916e6507f72387"
+    },
+    {
+      "path": "Readme/Sprites/Event/Walpurgis_Shop.png",
+      "checksum": "05867c34bd4729f32c4cb0b30024c0f7"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_EventBanner.png",
+      "checksum": "d7c398d48bce532132120af7d0d3ac0d"
+    },
+    {
+      "path": "Readme/Sprites/Event/TimeKillingTime_Logo.png",
+      "checksum": "e5e9a05be2695b68b18a88d0c7f244b4"
+    },
+    {
+      "path": "Readme/Sprites/Event/TKT_Intro3.png",
+      "checksum": "5d5c1d70ceb0df999e3a6928b4ab4600"
+    },
+    {
+      "path": "Readme/Sprites/Event/Season2_Shop.png",
+      "checksum": "77fe3bd918c2a6e0d89fd3d7f2255e0a"
+    },
+    {
+      "path": "Readme/Sprites/Event/Season3_Banner.png",
+      "checksum": "e99927febcdacbfe98bfa16cfe68a5cb"
+    },
+    {
+      "path": "Readme/Sprites/Event/1stLCBAnniversary_Complete.png",
+      "checksum": "6a5b5d2b4e8b2e2e44a8baf61eccb99b"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Logo.png",
+      "checksum": "b025176b4a3558a289c11a2d2c2d27c9"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_ExchangeBanner.png",
+      "checksum": "d321a02741e868a20055d58cf2dfe844"
+    },
+    {
+      "path": "Readme/Sprites/Event/YCGD_ExchangeBanner.png",
+      "checksum": "6280759114cfaa77adac703f591e4fdf"
+    },
+    {
+      "path": "Readme/Sprites/Event/NewManagerGacha_Banner.png",
+      "checksum": "8fc6832085eb2d084c30992c2b777619"
+    },
+    {
+      "path": "Readme/Sprites/Event/Season3_Shop.png",
+      "checksum": "0c86796c26d66378494da885f398e555"
+    },
+    {
+      "path": "Readme/Sprites/Event/NewManagerGacha_Typo.png",
+      "checksum": "a86466afb8a85d1fd8b1276648daedf0"
+    },
+    {
+      "path": "Readme/Sprites/Event/WP3_Defeat.png",
+      "checksum": "176669047e04e2ece970aa217abe1cfa"
+    },
+    {
+      "path": "Readme/Sprites/Event/TKT_Intro1.png",
+      "checksum": "a6ea617e6f5ddbf8efa0d914c7f266fe"
+    },
+    {
+      "path": "Readme/Sprites/Event/Miracle20_Story_Mouseover.png",
+      "checksum": "a594d0e1ca1c51efbc58b89d6c99db22"
+    },
+    {
+      "path": "Readme/Sprites/Event/TimeKillingTime_EventBanner.png",
+      "checksum": "a5ff9726cdfcbe360b4bb7b90c1767fe"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN3_Logo.png",
+      "checksum": "ddb5bc16d502f33e659333a826255ada"
+    },
+    {
+      "path": "Readme/Sprites/Event/TKT_Intro2.png",
+      "checksum": "0db0a52aea3368de94ca3a334254462b"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN2_BG.png",
+      "checksum": "03458a9f76ad89137366323f658fe5f1"
+    },
+    {
+      "path": "Readme/Sprites/Event/YCGD_EventBanner.png",
+      "checksum": "86110fabeba5e1944699fad13d8c2660"
+    },
+    {
+      "path": "Readme/Sprites/Event/Season1_Shop.png",
+      "checksum": "d49b305b6aa4c4ccfe3cfa5a7c9ab0b7"
+    },
+    {
+      "path": "Readme/Sprites/Event/WN2_Clear.png",
+      "checksum": "57edca3e33db9737be3cf6d558c54b83"
+    },
+    {
+      "path": "Readme/Sprites/Event/Backup_Label.png",
+      "checksum": "852c4182ccf55a2f6904d18a97101f67"
+    },
+    {
+      "path": "Readme/LoadingTexts.md",
+      "checksum": "203b5d2654816b85b2761572649a60c4"
+    },
+    {
+      "path": "Readme/Readme_MTL_Button.png",
+      "checksum": "40fef012c3bfa44661ff6244beac33cf"
+    },
+    {
+      "path": "Readme/Readme.json",
+      "checksum": "c1ef8881c3c7d7ae6b75ef0afc5528c6"
     }
   ]
 }

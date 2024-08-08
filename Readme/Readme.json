@@ -1,0 +1,104 @@
+﻿{
+    "noticeList": [
+        {
+            "id": 1192,
+            "version": 0,
+            "type": 1,
+            "startDate": "2023-08-31T00:00:00.000Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "Кредиты",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы MTL:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusCompanyRuMTL>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы оригинального мода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы ручного русского перевода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/Crescent-Corporation/LimbusCompanyBusRUS>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Особая благодарность анонам из /pmg/ треда:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://2ch.hk/gacha/catalog.html>Двач</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Также благодарим <i>abcdcode</i> за помощь с кодом!</b>\"}]}"
+        },
+        {
+            "id": 2920,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-07T11:47:11Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.7",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.7</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил баг в авто-обновлении\"}]}"
+        },
+        {
+            "id": 2919,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-07T11:31:08Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.6",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.6</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Обновил код до [v0.3.6](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS/releases/tag/v0.3.6)\"}]}"
+        },
+        {
+            "id": 2918,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-07T10:13:48Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.5",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.5</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Улучшил автообновления\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Отключил рофлы в загрузке по умолчанию\"}]}"
+        },
+        {
+            "id": 2917,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-06T17:40:56Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.4",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.4</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил возможность задать версию при CD, надеюсь\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил перевод названий мест в истории\"}]}"
+        },
+        {
+            "id": 2916,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-06T08:39:02Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.3",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.3</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил баги с кривой разметкой\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Перевел имя Хитклифа с одной \\\"ф\\\"\"}]}"
+        },
+        {
+            "id": 2915,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-05T18:18:23Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.2",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.2</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Починил авто-обновление\"}]}"
+        },
+        {
+            "id": 2914,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-05T17:54:50Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.1",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.1</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Обновил перевод\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил картинку на кнопку\"}]}"
+        },
+        {
+            "id": 2913,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-05T15:27:47Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.0",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 5-ой главы\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 6-ой главы\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Значительно улучшен перевод 4-ой главы\"}]}"
+        },
+        {
+            "id": 2912,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-03T15:10:21Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v0.1.0",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v0.1.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 4 главы\"}]}"
+        }
+    ]
+}
