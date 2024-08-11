@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -495,7 +495,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "2f08fc6f72fccd643729090fa06ef7a8"
+      "checksum": "5fe11d571a86bb382a75e20071c8ec6d"
     },
     {
       "path": "RU/Passives_Abnormality.json",
@@ -1359,7 +1359,7 @@
     },
     {
       "path": "RU/StoryData/E622B.json",
-      "checksum": "ba92ef2f9aec1c7e140200ba243fdceb"
+      "checksum": "174bb6e23c381e79a8bf0948c90c3dc4"
     },
     {
       "path": "RU/StoryData/S409B.json",
@@ -2035,7 +2035,7 @@
     },
     {
       "path": "RU/StoryData/E626B.json",
-      "checksum": "bf604e6fec186e3dd1c1798754f1bcbd"
+      "checksum": "a65c49f05ca1de156e7c796733d38af3"
     },
     {
       "path": "RU/StoryData/P11204.json",
