@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -495,7 +495,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "5fe11d571a86bb382a75e20071c8ec6d"
+      "checksum": "89daf8065bea1c49440147057faf079a"
     },
     {
       "path": "RU/Passives_Abnormality.json",
