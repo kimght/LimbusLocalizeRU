@@ -11,6 +11,16 @@
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы MTL:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusCompanyRuMTL>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы оригинального мода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы ручного русского перевода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/Crescent-Corporation/LimbusCompanyBusRUS>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Особая благодарность анонам из /pmg/ треда:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://2ch.hk/gacha/catalog.html>Двач</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Также благодарим <i>abcdcode</i> за помощь с кодом!</b>\"}]}"
         },
         {
+            "id": 2922,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-08-23T16:19:01.000Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.0.9",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.9</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправил ошибку из-за которой мод крашился в последней версии игры.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил пару мест в переводе.\"}]}"
+        },
+        {
             "id": 2921,
             "version": 0,
             "type": 0,
