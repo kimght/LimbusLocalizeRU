@@ -18,7 +18,7 @@
             "endDate": "2024-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "Участники проекта",
-            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Участники проекта</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- DAFTPUSiK\"},{\"formatKey\":\"Text\",\"formatValue\":\"- KJHater\"},{\"formatKey\":\"Text\",\"formatValue\":\"- kimght\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusStory>Помочь в переводе</link>\"}]}"
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Участники проекта</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- DAFTPUSiK\"},{\"formatKey\":\"Text\",\"formatValue\":\"- KJHater\"},{\"formatKey\":\"Text\",\"formatValue\":\"- kimght\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Помочь в переводе</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusStory>GitHub</link>\"}]}"
         },
         {
             "id": 1194,
@@ -28,7 +28,7 @@
             "endDate": "2024-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "Дополнительно",
-            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>Онлайн читалочка</link>\"}]}"
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"Онлайн читалочка:\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>kimght.github.io</link>\"}]}"
         },
         {
             "id": 2922,
