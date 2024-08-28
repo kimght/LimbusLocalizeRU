@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -3179,7 +3179,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "ab5be3855c3cc66f92410199ebdbdb44"
+      "checksum": "7e1f42c93d22fa5cf7fc3f35ff2e136a"
     }
   ]
 }
