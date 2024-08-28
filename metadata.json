@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -1439,7 +1439,7 @@
     },
     {
       "path": "RU/StoryData/P10407.json",
-      "checksum": "4a011b46b85c093f8eb98e2aae459685"
+      "checksum": "373a06c1b5a50f80973bf1e59aeab666"
     },
     {
       "path": "RU/StoryData/4D305I2.json",
