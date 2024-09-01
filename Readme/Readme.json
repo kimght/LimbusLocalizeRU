@@ -31,6 +31,16 @@
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"Онлайн читалочка:\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>kimght.github.io</link>\"}]}"
         },
         {
+            "id": 2923,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-09-01T12:44:24.000Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.1.0",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Улучшены автоматические обновления.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Начиная с этой версии перевода спрайтов больше не будет! Но благодаря этому мод будет обновляться ещё быстрее.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлен баг, из-за которого в последних эпизодах глав путалась озвучка.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведены недостающие интерваллы (S.E.A., Miracle in District 20).\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведены истории идентичностей.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлены некоторые ошибки в переводе.\"}]}"
+        },
+        {
             "id": 2922,
             "version": 0,
             "type": 0,
