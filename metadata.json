@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "files": [
     {
       "path": "RU/StageNode91-7.json",
@@ -2155,7 +2155,7 @@
     },
     {
       "path": "RU/StoryData/P11008.json",
-      "checksum": "e96a72b54bad6bf827d2e6092cedbf3f"
+      "checksum": "ff549d1da6ae0507f66be1c4f8a8356a"
     },
     {
       "path": "RU/StoryData/3D303B.json",
@@ -2471,7 +2471,7 @@
     },
     {
       "path": "RU/StoryData/P10102.json",
-      "checksum": "80de6512e44cb4c5194ce48999bdd05c"
+      "checksum": "d8b88dfcf02f4f59e0b177b0ec116a8a"
     },
     {
       "path": "RU/StoryData/P10304.json",
