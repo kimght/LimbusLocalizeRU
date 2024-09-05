@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "files": [
     {
       "path": "RU/PanicInfo-a1c6p1.json",
@@ -543,7 +543,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "89daf8065bea1c49440147057faf079a"
+      "checksum": "a242fe97cbdec4481cae0cccfde78cfc"
     },
     {
       "path": "RU/StoryTheaterDanteNote_6.json",
@@ -1246,6 +1246,10 @@
       "checksum": "b8178281a5fa6ee30367a384035918b0"
     },
     {
+      "path": "RU/StoryData/E065X.json",
+      "checksum": "14fd34624364bd4ff0727c3559d2e30e"
+    },
+    {
       "path": "RU/StoryData/3D103B.json",
       "checksum": "787e95b172d44ff579d5c6b77abcda56"
     },
@@ -1407,7 +1411,7 @@
     },
     {
       "path": "RU/StoryData/S648I3.json",
-      "checksum": "5e2a9ac75386a1b973eb5fb666b95686"
+      "checksum": "68207ade41357bad050e67277b59bd0e"
     },
     {
       "path": "RU/StoryData/E616B.json",
@@ -1679,7 +1683,7 @@
     },
     {
       "path": "RU/StoryData/P11106.json",
-      "checksum": "dd1af1b43f183a7720858823253af503"
+      "checksum": "4f1b7d7f840a716a4d2e965bf1040b6d"
     },
     {
       "path": "RU/StoryData/P11208.json",
@@ -1968,6 +1972,10 @@
     {
       "path": "RU/StoryData/E611B.json",
       "checksum": "64487bacb6906518849dafbd4b9256cd"
+    },
+    {
+      "path": "RU/StoryData/P10410.json",
+      "checksum": "a213993825722c9d3fb374369836c68a"
     },
     {
       "path": "RU/StoryData/3D309I1.json",
@@ -2274,6 +2282,10 @@
       "checksum": "d21fb60e4d6840608b5aed1553ab0d1f"
     },
     {
+      "path": "RU/StoryData/P10110.json",
+      "checksum": "603c67505deb43a2fdf140df09eca4bd"
+    },
+    {
       "path": "RU/StoryData/S631A.json",
       "checksum": "3f6d38741f1a8602c88914d1dbb15884"
     },
@@ -2460,6 +2472,10 @@
     {
       "path": "RU/StoryData/P10803.json",
       "checksum": "2c3e2bfac805e9fef1ebe60d57a985ab"
+    },
+    {
+      "path": "RU/StoryData/E063X.json",
+      "checksum": "d263f96a9ce34ae6b965c221803c7b19"
     },
     {
       "path": "RU/StoryData/S501B.json",
@@ -3100,6 +3116,10 @@
     {
       "path": "RU/StoryData/S644I.json",
       "checksum": "abb88480e79b2828a630a602ffd4a5fb"
+    },
+    {
+      "path": "RU/StoryData/E064X.json",
+      "checksum": "6d7ceadca914d7b63a3e286b836e347e"
     },
     {
       "path": "RU/StoryData/E516B.json",
