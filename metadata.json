@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "files": [
     {
       "path": "RU/PanicInfo-a1c6p1.json",
@@ -1254,6 +1254,10 @@
       "checksum": "787e95b172d44ff579d5c6b77abcda56"
     },
     {
+      "path": "RU/StoryData/E051X.json",
+      "checksum": "4e2f7015e3078713e331ff7c50cfb025"
+    },
+    {
       "path": "RU/StoryData/S604B.json",
       "checksum": "ded6d8cb1284cf62757a6d3c14008392"
     },
@@ -1302,6 +1306,10 @@
       "checksum": "c0de8468cb2189e34ca9d1b8ec76e8a5"
     },
     {
+      "path": "RU/StoryData/E053X.json",
+      "checksum": "4b5ec5ab8f360f17b3514f5774f79baf"
+    },
+    {
       "path": "RU/StoryData/4D205B.json",
       "checksum": "e477a71b75338531f046593fd38c94b9"
     },
@@ -1324,6 +1332,10 @@
     {
       "path": "RU/StoryData/E626B.json",
       "checksum": "a71ecdd9117b72af77ed12225102df14"
+    },
+    {
+      "path": "RU/StoryData/E042X.json",
+      "checksum": "06b781c25495a69b860598ab9cb9bdfa"
     },
     {
       "path": "RU/StoryData/4D201B.json",
@@ -1630,6 +1642,10 @@
       "checksum": "c2afd61e45ffff3ec11441518986179d"
     },
     {
+      "path": "RU/StoryData/E041X.json",
+      "checksum": "0cc25890b1f831d4b7b9fe14c9250fbe"
+    },
+    {
       "path": "RU/StoryData/4D302B.json",
       "checksum": "0bd043a55f4b2597b7920952062b036e"
     },
@@ -1784,6 +1800,10 @@
     {
       "path": "RU/StoryData/2D102B.json",
       "checksum": "ea659f66e8b4197f9ca173694d5b2f7a"
+    },
+    {
+      "path": "RU/StoryData/E050X.json",
+      "checksum": "311e6e268fa135f5019a55eacd3cbd07"
     },
     {
       "path": "RU/StoryData/S519A.json",
@@ -2075,7 +2095,7 @@
     },
     {
       "path": "RU/StoryData/P10307.json",
-      "checksum": "f3fd3040a503a2e2074a44b215abf673"
+      "checksum": "6b638e06cdbc4445394fce39619e8e9f"
     },
     {
       "path": "RU/StoryData/E501B.json",
@@ -2222,6 +2242,10 @@
       "checksum": "13611add8641669b150280ce5730ab60"
     },
     {
+      "path": "RU/StoryData/E061X.json",
+      "checksum": "5416f09c4fea48a928113e4ddf1d5ac4"
+    },
+    {
       "path": "RU/StoryData/S320B.json",
       "checksum": "eb1c99ca6ba1b6f2e9af6e267d970395"
     },
@@ -2346,6 +2370,10 @@
       "checksum": "9d5eaf531b2580b95ecd7108250e9130"
     },
     {
+      "path": "RU/StoryData/E062X.json",
+      "checksum": "468cee16ec1919485020a376cc638a14"
+    },
+    {
       "path": "RU/StoryData/E601B.json",
       "checksum": "5fa06123fac8a6a4370cb147faa87b0e"
     },
@@ -2380,6 +2408,10 @@
     {
       "path": "RU/StoryData/S429B.json",
       "checksum": "57ff13649ae5c0a284302565c7e30add"
+    },
+    {
+      "path": "RU/StoryData/E000X.json",
+      "checksum": "1079cca0f8bce98472ed9530e9043d47"
     },
     {
       "path": "RU/StoryData/E620B.json",
@@ -2564,6 +2596,10 @@
     {
       "path": "RU/StoryData/S217B.json",
       "checksum": "eab7197262e01541b9bacef45f4f7367"
+    },
+    {
+      "path": "RU/StoryData/E052X.json",
+      "checksum": "785dd56402b41b3549e8a919da45499f"
     },
     {
       "path": "RU/StoryData/S212B.json",
@@ -2944,6 +2980,10 @@
     {
       "path": "RU/StoryData/S644A.json",
       "checksum": "1a4d3a8b2d8a6273cea37f533ec5392b"
+    },
+    {
+      "path": "RU/StoryData/E054X.json",
+      "checksum": "8c69437740ff24be439b61aa83b49b5c"
     },
     {
       "path": "RU/StoryData/S639B.json",
