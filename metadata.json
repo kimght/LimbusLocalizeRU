@@ -1,6 +1,10 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "files": [
+    {
+      "path": "RU/StoryTheaterDanteNoteDetail_8.json",
+      "checksum": "c4e51d37c2ba8f88082f3aab276607cb"
+    },
     {
       "path": "RU/DungeonArea1-2.json",
       "checksum": "811eb32c3b3e2a437986a0b40fbe789b"
@@ -12,6 +16,10 @@
     {
       "path": "RU/RailwayDungeonNode2.json",
       "checksum": "a91029e0822ebfe77111b3b19cc5ba44"
+    },
+    {
+      "path": "RU/StoryTheaterDanteNoteDetail_5.json",
+      "checksum": "9c3a3053726d03a05767208a64687923"
     },
     {
       "path": "RU/Egos.json",
@@ -74,6 +82,10 @@
       "checksum": "abb793467e21319b21fa407a56152992"
     },
     {
+      "path": "RU/StoryTheaterDanteNoteDetail.json",
+      "checksum": "a7feb511b7c12d912fecffedf16114d8"
+    },
+    {
       "path": "RU/Skills_Abnormality_Mirror.json",
       "checksum": "4a08c42ddcc9461fae9657cd3a8b1a95"
     },
@@ -100,6 +112,10 @@
     {
       "path": "RU/PanicInfo-tkt.json",
       "checksum": "55a02c387bfdaa91f4ed91210ab56b9f"
+    },
+    {
+      "path": "RU/StoryTheaterDanteNoteDetail_2.json",
+      "checksum": "f287374584aa70941bed94d1f4ea2354"
     },
     {
       "path": "RU/Passives_check4.json",
@@ -232,6 +248,10 @@
     {
       "path": "RU/Skills_Enemy-a1c5p2.json",
       "checksum": "7a9480f16f83c2ddb3198a06f2a66447"
+    },
+    {
+      "path": "RU/StoryTheaterDanteNoteDetail_6.json",
+      "checksum": "40e427eee25b6481a5e1e4f222ff5d2d"
     },
     {
       "path": "RU/Bufs-a1c5p1.json",
@@ -410,6 +430,10 @@
       "checksum": "f1f37e6e9ff7df038db35fbabd216da1"
     },
     {
+      "path": "RU/StoryTheaterDanteNoteDetail_4.json",
+      "checksum": "785ea4adcd34c5a2a3b513fe8b0e6e64"
+    },
+    {
       "path": "RU/FormationNameFilterUI.json",
       "checksum": "4200d2b09893c1cfde3357e853ca671a"
     },
@@ -486,6 +510,10 @@
       "checksum": "6cff5f9a38e83110a2bc9bb0712cd05c"
     },
     {
+      "path": "RU/StoryTheaterDanteNoteDetail_7.json",
+      "checksum": "2b0b3781d10482aaa8ce9a0d122aaa99"
+    },
+    {
       "path": "RU/BattlePass_Banner.json",
       "checksum": "bd3a1c30cccc5e18cdb15ca3f27731a4"
     },
@@ -500,6 +528,10 @@
     {
       "path": "RU/BattleSpeechBubbleDlg.json",
       "checksum": "bc803224a815fea75d73020dbeebca99"
+    },
+    {
+      "path": "RU/StoryTheaterDanteNoteDetail_3.json",
+      "checksum": "ecdc6f34dd28065d37c72b95dcbdf77a"
     },
     {
       "path": "RU/BattleKeywords-tkt.json",
