@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "files": [
     {
       "path": "RU/StoryTheaterDanteNoteDetail_8.json",
@@ -1615,7 +1615,7 @@
     },
     {
       "path": "RU/StoryData/P10910.json",
-      "checksum": "9b6dcc2146810788357516fd8fe48de2"
+      "checksum": "490bc7c0e293edf407ee2be4ceb7c377"
     },
     {
       "path": "RU/StoryData/1D306A.json",
@@ -2343,7 +2343,7 @@
     },
     {
       "path": "RU/StoryData/S308B.json",
-      "checksum": "4d86df7558f3cd261854f85e9dbd1aaa"
+      "checksum": "468744e382c7df403569f4b820dca472"
     },
     {
       "path": "RU/StoryData/S438B.json",
@@ -2824,6 +2824,10 @@
     {
       "path": "RU/StoryData/5D106B.json",
       "checksum": "c3ec18123496fae0eda29745436d1b1b"
+    },
+    {
+      "path": "RU/StoryData/P10810.json",
+      "checksum": "2c198cedcf21f7c3271a8f67c8deae0d"
     },
     {
       "path": "RU/StoryData/E626B.json",
@@ -3583,7 +3587,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "cda8c33d8111a9db201f0b9b01c33617"
+      "checksum": "42f1a08b66e2e7ecb0543ba099fd76fa"
     }
   ]
 }

@@ -31,6 +31,16 @@
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"Онлайн читалочка:\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>kimght.github.io</link>\"}]}"
         },
         {
+            "id": 2924,
+            "version": 0,
+            "type": 0,
+            "startDate": "2024-10-02T19:01:18.000Z",
+            "endDate": "2024-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.1.1",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.1</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлен баг в новой версии\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод заметок Данте\"}]}"
+        },
+        {
             "id": 2923,
             "version": 0,
             "type": 0,
