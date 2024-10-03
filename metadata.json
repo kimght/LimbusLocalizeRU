@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.0.9",
   "files": [
     {
       "path": "RU/StoryTheaterDanteNoteDetail_8.json",
@@ -2827,7 +2827,7 @@
     },
     {
       "path": "RU/StoryData/P10810.json",
-      "checksum": "d7f2c732266e70a900de9c44649504a4"
+      "checksum": "8826fb772f0e18087a1e6094c1202597"
     },
     {
       "path": "RU/StoryData/E626B.json",
