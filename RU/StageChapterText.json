@@ -51,7 +51,7 @@
       "area": "11-й Район",
       "chapter": "Песнь IV",
       "chapterNumber": "04",
-      "chaptertitle": "The Unchanging",
+      "chaptertitle": "Неизменяющий",
       "timeline": "984/05"
     },
     {
@@ -69,7 +69,7 @@
       "area": "21-й Район",
       "chapter": "Песнь V",
       "chapterNumber": "5",
-      "chaptertitle": "The Evil Defining",
+      "chaptertitle": "Зло Определяющий",
       "timeline": "984/07"
     },
     {
@@ -87,7 +87,7 @@
       "area": "",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "2-ая Вальпургиева ночь",
+      "chaptertitle": "2-я Вальпургиева ночь",
       "timeline": "984/09"
     },
     {
@@ -105,7 +105,7 @@
       "area": "20-й Район",
       "chapter": "Песнь VI",
       "chapterNumber": "06",
-      "chaptertitle": "The Heartbreaking",
+      "chaptertitle": "Душераздирающий",
       "timeline": "984/11"
     },
     {
@@ -114,7 +114,7 @@
       "area": "20-й Район",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "3-ья Вальпургиева ночь",
+      "chaptertitle": "3-я Вальпургиева ночь",
       "timeline": "984/11"
     },
     {
@@ -125,6 +125,24 @@
       "chapterNumber": "6.5",
       "chaptertitle": "Время, убивающее время",
       "timeline": "984/11"
+    },
+    {
+      "id": "chapter_t_9110",
+      "company": "Корп. Т",
+      "area": "20-й Район",
+      "chapter": "Антракт IV",
+      "chapterNumber": "6.5",
+      "chaptertitle": "Убийство в\nВАРП Экспрессе",
+      "timeline": "984/12"
+    },
+    {
+      "id": "chapter_p_9111",
+      "company": "Корп. P",
+      "area": "16-й Район",
+      "chapter": "",
+      "chapterNumber": "",
+      "chaptertitle": "4-я Валпургиева ночь",
+      "timeline": "984/12"
     }
   ]
 }

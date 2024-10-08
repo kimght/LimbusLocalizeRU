@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "id": "810001_skinPredector_success_1_1",
+      "content": "{0} <color=#fe4b48>теряет {1} СД</color>"
+    },
+    {
+      "id": "810001_skinPredector_success_1_2",
+      "content": "{0} получает %{2} {1}/% на время столкновения."
+    },
+    {
+      "id": "810001_skinPredector_success_1_3",
+      "content": "{0} получает %{2} {1}/% и %{4} {3}/% на время столкновения."
+    },
+    {
+      "id": "810001_skinPredector_success_1_4",
+      "content": "Снижает ОЗ {0} с <color=#ebcaa2>наибольшим ОЗ до 1</color>"
+    },
+    {
+      "id": "810001_skinPredector_failure_1_1",
+      "content": "{0} получает %{2} {1}/% и %{4} {3}/% на время столкновения."
+    },
+    {
+      "id": "810001_skinPredector_failure_1_2",
+      "content": "Все Личности получают %{1} {0}/% и %{3} {2}/%."
+    },
+    {
+      "id": "810201_nk_success_1_1",
+      "content": "1 {0} <color=#e30000>теряет {1} ОЗ</color>"
+    },
+    {
+      "id": "810201_nk_success_1_2",
+      "content": "{0} получает %{2} {1}/%"
+    },
+    {
+      "id": "810201_nk_failure_1_1",
+      "content": "1 {0} <color=#e30000>теряет {1} ОЗ</color>"
+    },
+    {
+      "id": "810201_nk_failure_1_2",
+      "content": "{0} <color=#e30000>теряет {1} ОЗ</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_1",
+      "content": "{0} <color=#fe4b48>теряет {1} СД</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_2",
+      "content": "{0} <color=#e30000>теряет {1} ОЗ</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_3",
+      "content": "{0} %теряет {2} {1}/%"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_1",
+      "content": "{0} <color=#fe4b48>теряет {1} СД</color>"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_2",
+      "content": "{0} <color=#e30000>теряет {1} ОЗ</color>"
+    },
+    {
+      "id": "810602_success_1_1",
+      "content": "{0} получает %{2} [{1}]/% и %{4} [{3}]/%"
+    },
+    {
+      "id": "810602_success_1_2",
+      "content": "{0} <color=#80c9ff>полностью восстанавливает СД</color>"
+    },
+    {
+      "id": "810602_success_1_3",
+      "content": "Все союзники получают %{1} [{0}]/%"
+    },
+    {
+      "id": "810602_success_1_4",
+      "content": "Все союзники <color=#80c9ff>восстанавливают {0} СД</color>"
+    },
+    {
+      "id": "810602_success_1_5",
+      "content": "{0} получает %{2} [{1}]/%"
+    },
+    {
+      "id": "810603_failure_1_1",
+      "content": "{0} получает %{2} [{1}]/% и %{4} [{3}]/%"
+    },
+    {
+      "id": "810603_failure_1_2",
+      "content": "{0} <color=#80c9ff>полностью восстанавливает СД</color>"
+    },
+    {
+      "id": "810603_failure_1_3",
+      "content": "{0} получает %{2} [{1}]/%"
+    }
+  ]
+}

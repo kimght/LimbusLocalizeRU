@@ -217,6 +217,10 @@
       "content": "Пройдите 4.5-1"
     },
     {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "Пройдите 4.5-11"
+    },
+    {
       "id": "MainStoryOpenCondition_105",
       "content": "Пройдите 5-1"
     },
@@ -250,11 +254,43 @@
     },
     {
       "id": "OtherStoryOpenCondition_9016",
-      "content": "Пройдите6-48"
+      "content": "Пройдите 6-48"
     },
     {
       "id": "theStoryOf",
       "content": ", История"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9109",
+      "content": "Пройдите 6.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "Пройдите 6-48"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "Пройдите 6.5-16"
+    },
+    {
+      "id": "personality_voice_section_before_clear_chapter_format",
+      "content": "До\nПесни {0}"
+    },
+    {
+      "id": "personality_voice_section_after_clear_chapter_format",
+      "content": "После\nПесни {0}"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition_UnlockCode106",
+      "content": "Пройдите Песнь VI"
+    },
+    {
+      "id": "PersoanlityStory_After",
+      "content": "(После)"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "Пройдите 6.5-30"
     }
   ]
 }
