@@ -1,5 +1,5 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "files": [
     {
       "path": "RU/BattleKeywords-tkt.json",
@@ -1495,7 +1495,7 @@
     },
     {
       "path": "RU/StoryData/S704A.json",
-      "checksum": "30699fe705c6bc553d5ddb065efc32b4"
+      "checksum": "67317ac49431c9204d091c58f97d3808"
     },
     {
       "path": "RU/StoryData/P10105.json",
@@ -1743,7 +1743,7 @@
     },
     {
       "path": "RU/StoryData/S705B.json",
-      "checksum": "1feb9a0a64ce7e3d7819c1214015e622"
+      "checksum": "5ab2a484c4d950c892a1be805d56273b"
     },
     {
       "path": "RU/StoryData/E051X.json",
@@ -1827,7 +1827,7 @@
     },
     {
       "path": "RU/StoryData/S712B.json",
-      "checksum": "76eeb4fc80137a0f8ad752d8e81a67b4"
+      "checksum": "9baab50a95f3d320b735432a951b21e9"
     },
     {
       "path": "RU/StoryData/3D309B.json",
@@ -1847,7 +1847,7 @@
     },
     {
       "path": "RU/StoryData/S707B.json",
-      "checksum": "530c37529d3295f835b59b2650216387"
+      "checksum": "535445593baecc730c4a5959dd32d469"
     },
     {
       "path": "RU/StoryData/P10902.json",
@@ -1903,7 +1903,7 @@
     },
     {
       "path": "RU/StoryData/S706A.json",
-      "checksum": "509f54e9ae03e5d124b16946c07a871f"
+      "checksum": "f7aa2c79e564a09df6135efa1582538c"
     },
     {
       "path": "RU/StoryData/P10403.json",
@@ -1935,7 +1935,7 @@
     },
     {
       "path": "RU/StoryData/S718A.json",
-      "checksum": "163ecc3a6185bc0cef27d232f965c125"
+      "checksum": "48a69c135de8fa6dce1cd6cc9c77cf1b"
     },
     {
       "path": "RU/StoryData/P11008.json",
@@ -1971,7 +1971,7 @@
     },
     {
       "path": "RU/StoryData/S719B.json",
-      "checksum": "819b3d76616fda7b0f6fb8127d915d95"
+      "checksum": "99eca3503f24afc4a311345488ede8ca"
     },
     {
       "path": "RU/StoryData/E306B.json",
@@ -1983,7 +1983,7 @@
     },
     {
       "path": "RU/StoryData/S710B.json",
-      "checksum": "2c8f039cd8a2dd25f02182b68e39ed9f"
+      "checksum": "1ba0e075ff0b92f59bf4de707c81b25b"
     },
     {
       "path": "RU/StoryData/P11009.json",
@@ -2243,7 +2243,7 @@
     },
     {
       "path": "RU/StoryData/S715B.json",
-      "checksum": "20948bbfccb15ee14c1ad00bc6a06212"
+      "checksum": "10d49d406cd4a35769384bbdfada8684"
     },
     {
       "path": "RU/StoryData/E615B.json",
@@ -2299,7 +2299,7 @@
     },
     {
       "path": "RU/StoryData/S708B.json",
-      "checksum": "8d854e38c78a6316ad87f22c1f2a1ef4"
+      "checksum": "d720c8509520dae9b7d2e5185ad59778"
     },
     {
       "path": "RU/StoryData/P11010.json",
@@ -2359,7 +2359,7 @@
     },
     {
       "path": "RU/StoryData/S717B.json",
-      "checksum": "a9121978989e0095db12c1465fc54baa"
+      "checksum": "3fffccca411fbd002d76f166ef24dd7b"
     },
     {
       "path": "RU/StoryData/S448A.json",
@@ -2395,7 +2395,7 @@
     },
     {
       "path": "RU/StoryData/S718B.json",
-      "checksum": "51c4aea550c9f354ffed32771ad08895"
+      "checksum": "66a16f078c394eb40e4825dfe316be6d"
     },
     {
       "path": "RU/StoryData/E010X.json",
@@ -2455,11 +2455,11 @@
     },
     {
       "path": "RU/StoryData/S701B.json",
-      "checksum": "cd2b3486dbc6b5602f598cfd05b22f61"
+      "checksum": "e52f53193f0b1e1f25eab368ca7fc5af"
     },
     {
       "path": "RU/StoryData/S702B.json",
-      "checksum": "14952ec8be74185d3c71b5843b3fda53"
+      "checksum": "78b3f7527e98c32032248fec6cc8acde"
     },
     {
       "path": "RU/StoryData/E505A.json",
@@ -2467,7 +2467,7 @@
     },
     {
       "path": "RU/StoryData/S709A.json",
-      "checksum": "f27047b6098209f8a95bb3d3286a554b"
+      "checksum": "a8027dec37ae640d913b6a4199693919"
     },
     {
       "path": "RU/StoryData/3D101A.json",
@@ -2659,7 +2659,7 @@
     },
     {
       "path": "RU/StoryData/S713B.json",
-      "checksum": "39549c57ff8a0b6e39c827a4b7b40a56"
+      "checksum": "2a665e174c1c8bc54282d9984729b5d3"
     },
     {
       "path": "RU/StoryData/P10507.json",
@@ -2727,7 +2727,7 @@
     },
     {
       "path": "RU/StoryData/S717A.json",
-      "checksum": "037919ee238136461fb4a0171c3d76b8"
+      "checksum": "b3d2c26649369483d9f0e724ef364813"
     },
     {
       "path": "RU/StoryData/S108B.json",
@@ -2843,7 +2843,7 @@
     },
     {
       "path": "RU/StoryData/S703B.json",
-      "checksum": "7a0e53432b92ce9466f96a67b16dd676"
+      "checksum": "a059c9d4c5ea26270f84d2d7d4fcf75d"
     },
     {
       "path": "RU/StoryData/P10404.json",
@@ -2927,7 +2927,7 @@
     },
     {
       "path": "RU/StoryData/S709B.json",
-      "checksum": "925c1e33b6b3422d279e6a40c6d979a8"
+      "checksum": "efd850fbce8380297f11fa5b32badd3c"
     },
     {
       "path": "RU/StoryData/S644A.json",
@@ -3043,7 +3043,7 @@
     },
     {
       "path": "RU/StoryData/S713A.json",
-      "checksum": "acfcfaa2049b388c67a1038fa44afcd5"
+      "checksum": "27fb709a8c782849bb0bc77ad94e0205"
     },
     {
       "path": "RU/StoryData/S307B.json",
@@ -3203,7 +3203,7 @@
     },
     {
       "path": "RU/StoryData/S712A.json",
-      "checksum": "524c5440a98834e4a93be79da88b0a22"
+      "checksum": "0d48e79ed9304d49db6c028a94017cd6"
     },
     {
       "path": "RU/StoryData/S302B.json",
@@ -3211,7 +3211,7 @@
     },
     {
       "path": "RU/StoryData/S716B.json",
-      "checksum": "ae2ad7795fc987297c9b6100804ac6b9"
+      "checksum": "e1217b4d7ac747ae50ff0e5dab678c81"
     },
     {
       "path": "RU/StoryData/4D305A.json",
@@ -3263,7 +3263,7 @@
     },
     {
       "path": "RU/StoryData/S706B.json",
-      "checksum": "13ab1d7bd681f1a3191ef307f8d07115"
+      "checksum": "cfbb5d7a94e3ca295f68c239214789d5"
     },
     {
       "path": "RU/StoryData/E512A.json",
@@ -3455,7 +3455,7 @@
     },
     {
       "path": "RU/StoryData/S715A.json",
-      "checksum": "53efcedcb35b57eb7fe168cef0790a33"
+      "checksum": "78ed47c70a8350da72485e6e603c781c"
     },
     {
       "path": "RU/StoryData/P11102.json",
@@ -3535,7 +3535,7 @@
     },
     {
       "path": "RU/StoryData/S716A.json",
-      "checksum": "8c761969fdb88e41fd28467684a68d49"
+      "checksum": "65e81e91a797666a235a2ac504c82958"
     },
     {
       "path": "RU/StoryData/S218B.json",
