@@ -1,5 +1,5 @@
 {
-  "version": "1.1.15",
+  "version": "1.1.16",
   "files": [
     {
       "path": "RU/BattleKeywords-tkt.json",
@@ -1747,7 +1747,7 @@
     },
     {
       "path": "RU/StoryData/E051X.json",
-      "checksum": "4e2f7015e3078713e331ff7c50cfb025"
+      "checksum": "ae7a6ef26e30591cb344360c484245de"
     },
     {
       "path": "RU/StoryData/S510B.json",
@@ -1827,7 +1827,7 @@
     },
     {
       "path": "RU/StoryData/S712B.json",
-      "checksum": "9baab50a95f3d320b735432a951b21e9"
+      "checksum": "09c9e6e6be6df4ebfd8e3f76c99d5cf0"
     },
     {
       "path": "RU/StoryData/3D309B.json",
@@ -1847,7 +1847,7 @@
     },
     {
       "path": "RU/StoryData/S707B.json",
-      "checksum": "8f6459870c201ce6c44f825245e1215f"
+      "checksum": "f1a33d1ba23db7a894eae31915ccd2cf"
     },
     {
       "path": "RU/StoryData/P10902.json",
@@ -1875,7 +1875,7 @@
     },
     {
       "path": "RU/StoryData/P10710A.json",
-      "checksum": "8d120f0ffcd8027a20a38988e314ab1e"
+      "checksum": "b7300a202fffa11bf179a788104debd7"
     },
     {
       "path": "RU/StoryData/S535B.json",
@@ -1883,7 +1883,7 @@
     },
     {
       "path": "RU/StoryData/S605B.json",
-      "checksum": "51f0cc73260b880c52f9dcca4e498f29"
+      "checksum": "88587de2c9a80bb3b7196b4a5e0ef2dc"
     },
     {
       "path": "RU/StoryData/P11003.json",
@@ -1899,7 +1899,7 @@
     },
     {
       "path": "RU/StoryData/S648I3.json",
-      "checksum": "887d27d490db3c6218e8a93761a31a46"
+      "checksum": "f42869fc73eba69b204b039031de5c3d"
     },
     {
       "path": "RU/StoryData/S706A.json",
@@ -1947,7 +1947,7 @@
     },
     {
       "path": "RU/StoryData/E053X.json",
-      "checksum": "4b5ec5ab8f360f17b3514f5774f79baf"
+      "checksum": "d1d1990dfe509884fd7323c522b42b4f"
     },
     {
       "path": "RU/StoryData/S617B.json",
@@ -1971,7 +1971,7 @@
     },
     {
       "path": "RU/StoryData/S719B.json",
-      "checksum": "99eca3503f24afc4a311345488ede8ca"
+      "checksum": "eaa2f75f2fbf3c850275edff00f9eee7"
     },
     {
       "path": "RU/StoryData/E306B.json",
@@ -1983,7 +1983,7 @@
     },
     {
       "path": "RU/StoryData/S710B.json",
-      "checksum": "8e4cdf9ac1ad2a939b3ca6752bdb1afb"
+      "checksum": "eb7b9af8cc6a49fa9e751b5d7213a948"
     },
     {
       "path": "RU/StoryData/P11009.json",
@@ -2003,7 +2003,7 @@
     },
     {
       "path": "RU/StoryData/S637A.json",
-      "checksum": "90b8dd027a4940d56b75291c90b3c7a2"
+      "checksum": "7ccbb2aabbe032399d713e6d7a411db5"
     },
     {
       "path": "RU/StoryData/S526A.json",
@@ -2059,7 +2059,7 @@
     },
     {
       "path": "RU/StoryData/E052X.json",
-      "checksum": "785dd56402b41b3549e8a919da45499f"
+      "checksum": "d8a03ec9dc4951eb2b3d5149c30facdf"
     },
     {
       "path": "RU/StoryData/S204B.json",
@@ -2071,7 +2071,7 @@
     },
     {
       "path": "RU/StoryData/E064X.json",
-      "checksum": "dab349efce35f0ee171296a25b22c606"
+      "checksum": "78c218029e6ca12d5900dbaa3e8b71a9"
     },
     {
       "path": "RU/StoryData/P10608.json",
@@ -2199,7 +2199,7 @@
     },
     {
       "path": "RU/StoryData/S619B.json",
-      "checksum": "1909633f562973ae67ad43a45a880e0e"
+      "checksum": "6d645a2a908b2d0632d8503d48891e56"
     },
     {
       "path": "RU/StoryData/E627B.json",
@@ -2215,7 +2215,7 @@
     },
     {
       "path": "RU/StoryData/E042X.json",
-      "checksum": "06b781c25495a69b860598ab9cb9bdfa"
+      "checksum": "4f0a2cfc20030024bb1bc5a67c05613b"
     },
     {
       "path": "RU/StoryData/S648I.json",
@@ -2227,7 +2227,7 @@
     },
     {
       "path": "RU/StoryData/S645A.json",
-      "checksum": "148d22cdbaf5757a0f444f7db3e8a4d9"
+      "checksum": "78d73da3cf58b6f096c15545ada405bb"
     },
     {
       "path": "RU/StoryData/5D304I5.json",
@@ -2243,7 +2243,7 @@
     },
     {
       "path": "RU/StoryData/S715B.json",
-      "checksum": "10d49d406cd4a35769384bbdfada8684"
+      "checksum": "e39743279a10bab967af44bba89c11de"
     },
     {
       "path": "RU/StoryData/E615B.json",
@@ -2283,7 +2283,7 @@
     },
     {
       "path": "RU/StoryData/E507A.json",
-      "checksum": "d40519a9546f7b9435c5fdccf7774f14"
+      "checksum": "813a6c7158140e17ee9e40a21b860dc7"
     },
     {
       "path": "RU/StoryData/P10908.json",
@@ -2299,7 +2299,7 @@
     },
     {
       "path": "RU/StoryData/S708B.json",
-      "checksum": "833dee7586d8dd0681ce50017a9c2bfc"
+      "checksum": "de57e336e266929ea6178cd9e5a5d430"
     },
     {
       "path": "RU/StoryData/P11010.json",
@@ -2315,7 +2315,7 @@
     },
     {
       "path": "RU/StoryData/S714B.json",
-      "checksum": "a383498ceb6d86fb5b08ae8ca37f0c04"
+      "checksum": "4cf6c525660bbbc70ecf8fcbb636e8ff"
     },
     {
       "path": "RU/StoryData/S104B.json",
@@ -2359,7 +2359,7 @@
     },
     {
       "path": "RU/StoryData/S717B.json",
-      "checksum": "701975158b6b1204c12f1d13ce3d17ca"
+      "checksum": "846be6dd9ca60a238fb59efc86a6c8b0"
     },
     {
       "path": "RU/StoryData/S448A.json",
@@ -2399,7 +2399,7 @@
     },
     {
       "path": "RU/StoryData/E010X.json",
-      "checksum": "7eb9e38f9f5b06b0f3a20745bc673392"
+      "checksum": "e47a47be9b2bb1f8f521ac521af41ae7"
     },
     {
       "path": "RU/StoryData/P10708.json",
@@ -2427,7 +2427,7 @@
     },
     {
       "path": "RU/StoryData/E061X.json",
-      "checksum": "5416f09c4fea48a928113e4ddf1d5ac4"
+      "checksum": "1b14b186201c51dfafa170d82de532a6"
     },
     {
       "path": "RU/StoryData/S210B.json",
@@ -2455,7 +2455,7 @@
     },
     {
       "path": "RU/StoryData/S701B.json",
-      "checksum": "2957a40c7649b9ff37c1ba0f25ed9b74"
+      "checksum": "9e9dad93a668fc568ed790d20fd0c6fc"
     },
     {
       "path": "RU/StoryData/S702B.json",
@@ -2467,7 +2467,7 @@
     },
     {
       "path": "RU/StoryData/S709A.json",
-      "checksum": "b6adce2431aba9f0b6c75c1c5b088c42"
+      "checksum": "d69f2491339d51e9c0ee3ed0b77bc227"
     },
     {
       "path": "RU/StoryData/3D101A.json",
@@ -2659,7 +2659,7 @@
     },
     {
       "path": "RU/StoryData/S713B.json",
-      "checksum": "2a665e174c1c8bc54282d9984729b5d3"
+      "checksum": "ab65889d87a6ae43adf4c0dc2f9b04fc"
     },
     {
       "path": "RU/StoryData/P10507.json",
@@ -2683,11 +2683,11 @@
     },
     {
       "path": "RU/StoryData/S619A.json",
-      "checksum": "b5abeeab55b6e2a2674e7bd90d56ba55"
+      "checksum": "ad465add0285699adfab007faac18b75"
     },
     {
       "path": "RU/StoryData/E063X.json",
-      "checksum": "d263f96a9ce34ae6b965c221803c7b19"
+      "checksum": "8b5c498ab989e1288eede320152c9697"
     },
     {
       "path": "RU/StoryData/4D206B.json",
@@ -2699,7 +2699,7 @@
     },
     {
       "path": "RU/StoryData/S606B.json",
-      "checksum": "a56f35eb75e72dd7bc0e52d29051d320"
+      "checksum": "c38f6a360cc4e4dd9d0ebd25d6d1466a"
     },
     {
       "path": "RU/StoryData/E302B.json",
@@ -2727,7 +2727,7 @@
     },
     {
       "path": "RU/StoryData/S717A.json",
-      "checksum": "e79ca548f7dfcc965c05ad1e0febf876"
+      "checksum": "1b393eae4306a5d571ded21bb4b7a5ef"
     },
     {
       "path": "RU/StoryData/S108B.json",
@@ -2807,7 +2807,7 @@
     },
     {
       "path": "RU/StoryData/E030X.json",
-      "checksum": "4eba6c1253f34e382da74bf866034bd6"
+      "checksum": "d6d855e609c02b66174f40ce324c5e66"
     },
     {
       "path": "RU/StoryData/P11107.json",
@@ -2819,7 +2819,7 @@
     },
     {
       "path": "RU/StoryData/E509B.json",
-      "checksum": "98712159e8e0df5dbc1de1b410d09745"
+      "checksum": "aea1eb20fa2c8cd5cf40bf6eea3ed3e7"
     },
     {
       "path": "RU/StoryData/P10510.json",
@@ -2843,7 +2843,7 @@
     },
     {
       "path": "RU/StoryData/S703B.json",
-      "checksum": "f6009af82f8c0e1d1ecba08152d42ac1"
+      "checksum": "dce14cf6033fefa6d73d42243f16741f"
     },
     {
       "path": "RU/StoryData/P10404.json",
@@ -2927,11 +2927,11 @@
     },
     {
       "path": "RU/StoryData/S709B.json",
-      "checksum": "b70db321da1d2130d18c3406cfbd38f2"
+      "checksum": "073fc752971228198d488730e0967161"
     },
     {
       "path": "RU/StoryData/S644A.json",
-      "checksum": "7d38bede89979848e7c8a2a9193c6f86"
+      "checksum": "26e3f6085c2abef1a9418c6752ae5e43"
     },
     {
       "path": "RU/StoryData/S443B.json",
@@ -2955,7 +2955,7 @@
     },
     {
       "path": "RU/StoryData/E062X.json",
-      "checksum": "468cee16ec1919485020a376cc638a14"
+      "checksum": "d1852d68eb5c84e8988877d2b2175d4f"
     },
     {
       "path": "RU/StoryData/S219B.json",
@@ -2987,7 +2987,7 @@
     },
     {
       "path": "RU/StoryData/E020X.json",
-      "checksum": "0f17de0f68f795c8b05570dc757e3558"
+      "checksum": "d300dca939ffc131f5cbe5e68ed15ba1"
     },
     {
       "path": "RU/StoryData/S303B.json",
@@ -3043,7 +3043,7 @@
     },
     {
       "path": "RU/StoryData/S713A.json",
-      "checksum": "27fb709a8c782849bb0bc77ad94e0205"
+      "checksum": "5f3289b5e1fee8ca052c84e6c88ac53c"
     },
     {
       "path": "RU/StoryData/S307B.json",
@@ -3063,7 +3063,7 @@
     },
     {
       "path": "RU/StoryData/P10710.json",
-      "checksum": "7ed24909deaa9fc88ad688ec299b1f9f"
+      "checksum": "6eaaa662aef072141693fe028fd555d6"
     },
     {
       "path": "RU/StoryData/S430B.json",
@@ -3083,7 +3083,7 @@
     },
     {
       "path": "RU/StoryData/S647B.json",
-      "checksum": "2c51f13f54ee8148fc2ed6dfebf4e0da"
+      "checksum": "fd78d2c423efb2f85e204d11b3905f1c"
     },
     {
       "path": "RU/StoryData/S445B.json",
@@ -3115,7 +3115,7 @@
     },
     {
       "path": "RU/StoryData/E503B.json",
-      "checksum": "d5f98c83ec8fec3b5b87c8f15b42292f"
+      "checksum": "4abe602f4d93b7a4ccba61c93460e063"
     },
     {
       "path": "RU/StoryData/S516B.json",
@@ -3203,7 +3203,7 @@
     },
     {
       "path": "RU/StoryData/S712A.json",
-      "checksum": "0d48e79ed9304d49db6c028a94017cd6"
+      "checksum": "a46447d5bbe05bf4e5329e844e880105"
     },
     {
       "path": "RU/StoryData/S302B.json",
@@ -3211,7 +3211,7 @@
     },
     {
       "path": "RU/StoryData/S716B.json",
-      "checksum": "e1217b4d7ac747ae50ff0e5dab678c81"
+      "checksum": "7f10c8a0c5236dd474383a089dc77ad4"
     },
     {
       "path": "RU/StoryData/4D305A.json",
@@ -3239,7 +3239,7 @@
     },
     {
       "path": "RU/StoryData/E065X.json",
-      "checksum": "c1c435060187d0dcd8348b7878ff0c8b"
+      "checksum": "24b245554556d5d0be7c6ca19ec0234e"
     },
     {
       "path": "RU/StoryData/P10910.json",
@@ -3263,7 +3263,7 @@
     },
     {
       "path": "RU/StoryData/S706B.json",
-      "checksum": "6697c0aa9b8142b845d1530804e8fb4a"
+      "checksum": "7a05737a07503ab84d22a01fb7139ff6"
     },
     {
       "path": "RU/StoryData/E512A.json",
@@ -3323,7 +3323,7 @@
     },
     {
       "path": "RU/StoryData/E041X.json",
-      "checksum": "0cc25890b1f831d4b7b9fe14c9250fbe"
+      "checksum": "cc9e4287d641bce18af6e642013c1153"
     },
     {
       "path": "RU/StoryData/4D206A.json",
@@ -3455,7 +3455,7 @@
     },
     {
       "path": "RU/StoryData/S715A.json",
-      "checksum": "78ed47c70a8350da72485e6e603c781c"
+      "checksum": "9b62db81277fb2e55fea13ce8055ac19"
     },
     {
       "path": "RU/StoryData/P11102.json",
@@ -3483,7 +3483,7 @@
     },
     {
       "path": "RU/StoryData/E054X.json",
-      "checksum": "8c69437740ff24be439b61aa83b49b5c"
+      "checksum": "54fd98a17b112769d7b8591a5ec004a6"
     },
     {
       "path": "RU/StoryData/S209A.json",
@@ -3519,7 +3519,7 @@
     },
     {
       "path": "RU/StoryData/E050X.json",
-      "checksum": "311e6e268fa135f5019a55eacd3cbd07"
+      "checksum": "94572db7c3914625c88a1d3fbf969bee"
     },
     {
       "path": "RU/StoryData/P10704.json",
@@ -3535,7 +3535,7 @@
     },
     {
       "path": "RU/StoryData/S716A.json",
-      "checksum": "65e81e91a797666a235a2ac504c82958"
+      "checksum": "a855312e6c07feb76f3145b26ab6910c"
     },
     {
       "path": "RU/StoryData/S218B.json",
