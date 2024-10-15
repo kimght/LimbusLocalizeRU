@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "NestP",
+      "content": "Корп. P"
+    },
+    {
+      "id": "ZweiAsso",
+      "content": "Ассоциация «Цвай»"
+    },
+    {
+      "id": "Yurodivy",
+      "content": "Юродивые"
+    },
+    {
+      "id": "DimensionTrunk",
+      "content": "Пространственные Хранилища"
+    },
+    {
+      "id": "MirrorWorld",
+      "content": "Зеркальные Миры"
+    }
+  ]
+}

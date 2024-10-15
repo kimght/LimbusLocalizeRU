@@ -1,5 +1,5 @@
 {
-  "version": "1.1.16",
+  "version": "1.1.17",
   "files": [
     {
       "path": "RU/BattleKeywords-tkt.json",
@@ -27,7 +27,7 @@
     },
     {
       "path": "RU/StoryTheaterDanteNote_2.json",
-      "checksum": "4b63feaf9c4b85706d3c185ca49d8c30"
+      "checksum": "56ced8496dee9b9f19523ffbc3fb8b89"
     },
     {
       "path": "RU/DanteAbilityUIText.json",
@@ -51,7 +51,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "db48d3095affdc432a6937e1b9bd30c4"
+      "checksum": "02acc6ec94079d12f2acbc3c9ae33f38"
     },
     {
       "path": "RU/Skills.json",
@@ -139,7 +139,7 @@
     },
     {
       "path": "RU/Bufs.json",
-      "checksum": "d6b95e7eb74ea8a8eea400f09f92da87"
+      "checksum": "96de9233218e755c3839967bf2efa8cf"
     },
     {
       "path": "RU/RailwayDungeonUI_2.json",
@@ -198,8 +198,16 @@
       "checksum": "a7feb511b7c12d912fecffedf16114d8"
     },
     {
+      "path": "RU/TutorialPopUpDesc.json",
+      "checksum": "4ded297d14db4c8f7d8975b6fda57297"
+    },
+    {
       "path": "RU/Skills_Ego_Personality-01.json",
       "checksum": "ca16ffcf26fac6cdddb712b133889048"
+    },
+    {
+      "path": "RU/TutorialMainUIText.json",
+      "checksum": "f4fc42ee244d72ada5a818279f8aa851"
     },
     {
       "path": "RU/Enemies91-4.json",
@@ -314,6 +322,10 @@
       "checksum": "0949766f358bddc8794e1877db9dd34a"
     },
     {
+      "path": "RU/UI_ModuleDevice.json",
+      "checksum": "c6761d1c8b68bd8ff92e0fb6df85b9e2"
+    },
+    {
       "path": "RU/DanteAbility.json",
       "checksum": "b1b0773a02409c39a1342d2b73d8a056"
     },
@@ -355,7 +367,7 @@
     },
     {
       "path": "RU/StoryTheaterDanteNote_3.json",
-      "checksum": "7e3dc635e8bf5c9cb12624be78785b8e"
+      "checksum": "d9ee497e8d78a447fb5e25e9cf3d3e9f"
     },
     {
       "path": "RU/AbDlg_Ryoshu.json",
@@ -367,7 +379,7 @@
     },
     {
       "path": "RU/StoryTheaterDanteNote_6.json",
-      "checksum": "07be7317448060b0a9a6cd077dbbe0af"
+      "checksum": "4b31807c067ada34ff50e6e62d616877"
     },
     {
       "path": "RU/Skills_Tutorial.json",
@@ -400,6 +412,10 @@
     {
       "path": "RU/FormationNameFilterUI.json",
       "checksum": "4200d2b09893c1cfde3357e853ca671a"
+    },
+    {
+      "path": "RU/TutorialDesc_Ab.json",
+      "checksum": "735dab20dd1f40c84f295b639afa7e2a"
     },
     {
       "path": "RU/Skills_Ego_Personality-08.json",
@@ -458,6 +474,10 @@
       "checksum": "a80c4ddbd76017e3307abda8e8323e92"
     },
     {
+      "path": "RU/UI_Mission_NewReturnUserEvent.json",
+      "checksum": "ea06c9501d70bed2501362fee60d8ef3"
+    },
+    {
       "path": "RU/BattleHint_AbnorBattle.json",
       "checksum": "e3c09083f27b75437f6bc019b3a4758d"
     },
@@ -471,7 +491,7 @@
     },
     {
       "path": "RU/BattleHint.json",
-      "checksum": "52c2477ee1f6fdbe2848375d47b16a69"
+      "checksum": "e102a39c8cd5973e5beafe3a6f1826fc"
     },
     {
       "path": "RU/kr_settings-ui-donttranslate.json",
@@ -507,7 +527,7 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "ddf880c5babc3ff4e9949fc3a8519e82"
+      "checksum": "c034f74944ebc1fe4b9938b3439e562c"
     },
     {
       "path": "RU/ThreadDungeon.json",
@@ -519,7 +539,7 @@
     },
     {
       "path": "RU/StoryTheaterDanteNote_4.json",
-      "checksum": "a27587bd0ba520ce3094016c640029ac"
+      "checksum": "14e08701bcb7766470db60c4bb9f59b1"
     },
     {
       "path": "RU/Skills_Abnormality91-4.json",
@@ -532,6 +552,10 @@
     {
       "path": "RU/BattleKeywords-ycgd.json",
       "checksum": "b9a63746917a761cde0e75a8b31a6a7d"
+    },
+    {
+      "path": "RU/UnlockCode-1.json",
+      "checksum": "f0fbc365a1e4248c8a146cb30d8ea303"
     },
     {
       "path": "RU/Skills_Ego_Personality-10.json",
@@ -580,6 +604,10 @@
     {
       "path": "RU/DungeonArea1-4.json",
       "checksum": "2bbe5385bc402aaefc305f1de033d0c8"
+    },
+    {
+      "path": "RU/StoryTheaterDanteNote_8.json",
+      "checksum": "66427e79a259d5c1cd2f0c4240a8dcd3"
     },
     {
       "path": "RU/Skills_Ego_Personality-04.json",
@@ -666,6 +694,10 @@
       "checksum": "9813830456545bb8799ba10137c81a39"
     },
     {
+      "path": "RU/UnitKeyword.json",
+      "checksum": "97abee3bf3a6cd2ad8748e3a76a0ded4"
+    },
+    {
       "path": "RU/BattlePass_Banner.json",
       "checksum": "bd3a1c30cccc5e18cdb15ca3f27731a4"
     },
@@ -743,7 +775,7 @@
     },
     {
       "path": "RU/Skills_personality-07.json",
-      "checksum": "e28ac8ad06d3e373c61ba11bb950a4d2"
+      "checksum": "b584ad6e817fd3011ef9af23740b01c1"
     },
     {
       "path": "RU/SeasonTitle.json",
@@ -786,6 +818,10 @@
       "checksum": "260e075b0a11c6f9c8fb76ee27f144ce"
     },
     {
+      "path": "RU/TutorialMirrorDungeon.json",
+      "checksum": "3838d4bceb1e2a07ce5e96e868813dfd"
+    },
+    {
       "path": "RU/StageNode1-3.json",
       "checksum": "0bf478a0a045ad420ea5c63a55abfda5"
     },
@@ -820,6 +856,10 @@
     {
       "path": "RU/Enemies-tkt.json",
       "checksum": "eaf0682cbb06117473de1184211040ae"
+    },
+    {
+      "path": "RU/TutorialDesc0-4.json",
+      "checksum": "f0adabdccad919b92eb3a623785db38a"
     },
     {
       "path": "RU/Items.json",
@@ -919,7 +959,7 @@
     },
     {
       "path": "RU/Personalities.json",
-      "checksum": "4f1ba96e4ad32202aad304e78b89e861"
+      "checksum": "0962ef277fb3d7b64092b0d361fd7db9"
     },
     {
       "path": "RU/ResistText.json",
@@ -1010,6 +1050,10 @@
       "checksum": "bfb35fbb8d258c6fe6bddfdc0647a6da"
     },
     {
+      "path": "RU/StoryTheaterDanteNote_7.json",
+      "checksum": "4c915c3b2a32e8d756ef0bee48a9f9a4"
+    },
+    {
       "path": "RU/Skills_personality-11.json",
       "checksum": "21ca3664d5f39fc02f8c9a704eafff05"
     },
@@ -1026,6 +1070,10 @@
       "checksum": "811eb32c3b3e2a437986a0b40fbe789b"
     },
     {
+      "path": "RU/TutorialNewUpperSkillInfoUI.json",
+      "checksum": "02b49b7524609609b1c37038c88c2af1"
+    },
+    {
       "path": "RU/AbEventsResultLog-a1c5p2.json",
       "checksum": "99914b932bd37a50b983c5e7c90ae93b"
     },
@@ -1036,6 +1084,10 @@
     {
       "path": "RU/Enemies.json",
       "checksum": "6c07b5fe85ca3409e43c409b5011f612"
+    },
+    {
+      "path": "RU/TutorialDesc.json",
+      "checksum": "4143b80d992815d30133fc3f9b69465f"
     },
     {
       "path": "RU/StageNode-a1c6p2.json",
@@ -1075,15 +1127,15 @@
     },
     {
       "path": "RU/StoryTheaterDanteNote_5.json",
-      "checksum": "5a5724f0e579be6de9eceb3780403245"
+      "checksum": "d08a528dfa4e8ac64d30e5d276ba72fd"
     },
     {
       "path": "RU/Skills_personality-02.json",
-      "checksum": "f09ea44076312c5cbc4fc8ebe15011c0"
+      "checksum": "9bd95d7860c778d69b98d73c084db3e4"
     },
     {
       "path": "RU/StoryTheaterDanteNote.json",
-      "checksum": "86ed039952b120245dd49208ad4ca911"
+      "checksum": "e32fbf49c3d102b5b48630794bf09738"
     },
     {
       "path": "RU/Bufs-a1c5p1.json",
@@ -2299,7 +2351,7 @@
     },
     {
       "path": "RU/StoryData/S708B.json",
-      "checksum": "de57e336e266929ea6178cd9e5a5d430"
+      "checksum": "bc6b0827a73e2d52da42b68ad3282baf"
     },
     {
       "path": "RU/StoryData/P11010.json",
@@ -3211,7 +3263,7 @@
     },
     {
       "path": "RU/StoryData/S716B.json",
-      "checksum": "7f10c8a0c5236dd474383a089dc77ad4"
+      "checksum": "c21ed8ee297b07bd44a6fad8f05d8d27"
     },
     {
       "path": "RU/StoryData/4D305A.json",
@@ -3263,7 +3315,7 @@
     },
     {
       "path": "RU/StoryData/S706B.json",
-      "checksum": "7a05737a07503ab84d22a01fb7139ff6"
+      "checksum": "169befa57baf90c0745ba62417d694d1"
     },
     {
       "path": "RU/StoryData/E512A.json",

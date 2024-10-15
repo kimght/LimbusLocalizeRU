@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "select_personality_gacksung_up_ticket",
+      "content": "Выберите Личность для Повышения"
+    },
+    {
+      "id": "tip_long_click_to_view_personality",
+      "content": "※ Удерживайте Личность для просмотра подробной информации."
+    },
+    {
+      "id": "leap_up_confim_main_only_gacksung",
+      "content": "[{0}] Уровень Связи Личности изменится следующим образом."
+    },
+    {
+      "id": "select_ego_gacksung_up_ticket",
+      "content": "Выберите Э.Г.О для Повышения"
+    },
+    {
+      "id": "tip_long_click_to_view_ego",
+      "content": "※ Удерживайте Э.Г.О для просмотра подробной информации."
+    },
+    {
+      "id": "ego_leap_up_confim_main_only_gacksung",
+      "content": "[{0}] Уровень Связи Э.Г.О изменится следующим образом."
+    },
+    {
+      "id": "all_egos",
+      "content": "Все Э.Г.О"
+    },
+    {
+      "id": "leap_up_able_uptie_ego_tier",
+      "content": "Можно Повысить Связь"
+    },
+    {
+      "id": "ego_gacksung_grade",
+      "content": "Уровень Связи"
+    },
+    {
+      "id": "leap_up_ego_confim_title",
+      "content": "Выбор Э.Г.О"
+    },
+    {
+      "id": "check_default_personality_leap_up",
+      "content": "Эту Личность можно бесплатно Повысить до Уровня 3, проходя Основной Сюжет.\n\nВсе равно Повысить эту Личность?"
+    },
+    {
+      "id": "check_default_ego_leap_up",
+      "content": "Это Э.Г.О можно бесплатно Повысить до Уровня 3, проходя Основной Сюжет.\n\nВсе равно Повысить это Э.Г.О?"
+    },
+    {
+      "id": "select_identity_popup_title",
+      "content": "Выбрать Личность"
+    },
+    {
+      "id": "select_identity_popup_title_season_1",
+      "content": "Выбрать Личность 1 Сезона"
+    },
+    {
+      "id": "select_ego_popup_title_season_1_battlepass",
+      "content": "Выбрать Э.Г.О Боевого Пропуска 1 Сезона"
+    },
+    {
+      "id": "select_ego_popup_title",
+      "content": "Выбрать Э.Г.О"
+    }
+  ]
+}

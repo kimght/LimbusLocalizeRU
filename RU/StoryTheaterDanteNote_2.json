@@ -6,7 +6,7 @@
     },
     {
       "id": "ShiAsso",
-      "content": "Ассоциация «Си»"
+      "content": "Ассоциация «Ши»"
     },
     {
       "id": "LiuAsso",
@@ -35,10 +35,6 @@
     {
       "id": "String",
       "content": "Цепи"
-    },
-    {
-      "id": "E.G.O",
-      "content": "ЭГО"
     },
     {
       "id": "Singularity",

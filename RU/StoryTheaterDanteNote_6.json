@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "AbnormalityLevel",
-      "content": "Уровень риска"
+      "content": "Уровни риска"
     },
     {
       "id": "LCA",
@@ -10,11 +10,11 @@
     },
     {
       "id": "Distortion",
-      "content": "Искажение"
+      "content": "Искажения"
     },
     {
       "id": "Peccatula",
-      "content": "Грехи"
+      "content": "Пеккатулы"
     },
     {
       "id": "NestS",
@@ -30,7 +30,7 @@
     },
     {
       "id": "PeccatulaLv2",
-      "content": "2-ая форма Грехов"
+      "content": "2-ая форма Пеккатул"
     },
     {
       "id": "Line3",
@@ -38,7 +38,7 @@
     },
     {
       "id": "BattlePower",
-      "content": "Мощь в битве"
+      "content": "Боеспособность"
     }
   ]
 }

@@ -1,0 +1,184 @@
+{
+  "dataList": [
+    {
+      "id": "UnitKeyword_BLADE_LINEAGE",
+      "content": "Родословная Клинка"
+    },
+    {
+      "id": "UnitKeyword_BLACK_CLOUD",
+      "content": "Клан Курокумо"
+    },
+    {
+      "id": "UnitKeyword_YURODIVY",
+      "content": "Юродивые"
+    },
+    {
+      "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
+      "content": "Механическая амальгама"
+    },
+    {
+      "id": "UnitKeyword_ON_THE_LAKE",
+      "content": "Существо Озера"
+    },
+    {
+      "id": "UnitKeyword_N_CORP",
+      "content": "Корп. N"
+    },
+    {
+      "id": "UnitKeyword_K_CORP",
+      "content": "Корп. K"
+    },
+    {
+      "id": "UnitKeyword_G_CORP",
+      "content": "Корп. G"
+    },
+    {
+      "id": "UnitKeyword_W_CORP",
+      "content": "Корп. W"
+    },
+    {
+      "id": "UnitKeyword_R_CORP",
+      "content": "Корп. R"
+    },
+    {
+      "id": "UnitKeyword_T_CORP",
+      "content": "Корп. T"
+    },
+    {
+      "id": "UnitKeyword_SEVEN",
+      "content": "Ассоциация Севен"
+    },
+    {
+      "id": "UnitKeyword_CINQ",
+      "content": "Ассоциация Сэнк"
+    },
+    {
+      "id": "UnitKeyword_ZWEI",
+      "content": "Ассоциация Цвай"
+    },
+    {
+      "id": "UnitKeyword_LIU",
+      "content": "Ассоциация Лю"
+    },
+    {
+      "id": "UnitKeyword_SHI",
+      "content": "Ассоциация Ши"
+    },
+    {
+      "id": "UnitKeyword_DIECI",
+      "content": "Ассоциация Дьечи"
+    },
+    {
+      "id": "UnitKeyword_OUFI",
+      "content": "Ассоциация Эуфи"
+    },
+    {
+      "id": "UnitKeyword_TROUBLE_SHOOTER",
+      "content": "Мастерская Ключа и Розы"
+    },
+    {
+      "id": "UnitKeyword_ATL",
+      "content": "Альянс Освобождения Технологий"
+    },
+    {
+      "id": "UnitKeyword_MOLAR",
+      "content": "Офис Коренного"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER",
+      "content": "Средний палец"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER",
+      "content": "Безымянный палец"
+    },
+    {
+      "id": "UnitKeyword_PEQUOD_CREW",
+      "content": "Член Пекода"
+    },
+    {
+      "id": "UnitKeyword_WUTHERING_HEIGHTS",
+      "content": "Грозовой Перевал"
+    },
+    {
+      "id": "UnitKeyword_DEAD_RABBITS",
+      "content": "Мертвые Кролики"
+    },
+    {
+      "id": "UnitKeyword_WILD_HUNT",
+      "content": "Дикая Охота"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY",
+      "content": "Компания Лимбус"
+    },
+    {
+      "id": "UnitKeyword_KONG_KONG",
+      "content": "Банда Бом-Боб"
+    },
+    {
+      "id": "UnitKeyword_MARIACHI",
+      "content": "Лос Мариачис"
+    },
+    {
+      "id": "UnitKeyword_HOOK_OFFICE",
+      "content": "Офис Крюка"
+    },
+    {
+      "id": "UnitKeyword_DUAL_HOOK_PIRATE",
+      "content": "Пираты Двукрюки"
+    },
+    {
+      "id": "UnitKeyword_DAWN",
+      "content": "Офис Рассвета"
+    },
+    {
+      "id": "UnitKeyword_MULTI_CRACK",
+      "content": "Офис МультиРазлома"
+    },
+    {
+      "id": "UnitKeyword_BACKSTREET_COOK",
+      "content": "БуР"
+    },
+    {
+      "id": "UnitKeyword_TIEQIU",
+      "content": "Банда Железного Шара"
+    },
+    {
+      "id": "UnitKeyword_LINTON",
+      "content": "Род Эдгар"
+    },
+    {
+      "id": "UnitKeyword_LOBOTOMY_HEAD",
+      "content": "Штаб-Квартира Корпорации Лоботомия"
+    },
+    {
+      "id": "UnitKeyword_LOBOTOMY_BRANCH",
+      "content": "Филиал Корпорации Лоботомия"
+    },
+    {
+      "id": "UnitKeyword_FIXER",
+      "content": "Корректировщик"
+    },
+    {
+      "id": "UnitKeyword_CLAN",
+      "content": "Синдикат"
+    },
+    {
+      "id": "UnitKeyword_WHITE_PARASITE",
+      "content": "Обледненный"
+    },
+    {
+      "id": "UnitKeyword_N_CORP_FNATIC",
+      "content": "Фанатик Корп. N"
+    },
+    {
+      "id": "UnitKeyword_BACK_STREET",
+      "content": "Подворотни"
+    },
+    {
+      "id": "UnitKeyword_DEVYAT",
+      "content": "Ассоциация Девять"
+    }
+  ]
+}

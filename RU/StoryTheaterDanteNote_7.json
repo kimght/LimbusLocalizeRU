@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "id": "ButlerAssoc",
+      "content": "Дворецкие"
+    },
+    {
+      "id": "CityDirection",
+      "content": "Районы"
+    },
+    {
+      "id": "Line4",
+      "content": "Ж/д преломления, Путь 4"
+    },
+    {
+      "id": "PDA",
+      "content": "Личный КПК"
+    }
+  ]
+}

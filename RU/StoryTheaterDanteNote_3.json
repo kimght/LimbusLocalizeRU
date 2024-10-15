@@ -14,27 +14,11 @@
     },
     {
       "id": "PersonalityUpgrade",
-      "content": "Прокачка идентичностей"
+      "content": "Улучшение идентичностей"
     },
     {
       "id": "NestR",
       "content": "Корп. R"
-    },
-    {
-      "id": "E.G.O",
-      "content": "ЭГО"
-    },
-    {
-      "id": "Singularity",
-      "content": "Сингулярности"
-    },
-    {
-      "id": "Goldenbranch",
-      "content": "Золотые ветви"
-    },
-    {
-      "id": "Abnormality",
-      "content": "Аномалии"
     }
   ]
 }
