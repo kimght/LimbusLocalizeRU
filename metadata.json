@@ -1,5 +1,5 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "files": [
     {
       "path": "RU/BattleKeywords-tkt.json",
@@ -1562,6 +1562,10 @@
       "checksum": "e87699e8f1508f4e9b61fdf320234875"
     },
     {
+      "path": "RU/StoryData/P11111.json",
+      "checksum": "d59848daf7ba7d0778737cd3b732ac79"
+    },
+    {
       "path": "RU/StoryData/E615I.json",
       "checksum": "cc951926a70087090a31ca3bfbc13d1f"
     },
@@ -2150,6 +2154,10 @@
       "checksum": "41a716a57520fe2453453d7be5c484af"
     },
     {
+      "path": "RU/StoryData/P10610.json",
+      "checksum": "c3b34f3b3cdd77a5c8054a2e67977f74"
+    },
+    {
       "path": "RU/StoryData/3D309A.json",
       "checksum": "9a994ef23259ca4378c0f708bb49e4c8"
     },
@@ -2371,7 +2379,7 @@
     },
     {
       "path": "RU/StoryData/P11010.json",
-      "checksum": "4d55ccc34f39f094a167c463b6f9487d"
+      "checksum": "d739004c415a6cad9ab955f280d11c32"
     },
     {
       "path": "RU/StoryData/S429B.json",
