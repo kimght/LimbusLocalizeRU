@@ -1,5 +1,5 @@
 {
-  "version": "1.1.21",
+  "version": "1.1.22",
   "files": [
     {
       "path": "RU/BattleKeywords-tkt.json",
@@ -2583,7 +2583,7 @@
     },
     {
       "path": "RU/StoryData/S736B.json",
-      "checksum": "26d1a932d2dcb965a9e0e65f9ac666af"
+      "checksum": "24abbd717bf00022df9e30fedc7f3b15"
     },
     {
       "path": "RU/StoryData/4D105B.json",
