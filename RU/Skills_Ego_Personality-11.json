@@ -295,6 +295,142 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[BeforeAttack] При 4+ наибольший Резон., получает +1 Кол-во Целей\n[BeforeAttack] При меньше чем 10 счётчика [Charge], тратит 15% ОЗ чтобы получить +10 счётчика [Charge] (данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +1% больше урона за каждый потраченный счётчик [Charge] (макс. 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. 1)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. 1 за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[BeforeAttack] При <style=\"highlight\">3</style>+ наибольший Резон., получает +1 Кол-во Целей\n[BeforeAttack] При меньше чем 10 счётчика [Charge], тратит 15% ОЗ чтобы получить +10 счётчика [Charge] (данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +1% больше урона за каждый потраченный счётчик [Charge] (макс. <style=\"highlight\">20</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. <style=\"highlight\">2</style> за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[BeforeAttack] Получает <style=\"highlight\">(наибольший Резон. - 2)</style> Кол-во Целей <style=\"highlight\">(макс. 2)</style>\n[BeforeAttack] При меньше чем 10 счётчика [Charge], тратит <style=\"highlight\">10</style>% ОЗ чтобы получить +10 счётчика [Charge] (данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +1% больше урона за каждый потраченный счётчик [Charge] (макс. <style=\"highlight\">30</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. <style=\"highlight\">3</style> за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При 4+ наибольший Резон., получает +1 Кол-во Целей\n[BeforeAttack] Если счётчик [Charge] меньше максимального, тратит (недостающий счётчик [Charge] x 1.5)% ОЗ чтобы получить макс. счётчик [Charge] (макс. счётчик [Charge] получаемого от этого эффекта: 30. Данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +2% больше урона за каждый потраченный счётчик [Charge] (макс. 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. 2 за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При 4+ наибольший Резон., получает +1 Кол-во Целей\n[BeforeAttack] Если счётчик [Charge] меньше максимального, тратит (недостающий счётчик [Charge] x <style=\"highlight\">1.2</style>)% ОЗ чтобы получить макс. счётчик [Charge] (макс. счётчик [Charge] получаемого от этого эффекта: 30. Данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +2% больше урона за каждый потраченный счётчик [Charge] (макс. <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. 2 за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разрыв измерений",
+          "abName": "Заблудший пассажир",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает <style=\"highlight\">(наибольший Резон. - 2)</style> Кол-во Целей <style=\"highlight\">(макс. 2)</style>\n[BeforeAttack] Если счётчик [Charge] меньше максимального, тратит <style=\"highlight\">(недостающий счётчик [Charge])%</style> ОЗ чтобы получить макс. счётчик [Charge] (макс. счётчик [Charge] получаемого от этого эффекта: 30. Данный урон не уменьшает ОЗ этого Грешника до 0; округляя в меньшую сторону)\n[BeforeAttack] Тратит до 40 счётчика [Charge] и наносит +2% больше урона за каждый потраченный счётчик [Charge] (макс. <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ([Charge] - 1) [DimensionRift] (макс. <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility] и 1 [ChargeLoad] на следующий ход за каждый [Charge] (макс. <style=\"highlight\">3</style> за каждый Навык)"
+                },
+                {
+                  "desc": "[EnemyKill] Получает +2 счётчика [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

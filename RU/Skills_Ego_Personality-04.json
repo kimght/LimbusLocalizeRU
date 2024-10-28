@@ -229,6 +229,127 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[BeforeAttack] Получает (наибольший резон.) Кол-во Целей (макс. 2)\n[BeforeAttack] Получает (наибольший резон. + 1) [GazePersonality] (макс. 7)\n[EndSkill] На 2 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Равномерно наносит 10 [Laceration] между всеми целями"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[BeforeAttack] Получает (наибольший резон.) Кол-во Целей (макс. <style=\"highlight\">4</style>)\n[BeforeAttack] Получает (наибольший резон. + 1) [GazePersonality] (макс. 7)\n[EndSkill] На 2 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Равномерно наносит <style=\"highlight\">15</style> [Laceration] между всеми целями"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[BeforeAttack] Получает (наибольший резон.) Кол-во Целей (макс. <style=\"highlight\">6</style>)\n[BeforeAttack] Получает (наибольший резон. + 1) [GazePersonality] <style=\"highlight\">на этот и следующий ход</style> (макс. 7)\n<style=\"highlight\">[EndSkill] Если этот Навык был частью Резон. Похоти, получает 1 ресурс ЭГО Греха, который соотвествует Навыкам Атаки этого Грешника</style>\n[EndSkill] На 2 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Равномерно наносит 15 [Laceration] между всеми целями<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели имеется [Laceration], наносит +(сумму потенциала и счётчика [Laceration] на цели)% больше урона (макс. 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит (1 + (наибольший резон. x 1.5)) [Laceration] (макс. 10, округляя в меньшую сторону)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели имеется [Laceration], наносит +(сумму потенциала и счётчика [Laceration] на цели)% больше урона (макс. <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">(3 + (наибольший резон. x 2))</style> [Laceration] (макс. <style=\"highlight\">15</style>, округляя в меньшую сторону)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">3</style> счётчика [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Презрение, Трепет",
+          "abName": "Спираль Презрения",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., получает 1 ресурс ЭГО Греха, который соотвествует Навыкам Атаки этого Грешника</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели имеется [Laceration], наносит +(сумму потенциала и счётчика [Laceration] на цели)% больше урона (макс. <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">(10 + (наибольший резон. x 2.5))</style> [Laceration] (макс. <style=\"highlight\">25</style>, округляя в меньшую сторону)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">5</style> счётчика [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

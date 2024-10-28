@@ -704,6 +704,445 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1051001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (Откровение x 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (Откровение x <style=\"highlight\">4%</style> максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Сила в поединке +1 при 2 и более <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровений</link></u></color>\n[WinDuel] Получает 2 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color> (Раз за ход)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (Откровение x <style=\"highlight\">5%</style> максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Сила в поединке +(Откровение - 1) (До 2)</style>\n[WinDuel] Получает 2 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color> (Раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Час учений",
+          "desc": "[StartBattle] Получает <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе.\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит [Sinking], равное <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Час учений",
+          "desc": "<style=\"highlight\">+3% урона за каждое [KnowledgeExplored] на себе (До 9%)</style>\n<style=\"highlight\">[StartBattle] Он и случайный союзник</style> получает <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо. <style=\"highlight\">(В приоритете союзники, использующие [Discard] с наименьшим числом <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color>)</style>\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит [Sinking], равное <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Час учений",
+          "desc": "<style=\"highlight\">+5%</style> урона за каждое [KnowledgeExplored] на себе (До <style=\"highlight\">15%</style>)\n[StartBattle] Он и <style=\"highlight\">два</style> случайных союзника получают <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо. (В приоритете союзники, использующие [Discard] с наименьшим числом <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color>)\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит [Sinking], равное <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Сожжение познаний",
+          "desc": "+3% урона за каждое [KnowledgeExplored] на себе (До 18%)\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[BeforeAttack] Тратит свою <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> и получает дополнительное [KnowledgeExplored], равное половине потраченного числа (Округление в меньшую сторону)\n[EndSkill] В конце хода [KnowledgeExplored] сбрасывается до 1 (до 3 при убийстве противника с помощью этого навыка)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик и потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайным образом так, что суммарно они становятся равны <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сожжение познаний",
+          "desc": "<style=\"highlight\">+5%</style> урона за каждое [KnowledgeExplored] на себе (До <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)</style>\n[BeforeAttack] Тратит свою <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> и получает дополнительное [KnowledgeExplored], равное <style=\"highlight\">потраченному числу</style>\n[EndSkill] В конце хода [KnowledgeExplored] сбрасывается до 1 (до 3 при убийстве противника с помощью этого навыка)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик и потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайным образом так, что суммарно они становятся равны <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Погружение в поиск",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Погружение в поиск",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Этот слот получает 6 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Алле",
+          "desc": "[WhenUse] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +1 счётчика [Breath]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Алле",
+          "desc": "Если Скорость этого Грешника больше, чем у выбранной цели на 3 или более, Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не накладывает потенциал [Burst] своими эффектами, но не тратит счётчик [Burst] При Ударе\n[WhenUse] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +1 счётчика [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Алле",
+          "desc": "Если Скорость этого Грешника больше, чем у выбранной цели, получает Силу Монет основываясь на разнице в Скорости (Сила Монет +1 за каждые 3 единицы Скорости; макс. 2)\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не накладывает потенциал [Burst] своими эффектами, но не тратит счётчик [Burst] При Ударе\n[WhenUse] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +1 счётчика [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если Скорость этого Грешника больше, чем у выбранной цели, наносит [Burst] равное разнице в Скорости (макс. 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпад",
+          "desc": "[WinDuel] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +1 счётчика [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Выпад",
+          "desc": "Если Скорость этого Грешника больше, чем у выбранной цели на 3 или более, Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не накладывает потенциал и счётчик [Burst] своими эффектами, но не тратит счётчик [Burst] При Ударе\n[WinDuel] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +1 счётчика [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 7+ Скорости, наносит +2 счётчика [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выпад",
+          "desc": "Если Скорость этого Грешника больше, чем у выбранной цели на 3 или более, Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не накладывает потенциал и счётчик [Burst] своими эффектами, но не тратит счётчик [Burst] При Ударе\n[WinDuel] Получает +2 счётчика [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +2 счётчика [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Если этот Грешник не наносит [Burst], +5% урона на Критический Удар, за каждый потенциал и счётчик [Burst], который бы наложился</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 7+ Скорости, наносит +2 счётчика [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Салют",
+          "desc": "Если Скорость этого Грешника больше, чем у выбранной цели на 2 или более, Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не тратит счётчик [Burst] При Ударе\n[WinDuel] Получает 5 [Breath]\n- Если на цели имеется [ConcentratedAttackMeursault], получает 5 дополнительного [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит +10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит +10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит +10% больше урона за каждую [ConcentratedAttackMeursault] на Слоте"
+                },
+                {
+                  "desc": "+30% урона при Критическом Ударе"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Салют",
+          "desc": "<style=\"highlight\">Если Скорость этого Грешника больше, чем у выбранной цели, получает Силу Монет основываясь на разнице в Скорости (Сила Монет +1 за каждые 2 единицы Скорости; макс. 3)</style>\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst], этот Навык не тратит счётчик [Burst] При Ударе\n[WinDuel] Получает 5 [Breath]\n- Если на цели имеется [ConcentratedAttackMeursault], получает 5 дополнительного [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит +10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит +10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит <style=\"highlight\">+20%</style> больше урона за каждую [ConcentratedAttackMeursault] на Слоте"
+                },
+                {
+                  "desc": "+30% урона при Критическом Ударе"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Наносит +2% урона при Критическом Ударе за каждый [Burst] на цели (макс. 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Если эта Монета убила цель или уничтожила Часть, Повторно применяет Навык против случайной цели (не активируется при Повторном Использовании)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обóрона",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Обóрона",
+          "desc": "[WhenUse] Если Скорость этого Грешника больше, чем у выбранной цели на 3 или более, Сила Монет +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

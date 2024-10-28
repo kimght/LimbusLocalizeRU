@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "event_judgement_above",
-      "content": "высокий шанс"
+      "content": "<color=#f8c200>Высокий шанс</color>"
     },
     {
       "id": "event_judgement_below",
-      "content": "низкий шанс"
+      "content": "<color=#f8c200>Низкий шанс</color>"
     },
     {
       "id": "event_select_personality_to_proceed_judgement",
@@ -15,6 +15,10 @@
     {
       "id": "event_expected_success_rate_format",
       "content": "Вероятность: {0}"
+    },
+    {
+      "id": "all_attribute",
+      "content": "Все Грехи"
     }
   ]
 }

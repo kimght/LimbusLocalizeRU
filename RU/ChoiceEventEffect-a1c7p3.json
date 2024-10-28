@@ -1,0 +1,28 @@
+{
+    "dataList": [
+        {
+            "id": "LoseRatioHpOnly",
+            "content": "<color=#ebcaa2>{conditions}{targets}</color> получает <color=#e30000>{amount}% ОЗ</color> <color=#ebcaa2>урона!</color>"
+        },
+        {
+            "id": "Choice_901070401",
+            "content": "Получает <color=#f8c200>2 ресурса Э.Г.О Гнева</color>\nПолучает <color=#f8c200>2 ресурса Э.Г.О Гордыни</color>"
+        },
+        {
+            "id": "Choice_901070402",
+            "content": "Получает <color=#f8c200>2 ресурса Э.Г.О Похоти</color>\nПолучает <color=#f8c200>2 ресурса Э.Г.О Чревоугодия</color>"
+        },
+        {
+            "id": "Choice_901070403",
+            "content": "Получает <color=#f8c200>2 ресурса Э.Г.О Уныния</color>\nПолучает <color=#f8c200>2 ресурса Э.Г.О Зависти</color>"
+        },
+        {
+            "id": "Choice_901070404",
+            "content": "Все грешники получают <color=#e30000>+4 счетчика Разрыва</color> в начале следующего боя"
+        },
+        {
+            "id": "Choice_901070405",
+            "content": "Все грешники получают <color=#e30000>4 Разрыва и +4 счетчика Разрыва</color> в начале следующего боя"
+        }
+    ]
+}

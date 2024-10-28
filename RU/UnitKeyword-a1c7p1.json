@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "UnitKeyword_BLOODBAG",
+      "content": "Кровосос"
+    },
+    {
+      "id": "UnitKeyword_BLOODFIEND",
+      "content": "Кровожад"
+    },
+    {
+      "id": "UnitKeyword_THIRD_DEPENDENT",
+      "content": "Третий Сородич"
+    },
+    {
+      "id": "UnitKeyword_DEPENDENT",
+      "content": "Сородич"
+    },
+    {
+      "id": "UnitKeyword_FANG_HUNT",
+      "content": "Офис «Охотников за Клыками»"
+    }
+  ]
+}

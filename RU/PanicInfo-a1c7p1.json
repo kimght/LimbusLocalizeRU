@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1027,
+      "panicName": "Голод",
+      "lowMoraleDescription": "Начало Хода: Получает 1 [Binding] и 2 [Enhancement]. Получает 5 урона СД в Конце Хода",
+      "panicDescription": "Начало Хода: Получает 2 [Binding] и 4 [Enhancement]."
+    },
+    {
+      "id": 1028,
+      "panicName": "Специалист по Дуэлям",
+      "lowMoraleDescription": "Начало Хода: Получает 2 [AttackUp]. При поражении в столкновении, получает 1 [DefenseDown] (макс. 3 за ход). Мин. Скорость -1",
+      "panicDescription": "Начало Хода: Получает 4 [AttackUp]. При поражении в столкновении, получает 2 [DefenseDown] (макс. 6 за ход). Мин. Скорость -1"
+    }
+  ]
+}

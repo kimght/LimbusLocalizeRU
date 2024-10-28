@@ -690,6 +690,236 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подавление.",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает 1 [DefenseUp]\n[WinDuel] Получает +2 счётчика [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Наносит +1 счётчика [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 2 [DefenseUp] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Подавление.",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает <style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse] Если на цели имеется 4+ счётчика [Vibration], Сила в Столкновении +1</style>\n[WinDuel] Получает +2 счётчика [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 2 [DefenseUp] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Подавление.",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает 2 [DefenseUp]\n[WhenUse] Если на цели имеется 4+ счётчика [Vibration], Сила в Столкновении +<style=\"highlight\">2</style>\n[WinDuel] Получает +<style=\"highlight\">3</style> счётчика [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подготовка к бою",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n[WinDuel] Получает +2 счётчика [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] На 1 другого союзника с [DefenseUp], накладывает (([DefenseUp] на союзнике)/3) [AttackUp] на следующий ход (раз за ход, макс. 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Подготовка к бою",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n<style=\"highlight\">[WhenUse] Получает 1 [DefenseUp] за каждые 2 счётчика [Vibration] на себе (макс. 3)\n[WhenUse] При 4+ [DefenseUp], Сила Монет +1</style>\n[WinDuel] Получает +<style=\"highlight\">3</style> счётчика [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] На 1 другого союзника с наименьшим процентом ОЗ, накладывает 2 Повышение уровня защиты на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] На 1 другого союзника с [DefenseUp], накладывает (([DefenseUp] на союзнике)/<style=\"highlight\">2</style>) [AttackUp] на следующий ход (раз за ход, макс. 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Подготовка к бою",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает 1 [DefenseUp] за каждые 2 счётчика [Vibration] на себе (макс. 3)\n[WhenUse] При 4+ [DefenseUp], Сила Монет +1\n[WinDuel] Получает +3 счётчика [Vibration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] На <style=\"highlight\">2 других союзников</style> с наименьшим процентом ОЗ, накладывает 2 Повышение уровня защиты на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] На <style=\"highlight\">2 других союзников</style> с [DefenseUp], накладывает (([DefenseUp] на союзнике)/2) [AttackUp] на следующий ход (раз за ход, макс. 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ограда",
+          "desc": "[WhenUse] Получает 1 [DefenseUp] за каждые 2 счётчика [Vibration] на себе (макс. 2)\n[WhenUse] Сила Монет +1 за каждые 3 [DefenseUp] на себе (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] На 1 другого союзника с наименьшим процентом ОЗ, накладывает 3 [DefenseUp] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Тратит до 8 счётчика [Vibration] на себе, и накладывает такое же количество счётчика [Vibration] на цель"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion]; затем, уменьшает счётчик [Vibration] цели на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ограда",
+          "desc": "[WhenUse] Получает 1 [DefenseUp] за каждые 2 счётчика [Vibration] на себе (макс. <style=\"highlight\">4</style>)\n[WhenUse] Сила Монет +1 за каждые 3 [DefenseUp] на себе (макс. <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] На 1 другого союзника с наименьшим процентом ОЗ, накладывает <style=\"highlight\">4</style> [DefenseUp] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Тратит до 8 счётчика [Vibration] на себе, и накладывает такое же количество счётчика [Vibration] на цель"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion]; затем, уменьшает счётчик [Vibration] цели на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рыцарское фехтование «Цвай» - Блок",
+          "desc": "[CanDuelGuard]\n[StartBattle] Получает +5 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает +2 счётчика [Vibration] (раз за ход)\n[WinDuel] Вызывает [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рыцарское фехтование «Цвай» - Блок",
+          "desc": "[CanDuelGuard]\n[StartBattle] Получает +5 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает +<style=\"highlight\">3</style> счётчика [Vibration] (раз за ход)\n[WinDuel] Вызывает [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

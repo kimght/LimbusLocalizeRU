@@ -226,6 +226,319 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2050711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[EndSkill] На 3 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "<style=\"highlight\">Если на цели имеется 6+ [Laceration], Сила Монет +1</style>\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 4+ наибольшем Резон. , активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 4+ наибольшем Резон. , активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует на цели [Laceration] <style=\"highlight\">(1 + (наибольший Резон./2)) раза. (макс. 3 раза; цель теряет счётчика [Laceration] равное количеству раз, когда оно было активировано)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "<style=\"highlight\">Сила Монет +1 за каждое 6 [Laceration] на цели (макс. 2)</style>\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 4+ наибольшем Резон. , активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 4+ наибольшем Резон. , активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> счётчика [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует на цели [Laceration] (1 + (наибольший Резон./2)) раза. (макс. 3 раза; цель теряет счётчика [Laceration] равное количеству раз, когда оно было активировано)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] При нанесении избыточного урона, превышающего оставшееся ОЗ противника, распределяет избыточный урон в виде фиксированного по всем врагам. (мин. 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\n[WhenUse] Тратит до 10% макс. ОЗ этого Грешника и наносит (потраченные ОЗ / 2) урона по всем противникам и союзникам\n- При меньше чем 50% макс. ОЗ этого Грешника, наносит и активирует 5 [Laceration] на всех союзниках один раз, взамен (теряет 1 счётчика [Laceration]). Исцеляет ОЗ равное количеству нанесенного [Laceration] урона по союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration] на себе и на цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration] на себе и на цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [RoseWedge]"
+                },
+                {
+                  "desc": "- Если на цели не имеется [RoseWedge], наносит 4 дополнительных потенциала [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует [Laceration] на цели один раз (цель теряет 1 счётчика [Laceration])"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">При 6+ (сумме [Laceration] на себе и на цели), Сила Монет +1</style>\n[WhenUse] Тратит до 10% макс. ОЗ этого Грешника и наносит (потраченные ОЗ / 2) урона по всем противникам и союзникам\n- При меньше чем 50% макс. ОЗ этого Грешника, наносит и активирует 5 [Laceration] на всех союзниках один раз, взамен (теряет 1 счётчика [Laceration]). Исцеляет ОЗ равное количеству нанесенного [Laceration] урона по союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration] на себя и на цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration] на себя и на цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Если на цели не имеется [RoseWedge], наносит 4 дополнительных потенциала [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует на цели [Laceration] <style=\"highlight\">(1 + (наибольший Резон./2)) раза. (макс. 3 раза; цель теряет счётчика [Laceration] равное количеству раз, когда оно было активировано)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\nСила Монет +1 за каждое 6 (сумме [Laceration] на себе и на цели) <style=\"highlight\">(макс. 3)</style>\n[WhenUse] Тратит до 10% макс. ОЗ этого Грешника и наносит (потраченные ОЗ / 2) урона по всем противникам и союзникам\n- При меньше чем 50% макс. ОЗ этого Грешника, наносит и активирует 5 [Laceration] на всех союзниках, взамен (теряет 1 счётчика [Laceration]). Исцеляет ОЗ равное количеству нанесенного [Laceration] урона по союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration] на себя и на цели<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Активирует [Laceration] на себе и на цели once (оба теряют 1 счётчика [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration] на себя и на цели<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Активирует [Laceration] на себе и на цели once (оба теряют 1 счётчика [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит +2 счётчика [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> счётчика [RoseWedge]"
+                },
+                {
+                  "desc": "- Если на цели не имеется [RoseWedge], наносит 4 дополнительных потенциала [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует на цели [Laceration] (1 + (наибольший Резон./2)) раза. (макс. 3 раза; цель теряет счётчика [Laceration] равное количеству раз, когда оно было активировано)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] При нанесении избыточного урона, превышающего оставшееся ОЗ противника, распределяет избыточный урон в виде фиксированного по всем врагам. (мин. 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

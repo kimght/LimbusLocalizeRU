@@ -401,6 +401,187 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]\n- Наносит 1 дополнительное [Curse] за каждые 3 негативных эффекта на цели, которые не являются [Curse] или [NailPersonality] (макс. 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "<style=\"highlight\">[BeforeAttack] При 4+ Резон. Зависти включая этот Навык, Кол-во Целей +1</style>\n[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]\n- Наносит 1 дополнительное [Curse] за каждые 3 негативных эффекта на цели, которые не являются [Curse] или [NailPersonality] (макс. 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 2 [Binding] на следующий ход (раз за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "<style=\"highlight\">[BeforeAttack] За каждые 3 Резон. Зависти включая этот Навык, Кол-во Целей +1 (макс. 2)</style>\n[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]\n- Наносит 1 дополнительное [Curse] за каждые <style=\"highlight\">2</style> негативных эффекта на цели, которые не являются [Curse] или [NailPersonality] (макс. 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 4+ [Curse], наносит 1 [ParryingResultDown] (раз за ход)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Binding] на следующий ход (раз за ход)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Наносит 2 [Binding] на следующий ход (раз за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Если на цели имеется [Curse], сразу же активируется дважды и уменьшает его на 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 4+ Резон. Зависти включая этот Навык, наносит 1 [ParryingResultDown] (раз за ход)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 [Binding] на следующий ход (раз за ход)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Наносит 2 [DefenseDown] на следующий ход (раз за ход)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

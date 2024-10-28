@@ -291,6 +291,10 @@
     {
       "id": "OtherStoryOpenCondition_9018",
       "content": "Пройдите 6.5-30"
+    },
+    {
+      "id": "MainStoryOpenCondition_107",
+      "content": "Пройдите 7-1"
     }
   ]
 }

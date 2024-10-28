@@ -1082,6 +1082,310 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торжество для умерших",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Торжество для умерших",
+          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счётчика [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торжество для умерших",
+          "desc": "<style=\"highlight\">При 10+ [BulletLament], Сила столкновения +1</style>\nЕсли сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счётчика [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торжественный траур для живых",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 5 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Торжественный траур для живых",
+          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +1 счётчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 5 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торжественный траур для живых",
+          "desc": "При 10+ [BulletLament], Сила столкновения +1\n<style=\"highlight\">Сила монеты +1 за каждые 6 значений</style> суммы [Sinking] цели и обоих [SinkingWhite] <style=\"highlight\">(макс. 2)</style>\n[WinDuel] Наносит +1 счётчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)\n- Если указанный Резонанс был 4+ А-Резонансом, вместо этого [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 5 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Неминуемо, Абсолютная Скорбь Исчезает",
+          "desc": "Базовая сила +1 за каждые 10 значений [BulletLament] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 6 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит все [BulletLament] на себе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2% дополнительного урона за каждое значение [BulletLament], потраченное этим Навыком"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный \"Всем\" [SinkingWhite] на цели\n- \"Всем\" = сумма обоих Живых и Усопших на цели"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Неминуемо, Абсолютная Скорбь Исчезает",
+          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> значений [BulletLament] <style=\"highlight\">(макс. 4)</style>\nСила монеты +1 за каждые 6 значений суммы [Sinking] цели и обоих [SinkingWhite] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 6 [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит все [BulletLament] на себе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [SinkingWhite] равное потраченным [BulletLament]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +4% дополнительного урона за каждое значение [BulletLament], потраченное этим Навыком"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный \"Всем\" [SinkingWhite] на цели\n- \"Всем\" = сумма обоих Живых и Усопших на цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Изгробавылетаетбабочка",
+          "desc": "[StartBattle] [ReloadLament] (раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Изгробавылетаетбабочка",
+          "desc": "[StartBattle] [ReloadLament] (раз за ход)\n[StartBattle] Получает Щит, равный (сумме обоих [SinkingWhite] на выбранной цели)% ОЗ. (макс. 20% за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,258 @@
+{
+  "dataList": [
+    {
+      "id": 836301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Понимание",
+          "desc": "Если у цели 10- СД, Сила Столкновения +1\n[WhenUse] Получает 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Восприятие",
+          "desc": "Если у цели 10- СД, Сила Столкновения +1\n[WhenUse] Получает 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Спасение",
+          "desc": "Если у цели 10- СД, Сила Столкновения +1\n[WhenUse] Получает 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "То, что Непостижимо",
+          "desc": "[WhenUse] Получает 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Гниение",
+          "desc": "[CantDuel]\n[EndSkill] Умирает",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [VioletTakeDamageUp] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 10~14 урона СД"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Милосердие",
+          "desc": "Если у цели 20- СД, Сила Столкновения +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Любовь",
+          "desc": "Если у цели 20- СД, Сила Столкновения +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мерцающие Символы Понимания",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мерцающие Символы Понимания",
+          "desc": "Если у цели 20- СД, Сила Столкновения +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "То, что Непостижимо",
+          "desc": "[WhenUse] Получает 2 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Спешащие Руки Покоя",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 100 урона ОЗ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

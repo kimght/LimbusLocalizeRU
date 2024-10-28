@@ -383,6 +383,175 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от макс. ОЗ этого Грешника",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от макс. ОЗ этого Грешника\n<style=\"highlight\">- Каждый юнит получающий лечение исцеляет на +2.5% больше ОЗ за каждые 2 негативных эффекта на самом себе (макс. 7.5)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">15%</style> от макс. ОЗ этого Грешника\n- Каждый юнит получающий лечение исцеляет на +2.5% больше ОЗ за <style=\"highlight\">каждый</style> негативный эффект на самом себе (макс. <style=\"highlight\">10%</style>)\n<style=\"highlight\">- При 4+ Резон. Зависти включая этот Навык, исцеляет 1 дополнительного союзника</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на 15% от макс. ОЗ этого Грешника",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на 15% от макс. ОЗ этого Грешника\n<style=\"highlight\">- Каждый юнит получающий лечение, получает [AttackUp] до следующего хода за каждые 2 негативных эффекта на самом себе (макс. 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Проклятый гвоздь",
+          "abName": "Больной мишка Тедди",
+          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">20%</style> от макс. ОЗ этого Грешника\n- Каждый юнит получающий лечение, получает [AttackUp] до следующего хода за <style=\"highlight\">каждый</style> негативный эффект на самом себе (макс. <style=\"highlight\">3</style>)\n<style=\"highlight\">- При 4+ Резон. Зависти включая этот Навык, исцеляет 1 дополнительного союзника</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

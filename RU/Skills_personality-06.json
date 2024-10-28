@@ -842,6 +842,245 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Хлопок",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Хлопок",
+          "desc": "Если на цели имеется 6+ [Burst], Сила Монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Хлопок",
+          "desc": "Если на цели имеется 6+ [Burst], Сила Монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Крушитель костей",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Крушитель костей",
+          "desc": "[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst]: этот Навык не накладывает [Burst] или счётчика [Burst]; вместо этого, получает Сила Монет +1\n[WinDuel] Наносит +1 счётчика [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Крушитель костей",
+          "desc": "Если на цели имеется 6+ [Burst], Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst]: этот Навык не накладывает [Burst] или счётчика [Burst]; вместо этого, получает Сила Монет +1\n- Если целью атаки является <Кровожад> или <Кровосос>, получает дополнительную Силу Монет +1\n[WinDuel] Наносит +1 счётчика [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит +1 счётчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [TakeHpHealReduce] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Весёлое завершение охоты",
+          "desc": "[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst]: этот Навык не накладывает [Burst] или счётчика [Burst]; вместо этого, получает Сила Монет +1\n[WinDuel] Наносит +1 счётчика [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Весёлое завершение охоты",
+          "desc": "Если на цели имеется 6+ [Burst], Сила Монет +1\n[WhenUse] Если на цели имеется 15+ [Burst] и 3+ счётчика [Burst]: этот Навык не накладывает [Burst] или счётчика [Burst]; вместо этого, получает Сила Монет +1\n- Если целью атаки является <Кровожад> или <Кровосос>, получает дополнительную Силу Монет +1\n[WinDuel] Наносит +2 счётчика [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели имеется 15+ [Burst], или имеется менее 30% ОЗ, Перебрасывает эту Монету (один раз за Навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Аварийные Гемостатики",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Аварийные Гемостатики",
+          "desc": "[StartBattle] Теряет 2 потенциала [Laceration] на себе (3 раза за ход. Если потенциал Кровотечения падает до 0 или меньше, эффект Кровотечения истекает полностью)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -392,6 +392,244 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2060711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "Сила Монет +1 за каждые 7 [Burst] на цели (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst] за каждые 2 Резон. Чревоугодия (макс. 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "<style=\"highlight\">Если сумма Скорости этого Грешника и цели равна 6 или выше, Сила Монет +1</style>\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 [Agility] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst] за каждые 2 Резон. Чревоугодия (макс. 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Случайно наносит [Laceration] равное (Скорость этого Грешника/2) между целями (макс. 3)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Случайно наносит [Burst] равное (Скорость этого Грешника/2) между целями (макс. 3)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "Если сумма Скорости этого Грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [TakeHpHealReduce] на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst] за каждые 2 Резон. Чревоугодия (макс. 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Случайно наносит [Laceration] равное Скорость этого Грешника между целями (макс. 7)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Случайно наносит [Burst] равное Скорость этого Грешника между целями (макс. 7)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждое [Laceration] на цели (Макс. 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждый [Burst] на цели (Макс. 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если сумма Скорости этого Грешника и цели равна 6 или выше, Сила Монет +1</style>\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 [Agility] на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждое [Laceration] на цели <style=\"highlight\">(макс. 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждый [Burst] на цели <style=\"highlight\">(макс. 30%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли сумма Скорости этого Грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход\n<style=\"highlight\">[BeforeAttack] При 4+ Резон. Чревоугодия или Похоти, получает +1 Кол-во Целей</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 [TakeHpHealReduce] на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждое [Laceration] на цели (макс. 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1% больше урона за каждый [Burst] на цели (макс. 30%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

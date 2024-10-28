@@ -179,6 +179,54 @@
     {
       "id": "StartBattle_Force",
       "name": "<color=#93f13e>[В начале хода]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[При убийстве цели]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[При убийстве критической атакой]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Перед использованием]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Столкновение Контратакой]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Вечная Монета]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Столкновение Блоком]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[При использовании уклонения]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[После текущей атаки монеткой]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[При неудачном убийстве критической атакой против противника]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[При убийстве критической атакой против противника]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Удар после поражения в столкновении]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[При неудачном убийстве цели]"
     }
   ]
 }

@@ -22,11 +22,11 @@
     },
     {
       "id": "MirrorWorld_Name_6",
-      "content": "Мир корпорации W"
+      "content": "Мир Корпорации W"
     },
     {
       "id": "MirrorWorld_Name_7",
-      "content": "Мир корпорации R"
+      "content": "Мир Корпорации R"
     },
     {
       "id": "MirrorWorld_Name_8",
@@ -34,19 +34,19 @@
     },
     {
       "id": "MirrorWorld_Name_9",
-      "content": "(Глава I) Мир старой корпорации L"
+      "content": "(Глава I) Мир старой Корпорации L"
     },
     {
       "id": "MirrorWorld_Name_10",
-      "content": "(Глава I) Мир старой корпорации G"
+      "content": "(Глава I) Мир старой Корпорации G"
     },
     {
       "id": "MirrorWorld_Name_11",
-      "content": "(Глава II) Мир Подворотен корпорации J"
+      "content": "(Глава II) Мир Подворотен Корпорации J"
     },
     {
       "id": "MirrorWorld_Name_12",
-      "content": "(Глава III) Мир корпорации N"
+      "content": "(Глава III) Мир Корпорации N"
     },
     {
       "id": "MirrorWorld_Name_13",
@@ -54,7 +54,7 @@
     },
     {
       "id": "MirrorWorld_Name_14",
-      "content": "(Глава IV) Мир корпорации K"
+      "content": "(Глава IV) Мир Корпорации K"
     },
     {
       "id": "MirrorWorld_Name_15",
@@ -74,7 +74,7 @@
     },
     {
       "id": "MirrorWorld_Name_19",
-      "content": "Мир основного филиала\nкорпорации «Лоботомия» - 1"
+      "content": "Мир основного филиала\nКорпорации «Лоботомия» - 1"
     },
     {
       "id": "MirrorWorld_Name_20",
@@ -82,11 +82,27 @@
     },
     {
       "id": "MirrorWorld_Name_21",
-      "content": "(Глава V) Мир корпорации U"
+      "content": "(Глава V) Мир Корпорации U"
     },
     {
       "id": "MirrorWorld_Name_22",
       "content": "Мир Южной секции ассоциации «Эуфи»"
+    },
+    {
+      "id": "MirrorWorld_Name_23",
+      "content": "(Глава VI) Мир Грозового Перевала"
+    },
+    {
+      "id": "MirrorWorld_Name_24",
+      "content": "Мир Безымянного Пальца"
+    },
+    {
+      "id": "MirrorWorld_Name_25",
+      "content": "Мир Подворотен 20-го Района"
+    },
+    {
+      "id": "MirrorWorld_Name_26",
+      "content": "Мир Корпорации Т"
     }
   ]
 }

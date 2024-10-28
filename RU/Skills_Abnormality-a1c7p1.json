@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Алле",
+          "desc": "[WhenUse] Наносит [DuelDeclaration_Camille]\n[WhenUse] Получает 5 [Breath]\n[WinDuel] Получает +2 счетчик [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Прямой Удар",
+          "desc": "[WhenUse] Получает 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +2 счетчик [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпад",
+          "desc": "[WhenUse] При 7+ [Breath], Сила монеты +2\n[WinDuel] Получает +2 счетчик [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 счетчик [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% Урона при критическом ударе"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Салют",
+          "desc": "[WhenUse] Если скорость этого персонажа выше, чем у цели, Сила монеты +1 (Сила монеты +1 за каждые 2 единицы разницы в скорости; максимум 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает +4 счетчик [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 [Burst] и +1 счетчик [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 [Burst] и +1 счетчик [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 [Burst] и +1 счетчик [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% Урона при критическом ударе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +5% урона за каждый [Burst] на цели (Максимум 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Парирование",
+          "desc": "[WinDuel] Наносит больше урона в зависимости от количества столкновений (+10% урона за каждое столкновение, максимум 50%)\n[WinDuel] Получает 2 [Agility] на следующий ход\n[DefeatDuel] Получает 2 [Binding] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обóрона",
+          "desc": "[OnSucceedEvade] Получает 1 [Agility] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу тебя красиво!",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила столкновения +1\n[WhenUse] Сила монеты +1 за каждые 5 [Laceration] на себе (максимум 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повторное использование монеты ([BloodScissor] Стадия - 1) раз (максимум 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ещё острее",
+          "desc": "[WhenUse] Поглощает до 20 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 поглощенных [BloodDinner]\n- Если персонаж не смог поглотить [BloodDinner] этим навыком, получает 30 [Laceration]\n[WhenUse] Если у цели 6+ [Laceration], Сила столкновения +1\n[WhenUse] Сила монеты +1 за каждые 5 [Laceration] на себе (максимум 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ЧИРК!!",
+          "desc": "[WhenUse] Поглощает до 30 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Если у цели есть [LineCutting], Сила столкновения +5\nВосстанавливает 5 СД при каждом попадании по цели с [LineCutting]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +3 счетчик [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу тебя тоже!",
+          "desc": "[BeforeAttack] Кол-во целей +1 за каждую стадию [BloodScissor] (максимум 2)\n[WhenUse] Поглощает до 30 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Если у цели 6+ [Laceration], Сила столкновения +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BloodScissorScars] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 5 [Laceration] и +2 счетчик [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Теперь твоя очередь",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила монеты +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BloodScissorScars] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [LineCutting] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу вас вместе!",
+          "desc": "[BeforeAttack] Кол-во целей +1 за каждую стадию [BloodScissor]\n[WhenUse] Поглощает до 100 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Если у цели 6+ [Laceration], Сила столкновения +2\n[EndSkill] Поглощает 10 [BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +3 счетчик [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует [Laceration] цели (максимум 10). Цель теряет 1 счетчик [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует [Laceration] цели (максимум 10). Цель теряет 1 счетчик [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует [Laceration] цели (максимум 10). Цель теряет 1 счетчик [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +40% дополнительного урона за каждую стадию [BloodScissor] (максимум 120%)"
+                },
+                {
+                  "desc": "[EnemyKill] Если этот эффект монеты убил цель, восстанавливает 50% от нанесенного урона убитой цели."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Как невежливо!",
+          "desc": "[DuelCounter]\n[WhenUse] Сила столкновения +1 за каждую стадию [BloodScissor] (максимум 3)\n[WhenUse] Сила монеты +1 за каждые 5 [Laceration] на себе (максимум 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration] и +4 счетчик [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мне не нужны уродливые вещи!!",
+          "desc": "[CantChangeTarget]\nВыбирает цели с наименьшим процентом ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 30%- ОЗ, убивает цель"
+                },
+                {
+                  "desc": "[EnemyKill] Увеличивает [BloodDinner] на 30% от максимального ОЗ побежденного врага"
+                },
+                {
+                  "desc": "[EnemyKill] получает 4 [Vulnerable] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

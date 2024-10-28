@@ -2,197 +2,197 @@
   "dataList": [
     {
       "id": 9732,
-      "name": "Economy Class Discount Voucher",
-      "desc": "Turn End: among Identities with 5- Speed, the one with the slowest Speed gains 1 [Agility] next turn.",
+      "name": "Скидочный билет на поездку эконом-класса",
+      "desc": "Конец хода: среди Личностей со Скоростью 5 или меньше, та, у которой самая низкая Скорость, получает 1 [Agility] в следующем ходу.",
       "simpleDesc": [
         {
           "abilityID": 9732,
-          "simpleDesc": "Gain 1 Haste next turn"
+          "simpleDesc": "Получает 1 [Agility] в следующем ходу"
         }
       ]
     },
     {
       "id": 9733,
-      "name": "Canned Ice Cream",
-      "desc": "When an ally loses HP due to their own Attack Skill effect, heal half of the HP lost due to the Skill effect at the next Turn Start. (rounded down)\n\nWhen an ally heals HP due to an E.G.O Skill effect, heal +12.5% more HP. (rounded down)",
+      "name": "Консервированное мороженое",
+      "desc": "Когда союзник теряет ОЗ из-за эффекта собственного Навыка Атаки, восстанавливает половину потерянных ОЗ от эффекта Навыка в начале следующего хода (округляется вниз).\n\nКогда союзник восстанавливает ОЗ благодаря эффекту Навыка Э.Г.О, восстанавливает на +12.5% больше ОЗ (округляется вниз).",
       "simpleDesc": [
         {
           "abilityID": 9733,
-          "simpleDesc": "Heal HP at the next Turn Start"
+          "simpleDesc": "Восстанавливает ОЗ в начале следующего хода"
         },
         {
           "abilityID": 97331,
-          "simpleDesc": "Enhance E.G.O HP Heal effects"
+          "simpleDesc": "Усиливает эффекты восстановления ОЗ Э.Г.О"
         }
       ]
     },
     {
       "id": 9734,
-      "name": "E-Type Dimensional Dagger",
-      "desc": "Skill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +1 and deal +5% more damage.\n\nIf that Skill 1 was a Single-coin Skill, gain Clash Power +1 and deal +12.5% more damage instead.\n\nIf a W Corp. Identity dealt damage to an enemy with an Envy Skill(including E.G.O Skills), inflict 2 HP Healing Down. (does not stack)",
+      "name": "Пространственный Кинжал типа E",
+      "desc": "Навыки 1, получающие [Charge] или 'Уникальный Заряд', получают +1 к силе Столкновения и наносят на +5% больше урона.\n\nЕсли этот Навык 1 был Навыком с одной монетой, вместо этого получает +1 к силе Столкновения и наносит на +12.5% больше урона.\n\nЕсли Личность W Corp. нанесла урон врагу Навыком Зависти (включая Навыки Э.Г.О), накладывает 2 [HP Healing Down] (не складывается).",
       "simpleDesc": [
         {
           "abilityID": 9734,
-          "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+          "simpleDesc": "Навык 1 получает силу Столкновения и наносит больше урона"
         },
         {
           "abilityID": 97341,
-          "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+          "simpleDesc": "Навык 1 получает силу Столкновения и наносит больше урона"
         },
         {
           "abilityID": 97342,
-          "simpleDesc": "Inflict 2 HP Healing Down"
+          "simpleDesc": "Наносит 2 [HP Healing Down]"
         }
       ]
     },
     {
       "id": 9735,
-      "name": "Portable Barrier Battery",
-      "desc": "Skill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +2.\n\nWhen using a Skill 1 that gains [Charge] Count, gain +2 [Charge] Count and 1 [ChargeForceField]. (once per turn)\n\nIf a W Corp. Identity takes HP damage due to any effect other than a direct damage, gain 5 [ChargeForceField]. (once per turn)",
+      "name": "Портативная защитная батарея",
+      "desc": "Навыки 1, получающие [Charge] или 'Уникальный Заряд', получают +2 к силе Столкновения.\n\nПри использовании Навыка 1, получающего [Charge], получает +2 [Charge] и 1 [ChargeForceField] (раз за ход).\n\nЕсли Личность W Corp. получает урон ОЗ от любого эффекта, кроме прямого урона, получает 5 [ChargeForceField] (раз за ход).",
       "simpleDesc": [
         {
           "abilityID": 9735,
-          "simpleDesc": "Skill 1 gains Clash Power, Charge Count, and Charge Barrier"
+          "simpleDesc": "Навык 1 получает силу Столкновения, [Charge] и [ChargeForceField]"
         },
         {
           "abilityID": 97351,
-          "simpleDesc": "Gain Charge Barrier"
+          "simpleDesc": "Получает [ChargeForceField]"
         }
       ]
     },
     {
       "id": 9736,
-      "name": "Biogenerative Battery",
-      "desc": "Allies with [Charge] Count or 'Unique Charge' gain 1 Offense Level with every Clash. (max 6. Resets After Attack)\n\nTurn End: Identities with 10+ ([Charge] Count + 'Unique Charge') gain 1 [Agility] next turn. At 18+ ([Charge] Count + 'Unique Charge'), gain 3 [AttackUp] as well.",
+      "name": "Биогенеративная батарея",
+      "desc": "Союзники с [Charge] или 'Уникальный Заряд' получают 1 Уровень Атаки при каждом Столкновении (макс. 6, сбрасывается После Атаки).\n\nКонец хода: Личности с 10+ ([Charge] + 'Уникальный Заряд') получают 1 [Agility] в следующем ходу. При 18+ ([Charge] + 'Уникальный Заряд'), также получают 3 [AttackUp].",
       "simpleDesc": [
         {
           "abilityID": 9736,
-          "simpleDesc": "Gain Offense Level"
+          "simpleDesc": "Получает Уровень Атаки"
         },
         {
           "abilityID": 97361,
-          "simpleDesc": "Gain Haste"
+          "simpleDesc": "Получает [Agility]"
         },
         {
           "abilityID": 97362,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Получает [AttackUp]"
         }
       ]
     },
     {
       "id": 9737,
-      "name": "Cardiovascular Reactive Module",
-      "desc": "When an ally with [Charge] Count or 'Unique Charge' loses a Clash, gain Shield equal to ([Charge] Count + 'Unique Charge'). (once per turn)\n\nWhen at 50%- HP, gain (([Charge] Count + 'Unique Charge') x 2) Shield instead. (once per turn)\n\nIf a MultiCrack Office Identity received HP damage during this Encounter: next turn, they heal 33% of the HP lost last turn. (rounded down)",
+      "name": "Кардиоваскулярный реактивный модуль",
+      "desc": "Когда союзник с [Charge] или 'Уникальный Заряд' проигрывает Столкновение, получает Щит, равный ([Charge] + 'Уникальный Заряд') (раз за ход).\n\nКогда ОЗ 50% или меньше, вместо этого получает (([Charge] + 'Уникальный Заряд') x 2) Щита (раз за ход).\n\nЕсли Личность MultiCrack Office получила урон ОЗ во время этого Столкновения: в следующем ходу восстанавливает 33% от ОЗ, потерянных в прошлом ходу (округляется вниз).",
       "simpleDesc": [
         {
           "abilityID": 9737,
-          "simpleDesc": "Gain Shield"
+          "simpleDesc": "Получает Щит"
         },
         {
           "abilityID": 97371,
-          "simpleDesc": "Heal HP based on HP lost last turn"
+          "simpleDesc": "Восстанавливает ОЗ на основе потерянных ОЗ в прошлом ходу"
         }
       ]
     },
     {
       "id": 9738,
-      "name": "Prosthetic Joint Servos",
-      "desc": "Next turn: allies gain [Agility] and [Charge] Count equal to the number of [Charge] Count or 'Unique Charge' gaining base Attack Skills they used this turn. (max 2)\n\nWhen a MultiCrack Office Identity gains or consumes [Charge] Count with a base Attack Skill, they gain +1 additional [Charge] Count. (max 2)",
+      "name": "Сервоприводы протезных суставов",
+      "desc": "Следующий ход: союзники получают [Agility] и [Charge], равный количеству базовых Навыков Атаки, получающих [Charge] или 'Уникальный Заряд', использованных в этом ходу (макс. 2).\n\nКогда Личность MultiCrack Office получает или расходует [Charge] базовым Навыком Атаки, она получает +1 дополнительный [Charge] (макс. 2).",
       "simpleDesc": [
         {
           "abilityID": 9738,
-          "simpleDesc": "Gain Haste and Charge Count"
+          "simpleDesc": "Получает [Agility] и [Charge]"
         },
         {
           "abilityID": 97381,
-          "simpleDesc": "Gain more Charge Count"
+          "simpleDesc": "Получает больше [Charge]"
         }
       ]
     },
     {
       "id": 9739,
-      "name": "Crystallized Blood",
-      "desc": "Turn End: If this unit has [Laceration], halve the [Laceration] Potency on self and heal ([Laceration] Potency reduced x [Laceration] Count on self) HP. (rounded down. Can heal up to 10% of max HP at once)",
+      "name": "Кристаллизованная кровь",
+      "desc": "Конец хода: Если у этого юнита есть [Laceration], уменьшает вдвое потенциал [Laceration] на себе и восстанавливает (уменьшенный потенциал [Laceration] x количество [Laceration] на себе) ОЗ (округляется вниз. Может восстановить до 10% от максимального ОЗ за раз).",
       "simpleDesc": [
         {
           "abilityID": 9739,
-          "simpleDesc": "Halve Bleed Potency on self, heal HP"
+          "simpleDesc": "Уменьшает вдвое потенциал [Laceration] на себе, восстанавливает ОЗ"
         }
       ]
     },
     {
       "id": 9740,
-      "name": "Automated Joints",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% more damage (max 40%)\n\nTurn End: allies with [Charge] Count or 'Unique Charge' gain 1 [Agility] (max 2) and 1 [AttackDmgUp] (max 3) for every instance they used a base Attack Skill that consumes [Charge] Count or 'Unique Charge' in this Encounter.\n\nIf a MultiCrack Office Identity has 5+ [Charge], they gain Coin Power +1 to base Attack Skills.",
+      "name": "Автоматизированные суставы",
+      "desc": "Начало Столкновения: Этот Дар активируется, когда 5 или более Личностей имеют Навыки Атаки, получающие эффекты [Charge] или 'Уникальный Заряд'. (Не считая Навыки Э.Г.О, учитываются только Личности на поле в начале Столкновения)\n\nБазовые Навыки Атаки, расходующие [Charge] или 'Уникальный Заряд': получают +1 к силе Монеты и наносят +(сумма израсходованных [Charge] и 'Уникальный Заряд' этим Навыком x 4)% больше урона (макс. 40%)\n\nКонец хода: союзники с [Charge] или 'Уникальный Заряд' получают 1 [Agility] (макс. 2) и 1 [AttackDmgUp] (макс. 3) за каждый случай использования базового Навыка Атаки, расходующего [Charge] или 'Уникальный Заряд' в этом Столкновении.\n\nЕсли у Личности MultiCrack Office есть 5+ [Charge], она получает +1 к силе Монеты для базовых Навыков Атаки.",
       "simpleDesc": [
         {
           "abilityID": 9740,
-          "simpleDesc": "Gain Coin Power and deal more damage"
+          "simpleDesc": "Получает силу Монеты и наносит больше урона"
         },
         {
           "abilityID": 97401,
-          "simpleDesc": "Gain Haste and Damage Up next turn"
+          "simpleDesc": "Получает [Agility] и [AttackDmgUp] в следующем ходу"
         },
         {
           "abilityID": 97402,
-          "simpleDesc": "Gain Coin Power"
+          "simpleDesc": "Получает силу Монеты"
         }
       ]
     },
     {
       "id": 9741,
-      "name": "Overcharged Battery",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% more damage (max 40%)\n\nWhen allies with [Charge] Count or 'Unique Charge' engage in Clashes with base Attack Skills: Clash Power +2; gain +3 [Charge] Count upon Clash Win, and lose 6 [Charge] Count upon Clash Lose.\n\nWhen winning a Clash with an Envy Affinity base Attack Skill, inflict 1 [VioletTakeDamageUp]. (stacks 3 times)",
+      "name": "Перегруженная батарея",
+      "desc": "Начало Столкновения: Этот Дар активируется, когда 5 или более Личностей имеют Навыки Атаки, получающие эффекты [Charge] или 'Уникальный Заряд'. (Не считая Навыки Э.Г.О, учитываются только Личности на поле в начале Столкновения)\n\nБазовые Навыки Атаки, расходующие [Charge] или 'Уникальный Заряд': получают +1 к силе Монеты и наносят +(сумма израсходованных [Charge] и 'Уникальный Заряд' этим Навыком x 4)% больше урона (макс. 40%)\n\nКогда союзники с [Charge] или 'Уникальный Заряд' участвуют в Столкновениях базовыми Навыками Атаки: сила Столкновения +2; получают +3 [Charge] при победе в Столкновении и теряют 6 [Charge] при поражении в Столкновении.\n\nПри победе в Столкновении Навыком Атаки с Грехом Зависти, накладывает 1 [VioletTakeDamageUp]. (складывается 3 раза)",
       "simpleDesc": [
         {
           "abilityID": 9741,
-          "simpleDesc": "Gain Coin Power and deal more damage"
+          "simpleDesc": "Получает силу Монеты и наносит больше урона"
         },
         {
           "abilityID": 97411,
-          "simpleDesc": "Gain Clash Power; gain Charge Count upon Clash Win, lose Charge Count upon Clash Lose"
+          "simpleDesc": "Получает силу Столкновения; получает [Charge] при победе в Столкновении, теряет [Charge] при поражении в Столкновении"
         },
         {
           "abilityID": 97412,
-          "simpleDesc": "Inflict Envy Fragility"
+          "simpleDesc": "Накладывает [VioletTakeDamageUp]"
         }
       ]
     },
     {
       "id": 9742,
-      "name": "Perpetual Generator Servos",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% more damage (max 40%)\n\nWhen allies with [Charge] Count or 'Unique Charge' engage in a Clash with base Attack Skills: Clash Power +1; gain 2 [AttackUp] at Turn Start for every instance of Clash Win in that Clash during this Encounter. (max 6)\n\nIn this Encounter, when an ally takes damage that would kill them, consume all [Charge] Count and 'Unique Charge' on self; then, immediately heal (10 + sum of [Charge] Count and 'Unique Charge' consumed)% HP (once per Encounter); then, gain 3 [Protection] until the ally is defeated.",
+      "name": "Сервоприводы вечного генератора",
+      "desc": "Начало Столкновения: Этот Дар активируется, когда 5 или более Личностей имеют Навыки Атаки, получающие эффекты [Charge] или 'Уникальный Заряд'. (Не считая Навыки Э.Г.О, учитываются только Личности на поле в начале Столкновения)\n\nБазовые Навыки Атаки, расходующие [Charge] или 'Уникальный Заряд': получают +1 к силе Монеты и наносят +(сумма израсходованных [Charge] и 'Уникальный Заряд' этим Навыком x 4)% больше урона (макс. 40%)\n\nКогда союзники с [Charge] или 'Уникальный Заряд' участвуют в Столкновении базовыми Навыками Атаки: сила Столкновения +1; получают 2 [AttackUp] в начале хода за каждый случай победы в Столкновении во время этого Столкновения. (макс. 6)\n\nВ этом Столкновении, когда союзник получает урон, который мог бы убить его, расходует все [Charge] и 'Уникальный Заряд' на себе; затем немедленно восстанавливает (10 + сумма израсходованных [Charge] и 'Уникальный Заряд')% ОЗ (раз за Столкновение); затем получает 3 [Protection] пока союзник не будет побежден.",
       "simpleDesc": [
         {
           "abilityID": 9742,
-          "simpleDesc": "Gain Coin Power and deal more damage"
+          "simpleDesc": "Получает силу Монеты и наносит больше урона"
         },
         {
           "abilityID": 97421,
-          "simpleDesc": "Gain Clash Power and Offense Level Up"
+          "simpleDesc": "Получает силу Столкновения и [AttackUp]"
         },
         {
           "abilityID": 97422,
-          "simpleDesc": "Immediately before death, consume Charge Count to instantly heal and gain Protection"
+          "simpleDesc": "Непосредственно перед смертью, потребляет счетчик Заряда для мгновенного исцеления и получения Защиты"
         }
       ]
     },
     {
       "id": 9743,
-      "name": "Hearts-powered Jewel",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count: gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% more damage (max 40%)\n\nWhen allies have 15+ ([Charge] Count + 'Unique Charge'): when they use a Skill 3 that consumes [Charge] Count or 'Unique Charge', and if there are remaining [Charge] Count or 'Unique Charge' After Attack, consume all remaining [Charge] Count and 'Unique Charge' to deal (sum of [Charge] Count and 'Unique Charge' consumed x 7.5)% fixed bonus damage. (max 75%)\n\nMax [Charge] Count +5.",
+      "name": "Драгоценный Камень, Питаемый Сердцами",
+      "desc": "Начало Столкновения: Этот Дар активируется, когда 5 или более Персонажей имеют Навыки Атаки, которые получают счетчик [Заряда] или эффекты 'Уникального Заряда'. (Не считая Навыки Э.Г.О, учитываются только Персонажи на поле в Начале Столкновения)\n\nБазовые Навыки Атаки, потребляющие счетчик [Заряда]: получают Силу Монеты +1 и наносят +(сумма потребленных счетчиков [Заряда] и 'Уникального Заряда' этим Навыком x 4)% больше урона (максимум 40%)\n\nКогда союзники имеют 15+ (счетчик [Заряда] + 'Уникальный Заряд'): когда они используют Навык 3, потребляющий счетчик [Заряда] или 'Уникальный Заряд', и если остаются счетчики [Заряда] или 'Уникальный Заряд' После Атаки, потребляет все оставшиеся счетчики [Заряда] и 'Уникальный Заряд' для нанесения (сумма потребленных счетчиков [Заряда] и 'Уникального Заряда' x 7.5)% фиксированного бонусного урона. (максимум 75%)\n\nМаксимальный счетчик [Заряда] +5.",
       "simpleDesc": [
         {
           "abilityID": 9743,
-          "simpleDesc": "Gain Coin Power and deal more damage"
+          "simpleDesc": "Получает Силу Монеты и наносит больше урона"
         },
         {
           "abilityID": 97431,
-          "simpleDesc": "Spend additional Charge Count to deal bonus damage"
+          "simpleDesc": "Тратит дополнительный счетчик Заряда для нанесения бонусного урона"
         },
         {
           "abilityID": 97432,
-          "simpleDesc": "Max Charge Count +5"
+          "simpleDesc": "Максимальный счетчик Заряда +5"
         }
       ]
     }
