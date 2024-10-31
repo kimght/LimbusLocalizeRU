@@ -883,6 +883,266 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1121001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Жертва ради семьи",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n[WhenUse] Получает 10 [Laceration]\n- При 50%+ ОЗ, получает +15 дополнительного [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Жертва ради семьи",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n<style=\"highlight\">[WhenUse] Если у цели имеется 6+ [Laceration], Сила Монет +1</style>\n[WhenUse] Получает 10 [Laceration]\n- При 50%+ ОЗ, получает 15 дополнительного [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Жертва ради семьи",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n<style=\"highlight\">[WhenUse] Сила Монет +1 за каждые 6 [Laceration] на цели (макс. 2)</style>\n[WhenUse] Получает 10 [Laceration]\n- При 50%+ ОЗ, получает 15 дополнительного [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Удушающая вина",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n[WhenUse] Получает 10 [Laceration]\n[WhenUse] При 5+ [WornHeartGreg], тратит до 60 [BloodDinner]; после чего, получает 1 [BloodyHandGregFirst] за каждые 6 потраченных [BloodDinner]\n- При менее чем 5 [WornHeartGreg], получает 10 [Laceration] и 2 [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Удушающая вина",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n<style=\"highlight\">[WhenUse] Если у цели имеется 6+ [Laceration], Сила Монет +1</style>\n[WhenUse] Получает 10 [Laceration]\n[WhenUse] При 5+ [WornHeartGreg], тратит до 60 [BloodDinner]; после чего, получает 1 [BloodyHandGregFirst] за каждые 6 потраченных [BloodDinner]\n- При менее чем 5 [WornHeartGreg], получает 10 [Laceration] и 2 [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">+2</style> счётчика [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Удушающая вина",
+          "desc": "[WhenUse] Получает +3 [Aggro] на этот слот Навыка на следующий ход\n<style=\"highlight\">[WhenUse] Сила Монет +1 за каждые 6 [Laceration] на цели (макс. 2)</style>\n[WhenUse] Получает 10 [Laceration]\n[WhenUse] При 5+ [WornHeartGreg], тратит до 60 [BloodDinner]; после чего, получает 1 [BloodyHandGregFirst] за каждые 6 потраченных [BloodDinner]\n- При менее чем 5 [WornHeartGreg], получает 10 [Laceration] и 3 [BloodyHandGregFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Непростительный грех",
+          "desc": "При ударе этим Навыком: исцеляет 50% ОЗ от нанесённого урона (макс. 100 за Навык)\n[WhenUse] Наносит +1% больше урона за каждый 1% недостающего ОЗ на себе (макс. 60%)\n[WhenUse] Если у цели имеется 6+ [Laceration], Сила Монет +1\n[WhenUse] Тратит каждый лишний счётчик [BloodyHandGregFirst] свыше 10, чтобы получить следующие эффекты:\n- Исцеляет (Потраченные счётчики x 3) ОЗ на себе\n- Если этот Грешник потратил 10+ счётчика, Сила Монет +1\n[WhenUse] Получает 10 [Laceration]\n[EndSkill] Исцеляет 10% ОЗ на себе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Непростительный грех",
+          "desc": "При ударе этим Навыком: исцеляет 50% ОЗ от нанесённого урона (макс. 100 за Навык)\n[WhenUse] Наносит <style=\"highlight\">+1.5%</style> больше урона за каждый 1% недостающего ОЗ на себе <style=\"highlight\">(макс. 90%)</style>\n[WhenUse] Если у цели имеется 6+ [Laceration], Сила Монет +1\n[WhenUse] Тратит каждый лишний счётчик [BloodyHandGregFirst] свыше 10 чтобы получить следующие эффекты:\n- Исцеляет (Потраченные счётчики x 3) ОЗ на себе\n- Если этот Грешник потратил 10+ счётчика, Сила Монет +1\n<style=\"highlight\">- Если этот Грешник потратил 20+ счётчика, Перебрасывает последнюю Монету</style>\n[WhenUse] Получает 10 [Laceration]\n[EndSkill] Исцеляет 10% ОЗ на себе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">+2</style> счётчика [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">+2</style> счётчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Угасшее терпение",
+          "desc": "[StartBattle] Получает 3 [WornHeartGreg] (раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Угасшее терпение",
+          "desc": "<style=\"highlight\">[StartBattle] При 40%+ ОЗ, получает 5 [Laceration] и активирует [Laceration] до 3 раз на себе (раз за ход; теряет счётчик [Laceration] равное количеству раз, когда оно было активировано)\n[StartBattle] При менее чем 40% ОЗ, тратит до 20 [BloodDinner] и исцеляет, то же количество в качестве ОЗ (раз за ход)</style>\n[StartBattle] Получает 3 [WornHeartGreg] (раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

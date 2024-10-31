@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удар Застывшей Кровью",
+                    "name": "Удар застывшей кровью",
                     "desc": "",
                     "coinlist": [
                         {
@@ -24,7 +24,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Рассечение Застывшей Кровью",
+                    "name": "Рассечение застывшей кровью",
                     "desc": "[WhenUse] Если у цели 8+ [Laceration], наносит +20% урона",
                     "coinlist": [
                         {
@@ -63,7 +63,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Мощное Рассечение Застывшей Кровью",
+                    "name": "Мощное рассечение застывшей кровью",
                     "desc": "[WhenUse] Если у цели 6+ [Laceration], Базовая Сила +1\nНаносит +5% урона за каждый [HardenedBlood] (макс. 25%)\n[EndSkill] Потребляет все [HardenedBlood] и [BloodScissor]",
                     "coinlist": [
                         {
@@ -108,7 +108,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Клин Застывшей Кровью",
+                    "name": "Клин застывшей кровью",
                     "desc": "",
                     "coinlist": [
                         {
@@ -127,7 +127,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Рубка Застывшей Кровью",
+                    "name": "Рубка застывшей кровью",
                     "desc": "[WhenUse] Если у цели 4+ [Laceration], наносит +10% урона",
                     "coinlist": [
                         {
@@ -166,7 +166,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Мощная Рубка Застывшей Кровью",
+                    "name": "Мощная рубка застывшей кровью",
                     "desc": "[WhenUse] Если у цели счётчик 6+ [Laceration], Базовая Сила +1\nНаносит +5% урона за каждый [HardenedBlood] (макс. 25%)\n[EndSkill] Потребляет все [HardenedBlood] и [BloodScissor]",
                     "coinlist": [
                         {
@@ -237,7 +237,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Давайте Нарядимся",
+                    "name": "Давайте нарядимся",
                     "desc": "[WhenUse] Если у цели 6+ [Laceration], наносит +20% урона",
                     "coinlist": [
                         {
@@ -259,7 +259,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "У Нас Для Вас Событие!",
+                    "name": "У нас для вас событие!",
                     "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodScissor] за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если этот юнит не смог потребить [BloodDinner] этим Навыком, получает 5 [Laceration] и 1 [HardenedBlood].\n[WhenUse] Если у цели 5+ [Laceration], Сила Монеты +1",
                     "coinlist": [
                         {
@@ -285,7 +285,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Не Торопи Меня",
+                    "name": "Не торопи меня",
                     "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила Монеты +1\n[WhenUse] Сила Столкновения +1 за каждый [BloodScissor] (макс. 3)\nНаносит +7% урона за каждый [HardenedBlood] (макс. 35%)\n[EndSkill] Потребляет все [HardenedBlood]",
                     "coinlist": [
                         {
@@ -363,7 +363,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Я Возьму Ещё",
+                    "name": "Я возьму ещё",
                     "desc": "[WhenUse] Если у цели 4+ [Laceration], наносит +10% урона",
                     "coinlist": [
                         {
@@ -385,7 +385,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Какой Божественный Вкус!",
+                    "name": "Какой божественный вкус!",
                     "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodScissor] за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если этот юнит не смог потребить [BloodDinner] этим Навыком, получает 5 [Laceration] и 1 [HardenedBlood].\n[WhenUse] Если у цели 5+ [Laceration], Сила Монеты +1",
                     "coinlist": [
                         {
@@ -667,7 +667,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Обычное Злодейство",
+                    "name": "Обычное злодейство",
                     "desc": "[WhenUse] Получает 2 [Breath]",
                     "coinlist": [
                         {

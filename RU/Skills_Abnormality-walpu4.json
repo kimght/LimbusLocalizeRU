@@ -76,7 +76,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "То, что Непостижимо",
+          "name": "То, что непостижимо",
           "desc": "[WhenUse] Получает 2 [VioletUnderstand]",
           "coinlist": [
             {
@@ -169,7 +169,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Мерцающие Символы Понимания",
+          "name": "Мерцающие символы понимания",
           "desc": "[CantDuel]",
           "coinlist": [
             {
@@ -195,7 +195,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Мерцающие Символы Понимания",
+          "name": "Мерцающие символы понимания",
           "desc": "Если у цели 20- СД, Сила Столкновения +1",
           "coinlist": [
             {
@@ -221,7 +221,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "То, что Непостижимо",
+          "name": "То, что непостижимо",
           "desc": "[WhenUse] Получает 2 [Protection]",
           "coinlist": [
             {
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Спешащие Руки Покоя",
+          "name": "Спешащие руки покоя",
           "desc": "[CantDuel]",
           "coinlist": [
             {

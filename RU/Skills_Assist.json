@@ -1,0 +1,129 @@
+{
+    "dataList": [
+        {
+            "id": 40000101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Багровый удар",
+                    "desc": "[WhenUse] Если цель имеет 5+ негативных эффектов, Сила в Столкновении +1\n[WhenUse] Сила Навыка +1 за каждые 3 [Burst] на цели (макс. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 [AttackUp] на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 [AttackUp] на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Багровый Феникс",
+                    "desc": "[WhenUse] Если цель имеет 5+ негативных эффектов, Сила Монет +1\n[WhenUse] Сила Монет +1 за каждые 6 [Burst] на цели (макс. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 [DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +1 счётчика [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 [AttackUp] на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает [Breath] равное [Burst] на цели (макс. 5)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает счётчик [Breath] равное счётчику [Burst] на цели (макс. 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит +50% больше урона"
+                                },
+                                {
+                                    "desc": "[CriticalEnemyTargetKillFail] Наносит +2 счётчика [Burst]"
+                                },
+                                {
+                                    "desc": "[CriticalEnemyTargetKill] Получает 3 [AttackUp] на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Багряная весна",
+                    "desc": "[StartBattle] Получает +1 Кол-во Целей за каждые 4 негативных эффекта на цели (макс. 2)\n[WhenUse] Если цель имеет 5+ негативных эффектов, Сила Навыка +5\n[WhenUse] Если сумма потенциала и счётчика [Burst] на цели равна 15+, Сила Монет +5\n[WinDuel] Наносит +2 счётчика [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 7 Кровотечение"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит +200% больше урона"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит +3 счётчика Кровотечение"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Получает 2 [Breath] и +1 счётчик [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Искусный Уворот",
+                    "desc": "[OnSucceedEvade] Получает 1 [Breath] на следующий ход. (3 раза за ход)"
+                }
+            ]
+        }
+    ]
+}

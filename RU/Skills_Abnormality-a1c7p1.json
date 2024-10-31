@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Прямой Удар",
+          "name": "Прямой удар",
           "desc": "[WhenUse] Получает 2 [Breath]",
           "coinlist": [
             {

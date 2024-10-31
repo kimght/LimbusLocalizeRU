@@ -220,7 +220,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Весенний Дракон",
+          "name": "Весенний дракон",
           "desc": "[WhenUse] Получает 2 [Agility] на следующий ход",
           "coinlist": [
             {
@@ -246,7 +246,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Осенний Лотос",
+          "name": "Осенний лотос",
           "desc": "[WhenUse] Получает 2 [Agility] на следующий ход",
           "coinlist": [
             {
@@ -272,7 +272,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Слабый След",
+          "name": "Слабый след",
           "desc": "[WhenUse] Получает 3 [Agility] на следующий ход",
           "coinlist": [
             {
@@ -298,7 +298,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Бледный След",
+          "name": "Бледный след",
           "desc": "Если скорость пользователя выше скорости цели на 5+, Сила Столкновения +5",
           "coinlist": [
             {
@@ -324,7 +324,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Красная Стрела",
+          "name": "Красная стрела",
           "desc": "[WhenUse] Получает 2 [Agility] на следующий ход",
           "coinlist": [
             {
@@ -350,7 +350,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Черная Стрела",
+          "name": "Черная стрела",
           "desc": "[WhenUse] Получает 2 [Agility] на следующий ход",
           "coinlist": [
             {
@@ -376,7 +376,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Зеркало Воды",
+          "name": "Зеркало воды",
           "desc": "[CanDuelGuard]\n[WhenUse] Получает 3 [Protection]\n[WinDuel] Наносит урон ОЗ, равный финальной силе столкновения этого Навыка",
           "coinlist": [
             {

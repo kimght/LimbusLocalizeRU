@@ -1,6 +1,10 @@
 {
-  "version": "1.1.26",
+  "version": "1.1.27",
   "files": [
+    {
+      "path": "RU/Skills_Assist.json",
+      "checksum": "a14ccceb9cdd10eb5e992a9082179296"
+    },
     {
       "path": "RU/BattleKeywords-tkt.json",
       "checksum": "807961edb14126b8da2101a2aeff4713"
@@ -31,7 +35,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c7p3.json",
-      "checksum": "9632e47b2f340145216a1be6f91088e4"
+      "checksum": "bdd2dfe6bd2c5e3df8c0af876ad5dc91"
     },
     {
       "path": "RU/AbEvents_mowe.json",
@@ -43,7 +47,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p3.json",
-      "checksum": "8348332894c229557a5af27b4066b1eb"
+      "checksum": "53118c88550c309a1eca8462f1e213e3"
     },
     {
       "path": "RU/Enemies-a1c951.json",
@@ -83,7 +87,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c7p2.json",
-      "checksum": "7807b287ada13528b4e1fcdcb2e65e51"
+      "checksum": "8fbb2b3061c9921772e60f75445d6355"
     },
     {
       "path": "RU/Bufs-mowe.json",
@@ -191,7 +195,7 @@
     },
     {
       "path": "RU/Bufs.json",
-      "checksum": "3f5a676794c2d0e566abe6344bb8e9f1"
+      "checksum": "0486eaee1c34906b73f2a984697ae1ea"
     },
     {
       "path": "RU/RailwayDungeonUI_2.json",
@@ -207,7 +211,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p3.json",
-      "checksum": "c2b2ca39a3c28ef918c66aa0bf62a1ab"
+      "checksum": "63ec9c0d568ba84434205896a5aa8721"
     },
     {
       "path": "RU/Passives_Enemy-a1c7p1.json",
@@ -271,7 +275,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p1.json",
-      "checksum": "06ee426a7a0fccba74f4948783ea2f85"
+      "checksum": "f8d3fee1bdec1ebd00f4aae3a3f4a4fb"
     },
     {
       "path": "RU/TutorialPopUpDesc.json",
@@ -459,7 +463,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p1.json",
-      "checksum": "87d6ff8c248b5eb7a930aba168187ca3"
+      "checksum": "cccf0daef7d040e273467f085aabd19c"
     },
     {
       "path": "RU/BattleKeywords-mowe.json",
@@ -523,7 +527,7 @@
     },
     {
       "path": "RU/Skills_personality-12.json",
-      "checksum": "88d29fd543da1316dbf0dd15beeb60e9"
+      "checksum": "91b852b38f8fc62ef2d9fc1a8efd48ed"
     },
     {
       "path": "RU/Passives_Enemy.json",
@@ -547,7 +551,7 @@
     },
     {
       "path": "RU/Skills_Ego_Personality-08.json",
-      "checksum": "0e2bcd2de191b986f848b1e4360e122d"
+      "checksum": "56c8d64a965bd5456cbbaba3e11e1256"
     },
     {
       "path": "RU/RailwayDungeonUI_3.json",
@@ -634,6 +638,10 @@
       "checksum": "7db3075f1a18b30b2577d6c339565df8"
     },
     {
+      "path": "RU/Passives_Assist.json",
+      "checksum": "52c41ac5e6c291edcc989f15c06f2796"
+    },
+    {
       "path": "RU/BattleHint.json",
       "checksum": "e102a39c8cd5973e5beafe3a6f1826fc"
     },
@@ -670,6 +678,10 @@
       "checksum": "2f438ffbe9e48961ee5855af2ced8f90"
     },
     {
+      "path": "RU/MirrorDungeonUI_4.json",
+      "checksum": "49a9b0b3d7d1ae9ee0ad8d8e1d7cc2cd"
+    },
+    {
       "path": "RU/PanicInfo-a1c7p2.json",
       "checksum": "c5ec26f5a2f306500d4dedf4cf47a565"
     },
@@ -679,7 +691,7 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "f6ea66f65a71c38627e8642538224ce2"
+      "checksum": "42a68c10abd8a95e5aa17370e58ed4c8"
     },
     {
       "path": "RU/Bufs-a1c7p1.json",
@@ -752,6 +764,10 @@
     {
       "path": "RU/Passive_Ego.json",
       "checksum": "b7297bcd8df4cce849abddf96e455ddb"
+    },
+    {
+      "path": "RU/MirrorDungeonEnemyBuffDesc.json",
+      "checksum": "ac8a4c5c7458a021b3df247dcb43556f"
     },
     {
       "path": "RU/ChoiceEventTarget.json",
@@ -851,7 +867,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-walpu4.json",
-      "checksum": "b448acb31883ed239a5da394332096bf"
+      "checksum": "691e6ba512a330e701f637edf89e4653"
     },
     {
       "path": "RU/Skills_personality-03.json",
@@ -863,7 +879,7 @@
     },
     {
       "path": "RU/BattleKeywords.json",
-      "checksum": "f6c275671f80c187addbe3e8dbea6576"
+      "checksum": "99c88e19de9254cb63c85268744a70f9"
     },
     {
       "path": "RU/Passives_Abnormality-mowe.json",
@@ -967,7 +983,7 @@
     },
     {
       "path": "RU/Enemies-a1c7p3.json",
-      "checksum": "7dd2808433f7869cd38ab4bcc52b6930"
+      "checksum": "22a3c6fbb66d4f0964978128a3f5c93b"
     },
     {
       "path": "RU/Passives_Enemy91-4.json",
@@ -1071,7 +1087,7 @@
     },
     {
       "path": "RU/RailwayDungeon.json",
-      "checksum": "0a2be4598338fb3487b7786375d3a4ec"
+      "checksum": "2c1cfec07d7c249f53fc48597c12e9c0"
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c5p1.json",
@@ -1079,7 +1095,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p2.json",
-      "checksum": "c4f99789671c494498e859674ec35120"
+      "checksum": "3ae3edb885dd619b1f9893f9cd2de38b"
     },
     {
       "path": "RU/PanicInfo-a1c7p3.json",
@@ -1104,6 +1120,10 @@
     {
       "path": "RU/PanicInfo-mowe.json",
       "checksum": "e92015b1e9b996f5de22070caaf62a74"
+    },
+    {
+      "path": "RU/MirrorDungeonEgoGiftLockedDesc.json",
+      "checksum": "17c130c6159ad2b74018728a53f684e6"
     },
     {
       "path": "RU/StoryDungeonUI.json",
@@ -1203,7 +1223,7 @@
     },
     {
       "path": "RU/Personalities.json",
-      "checksum": "a157d793c8fcdc7a77f9fe7f7919137c"
+      "checksum": "b574e5879268df8a80873aec7d12608c"
     },
     {
       "path": "RU/ResistText.json",
@@ -1251,7 +1271,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p2.json",
-      "checksum": "f751001782185a4b555b1400b842b74a"
+      "checksum": "506e687a41dea7a08b3c1e2990fc9d2e"
     },
     {
       "path": "RU/AbDlg_YiSang.json",
@@ -1319,7 +1339,11 @@
     },
     {
       "path": "RU/Enemies-walpu4.json",
-      "checksum": "61e666f278c172be909f4dfedc223df0"
+      "checksum": "e1faa6a95367f9c455e61ac6f5f63c41"
+    },
+    {
+      "path": "RU/MirrorDungeonBattleRewardCase.json",
+      "checksum": "609c954c8a8a965a660ae930d1c494b4"
     },
     {
       "path": "RU/Skills_personality-11.json",
@@ -1471,7 +1495,7 @@
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_DonQuixote_21.json",
-      "checksum": "5ac714c6cf8b5d9033a31627a8831f41"
+      "checksum": "b1df2ded6c0397c6a9615e4b39539319"
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_Malkuth_10.json",
@@ -1495,7 +1519,7 @@
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_LaMancha_22.json",
-      "checksum": "cc900167555e943548ed86132f9cadb8"
+      "checksum": "9d2b75020bbd11e3d7f9a57ac594ef2f"
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_Sinclair_4.json",
@@ -1507,7 +1531,7 @@
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_Dante_1.json",
-      "checksum": "57f172bcf01f13841c14e268591c5cfc"
+      "checksum": "5b749c03bf4d2bb775236977200cabb7"
     },
     {
       "path": "RU/BattleAnnouncerDlg/Announcer_Rodion_5.json",
@@ -1771,7 +1795,7 @@
     },
     {
       "path": "RU/EGOVoiceDig/Voice_EGO_Enemy_999.json",
-      "checksum": "bed2c1e32ab04bbe40768bc8e3802c75"
+      "checksum": "2ecca1401755be533c4dcb9f3071b43a"
     },
     {
       "path": "RU/EGOVoiceDig/Voice_EGO_HongLu_6.json",
@@ -1815,7 +1839,7 @@
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_Ahab.json",
-      "checksum": "bf1cbc347ea044696c2a09bf0f0c4c78"
+      "checksum": "ef7dc10cebd2de6493f55554f4190030"
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_MaouHeath.json",
@@ -1823,7 +1847,7 @@
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_DistHeath.json",
-      "checksum": "eb2a031fc72ae2eff2c022a2c0cdcc97"
+      "checksum": "4c188cdc25829a79b01a516bfc11d585"
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_Cromer1.json",
@@ -1831,7 +1855,7 @@
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_DongLang.json",
-      "checksum": "148712c957f8581655e76fdc327b900d"
+      "checksum": "86f5d5c6bc0d0e9eda486ddac7c807fb"
     },
     {
       "path": "RU/StoryData/1D203B.json",
@@ -2408,6 +2432,10 @@
     {
       "path": "RU/StoryData/S526A.json",
       "checksum": "660519781f22c0304a9cc6a795efb75f"
+    },
+    {
+      "path": "RU/StoryData/P11210.json",
+      "checksum": "0b1b4f44e1a2dd2cf498913f4f5e055f"
     },
     {
       "path": "RU/StoryData/P10511.json",

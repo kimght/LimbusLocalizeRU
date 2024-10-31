@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удар Застывшей Кровью",
+                    "name": "Удар застывшей кровью",
                     "desc": "[WhenUse] Если этот юнит имеет [HardenedBlood], и если Монета этого Навыка наносит [Burst], так же наносит +1 счётчика [Laceration]",
                     "coinlist": [
                         {
@@ -31,7 +31,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бесцельная Ярость",
+                    "name": "Бесцельная ярость",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1\n[WhenUse] Если этот юнит имеет 3+ [HardenedBlood], и если Монета этого Навыка наносит [Burst], так же наносит 2 [Laceration]",
                     "coinlist": [
                         {
@@ -67,7 +67,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Безудержный Удар",
+                    "name": "Безудержный удар",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
@@ -132,7 +132,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удар Застывшей Кровью",
+                    "name": "Удар застывшей кровью",
                     "desc": "[WhenUse] Если этот юнит имеет [HardenedBlood], и если Монета этого Навыка наносит [Burst], так же наносит +1 счётчика [Laceration]",
                     "coinlist": [
                         {
@@ -158,7 +158,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бесцельная Ярость",
+                    "name": "Бесцельная ярость",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1\n[WhenUse] Если этот юнит имеет 3+ [HardenedBlood], и если Монета этого Навыка наносит [Burst], так же наносит +1 счётчика [Laceration]",
                     "coinlist": [
                         {
@@ -194,7 +194,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Безудержный Удар",
+                    "name": "Безудержный удар",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
@@ -259,7 +259,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Избиение Застывшей Кровью",
+                    "name": "Избиение застывшей кровью",
                     "desc": "[DefeatDuel] Получает 10 [Laceration] и +1 счётчика [Laceration]",
                     "coinlist": [
                         {
@@ -281,7 +281,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Хлестание Застывшей Кровью",
+                    "name": "Хлестание застывшей кровью",
                     "desc": "[WhenUse] Если цель имеет 8+ [Laceration], наносит на +20% damage",
                     "coinlist": [
                         {
@@ -320,7 +320,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удар Застывшей Кровью",
+                    "name": "Удар застывшей кровью",
                     "desc": "[WhenUse] Если цель имеет 6+ [Laceration], Базовая Сила +1\n[WhenUse] Когда наносит [Laceration] этим Навыком, наносит [Burst] равное [HardenedBlood] на себе\n[EndSkill] Тратит все [HardenedBlood] и [BloodyHand]",
                     "coinlist": [
                         {
@@ -368,7 +368,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Избиение Застывшей Кровью",
+                    "name": "Избиение застывшей кровью",
                     "desc": "[DefeatDuel] Получает 10 [Laceration] и +1 счётчика [Laceration]",
                     "coinlist": [
                         {
@@ -390,7 +390,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Хлестание Застывшей Кровью",
+                    "name": "Хлестание застывшей кровью",
                     "desc": "[WhenUse] Если цель имеет 4+ [Laceration], наносит на +10% больше урона",
                     "coinlist": [
                         {
@@ -429,7 +429,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удар Застывшей Кровью",
+                    "name": "Удар застывшей кровью",
                     "desc": "[WhenUse] Если цель имеет 6+ [Laceration], Базовая Сила +1\n[WhenUse] Когда наносит [Laceration] этим Навыком, наносит [Burst] равное [HardenedBlood] на себе\n[EndSkill] Тратит все [HardenedBlood] и [BloodyHand]",
                     "coinlist": [
                         {
@@ -525,7 +525,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Угасшее Терпение",
+                    "name": "Угасшее терпение",
                     "desc": "[WhenUse] Тратит до 50 [BloodDinner]; получает 1 [BloodyHand] за каждое 10 потраченных [BloodDinner]\n[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
@@ -551,7 +551,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вечное Искупление",
+                    "name": "Вечное искупление",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1\n[WhenUse] Сила в Столкновении +1 за каждое [HardenedBlood] на себе\n[DefeatDuel] Теряет 2 [BloodyHand]",
                     "coinlist": [
                         {
@@ -657,7 +657,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Угасшее Терпение",
+                    "name": "Угасшее терпение",
                     "desc": "[WhenUse] Тратит до 50 [BloodDinner]; получает 1 [BloodyHand] за каждое 10 потраченных [BloodDinner]\n[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
@@ -683,7 +683,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вечное Искупление",
+                    "name": "Вечное искупление",
                     "desc": "[WhenUse] Если цель имеет 5+ [Laceration], Сила Монет +1\n[WhenUse] Сила в Столкновении +1 за каждое [HardenedBlood] на себе\n[DefeatDuel] Теряет 2 [BloodyHand]",
                     "coinlist": [
                         {
@@ -741,7 +741,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Нисходящий разрез Застывшей Кровью",
+                    "name": "Нисходящий разрез застывшей кровью",
                     "desc": "[WhenUse] При 5+ [FestivalFever], Сила Навыка +1",
                     "coinlist": [
                         {
@@ -763,7 +763,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Резка Застывшей Кровью",
+                    "name": "Резка застывшей кровью",
                     "desc": "[WhenUse] Сила Навыка +1 за каждое 5 [FestivalFever] на себе или каждое 6 [Laceration] на цели (макс. 2)\n[WhenUse] Получает 15 [Laceration], сразу же активируя его, и уменьшает счётчик [Laceration] на 1",
                     "coinlist": [
                         {
@@ -792,7 +792,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Раскрытая Сила Застывшей Крови",
+                    "name": "Раскрытая сила застывшей крови",
                     "desc": "[WhenUse] Получает 15 [Laceration] и +2 счётчика [Laceration], сразу же активирует его дважды, затем уменьшает счётчик [Laceration] на 2\n[EndBattle] Тратит все [HardenedBlood] и [FestivalFever]",
                     "coinlist": [
                         {
@@ -838,7 +838,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Хлестание Застывшей Кровью",
+                    "name": "Хлестание застывшей кровью",
                     "desc": "[WhenUse] При 5+ [FestivalFever], Сила Навыка +1",
                     "coinlist": [
                         {
@@ -860,7 +860,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Дикий Рывок Застывшей Кровью",
+                    "name": "Дикий рывок застывшей кровью",
                     "desc": "[WhenUse] Сила Навыка +1 за каждое 5 [FestivalFever] на себе или каждое 6 [Laceration] на цели (макс. 2)\n[WhenUse] Получает 15 [Laceration], сразу же активируя его, и уменьшает счётчик [Laceration] на 1",
                     "coinlist": [
                         {
@@ -889,7 +889,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Раскрытая Сила Застывшей Крови",
+                    "name": "Раскрытая сила застывшей крови",
                     "desc": "[WhenUse] Получает 15 [Laceration] и +2 счётчика [Laceration], сразу же активирует его дважды, затем уменьшает счётчик [Laceration] на 2\n[EndBattle] Тратит все [HardenedBlood] и [FestivalFever]",
                     "coinlist": [
                         {
@@ -989,7 +989,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Расцветайте Улыбками Радости!",
+                    "name": "Расцветайте улыбками Радости!",
                     "desc": "[WhenUse] При 5+ [FestivalFever], Сила Монет +1\n[WhenUse] Если цель имеет 6+ [Laceration], Сила в Столкновении +1",
                     "coinlist": [
                         {
