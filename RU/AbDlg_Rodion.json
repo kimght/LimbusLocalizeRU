@@ -4,112 +4,112 @@
       "id": 1,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "Look, I’ll lop off my hand if I somehow don’t make it. Deal?",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Слушай, я отрублю себе руку, если как-то не справлюсь. Идёт?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
       "id": 2,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "The odds are nice. Leave it to me.",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Шансы хороши. Положись на меня.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
       "id": 3,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "Sure, why not. You trust me, yeah?",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Конечно, почему бы и нет. Ты мне доверяешь, ага?",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
       "id": 4,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "This might take a tiiiiny bit of luck to pull off.",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Для этого может понадобиться немнооожечко удачи.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
       "id": 5,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "Leave me out of this, m’kay?",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Не втягивайте меня в это, лады?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
       "id": 6,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "I bet the others woulda gone bust.",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Держу пари, другие бы провалились.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
       "id": 7,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "Kurokumo Rodion",
-      "dialog": "Totally warned ya.",
+      "teller": "Родя из клана «Курокумо»",
+      "dialog": "Вполне предупреждала 'тя.",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
       "id": 8,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "Look, I’ll lop off my hand if I somehow don’t make it. Deal?",
+      "teller": "Родя",
+      "dialog": "Слушай, я отрублю себе руку, если как-то не справлюсь. Идёт?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
       "id": 9,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "The odds are nice. Leave it to me.",
+      "teller": "Родя",
+      "dialog": "Шансы хороши. Положись на меня.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
       "id": 10,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "Sure, why not. You trust me, yeah?",
+      "teller": "Родя",
+      "dialog": "Конечно, почему бы и нет. Ты мне доверяешь, ага?",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
       "id": 11,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "This might take a tiiiiny bit of luck to pull off.",
+      "teller": "Родя",
+      "dialog": "Для этого может понадобиться немнооожечко удачи.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
       "id": 12,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "Leave me out of this, m’kay?",
+      "teller": "Родя",
+      "dialog": "Не втягивайте меня в это, лады?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
       "id": 13,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "I bet the others woulda gone bust.",
+      "teller": "Родя",
+      "dialog": "Держу пари, другие бы провалились.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
       "id": 14,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "Rodion",
-      "dialog": "Totally warned ya.",
+      "teller": "Родя",
+      "dialog": "Вполне предупреждала 'тя.",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }
   ]

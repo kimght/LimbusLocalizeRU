@@ -1,59 +1,59 @@
-﻿{
+{
   "dataList": [
     {
       "id": 1,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "Failure would be a vagary at this rate.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "При таком раскладе провал был бы случайностью.",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
       "id": 2,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "I believe I am with a fair chance of success.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Полагаю, у меня неплохие шансы на успех.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
       "id": 3,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "If you reckon that one will make it, perhaps one might make it.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Если вы считаете, что получится, возможно, так оно и будет.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
       "id": 4,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "Would you acquiesce to an unsatisfactory outcome?",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Согласитесь ли вы на неудовлетворительный результат?",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
       "id": 5,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "I feel this will be an idle affair.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Чувствую, это будет пустой затеей.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
       "id": 6,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "I was met with mirth.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Я был приятно удивлен.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
       "id": 7,
       "personalityid": 10102,
       "voicefile": 0,
-      "teller": "Seven Yi Sang",
-      "dialog": "Man will despair.",
+      "teller": "И Сан Ассоциации «Севен»",
+      "dialog": "Люди впадают в отчаяние.",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
@@ -61,7 +61,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "Failure would be a vagary at this rate.",
+      "dialog": "При таком раскладе провал был бы случайностью.",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -69,7 +69,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "I believe I am with a fair chance of success.",
+      "dialog": "Полагаю, у меня неплохие шансы на успех.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -77,7 +77,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "If you reckon that one will make it, perhaps one might make it.",
+      "dialog": "Если вы считаете, что получится, возможно, так оно и будет.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -85,7 +85,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "Would you acquiesce to an unsatisfactory outcome?",
+      "dialog": "Согласитесь ли вы на неудовлетворительный результат?",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
@@ -93,7 +93,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "I feel this will be an idle affair.",
+      "dialog": "Чувствую, это будет пустой затеей.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -101,7 +101,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "I was met with mirth.",
+      "dialog": "Я был приятно удивлен.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
@@ -109,7 +109,7 @@
       "personalityid": 10101,
       "voicefile": 0,
       "teller": "Yi Sang",
-      "dialog": "Man will despair.",
+      "dialog": "Люди впадают в отчаяние.",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }
   ]

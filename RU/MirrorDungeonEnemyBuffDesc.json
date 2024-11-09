@@ -2,391 +2,391 @@
   "dataList": [
     {
       "id": 992001,
-      "content": "Enemies inflict +1 more Burn with Skills"
+      "content": "Противники наносят на +1 больше Огня от Навыков"
     },
     {
       "id": 992002,
-      "content": "Enemies inflict +1 more Bleed with Skills"
+      "content": "Противники наносят на +1 больше Кровотечения от Навыков"
     },
     {
       "id": 992003,
-      "content": "Enemies inflict +1 more Tremor with Skills"
+      "content": "Противники наносят на +1 больше Тремора от Навыков"
     },
     {
       "id": 992004,
-      "content": "Enemies inflict +1 more Rupture with Skills"
+      "content": "Противники наносят на +1 больше Разрыва от Навыков"
     },
     {
       "id": 992005,
-      "content": "Enemies inflict +1 more Sinking with Skills"
+      "content": "Противники наносят на +1 больше Утопания от Навыков"
     },
     {
       "id": 992006,
-      "content": "Enemies deal +15% Slash damage"
+      "content": "Противники наносят +15% Режущего урона"
     },
     {
       "id": 992007,
-      "content": "Enemies deal +15% Pierce damage"
+      "content": "Противники наносят +15% Пронзающего урона"
     },
     {
       "id": 992008,
-      "content": "Enemies deal +15% Blunt damage"
+      "content": "Противники наносят +15% Дробящего урона"
     },
     {
       "id": 992009,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Wrath)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Гнев)"
     },
     {
       "id": 992010,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Lust)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Похоть)"
     },
     {
       "id": 992011,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Sloth)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Леность)"
     },
     {
       "id": 992012,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Glut.)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Чревоугод.)"
     },
     {
       "id": 992013,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Gloom)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Уныние)"
     },
     {
       "id": 992014,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Pride)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Гордыню)"
     },
     {
       "id": 992015,
-      "content": "Enemy Resistance against all Affinities -0.1 (Except Envy)"
+      "content": "Сопротивление врагов ко всем Грехам -0.1 (Исключая Envy)"
     },
     {
       "id": 992016,
-      "content": "Enemy Max HP +15%"
+      "content": "Макс. ОЗ Противника +15%"
     },
     {
       "id": 992017,
-      "content": "Enemy Slot Weight +1"
+      "content": "Вражеское Кол-во Целей +1"
     },
     {
       "id": 992018,
-      "content": "On Hit, enemies heal 5% of damage dealt as HP"
+      "content": "При ударе, враги исцеляют 5% от нанесённого урона в качестве ОЗ"
     },
     {
       "id": 992019,
-      "content": "Enemy Max Speed +1"
+      "content": "Макс. Скорость Противника +1"
     },
     {
       "id": 992020,
-      "content": "On Hit, enemies deal 2 fixed SP damage"
+      "content": "При ударе, враги наносят 2 фиксированного урона по СД"
     },
     {
       "id": 992021,
-      "content": "Turn Start: enemies gain 1 Damage Up if this unit dealt damage at least once last turn"
+      "content": "В начале хода: враги получают 1 Повышение урона, если этот юнит нанёс урон, хотя бы раз за последний ход"
     },
     {
       "id": 992022,
-      "content": "Turn Start: Gain 3 Offense Level Up if the enemy did not take HP damage last turn"
+      "content": "В начале хода: Получает 3 Повышение уровня атаки, если противник не получал урона по ОЗ за последний ход"
     },
     {
       "id": 992023,
-      "content": "Enemy Final Power +1 to Unopposed Attacks"
+      "content": "Вражеская Сила Навыка +1 к Ненаправленным Атакам"
     },
     {
       "id": 992024,
-      "content": "Enemy Final Power +1 in a Clash"
+      "content": "Вражеская Сила Навыка +1 в Столкновении"
     },
     {
       "id": 992031,
-      "content": "Enemy Defense Level +4"
+      "content": "Вражеский Уровень защиты +4"
     },
     {
       "id": 992032,
-      "content": "Enemy Defense Skill Base Power +2"
+      "content": "Вражеская Базовая Сила Защитного Навыка  +2"
     },
     {
       "id": 992033,
-      "content": "Enemy Max HP +10%"
+      "content": "Вражеское Макс. ОЗ +10%"
     },
     {
       "id": 992034,
-      "content": "Enemies take -10% less damage"
+      "content": "Противники получают -10% меньше урона"
     },
     {
       "id": 992035,
-      "content": "Enemy Offense Level +3, Max HP +5%"
+      "content": "Вражеский Уровень атаки +3, Макс. ОЗ +5%"
     },
     {
       "id": 992036,
-      "content": "Enemy Final Power +1, Max HP +5%"
+      "content": "Вражеская Сила Навыка +1, Макс. ОЗ +5%"
     },
     {
       "id": 992037,
-      "content": "Enemy Base Power +1, Max HP +5%"
+      "content": "Вражеская Базовая Сила +1, Макс. ОЗ +5%"
     },
     {
       "id": 992038,
-      "content": "Enemies deal +15% damage, Max HP +5%"
+      "content": "Противники наносят +15% урона, Макс. ОЗ +5%"
     },
     {
       "id": 992039,
-      "content": "Enemy Final Power +1, Max HP +15%"
+      "content": "Вражеская Сила Навыка +1, Макс. ОЗ +15%"
     },
     {
       "id": 992040,
-      "content": "Enemy Final Power +2, Defense Level -4, Max HP +15%"
+      "content": "Вражеская Сила Навыка +2, Уровень защиты -4, Макс. ОЗ +15%"
     },
     {
       "id": 992041,
-      "content": "Enemy Base Power +1, Max HP +10%"
+      "content": "Вражеская Базовая Сила +1, Макс. ОЗ +10%"
     },
     {
       "id": 992042,
-      "content": "Enemy Base Power +2, Defense Level -4, Max HP +10%"
+      "content": "Вражеская Базовая Сила +2, Уровень защиты -4, Макс. ОЗ +10%"
     },
     {
       "id": 992043,
-      "content": "Enemy Plus Coin Power +1, Minus Coin Power -1"
+      "content": "Вражеское Усиление положительной монеты +1, Усиление отрицательной монеты -1"
     },
     {
       "id": 992044,
-      "content": "Enemy Offense Level +7, Defense Level -7"
+      "content": "Вражеский Уровень атаки +7, Уровень защиты -7"
     },
     {
       "id": 992045,
-      "content": "Enemy Final Power +2, Defense Level +6, Max HP +10%"
+      "content": "Вражеская Сила Навыка +2, Уровень защиты +6, Макс. ОЗ +10%"
     },
     {
       "id": 992046,
-      "content": "Enemy Final Power +3, Max HP +10%"
+      "content": "Вражеская Сила Навыка +3, Макс. ОЗ +10%"
     },
     {
       "id": 992047,
-      "content": "Enemy Plus Coin Power +1, Minus Coin Power -1, Max HP +15%"
+      "content": "Вражеское Усиление положительной монеты +1, Усиление отрицательной монеты -1, Макс. ОЗ +15%"
     },
     {
       "id": 992048,
-      "content": "Enemy Base Power +2, Defense Level +3, Max HP +10%"
+      "content": "Вражеская Базовая Сила +2, Уровень защиты +3, Макс. ОЗ +10%"
     },
     {
       "id": 992049,
-      "content": "Enemy Offense Level +10, Defense Level -7"
+      "content": "Вражеский Уровень атаки +10, Уровень защиты -7"
     },
     {
       "id": 992050,
-      "content": "Enemy Max HP +25%, Defense Level +5"
+      "content": "Вражеское Макс. ОЗ +25%, Уровень защиты +5"
     },
     {
       "id": 992051,
-      "content": "Enemies deal +50% damage and take -50% damage"
+      "content": "Противники наносят +50% урона и получают -50% урона"
     },
     {
       "id": 992101,
-      "content": "Defense Level +2"
+      "content": "Уровень защиты +2"
     },
     {
       "id": 992102,
-      "content": "Defense Skill Final Power +1"
+      "content": "Сила Защитного Навыка +1"
     },
     {
       "id": 992103,
-      "content": "Offense Level +1"
+      "content": "Уровень атаки +1"
     },
     {
       "id": 992104,
-      "content": "Max HP +5%"
+      "content": "Макс. ОЗ +5%"
     },
     {
       "id": 992105,
-      "content": "Damage Taken -5%"
+      "content": "Получаемый урон -5%"
     },
     {
       "id": 992111,
-      "content": "Offense Level +2"
+      "content": "Уровень атаки +2"
     },
     {
       "id": 992112,
-      "content": "Offense Level +1, Max HP +5%"
+      "content": "Уровень атаки +1, Макс. ОЗ +5%"
     },
     {
       "id": 992113,
-      "content": "Final Power +1, Defense Level -1"
+      "content": "Сила Навыка +1, Уровень защиты -1"
     },
     {
       "id": 992114,
-      "content": "Base Power +1, Defense Level -2"
+      "content": "Базовая Сила +1, Уровень защиты -2"
     },
     {
       "id": 992115,
-      "content": "Clash Power +1"
+      "content": "Сила в Столкновении +1"
     },
     {
       "id": 992116,
-      "content": "Damage Taken -5%, Damage Dealt +5%"
+      "content": "Получаемый урон -5%, Наносимый урон +5%"
     },
     {
       "id": 992121,
-      "content": "Offense Level +2, Defense Level +2, Max HP +5%"
+      "content": "Уровень атаки +2, Уровень защиты +2, Макс. ОЗ +5%"
     },
     {
       "id": 992122,
-      "content": "Offense Level +2, Defense Level +4"
+      "content": "Уровень атаки +2, Уровень защиты +4"
     },
     {
       "id": 992123,
-      "content": "Max HP +20%"
+      "content": "Макс. ОЗ +20%"
     },
     {
       "id": 992124,
-      "content": "Final Power +1, Max HP +5%"
+      "content": "Сила Навыка +1, Макс. ОЗ +5%"
     },
     {
       "id": 992125,
-      "content": "Base Power +1, Max HP +5"
+      "content": "Базовая Сила +1, Макс. ОЗ +5"
     },
     {
       "id": 992126,
-      "content": "Clash Power +2, Defense Level -3"
+      "content": "Сила в Столкновении +2, Уровень защиты -3"
     },
     {
       "id": 992127,
-      "content": "Final Power +1, Defense Skill Final Power+1"
+      "content": "Сила Навыка +1, Сила Защитного Навыка +1"
     },
     {
       "id": 992131,
-      "content": "Offense Level +3, Defense Level +2, Max HP +10%"
+      "content": "Уровень атаки +3, Уровень защиты +2, Макс. ОЗ +10%"
     },
     {
       "id": 992132,
-      "content": "Offense Level +5, Max HP +7.5%"
+      "content": "Уровень атаки +5, Макс. ОЗ +7.5%"
     },
     {
       "id": 992133,
-      "content": "Base Power +1, Defense Level +3, Max HP +5%"
+      "content": "Базовая Сила +1, Уровень защиты +3, Макс. ОЗ +5%"
     },
     {
       "id": 992134,
-      "content": "Final Power +1, Defense Level -2, Max HP +17.5%"
+      "content": "Сила Навыка +1, Уровень защиты -2, Макс. ОЗ +17.5%"
     },
     {
       "id": 992135,
-      "content": "Defense Level +3, Max HP +22.5%"
+      "content": "Уровень защиты +3, Макс. ОЗ +22.5%"
     },
     {
       "id": 992136,
-      "content": "Plus Coin Power +1, Minus Coin Power -1, Defense Level +2"
+      "content": "Усиление положительной монеты +1, Усиление отрицательной монеты -1, Уровень защиты +2"
     },
     {
       "id": 992137,
-      "content": "Base Power +1, Plus Coin Power +1, Minus Coin Power -1"
+      "content": "Базовая Сила +1, Усиление положительной монеты +1, Усиление отрицательной монеты -1"
     },
     {
       "id": 992138,
-      "content": "Damage Taken -25%, Damage Dealt +25%"
+      "content": "Получаемый урон -25%, Наносимый урон +25%"
     },
     {
       "id": 992151,
-      "content": "Offense Level +1, Defense Level +1"
+      "content": "Уровень атаки +1, Уровень защиты +1"
     },
     {
       "id": 992152,
-      "content": "Defense Level +2, Defense Skill Final Power +1"
+      "content": "Уровень защиты +2, Сила Защитного Навыка +1"
     },
     {
       "id": 992153,
-      "content": "Defense Level +1, Max HP +5%"
+      "content": "Уровень защиты +1, Макс. ОЗ +5%"
     },
     {
       "id": 992154,
-      "content": "Max HP +7.5%"
+      "content": "Макс. ОЗ +7.5%"
     },
     {
       "id": 992155,
-      "content": "Damage Taken -7.5%"
+      "content": "Получаемый урон -7.5%"
     },
     {
       "id": 992161,
-      "content": "Offense Level +2, Defense Level +2, Max HP +5%"
+      "content": "Уровень атаки +2, Уровень защиты +2, Макс. ОЗ +5%"
     },
     {
       "id": 992162,
-      "content": "Offense Level +2, Max HP +10%"
+      "content": "Уровень атаки +2, Макс. ОЗ +10%"
     },
     {
       "id": 992163,
-      "content": "Final Power +1, Max HP +5%"
+      "content": "Сила Навыка +1, Макс. ОЗ +5%"
     },
     {
       "id": 992164,
-      "content": "Base Power +1, Defense Level +1"
+      "content": "Базовая Сила +1, Уровень защиты +1"
     },
     {
       "id": 992165,
-      "content": "Defense Level +4, Max HP +10%"
+      "content": "Уровень защиты +4, Макс. ОЗ +10%"
     },
     {
       "id": 992166,
-      "content": "Damage Taken -10%, Damage Dealt +10%"
+      "content": "Получаемый урон -10%, Наносимый урон +10%"
     },
     {
       "id": 992171,
-      "content": "Offense Level +4, Defense Level +3, Max HP +7.5%"
+      "content": "Уровень атаки +4, Уровень защиты +3, Макс. ОЗ +7.5%"
     },
     {
       "id": 992172,
-      "content": "Offense Level +4, Max HP +15%"
+      "content": "Уровень атаки +4, Макс. ОЗ +15%"
     },
     {
       "id": 992173,
-      "content": "Final Power +1, Defense Level +6"
+      "content": "Сила Навыка +1, Уровень защиты +6"
     },
     {
       "id": 992174,
-      "content": "Base Power +1, Defense Level +5"
+      "content": "Базовая Сила +1, Уровень защиты +5"
     },
     {
       "id": 992175,
-      "content": "Final Power +2, Defense Level -2, Max HP +5%"
+      "content": "Сила Навыка +2, Уровень защиты -2, Макс. ОЗ +5%"
     },
     {
       "id": 992176,
-      "content": "Max HP +30%"
+      "content": "Макс. ОЗ +30%"
     },
     {
       "id": 992177,
-      "content": "Clash Power +2, Max HP +7.5%"
+      "content": "Сила в Столкновении +2, Макс. ОЗ +7.5%"
     },
     {
       "id": 992181,
-      "content": "Offense Level +6, Defense Level +6, Max HP +15%"
+      "content": "Уровень атаки +6, Уровень защиты +6, Макс. ОЗ +15%"
     },
     {
       "id": 992182,
-      "content": "Offense Level +4, Defense Level +3, Max HP +30%"
+      "content": "Уровень атаки +4, Уровень защиты +3, Макс. ОЗ +30%"
     },
     {
       "id": 992183,
-      "content": "Final Power +2, Max HP +25%"
+      "content": "Сила Навыка +2, Макс. ОЗ +25%"
     },
     {
       "id": 992184,
-      "content": "Base Power +1, Final Power +1, Max HP +20%"
+      "content": "Базовая Сила +1, Сила Навыка +1, Макс. ОЗ +20%"
     },
     {
       "id": 992185,
-      "content": "Defense Level +9, Max HP +30%"
+      "content": "Уровень защиты +9, Макс. ОЗ +30%"
     },
     {
       "id": 992186,
-      "content": "Plus Coin Power +2, Minus Coin Power -2"
+      "content": "Усиление положительной монеты +2, Усиление отрицательной монеты -2"
     },
     {
       "id": 992187,
-      "content": "Clash Power +2, Max HP +30%"
+      "content": "Сила в Столкновении +2, Макс. ОЗ +30%"
     },
     {
       "id": 992188,
-      "content": "Damage Taken -50%, Damage Dealt +50%"
+      "content": "Получаемый урон -50%, Наносимый урон +50%"
     }
   ]
 }

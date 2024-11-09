@@ -1260,7 +1260,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Неминуемо, Абсолютная Скорбь Исчезает",
+          "name": "Ныне абсолютная скорбь исчезает",
           "desc": "Базовая сила +1 за каждые 10 значений [BulletLament] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
@@ -1307,7 +1307,7 @@
         },
         {
           "level": 4,
-          "name": "Неминуемо, Абсолютная Скорбь Исчезает",
+          "name": "Ныне абсолютная скорбь исчезает",
           "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> значений [BulletLament] <style=\"highlight\">(макс. 4)</style>\nСила монеты +1 за каждые 6 значений суммы [Sinking] цели и обоих [SinkingWhite] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {

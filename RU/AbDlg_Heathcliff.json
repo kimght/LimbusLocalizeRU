@@ -1,115 +1,115 @@
-﻿{
+{
   "dataList": [
     {
       "id": 1,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "I’ll smash ‘em good, aight?",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Я их хорошенько разнесу, лады?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
       "id": 2,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "Might as well, I suppose.",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Ну, полагаю, можно и так.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
       "id": 3,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "If you really don’t have anything better to suggest.",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Если ты действительно не можешь предложить ничего получше.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
       "id": 4,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "Get someone else.",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Найди кого-нибудь другого.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
       "id": 5,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "…Are you taking the piss? You want ME to do this?",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "...Ты что, издеваешься? Ты хочешь, чтобы Я это сделал?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
       "id": 6,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "What’s that proud look? I’m the one who dealt with it.",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Что за гордый вид? Это я со всем разобрался.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
       "id": 7,
       "personalityid": 10702,
       "voicefile": 0,
-      "teller": "Shi Heathcliff",
-      "dialog": "This is really narking me. Didn’t I tell you to get someone else?",
+      "teller": "Хитклиф Ассоциации «Ши»",
+      "dialog": "Это меня реально бесит. Разве я не говорил найти кого-то другого?",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
       "id": 36,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "I’ll smash ‘em good, aight?",
+      "teller": "Хитклиф",
+      "dialog": "Я их хорошенько разнесу, лады?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
       "id": 37,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "Might as well, I suppose.",
+      "teller": "Хитклиф",
+      "dialog": "Ну, полагаю, можно и так.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
       "id": 38,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "If you really don’t have anything better to suggest.",
+      "teller": "Хитклиф",
+      "dialog": "Если ты действительно не можешь предложить ничего получше.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
       "id": 39,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "Get someone else.",
+      "teller": "Хитклиф",
+      "dialog": "Найди кого-нибудь другого.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
       "id": 40,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "…Are you taking the piss? You want ME to do this?",
+      "teller": "Хитклиф",
+      "dialog": "...Ты что, издеваешься? Ты хочешь, чтобы Я это сделал?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
       "id": 41,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "What’s that proud look? I’m the one who dealt with it.",
+      "teller": "Хитклиф",
+      "dialog": "Что за гордый вид? Это я со всем разобрался.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
       "id": 42,
       "personalityid": 10701,
       "voicefile": 0,
-      "teller": "Heathcliff",
-      "dialog": "This is really narking me. Didn’t I tell you to get someone else?",
+      "teller": "Хитклиф",
+      "dialog": "Это меня реально бесит. Разве я не говорил найти кого-то другого?",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }
   ]

@@ -1495,7 +1495,7 @@
         {
             "id": 1060901,
             "name": "Трансформирующаяся боевая вибротрость (Нелицензионное изобретение)",
-            "desc": "В конце хода Хон Лу получает столько <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышений урона</link></u></color> на следующий ход, сколько раз он <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">спровоцировал Тремор</link></u></color>. (Д 3-ёх)"
+            "desc": "В конце хода Хон Лу получает столько <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышений урона</link></u></color> на следующий ход, сколько раз он <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">спровоцировал Тремор</link></u></color>. (До 3-ёх)"
         },
         {
             "id": 1060921,

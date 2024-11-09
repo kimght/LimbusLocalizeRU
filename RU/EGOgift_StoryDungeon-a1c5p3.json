@@ -2,53 +2,53 @@
     "dataList": [
         {
             "id": 2017,
-            "name": "Noose",
-            "desc": "Ishmael's level rises to 40.\nIshmael's Uptie and Threadspin Tiers rise to Tier 4.\nIshmael gains [AaCePaBa] at the start of every encounter."
+            "name": "Узел",
+            "desc": "Уровень Измаил повышается до 40.\nУровень связи и Связи ЭГО повышаются до 4 уровня.\nИзмаил получает [AaCePaBa] в начале каждой схватки."
         },
         {
             "id": 2018,
-            "name": "Reverse Knot",
-            "desc": "When winning a clash using a Gloom affinity Skill, 1 ally with the lowest SP heals 5 SP"
+            "name": "Обратный узел",
+            "desc": "При победе в столкновении навыком Уныния, 1 союзник с наименьшим СД исцеляет 5 СД"
         },
         {
             "id": 2019,
-            "name": "Melted LCCB Employee Badge",
-            "desc": "Pride damage taken -10%"
+            "name": "Расплавленный значок сотрудника LCCB",
+            "desc": "-10% получаемого урона от навыков с грехом Гордыни"
         },
         {
             "id": 2020,
-            "name": "Desperate's Knot",
-            "desc": "Deal +10% damage with Envy, Wrath, and Gloom affinity Skills\nDeal additional +10% corresponding affinity damage when activating 6+ Reson. with one of these affinities"
+            "name": "Узел отчаяния",
+            "desc": "Наносит на +10% больше урона навыками с грехами Зависти, Гнева и Уныния\nДополнительно наносит +10% урона соотвествующего греха при активации +6 Резон. одного из этих грехов"
         },
         {
             "id": 2021,
-            "name": "Mermaid Oil",
-            "desc": "Inflict 1 additional [Vibration] with a Skill that inflicts Tremor"
+            "name": "Русалочье масло",
+            "desc": "Наносит 1 дополнительного [Vibration] с навыков, которые наносят Тремор"
         },
         {
             "id": 2022,
-            "name": "Crossed Knot",
-            "desc": "Turn End: if more than 15% of the Max HP was lost this turn, gain 2 Attack Power Up next turn"
+            "name": "Узел накрест",
+            "desc": "В конце хода: если было потеряно больше 15% от Макс. ОЗ за этот ход, получает 2 Повышение силы атаки на следующий ход"
         },
         {
             "id": 2023,
-            "name": "Compulsive's Knot",
-            "desc": "When at less than 0 SP, Final Power +1 to Envy, Wrath, and Gloom affinities"
+            "name": "Компульсивный узел",
+            "desc": "При значении менее 0 СД, Сила навыка +1 к навыкам Зависти, Гнева и Уныния"
         },
         {
             "id": 2024,
-            "name": "Rusted Hook",
-            "desc": "Gain 1 Poise when a Skill's first coin Heads Hits against an enemy with [Laceration]"
+            "name": "Ржавый крюк",
+            "desc": "Получает 1 Дыхание, когда первая монета Навыка пробрасывается Орлом против врага с [Laceration]"
         },
         {
             "id": 2025,
-            "name": "Standard Issue Mag",
-            "desc": "Identities with [Bullet] start encounters with +3 max Ammo"
+            "name": "Стандартный магазин",
+            "desc": "Идентичности с [Bullet] начинают схватку с +3 макс. Патрон"
         },
         {
             "id": 2026,
-            "name": "Unbreakable Knot",
-            "desc": "Ishmael's Skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)"
+            "name": "Неразрываемый узел",
+            "desc": "Навыки Измаил получают +2 к Силе Навыка\nКогда погибает союзник, оставшиеся союзники получают 1 Спешка и 1 Повышение силы атаки на следующий ход (Раз за ход)"
         }
     ]
 }

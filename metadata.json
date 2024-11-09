@@ -1,5 +1,5 @@
 {
-  "version": "1.1.27",
+  "version": "1.1.28",
   "files": [
     {
       "path": "RU/Skills_Assist.json",
@@ -163,7 +163,7 @@
     },
     {
       "path": "RU/AbDlg_Rodion.json",
-      "checksum": "4c574cc61c434035a31ba8b9fe51e8f5"
+      "checksum": "3e49ad3e47a138d1fb8484afe5d61eab"
     },
     {
       "path": "RU/ChoiceEventUI.json",
@@ -263,7 +263,7 @@
     },
     {
       "path": "RU/AbDlg_Faust.json",
-      "checksum": "beb3a88f39f117f1e06b9ccca5820d16"
+      "checksum": "3994a4176daeefe09ef6b23447259b28"
     },
     {
       "path": "RU/StoryTheaterDanteNoteDetail.json",
@@ -303,7 +303,7 @@
     },
     {
       "path": "RU/AbDlg_Gregor.json",
-      "checksum": "8cafd4afbd9bee2e57ad7bd050e2766e"
+      "checksum": "0b4786066a538117493c50748ba45ccc"
     },
     {
       "path": "RU/StoryTheaterDanteNoteDetail_6.json",
@@ -395,7 +395,7 @@
     },
     {
       "path": "RU/AbDlg_DonQuixote.json",
-      "checksum": "b53e6bfd8ef6e24744fa2ccb0184068e"
+      "checksum": "9d2ed16d81578cbff2d314a6529f671b"
     },
     {
       "path": "RU/Walpu3EventText.json",
@@ -403,7 +403,7 @@
     },
     {
       "path": "RU/AbDlg_Ishmael.json",
-      "checksum": "a3fcce7b1e581099a910c6257c80200b"
+      "checksum": "c136ffdb532a356302cad568b48beb68"
     },
     {
       "path": "RU/StoryTheaterMain-a1c7p1.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "RU/SuccessRate.json",
-      "checksum": "232d91d6eda60036171f299c6b47af6a"
+      "checksum": "e8ac4951f46bdad013ea7ecefcd1bd55"
     },
     {
       "path": "RU/Skills_Enemy-a1c7p1.json",
@@ -499,7 +499,7 @@
     },
     {
       "path": "RU/AbDlg_Ryoshu.json",
-      "checksum": "7fa0404fa96705cb621ca11cba998e5f"
+      "checksum": "40d2006ca5c25f8b9cae3ceccea2017b"
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c5p2.json",
@@ -691,7 +691,7 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "42a68c10abd8a95e5aa17370e58ed4c8"
+      "checksum": "7f12e8198046062b9b3533ce5f0f88d2"
     },
     {
       "path": "RU/Bufs-a1c7p1.json",
@@ -719,7 +719,7 @@
     },
     {
       "path": "RU/Skills_personality-01.json",
-      "checksum": "368c6855f430324fb808a6aee4d78b48"
+      "checksum": "ba207dc78b9fa3283a68efe64673a2b2"
     },
     {
       "path": "RU/Assist-a1c7p2.json",
@@ -763,11 +763,11 @@
     },
     {
       "path": "RU/Passive_Ego.json",
-      "checksum": "b7297bcd8df4cce849abddf96e455ddb"
+      "checksum": "aa4a311ad4f2d783c567fc8fc278adc4"
     },
     {
       "path": "RU/MirrorDungeonEnemyBuffDesc.json",
-      "checksum": "ac8a4c5c7458a021b3df247dcb43556f"
+      "checksum": "804e7360031b9ed0654826955a94e562"
     },
     {
       "path": "RU/ChoiceEventTarget.json",
@@ -775,7 +775,7 @@
     },
     {
       "path": "RU/AbEvents-walpu4.json",
-      "checksum": "8e40cd74e0959f59bd82c06359b24c52"
+      "checksum": "ae3e8b81a73d159c8a071c8f7def84b2"
     },
     {
       "path": "RU/StageNode91-11.json",
@@ -819,7 +819,7 @@
     },
     {
       "path": "RU/Personality_Get_Condition.json",
-      "checksum": "300485cf2dfea17f76403ce0f8be0811"
+      "checksum": "88f2a02754f9ceed26684128baa7d0e5"
     },
     {
       "path": "RU/Passives_Abnormality91-4.json",
@@ -843,11 +843,11 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c5p3.json",
-      "checksum": "3f564f26e4e13c35c7c42cb1a2b87745"
+      "checksum": "8824f8c78ad4935f7d618ef646a0840d"
     },
     {
       "path": "RU/AbDlg_Merusault.json",
-      "checksum": "0602cb04c6ca7cb4a388e42563a67427"
+      "checksum": "e377f8c786ad9de54207f82b65278d2f"
     },
     {
       "path": "RU/Bufs-a1c6p2.json",
@@ -879,7 +879,7 @@
     },
     {
       "path": "RU/BattleKeywords.json",
-      "checksum": "99c88e19de9254cb63c85268744a70f9"
+      "checksum": "00cdc8f746c7dd7d2a4b5b1528689e41"
     },
     {
       "path": "RU/Passives_Abnormality-mowe.json",
@@ -903,7 +903,7 @@
     },
     {
       "path": "RU/UnitKeyword.json",
-      "checksum": "97abee3bf3a6cd2ad8748e3a76a0ded4"
+      "checksum": "a7297dddb138c5622c343f341c6b04db"
     },
     {
       "path": "RU/BattlePass_Banner.json",
@@ -947,7 +947,7 @@
     },
     {
       "path": "RU/BattleSpeechBubbleDlg.json",
-      "checksum": "24b153eaa5c389ec0907c07450218ceb"
+      "checksum": "143bc7b1e24640e8ffa86b02a9ec92e5"
     },
     {
       "path": "RU/Passives_Abnormality-ycgd.json",
@@ -971,7 +971,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon.json",
-      "checksum": "d117e99393f9dd3e8ca773ad6dc5e3e6"
+      "checksum": "2c240d1fd4bec844d3508142a46ea1e3"
     },
     {
       "path": "RU/StageNode91-6.json",
@@ -1175,7 +1175,7 @@
     },
     {
       "path": "RU/AbDlg_Outis.json",
-      "checksum": "f2e8750bafe3e4cf707b81d375d0799f"
+      "checksum": "7c263c45b369f4ab2b111a8e0fb3c84d"
     },
     {
       "path": "RU/RailwayDungeonStationName3.json",
@@ -1219,11 +1219,11 @@
     },
     {
       "path": "RU/AbDlg_Sinclair.json",
-      "checksum": "2b3d078c81186882fdcea67ba990dc7e"
+      "checksum": "d69449f8cb382dc8aa70a2bbd538b0f4"
     },
     {
       "path": "RU/Personalities.json",
-      "checksum": "b574e5879268df8a80873aec7d12608c"
+      "checksum": "0917dac1607ca4f10ad07154f620f91a"
     },
     {
       "path": "RU/ResistText.json",
@@ -1259,11 +1259,11 @@
     },
     {
       "path": "RU/AbDlg_Heathcliff.json",
-      "checksum": "db6b2b45a5069f89e5bc2a55e1d89695"
+      "checksum": "b16ba77d0f0c8989861570ba77a48ff3"
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c7p3.json",
-      "checksum": "944db9c28e1a7b67ea596d69c720ffa1"
+      "checksum": "c003672a299984861c11d04c2c9985ca"
     },
     {
       "path": "RU/Bufs-tkt.json",
@@ -1275,11 +1275,11 @@
     },
     {
       "path": "RU/AbDlg_YiSang.json",
-      "checksum": "cf265be6ca7640547aca18b7a14305b0"
+      "checksum": "bd5194e68145284585a46fb89f0bec98"
     },
     {
       "path": "RU/AbDlg_HongLu.json",
-      "checksum": "c2890c918b5acb401bcec34c64c6c402"
+      "checksum": "760fa14ca2f068d77dfbf4f345ec674c"
     },
     {
       "path": "RU/UserAgreements.json",
@@ -1343,7 +1343,7 @@
     },
     {
       "path": "RU/MirrorDungeonBattleRewardCase.json",
-      "checksum": "609c954c8a8a965a660ae930d1c494b4"
+      "checksum": "dca608d88f475a9507113b7285802e3a"
     },
     {
       "path": "RU/Skills_personality-11.json",
@@ -1383,7 +1383,7 @@
     },
     {
       "path": "RU/Enemies.json",
-      "checksum": "6c07b5fe85ca3409e43c409b5011f612"
+      "checksum": "96e57ab5ce0126f1565c1e611dd4f229"
     },
     {
       "path": "RU/Announcer-a1c7p1.json",
@@ -1546,24 +1546,64 @@
       "checksum": "14e254950dfe3c719ab188557fd34d63"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_LEGO_10705.json",
+      "checksum": "0782b2e5111ae6b135ea716bfe5bed7c"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_Shi_10303.json",
       "checksum": "2484a9091f4470fdca60538a418ab8d3"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Dieci_10608.json",
+      "checksum": "e89a0357ce80ebead01375a97e0df401"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Kurokumo_10403.json",
+      "checksum": "a9098017397a7b2ac46a4d273c5e74ec"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_Tcorp_10309.json",
+      "checksum": "d43a86e8f89d27641b4f43d62c12594c"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_LCB_10101.json",
+      "checksum": "ab1be63e89aa6188ae2312b089646cd8"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Hook_10607.json",
+      "checksum": "8171abb7d346f4b09c2a029dd279a199"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Ncorp_11005.json",
       "checksum": "c7ae026d2d152935e786b18ecd64cdb3"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_Cinq_11106.json",
+      "checksum": "25fe5627948c5034fe270a53e14d6b0a"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_SwordGroup_10308.json",
       "checksum": "344f2620a3a768a0de9806e48350cdb6"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_LCCB_10406.json",
+      "checksum": "0cda0c11355a73c329079462f49ec7ce"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_Ncorp_10304.json",
       "checksum": "2e810f98c4560e15f891ffa7b398d425"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_LCB_10601.json",
+      "checksum": "430af587301050350f068de2858ee129"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Dieci_10510.json",
+      "checksum": "0f9dd5297c33f01fa24a8d7a2fe27a1f"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_LiuAsso4_10407.json",
-      "checksum": "25928ef54f77e49fc564c4f60b6b26d8"
+      "checksum": "15702ecc4f5ffc769f892974f727dadf"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Faust_SwordGroup_10208.json",
@@ -1571,7 +1611,7 @@
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_LiuAsso6_11202.json",
-      "checksum": "1c9b326a9485d85e84bf8515814af702"
+      "checksum": "2d6ed26bae15c908c6c24d0165ecc0e7"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Ncorp_10704.json",
@@ -1582,32 +1622,100 @@
       "checksum": "a8144300e48a0a7b1f167ff929cd4c2a"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_SwordGroup_11102.json",
+      "checksum": "28de5b9c0f535c4b8c97f0e6afd8ac0f"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_Wcorp_11110.json",
+      "checksum": "56847baf1bfdf9d8cb585e168c8c5a96"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Kcorp_10905.json",
+      "checksum": "fbfac1434100c12e1f6487651bf0bfd9"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_Funeral_10110.json",
+      "checksum": "cd51d96d5ee57625b6b19ca6c22efcb8"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Yurodivy_10409.json",
+      "checksum": "02d74fbf71b218ad89696538921367e8"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Yisang_SwordGroup_10103.json",
       "checksum": "8f0bddcd6935e42f475286a20b105335"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_LCB_10501.json",
+      "checksum": "1387d26d52402811a02eda8e847b94ab"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_LEGO_11006.json",
+      "checksum": "dbdb6c132f08b7395ee5a19850b01382"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Kcorp_10605.json",
+      "checksum": "186e20cd97fc9197028c1424a7cc1c7a"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Qui_10707.json",
+      "checksum": "2d12eeaf06a7ed1a0241ea38d9856988"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Kurokumo_10902.json",
       "checksum": "48c3b2b88b0a6e7f237eacb42992de62"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Kongkong_10603.json",
+      "checksum": "b50cfbc91501c5e29d74d1f20ccf29a0"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Kurokumo_10602.json",
       "checksum": "02d39d3e6e4658c2f125678025e336b4"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_Cinq_10305.json",
+      "checksum": "8c07952d6567eaf441cea49e6301e2b0"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_LCB_10701.json",
+      "checksum": "989cb4aa0223f092bd6db0b1ef8706ad"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Faust_WCorp6_10202.json",
       "checksum": "d2ea9fc7bec8840ea28d7bea267282ce"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Yurodivy_10609.json",
+      "checksum": "1f25f7f884f7a28810a7820cce7bf490"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Wcorp_10606.json",
       "checksum": "bf56a9479c495bed322e47a690789997"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_Bloodfiend_11111.json",
+      "checksum": "9effb76a833abab6b5f6c786da2bf70d"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_LCB_11001.json",
+      "checksum": "488840716e7f2791120b46ff4db3509d"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_LEGO_10307.json",
       "checksum": "f17c5ff39b34479893469feab255c470"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Bloodfiend_11210.json",
+      "checksum": "6c69d3a6585928ca4faa5e6a0baef0e5"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Oufi_10708.json",
       "checksum": "2a6b3d5ab7ac5102fc278965488cf202"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Kcorp_11205.json",
+      "checksum": "6f4b93ede19f0412ecff57190a63b4e0"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Mariachi_11004.json",
@@ -1618,20 +1726,52 @@
       "checksum": "845334e22e2594b7c3c6aebd1e246ee5"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_LCB_10401.json",
+      "checksum": "e2a49fb033cb0e49cd019c118260a8fc"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Butler_10408.json",
+      "checksum": "7476411a224035a4f85797e4d6abf744"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_LCB_11101.json",
+      "checksum": "7bd458c0334a422b99c6b0bf551f726e"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Outis_Butler_11108.json",
       "checksum": "6bf81869ba1f6f135074cc455ca594ca"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_WCorp5_10302.json",
+      "checksum": "70ee07069156e0cef323c907114734d9"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Faust_Yuri_10203.json",
       "checksum": "61df38d0c1a5efa254add07a3a7fbcad"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Dieci_10907.json",
+      "checksum": "da6e74148e375c7a93102b2944e96e6a"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_Butler_10809.json",
       "checksum": "8b3c8e88f45ccae31673b26a6e834ee7"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Hook_11207.json",
+      "checksum": "b7df06777ef387e67bf7e03128292304"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Seven_10706.json",
-      "checksum": "2312f853f7dd7d69e72d5a60f308d74e"
+      "checksum": "eb1eef37287a7fb5d4ed0856125e3ec7"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_LCB_10901.json",
+      "checksum": "ff347eb8811cd7afdcea4e727b639c57"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Faust_Seven_10206.json",
+      "checksum": "765cf8cc422b4cfdf80f95e99417919e"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_MiddleFinger_10306.json",
@@ -1642,12 +1782,36 @@
       "checksum": "5837dc6a93691d4b700070086458e2a9"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_ZweiWest_11010.json",
+      "checksum": "9d69497a017fff2f3ce88c958466d904"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Kcorp_10505.json",
+      "checksum": "87ef908ae2a6e5025b7c60ddaf901619"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Ncorp_10904.json",
       "checksum": "cd66fe62cb9590e167167ae9817ae7d1"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Wcorp_10503.json",
       "checksum": "8933b69cba4e27090b51f3ef187409ed"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_SwordGroup_11002.json",
+      "checksum": "4903999e1390bbb2bae89236c990479d"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Wcorp_10405.json",
+      "checksum": "43a30627b3739408189b88ee4d984c99"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Faust_LEGO_10207.json",
+      "checksum": "082d57c82863333f2baaaf2b38a8560e"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Tcorp_10909.json",
+      "checksum": "e2c71c3015865982eb5b0054006ced84"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Zwei_11003.json",
@@ -1658,20 +1822,60 @@
       "checksum": "f50527c6caabfbafcf2431c4fe7d7f32"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Philip_11009.json",
+      "checksum": "21ad1791970beab48f63639d98715e14"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outist_SevenAsso6_11104.json",
+      "checksum": "036f9fd64a49d19b5b909e3ba42ba91b"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Outis_Rings_11109.json",
+      "checksum": "c0ecf811af33c97cc091a7be5522cadb"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Seven6_10402.json",
-      "checksum": "64e5f481ee6986174cf55413b7dfa562"
+      "checksum": "2bf2220e53eb15e49df32250958ad6a5"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Ncorp_10504.json",
       "checksum": "8db7200877b463628c60869217cfa112"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_MiddleFinger_10507.json",
+      "checksum": "87d12cfd899bb52ab00b7a89915e1eb1"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Gregor_LCB_11201.json",
+      "checksum": "cc56ab23ef9f88448c2c342715b865e6"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Cinq_10511.json",
+      "checksum": "c77dfc73e782520096d0ae357c42fffa"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Ucorp_11007.json",
       "checksum": "c0f15226bc0b9539c09cea69bda56399"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Devjat_10910.json",
+      "checksum": "226d01e4488c4a47dc24eef0eaad19eb"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_RCorp4_10802.json",
+      "checksum": "c93f27b9ab7b52d1226d9c80aea06041"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_23GuCooker_11204.json",
       "checksum": "2dc090c846be8b56b759009592396166"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Donquixote_LCB_10301.json",
+      "checksum": "d7b09deafce1825e1b63bc52b5da3724"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Sinclair_Cinq_11008.json",
+      "checksum": "770e1e664674c0d6062bf9c4f6b350a7"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Meursault_LiuAsso6_10502.json",
@@ -1690,8 +1894,28 @@
       "checksum": "1e848bc003ab90543570bbe09c97a63a"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Faust_LCB_10201.json",
+      "checksum": "2c735f477e97598441b92f360930a7b6"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_Spider_10410.json",
+      "checksum": "1d7163e4e0683c7247030621673c3bf0"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Erlking_10710A.json",
+      "checksum": "9b7d6226b8d05fdc1c163ff2c6c14de6"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_ShiAsso4_10702.json",
       "checksum": "72cd10e8e5d8caf30c115adea4098635"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Meca_10709.json",
+      "checksum": "c9a705fad568f726548ae1d9ea9cdd92"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_LEGO_10104.json",
+      "checksum": "8e4a8fdb37bad78f51abf2e1333c3f3e"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Linton_11209.json",
@@ -1702,12 +1926,24 @@
       "checksum": "204e4529ad76228da0dc23b1a1fbf2bf"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_LiuAsso4_10806.json",
+      "checksum": "25afe06377555252e9875f0016840d14"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Kurokumo_11208.json",
       "checksum": "7e2881e1854a521d38064bfe738f5df5"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_Starb_10107.json",
+      "checksum": "e8098f2950ae3ddc431b8fd7f72d8a0b"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_Zwei_11206.json",
       "checksum": "ed8f639f8ea653deb5fc90554b427f79"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Special_999.json",
+      "checksum": "88a60ed790ab283f4d9f70381b493bd2"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Outis_GCorpBoss_11103.json",
@@ -1716,6 +1952,10 @@
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Meursault_DeadRabbit_10509.json",
       "checksum": "af054e905b32b32420fbdb101d1aebbc"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_Dieci_10108.json",
+      "checksum": "4947146af4cfc4c1b6c378fb01c1d3c3"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Faust_Zwei_10205.json",
@@ -1727,7 +1967,11 @@
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Ryoshu_23GuCooker_10404.json",
-      "checksum": "8eff2bbc79a8420310cd4768891779de"
+      "checksum": "047f247ec2720e515af13494667217e1"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Yisang_Rings_10109.json",
+      "checksum": "87a68887ee484bcbd21ea32db02de3e4"
     },
     {
       "path": "RU/PersonalityVoiceDlg/Voice_Gregor_GCorp_11203.json",
@@ -1746,6 +1990,14 @@
       "checksum": "7ab7659dc7ef278035a98043c12ae702"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Faust_Meca_10210.json",
+      "checksum": "847843f14e5a5c5c69a510ea53efe549"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Honglu_Bloodhunter_10610.json",
+      "checksum": "717d0ef85b76a642279ccaa0b8dfd72d"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_Ahab_10808.json",
       "checksum": "efe5eeba3331fb613bb46813b9d94000"
     },
@@ -1758,12 +2010,32 @@
       "checksum": "b8473e772e5801c2dabd04c68cd8c1e7"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_Zwei_10810.json",
+      "checksum": "5fd50755bf0dfa325023fc72a598a312"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Outis_Molar_11105.json",
       "checksum": "71ce4e1f0709379b9bfaca0469737e57"
     },
     {
+      "path": "RU/PersonalityVoiceDlg/Voice_Ishmael_Ucorp_10807.json",
+      "checksum": "5ea97d7728b57e4e42581a0027b23d68"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Rodion_Epi_10903.json",
+      "checksum": "ec8830e976711aa682c2c3d20efbee60"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Heathcliff_Erlking_10710.json",
+      "checksum": "31f8a44615dbd670f61a12fa3d016a97"
+    },
+    {
       "path": "RU/PersonalityVoiceDlg/Voice_Meursault_SwordGroup_10508.json",
       "checksum": "392f81eb7541054a87cdc6f862c044a2"
+    },
+    {
+      "path": "RU/PersonalityVoiceDlg/Voice_Meursault_Rcorp_10506.json",
+      "checksum": "e5ed4e3cd7917fb1e00c35967b043932"
     },
     {
       "path": "RU/EGOVoiceDig/Voice_EGO_Faust_2.json",
@@ -1827,7 +2099,7 @@
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_Credit4.json",
-      "checksum": "fc202e5ddf66c0ccbb76e3925c8fcbfd"
+      "checksum": "045da8b2e005059f8a97aa94be2baf8e"
     },
     {
       "path": "RU/BgmLyrics/BgmLyrics_Credit.json",
