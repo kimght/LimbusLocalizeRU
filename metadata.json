@@ -1,5 +1,5 @@
 {
-  "version": "1.1.28",
+  "version": "1.1.29",
   "files": [
     {
       "path": "RU/Skills_Assist.json",
@@ -2675,7 +2675,7 @@
     },
     {
       "path": "RU/StoryData/7D109B.json",
-      "checksum": "d0b8e57be91f3bfb6c8caa3b78180ed7"
+      "checksum": "642b821c5c396ce3ea8f70e77e355d0b"
     },
     {
       "path": "RU/StoryData/P11009.json",
@@ -3172,6 +3172,10 @@
     {
       "path": "RU/StoryData/S449B.json",
       "checksum": "803b662af776539286971ff55fc4c4d7"
+    },
+    {
+      "path": "RU/StoryData/P10911.json",
+      "checksum": "b917e8a2c511c50683fee0affd073d3c"
     },
     {
       "path": "RU/StoryData/P11203.json",
