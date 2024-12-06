@@ -1,0 +1,149 @@
+﻿{
+    "dataList": [
+        {
+            "id": 860501,
+            "name": "Видение портретного следа",
+            "desc": "Если к портрету Мастера прикреплён слот навыка, при раскрытии портрета возникает ударная волна того же цвета, что и аура вокруг портрета Мастера"
+        },
+        {
+            "id": 860502,
+            "name": "Изгнание чужака",
+            "desc": "Когда присутствуют портреты:\n- Конец хода: Когда пройдёт 3 хода с момента появления портретов...\n     - Накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на первого развёрнутого противника без <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>\n     - Сжигает все портреты. Накладывает удвоенное количество сожжённых фальшивых портретов в качестве силы и длительности <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на всех противников. Получает <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> в следующий ход"
+        },
+        {
+            "id": 860503,
+            "name": "Охота на захватчика",
+            "desc": "Если у цели есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, сила в поединке +1, урон +20%."
+        },
+        {
+            "id": 860507,
+            "name": "Ох, дорогой Мастер...",
+            "desc": "Когда присутствуют портреты, снижает сопротивление к типам атак и Сродства на 0.5 и получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nЕсли противники уничтожили портрет Мастера, накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Вторженец</link></u></color> на персонажа, уничтожившего его; затем получает 0.5 физического сопротивления и 5 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход."
+        },
+        {
+            "id": 860505,
+            "name": "Ты, должно быть, родственник захватчика?",
+            "desc": "Когда у противника есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника без <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> каждый раз, когда этот персонаж теряет 10% своих ОЗ (максимум 4 противника)"
+        },
+        {
+            "id": 860601,
+            "name": "Пронзающий взор",
+            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
+        },
+        {
+            "id": 860602,
+            "name": "Захватчик",
+            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
+        },
+        {
+            "id": 860701,
+            "name": "Пронзающий взор",
+            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
+        },
+        {
+            "id": 860702,
+            "name": "Захватчик",
+            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
+        },
+        {
+            "id": 860801,
+            "name": "Знакомый разъём",
+            "desc": "За каждое <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключение</link></u></color> получает +1 к минимальной скорости, 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли персонаж оглушён на следующий ход из-за наличия 3 <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключения</link></u></color>, получает 4 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+        },
+        {
+            "id": 860802,
+            "name": "Перенапряжение",
+            "desc": "В конце хода: за каждые 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color> на следующий ход (до 2)"
+        },
+        {
+            "id": 860803,
+            "name": "Жажда свободы",
+            "desc": "При 25% ОЗ, начиная с этого хода, получает 1 из следующих эффектов каждый ход. Значения накапливаются и не истекают.\n- Получает 1 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышение силы в поединке</link></u></color>\n- Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\n- Получает 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+        },
+        {
+            "id": 860804,
+            "name": "Генератор",
+            "desc": "В конце хода: если у этого персонажа нет <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключения</link></u></color> и <sprite name=\"ThundercloudFormation\"><color=#f8c200><u><link=\"ThundercloudFormation\">Грозового облака</link></u></color>, призывает Генератор в следующем ходу."
+        },
+        {
+            "id": 862801,
+            "name": "Собирающееся грозовое облако",
+            "desc": "В конце хода: накладывает 4 <sprite name=\"ThundercloudFormation\"><color=#f8c200><u><link=\"ThundercloudFormation\">Собирающихся грозовых облака</link></u></color> на Грезящую электроовцу на следующий ход.\nНе накладывает больше этого эффекта, если он уже наложен."
+        },
+        {
+            "id": 862802,
+            "name": "Отсоединённый антиовечий заземляющий штекер",
+            "desc": "При получении удара накладывает 1 <sprite name=\"AntiSheepGround\"><color=#f8c200><u><link=\"AntiSheepGround\">Антиовечий заземляющий штекер</link></u></color> на атакующего (раз за ход)"
+        },
+        {
+            "id": 862803,
+            "name": "Защитная заглушка",
+            "desc": "Весь получаемый урон снижается до 0"
+        },
+        {
+            "id": 862901,
+            "name": "Прелюдия пиршества",
+            "desc": "Начало хода 2: Призывает свиту Короля в Оковах.\nУ Короля двенадцать слуг. После смерти слуги, другой займёт его место, пока они не закончатся."
+        },
+        {
+            "id": 862902,
+            "name": "Завершение пиршества",
+            "desc": "Когда все слуги повержены, Король вступает в бой."
+        },
+        {
+            "id": 862903,
+            "name": "ЗДЕСЬ НЕЧЕГО СМОТРЕТЬ",
+            "desc": "ЗДЕСЬ НЕЧЕГО СМОТРЕТЬ"
+        },
+        {
+            "id": 862904,
+            "name": "Рвущиеся повязки",
+            "desc": "При уничтожении части тела накладывает <sprite name=\"BandageOfTheBoundKing\"><color=#f8c200><u><link=\"BandageOfTheBoundKing\">Повязки Связанного короля</link></u></color> на всех противников."
+        },
+        {
+            "id": 828001,
+            "name": "Слуга Связанного короля",
+            "desc": "- Получает <sprite name=\"BandageOfTheBoundKing\"><color=#f8c200><u><link=\"BandageOfTheBoundKing\">Повязки Связанного короля</link></u></color> и <sprite name=\"BigWelcome\"><color=#f8c200><u><link=\"BigWelcome\">Торжественный прием</link></u></color> на время этой битвы.\n- В начале каждого хода Связанный король благословляет этого персонажа своей милостью.\n- Милость Связанного короля меняется каждый ход в следующем порядке: <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, восстановление СД и восстановление ОЗ. Если в живых осталось менее 6 Слуг (Peccatulum Invidiae), сила благословения увеличивается."
+        },
+        {
+            "id": 828002,
+            "name": "ЗДЕСЬ НЕЧЕГО СМОТРЕТЬ",
+            "desc": "ЗДЕСЬ НЕЧЕГО СМОТРЕТЬ"
+        },
+        {
+            "id": 828003,
+            "name": "ОТВЕРНИСЬ!",
+            "desc": "ОТВЕРНИСЬ!"
+        },
+        {
+            "id": 860506,
+            "name": "Преломлённая борьба",
+            "desc": "После 10+ поединков с одним и тем же противником случайно получает или теряет силу в поединке, равную (количество поединков / 10) (округляется вниз)"
+        },
+        {
+            "id": 828004,
+            "name": "Грех зависти?",
+            "desc": "Наносит на 15% больше урона и получает на 15% меньше урона"
+        },
+        {
+            "id": 828005,
+            "name": "Преломлённый разум",
+            "desc": "+30 СД в начале битвы"
+        },
+        {
+            "id": 828006,
+            "name": "Преломлённый разум",
+            "desc": "-20 СД в начале битвы"
+        },
+        {
+            "id": 828007,
+            "name": "Преломлённый разум",
+            "desc": "+45 СД в начале битвы"
+        },
+        {
+            "id": 828008,
+            "name": "Преломлённый разум",
+            "desc": "+20 СД в начале битвы"
+        }
+    ]
+}

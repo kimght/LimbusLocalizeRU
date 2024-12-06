@@ -25,7 +25,7 @@
           "level": 3,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[BeforeAttack] Количество целей +1 при 50% и более ОЗ у целей",
+          "desc": "[BeforeAttack] Число целей +1 при 50% и более ОЗ у основной цели",
           "coinlist": [
             {
               "coindescs": [
@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -46,7 +46,7 @@
           "level": 4,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[BeforeAttack] Количество целей +1 при 50% и более ОЗ у целей; +1 цель дополнительно при 75% и более ОЗ у целей",
+          "desc": "[BeforeAttack] Число целей +1 при 50% и более ОЗ у основной цели; +1 цель дополнительно при 75% и более ОЗ у целей",
           "coinlist": [
             {
               "coindescs": [
@@ -57,7 +57,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -80,7 +80,7 @@
                   "desc": "[OnSucceedAttack] Восстанавливает 30% от нанесённого урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при 50% и более ОЗ у целей",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 50% и более ОЗ у основной цели",
           "coinlist": [
             {
               "coindescs": [
@@ -98,10 +98,10 @@
                   "desc": "[OnSucceedAttack] Восстанавливает 30% от нанесённого урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при 50% и более ОЗ у целей; +1 цель дополнительно при 75% и более ОЗ у целей",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 50% и более ОЗ у основной цели; +1 цель дополнительно при 75% и более ОЗ у целей",
           "coinlist": [
             {
               "coindescs": [
@@ -119,10 +119,10 @@
                   "desc": "[OnSucceedAttack] Восстанавливает 30% от нанесённого урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -142,7 +142,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Уязвимость к Лености на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 15% ОЗ 2-м союзникам с наименьшими ОЗ"
@@ -160,7 +160,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Уязвимость к Лености на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 25% ОЗ 2-м союзникам с наименьшими ОЗ"
@@ -181,7 +181,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Лености на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 30% ОЗ 2-м союзникам с наименьшими ОЗ"
@@ -207,7 +207,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Цели теряют 15 СД"
@@ -220,12 +220,12 @@
           "level": 3,
           "name": "Исполнение",
           "abName": "Советник небесного пристава",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при менее 50% ОЗ",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при менее 50% ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Цели теряют 20 СД"
@@ -241,12 +241,12 @@
           "level": 4,
           "name": "Исполнение",
           "abName": "Советник небесного пристава",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +2 при менее 50% ОЗ",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +2 при менее 50% ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Цели теряют 20 СД"
@@ -267,17 +267,17 @@
           "level": 1,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 6)\n[StartBattle] Основная цель этого навыка не тратит [Laceration] в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
+          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 6)\n[StartBattle] Основная цель этого навыка не тратит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит урон Похотью на число потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели.\n- При резонансе Похоти, равном 4-м, повышает урон на x1.2.\n(При подсчёте потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> число не может превысить 99.)",
-                  "summary": "[OnSucceedAttack] Наносит урон Похотью в зависимости от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели"
+                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
                   "desc": "[EnemyKill] Если урон навыка или эффект монеты превосходит ОЗ цели, фиксированно переносит оставшийся урон на остальных противников.\n(В фокусированном столкновении отсчёт ведётся от ОЗ ядра.)",
-                  "summary": "[EnemyKill] При превышении уроном ОЗ переносит оставшийся урон на остальных противников."
+                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
             }
@@ -287,17 +287,17 @@
           "level": 3,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До <style=\"highlight\">9</style>)\n[StartBattle] Основная цель этого навыка не тратит [Laceration] в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
+          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До <style=\"highlight\">9</style>)\n[StartBattle] Основная цель этого навыка не тратит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит урон Похотью на <style=\"highlight\">(Потенциал <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели x 1.2)</style>.\n- При резонансе Похоти, равном 4-м, повышает урон на x<style=\"highlight\">1.5</style>.\n<style=\"highlight\">- При абсолюте Похоти, равном 4-м, повышает урон на x1.8.</style>\n(При подсчёте потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> число не может превысить 99.)",
-                  "summary": "[OnSucceedAttack] Наносит урон Похотью в зависимости от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели"
+                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
                   "desc": "[EnemyKill] Если урон навыка или эффект монеты превосходит ОЗ цели, фиксированно переносит оставшийся урон на остальных противников.\n(В фокусированном столкновении отсчёт ведётся от ОЗ ядра.)",
-                  "summary": "[EnemyKill] При превышении уроном ОЗ переносит оставшийся урон на остальных противников."
+                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
             }
@@ -307,17 +307,17 @@
           "level": 4,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До <style=\"highlight\">13</style>)\n[StartBattle] Основная цель этого навыка не тратит [Laceration] в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
+          "desc": "Сила монет +1 за каждые 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До <style=\"highlight\">13</style>)\n[StartBattle] Основная цель этого навыка не тратит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> в этот ход.\n[EndSkill] Родя теряет 10 СД в конце хода в течение 3-х ходов.",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит урон Похотью на (Потенциал <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели x <style=\"highlight\">1.5</style>).\n- При резонансе Похоти, равном 4-м, повышает урон на x<style=\"highlight\">1.8</style>.\n- При абсолюте Похоти, равном 4-м, повышает урон на x<style=\"highlight\">2</style>.\n(При подсчёте потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> число не может превысить 99.)",
-                  "summary": "[OnSucceedAttack] Наносит урон Похотью в зависимости от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели"
+                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
                   "desc": "[EnemyKill] Если урон навыка или эффект монеты превосходит ОЗ цели, фиксированно переносит оставшийся урон на остальных противников.\n(В фокусированном столкновении отсчёт ведётся от ОЗ ядра.)",
-                  "summary": "[EnemyKill] При превышении уроном ОЗ переносит оставшийся урон на остальных противников."
+                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
             }
@@ -332,13 +332,13 @@
           "level": 1,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(Число наибольшего резонанса - 2) (До 2)",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +(Число наибольшего резонанса - 2) (До 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 + (резонанс Похоти) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n(До 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>)",
-                  "summary": "[OnSucceedAttack] Наносит 2 + резонанс Похоти <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "summary": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]"
                 }
               ]
             }
@@ -348,13 +348,13 @@
           "level": 3,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(Число наибольшего резонанса - 2) (До 2)",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +(Число наибольшего резонанса - 2) (До 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> + (резонанс Похоти) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n(До <style=\"highlight\">5</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>)",
-                  "summary": "[OnSucceedAttack] Наносит 3 + резонанс Похоти <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "summary": "[OnSucceedAttack] Inflict (3 + (Lust Reson.)) [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
@@ -367,13 +367,13 @@
           "level": 4,
           "name": "Кровавое желание",
           "abName": "Красные туфельки",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(Число наибольшего резонанса - 2) (До 2)",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +(Число наибольшего резонанса - 2) (До 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> + (резонанс Похоти) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n(До <style=\"highlight\">6</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>)",
-                  "summary": "[OnSucceedAttack] Наносит 4 + резонанс Похоти <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "summary": "[OnSucceedAttack] Inflict (4 + (Lust Reson.)) [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на <style=\"highlight\">3</style>"
@@ -391,22 +391,22 @@
           "level": 1,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от макс. ОЗ этого Грешника",
+          "desc": "[EndSkill] Лечит себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от максимального ОЗ этого персонажа",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             }
@@ -416,22 +416,22 @@
           "level": 3,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от макс. ОЗ этого Грешника\n<style=\"highlight\">- Каждый юнит получающий лечение исцеляет на +2.5% больше ОЗ за каждые 2 негативных эффекта на самом себе (макс. 7.5)</style>",
+          "desc": "[EndSkill] Лечит себя и 2 других союзников с наименьшим процентом ОЗ на 12.5% от максимального ОЗ этого персонажа\n<style=\"highlight\">- Каждый получающий лечение персонаж восстанавливает +2.5% ОЗ дополнительно за каждые 2 негативных эффекта на себе (макс. 7.5)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 2 [NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -441,22 +441,22 @@
           "level": 4,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[EndSkill] Исцеляет себя и 2 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">15%</style> от макс. ОЗ этого Грешника\n- Каждый юнит получающий лечение исцеляет на +2.5% больше ОЗ за <style=\"highlight\">каждый</style> негативный эффект на самом себе (макс. <style=\"highlight\">10%</style>)\n<style=\"highlight\">- При 4+ Резон. Зависти включая этот Навык, исцеляет 1 дополнительного союзника</style>",
+          "desc": "[EndSkill] Лечит себя и 2 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">15%</style> от максимального ОЗ этого персонажа\n- Каждый получающий лечение персонаж восстанавливает +2.5% ОЗ дополнительно за <style=\"highlight\">каждый</style> негативный эффект на себе (макс. <style=\"highlight\">10%</style>)\n<style=\"highlight\">- При 4+ Резонансе Зависти, включая этот Навык, лечит 1 дополнительного союзника</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">3</style> <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             }
@@ -471,25 +471,25 @@
           "level": 1,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на 15% от макс. ОЗ этого Грешника",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Лечит 3 других союзников с наименьшим процентом ОЗ на 15% от максимального ОЗ этого персонажа",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]"
+                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на +2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Наносит 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             }
@@ -499,25 +499,25 @@
           "level": 3,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на 15% от макс. ОЗ этого Грешника\n<style=\"highlight\">- Каждый юнит получающий лечение, получает [AttackUp] до следующего хода за каждые 2 негативных эффекта на самом себе (макс. 2)</style>",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Лечит 3 других союзников с наименьшим процентом ОЗ на 15% от максимального ОЗ этого персонажа\n<style=\"highlight\">- Каждый получающий лечение персонаж получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> до следующего хода за каждые 2 негативных эффекта на себе (макс. 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на +2<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Наносит 2 [NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -527,25 +527,25 @@
           "level": 4,
           "name": "Проклятый гвоздь",
           "abName": "Больной мишка Тедди",
-          "desc": "[CantIdentify]\nСлучайные цели\n[EndSkill] Исцеляет 3 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">20%</style> от макс. ОЗ этого Грешника\n- Каждый юнит получающий лечение, получает [AttackUp] до следующего хода за <style=\"highlight\">каждый</style> негативный эффект на самом себе (макс. <style=\"highlight\">3</style>)\n<style=\"highlight\">- При 4+ Резон. Зависти включая этот Навык, исцеляет 1 дополнительного союзника</style>",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Лечит 3 других союзников с наименьшим процентом ОЗ на <style=\"highlight\">20%</style> от максимального ОЗ этого персонажа\n- Каждый получающий лечение персонаж получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> до следующего хода за <style=\"highlight\">каждый</style> негативный эффект на себе (макс. <style=\"highlight\">3</style>)\n<style=\"highlight\">- При 4+ Резонансе Зависти, включая этот Навык, лечит 1 дополнительного союзника</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит +2 счётчика [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на +2<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятия</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Наносит <style=\"highlight\">3</style> [NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] Наносит <style=\"highlight\">3</style> <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             }

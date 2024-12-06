@@ -1,0 +1,28 @@
+﻿{
+    "dataList": [
+        {
+            "id": 811301,
+            "name": "Хохот Сантаты",
+            "desc": "При 10+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает <sprite name=\"AaCeSeBa\"><color=#f8c200><u><link=\"AaCeSeBa\">ХО! ХО! ХО!</link></u></color> на следующий ход.\nПри ОЗ ядра менее 30% получает <sprite name=\"AaCeSeBa\"><color=#f8c200><u><link=\"AaCeSeBa\">ХО! ХО! ХО!</link></u></color> каждый ход.",
+            "summary": ""
+        },
+        {
+            "id": 811302,
+            "name": "Погасшие огни",
+            "desc": "Теряет весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, когда этот персонаж оглушён.",
+            "summary": ""
+        },
+        {
+            "id": 811303,
+            "name": "Рассеивающееся дыхание",
+            "desc": "Теряет 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> при получении урона от атакующего навыка",
+            "summary": ""
+        },
+        {
+            "id": 811304,
+            "name": "Я НЕ МОГУ УПАКОВАТЬ ПОДАРКИ!!",
+            "desc": "Базовая сила карты \"Давайте упакуем\" -2, если сломана часть \"Мешок для подарков\".",
+            "summary": ""
+        }
+    ]
+}

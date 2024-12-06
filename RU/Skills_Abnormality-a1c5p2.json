@@ -25,7 +25,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color>"
                 }
               ]
             }
@@ -58,7 +58,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Target loses 5 SP"
                 }
               ]
             }
@@ -92,7 +92,7 @@
         {
           "level": 1,
           "name": "Властность",
-          "desc": "[StartBattle] Даёт 1 Повышение силы атаки всем союзникам\n[StartBattle] Наносит 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color> двум противникам с наименьшей СД",
+          "desc": "[StartBattle] Даёт 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> всем союзникам\n[StartBattle] Наносит 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color> двум противникам с наименьшей СД",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
         {
           "level": 1,
           "name": "Пусть это будет незабываемо",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"AaCePbBi\"><color=#a16a3b><u><link=\"AaCePbBi\">Испытания Среднего брата</link></u></color>. Получает 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> на следующий ход.",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"AaCePbBi\"><color=#f8c200><u><link=\"AaCePbBi\">Испытания Среднего брата</link></u></color>. Получает 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> на следующий ход.",
           "coinlist": [
             {
               "coindescs": [
@@ -138,7 +138,7 @@
                   "desc": "[OnSucceedAttack] Восстанавливает себе 10 СД"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на следующий ход"
                 }
               ]
             },
@@ -178,7 +178,7 @@
         {
           "level": 1,
           "name": "Клятва отмщения",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"AaCePbBi\"><color=#a16a3b><u><link=\"AaCePbBi\">Испытания Среднего брата</link></u></color>. Получает 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 5 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышений урона</link></u></color> на следующий ход.",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"AaCePbBi\"><color=#f8c200><u><link=\"AaCePbBi\">Испытания Среднего брата</link></u></color>. Получает 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 5 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышений урона</link></u></color> на следующий ход.",
           "coinlist": [
             {
               "coindescs": [
@@ -205,7 +205,7 @@
                   "desc": "[OnSucceedAttack] Повышает границы выносливости на 30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Паралич на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
                 }
               ]
             }

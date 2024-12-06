@@ -71,7 +71,7 @@
         {
           "level": 1,
           "name": "Грязные цепочки!",
-          "desc": "Сила в поединке +1 за каждые 5 единиц на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в  [VibrationDistribution]",
+          "desc": "Сила в поединке +1 за каждые 5 единиц на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в  <sprite name=\"VibrationDistribution\"><color=#f8c200><u><link=\"VibrationDistribution\">Тремор — Передел</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -83,7 +83,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 }
               ]
             }
@@ -121,7 +121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Даёт себе [Vibration] в количестве <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели"
+                  "desc": "[OnSucceedAttack] Даёт себе <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> в количестве <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -181,19 +181,19 @@
         {
           "level": 1,
           "name": "Подлые цепочки!",
-          "desc": "Сила в поединке +1 за каждые 5 единиц на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (최대 2)\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в  [VibrationDistribution]",
+          "desc": "Сила в поединке +1 за каждые 5 единиц на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (최대 2)\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в  <sprite name=\"VibrationDistribution\"><color=#f8c200><u><link=\"VibrationDistribution\">Тремор — Передел</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Vibration] в количестве <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> в количестве <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 }
               ]
             }
@@ -290,10 +290,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 10 и более единицах на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] При 10 и более единицах на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 15 и более единицах на потенциале <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] При 15 и более единицах на потенциале <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 }
               ]
             }
@@ -326,7 +326,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCollapse\"><color=#e30000><u><link=\"VibrationCollapse\">Тремор — Распад</link></u></color>"
                 }
               ]
             }
@@ -340,21 +340,21 @@
         {
           "level": 1,
           "name": "Готовы для взбучки?",
-          "desc": "Выбирает цель с <sprite name=\"VibrationCollapse\"><color=#e30000><u><link=\"VibrationCollapse\">Тремором — Распад</link></u></color>\n[WhenUse] Повышает счётчики <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> всех союзников на число единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> всех союзников на [VibrationDistribution]",
+          "desc": "Выбирает цель с <sprite name=\"VibrationCollapse\"><color=#e30000><u><link=\"VibrationCollapse\">Тремором — Распад</link></u></color>\n[WhenUse] Повышает счётчики <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> всех союзников на число единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> всех союзников на <sprite name=\"VibrationDistribution\"><color=#f8c200><u><link=\"VibrationDistribution\">Тремор — Передел</link></u></color>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#a16a3b><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationEcho\"><color=#e30000><u><link=\"VibrationEcho\">Тремором — Эхо</link></u></color>"
+                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationEcho]"
                 }
               ]
             }
@@ -387,7 +387,7 @@
         {
           "level": 1,
           "name": "Сбор ради общего дела",
-          "desc": "[CantDuel]\n[StartBattle] Переносит числа со счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[StartBattle] Получает 1 [AttackUp] за каждые 3 единицы на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 8",
+          "desc": "[CantDuel]\n[StartBattle] Переносит числа со счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[StartBattle] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> за каждые 3 единицы на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 8",
           "coinlist": [
             {
               "coindescs": [
@@ -412,13 +412,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3, затем <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
                 }
               ]
             }
@@ -437,14 +437,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели 4 и более единиц, наносит 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели 4 и более единиц, наносит 1 <sprite name=\"InterlockingTime\"><color=#f8c200><u><link=\"InterlockingTime\">Остановка времени</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели 4 и более единиц, наносит 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели 4 и более единиц, наносит 1 <sprite name=\"InterlockingTime\"><color=#f8c200><u><link=\"InterlockingTime\">Остановка времени</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
@@ -466,7 +466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> 4 и более единиц, наносит 8 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2 на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] Если на цели 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит 1 <sprite name=\"InterlockingTime\"><color=#f8c200><u><link=\"InterlockingTime\">Остановка времени</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> 4 и более единиц, наносит 8 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -517,7 +517,7 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2 на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели равен 4 и более, наносит 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] Если на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели равен 4 и более, наносит 1 <sprite name=\"InterlockingTime\"><color=#f8c200><u><link=\"InterlockingTime\">Остановка времени</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> равен 4 и более, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 5"
@@ -527,13 +527,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>равен 7 и более, наносит 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>равен 7 и более, наносит 1 <sprite name=\"InterlockingTime\"><color=#f8c200><u><link=\"InterlockingTime\">Остановка времени</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> равен 4 и более, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationChain]"
+                  "desc": "[OnSucceedAttack] Если свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> равен 4 и более, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в <sprite name=\"VibrationChain\"><color=#e30000><u><link=\"VibrationChain\">Тремор — Цепи</link></u></color>"
                 }
               ]
             }
@@ -593,7 +593,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -606,7 +606,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -628,17 +628,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Понижение силы атаки на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 5 и более единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationChain]"
+                  "desc": "[OnSucceedAttack] При 5 и более единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в <sprite name=\"VibrationChain\"><color=#e30000><u><link=\"VibrationChain\">Тремор — Цепи</link></u></color>"
                 }
               ]
             }
@@ -657,7 +657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 1 Уязвимость"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
@@ -678,10 +678,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, чтобы <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">спровоцировать Тремор</link></u></color>, после подкидывает эту монету снова (Только 1 раз)"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, чтобы <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">спровоцировать Тремор</link></u></color>, после подкидывает эту монету снова (Только 1 раз)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"TimeAccumulation\"><color=#e30000><u><link=\"TimeAccumulation\">Накопления времени</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"TimeAccumulation\"><color=#f8c200><u><link=\"TimeAccumulation\">Накопления времени</link></u></color>"
                 }
               ]
             }
@@ -741,7 +741,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход. Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход. Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
@@ -751,7 +751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход. Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход. Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
@@ -777,7 +777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, чтобы нанести 1 [ParryingResultDown] на следующий ход"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, чтобы нанести 1 <sprite name=\"ParryingResultDown\"><color=#f8c200><u><link=\"ParryingResultDown\">Понижение силы в поединке</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -796,7 +796,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 1 Уязвимость"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
@@ -817,10 +817,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">спровоцировать Тремор</link></u></color>, после подкидывает эту монету снова (Только 1 раз)"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">спровоцировать Тремор</link></u></color>, после подкидывает эту монету снова (Только 1 раз)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, [TimeAccumulation] 2 부여"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, <sprite name=\"TimeAccumulation\"><color=#f8c200><u><link=\"TimeAccumulation\">Накопление времени</link></u></color> 2 부여"
                 }
               ]
             }
