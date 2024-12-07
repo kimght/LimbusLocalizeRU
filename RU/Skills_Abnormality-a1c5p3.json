@@ -966,17 +966,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }

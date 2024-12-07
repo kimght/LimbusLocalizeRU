@@ -465,7 +465,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> фиксированным уроном"
                 }
               ]
             }

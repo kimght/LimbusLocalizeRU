@@ -270,16 +270,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)"
+                  "desc": "+5% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
                 }
               ]
             }
@@ -295,16 +295,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">70</style>%)"
+                  "desc": "+<style=\"highlight\">10</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
                 }
               ]
             }
@@ -320,16 +320,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "+<style=\"highlight\">15</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">105</style>%)"
+                  "desc": "+<style=\"highlight\">15</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 3-ёх раз)"
                 }
               ]
             }

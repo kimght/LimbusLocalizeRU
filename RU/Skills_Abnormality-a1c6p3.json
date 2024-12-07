@@ -751,14 +751,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -957,14 +957,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Наносит +5 счётчика <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "Наносит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Inflict +5 [Sinking] Count"
+                  "desc": "Наносит +5 счётчика <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }

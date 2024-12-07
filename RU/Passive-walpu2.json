@@ -13,7 +13,7 @@
         {
             "id": 814901,
             "name": "Боль",
-            "desc": "При смерти союзника получает 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\"><keyword id=\"ResultEnhancement\">Повышение силы</link></u></color> атаки</keyword> и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения атаки</link></u></color> на следующий ход."
+            "desc": "При смерти союзника получает 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения атаки</link></u></color> на следующий ход."
         },
         {
             "id": 814902,

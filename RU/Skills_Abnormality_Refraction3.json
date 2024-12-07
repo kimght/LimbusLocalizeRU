@@ -150,7 +150,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [MRcAfBa]"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиума</link></u></color>"
                 }
               ]
             }
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MRcAiBb] next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"MRcAiBb\"><color=#f8c200><u><link=\"MRcAiBb\">Мерцающей Искры</link></u></color> на следующий ход"
                 }
               ]
             }

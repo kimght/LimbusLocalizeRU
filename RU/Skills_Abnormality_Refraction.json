@@ -193,7 +193,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#f8c200><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -427,7 +427,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             }
@@ -447,6 +447,13 @@
             {
               "coindescs": [
                 {
+                  "desc": "Если на монетее 1 выпадает орёл, +10% урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
                   "desc": "Если на монетее 2 выпадает орёл, +10% урона"
                 }
               ]
@@ -455,13 +462,6 @@
               "coindescs": [
                 {
                   "desc": "Если на монетеах 2 и 3 выпадает орёл, +30% урона"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "If Coins 2 & 3 land Heads, +30% Damage"
                 }
               ]
             }
@@ -481,7 +481,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -501,7 +501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 2 Attack Power Up to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] Даёт 2 Повышения силы атаки случайному союзнику на следующий ход"
                 }
               ]
             }
@@ -711,7 +711,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -777,7 +777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             }

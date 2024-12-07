@@ -994,7 +994,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
                 }
               ]
             }

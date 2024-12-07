@@ -284,13 +284,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"BloodScissorScars\"><color=#f8c200><u><link=\"BloodScissorScars\">Глубокая Рана</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [LineCutting] next turn"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"LineCutting\"><color=#f8c200><u><link=\"LineCutting\">Цель шитья</link></u></color> на следующий ход"
                 }
               ]
             }

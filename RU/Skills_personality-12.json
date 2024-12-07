@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -27,7 +27,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -42,7 +42,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +20% damage"
+                  "desc": "При 6+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, наносит +20% урона"
                 }
               ]
             }
@@ -105,7 +105,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +30% damage"
+                  "desc": "При 6+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, наносит +30% урона"
                 }
               ]
             }
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +40% damage"
+                  "desc": "При 6+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, наносит +40% урона"
                 }
               ]
             }
@@ -155,7 +155,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Даёт всем союзникам 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -171,7 +171,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Даёт всем союзникам 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }

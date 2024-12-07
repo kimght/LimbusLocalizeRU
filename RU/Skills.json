@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>; Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>; Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1"
                 }
               ]
             }
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Если СД жертвы ниже 0, наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             }
@@ -500,7 +500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% урона, если удар оказывается критическим"
                 }
               ]
             }
@@ -523,7 +523,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+70% Damage on Critical Hit"
+                  "desc": "+70% урона, если удар оказывается критическим"
                 }
               ]
             }
@@ -608,7 +608,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -624,7 +624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -746,7 +746,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to inflict 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на следующий ход; Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color>"
                 }
               ]
             }
@@ -804,7 +804,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to inflict 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на следующий ход; Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color>"
                 }
               ]
             }
@@ -976,7 +976,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
                 }
               ]
             }
@@ -1175,7 +1175,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             }
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
                 }
               ]
             }
@@ -1544,7 +1544,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Poise next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на следующий ход"
                 }
               ]
             },
@@ -1959,7 +1959,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
                 }
               ]
             }
@@ -2588,7 +2588,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color>"
                 }
               ]
             }
@@ -2603,13 +2603,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             }
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Bleed, deal +20% damage"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит +20% урона"
                 }
               ]
             }
@@ -4647,7 +4647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижения силы защиты</link></u></color>"
                 }
               ]
             }
@@ -4662,7 +4662,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижения силы защиты</link></u></color>"
                 }
               ]
             }
@@ -4677,7 +4677,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижения силы защиты</link></u></color>"
                 }
               ]
             }
@@ -4877,7 +4877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
                 }
               ]
             }
@@ -4892,7 +4892,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Poise Count"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
                 }
               ]
             }
@@ -4907,7 +4907,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Poise Count "
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
                 }
               ]
             }
@@ -5123,10 +5123,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5141,10 +5141,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5159,10 +5159,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5450,7 +5450,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
@@ -5466,7 +5466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
@@ -5482,14 +5482,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 }
               ]
             }
@@ -5643,7 +5643,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышение Рубящего урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5658,7 +5658,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5673,7 +5673,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 Slash DMG Up next turn"
+                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5693,7 +5693,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise first Stagger Threshold by 20% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Поднимает первую границу выносливости на 20% от нанесённого урона"
                 }
               ]
             }
@@ -5708,7 +5708,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise first Stagger Threshold by 20% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Поднимает первую границу выносливости на 20% от нанесённого урона"
                 }
               ]
             }
@@ -6104,7 +6104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 }
               ]
             }
@@ -6823,14 +6823,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }
@@ -6846,14 +6846,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }
@@ -6947,14 +6947,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"MarkOfHeresy\"><color=#f8c200><u><link=\"MarkOfHeresy\">Взор</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Gaze next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"MarkOfHeresy\"><color=#f8c200><u><link=\"MarkOfHeresy\">Взор</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -6969,17 +6969,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"NailPersonality\"><color=#f8c200><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gaze next turn"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"MarkOfHeresy\"><color=#f8c200><u><link=\"MarkOfHeresy\">Взор</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -7413,10 +7413,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal bonus Slash damage by 15% of damage dealt"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Рубящий урон на 15% от прошедшего урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"WeaknessAnalysis\"><color=#f8c200><u><link=\"WeaknessAnalysis\">Обнаружение слабости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -7438,10 +7438,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal bonus Slash damage by 15% of damage dealt"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Рубящий урон на 15% от прошедшего урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"WeaknessAnalysis\"><color=#f8c200><u><link=\"WeaknessAnalysis\">Обнаружение слабости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -7474,7 +7474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
                 }
               ]
             }
@@ -7489,7 +7489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
                 }
               ]
             }
@@ -8050,7 +8050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 }
               ]
             }
@@ -8065,10 +8065,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
+                  "desc": "[OnSucceedAttackTail] Получает 1 <sprite name=\"Assemble\"><color=#f8c200><u><link=\"Assemble\">Фанатичность</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 }
               ]
             }
@@ -8083,10 +8083,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
+                  "desc": "[OnSucceedAttackTail] Получает 1 <sprite name=\"Assemble\"><color=#f8c200><u><link=\"Assemble\">Фанатичность</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 }
               ]
             }
@@ -8113,14 +8113,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "desc": "[OnSucceedAttackTail] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }
@@ -8145,20 +8145,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }
@@ -8178,17 +8178,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
+                  "desc": "[EnemyKill] Получает 1 <sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> Дробящего урона на следующий ход"
                 }
               ]
             }
@@ -8203,17 +8203,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 7 Burn"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
+                  "desc": "[EnemyKill] Получает 1 <sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> Дробящего урона на следующий ход"
                 }
               ]
             }
@@ -8903,7 +8903,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             }
@@ -8918,7 +8918,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             }
@@ -8933,10 +8933,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             }
@@ -9105,10 +9105,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1"
                 }
               ]
             }
@@ -9124,10 +9124,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -9143,10 +9143,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -9173,14 +9173,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -9202,17 +9202,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> для нанесения +20% урона"
+                  "desc": "[OnSucceedAttackTail] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "Тратит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> для нанесения +20% урона"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -9234,17 +9234,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, чтобы нанести +20% урона"
+                  "desc": "[OnSucceedAttackTail] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "Тратит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, чтобы нанести +20% урона"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -9271,10 +9271,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackTail] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -9354,7 +9354,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1 на следующий ход"
                 }
               ]
             }
@@ -9376,7 +9376,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1 на следующий ход"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2 на следующий ход"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1 на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2 на следующий ход"
                 }
               ]
             }
@@ -10734,7 +10734,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10750,7 +10750,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10803,7 +10803,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10818,7 +10818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10833,7 +10833,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10853,7 +10853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10868,7 +10868,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -10883,7 +10883,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -11267,7 +11267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит <sprite name=\"WeaknessAnalysis\"><color=#f8c200><u><link=\"WeaknessAnalysis\">Обнаружение слабости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -11289,7 +11289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит <sprite name=\"WeaknessAnalysis\"><color=#f8c200><u><link=\"WeaknessAnalysis\">Обнаружение слабости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -11311,7 +11311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит <sprite name=\"WeaknessAnalysis\"><color=#f8c200><u><link=\"WeaknessAnalysis\">Обнаружение слабости</link></u></color> на следующий ход"
                 }
               ]
             }

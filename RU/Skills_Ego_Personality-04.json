@@ -243,7 +243,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 10 [Laceration] between all targets"
+                  "desc": "[EndSkill] В равном количестве распределяет 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> между целями атаки"
                 }
               ]
             }
@@ -259,7 +259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict <style=\"highlight\">15</style> [Laceration] between all targets"
+                  "desc": "[EndSkill] В равном количестве распределяет <style=\"highlight\">15</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> между целями атаки"
                 }
               ]
             }
@@ -275,7 +275,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] В равном количестве распределяет 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> между целями атаки<style=\"highlight\"></style>"
                 }
               ]
             }

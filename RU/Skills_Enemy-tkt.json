@@ -347,14 +347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Vibration]"
+                  "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#f8c200><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationEcho\"><color=#e30000><u><link=\"VibrationEcho\">Тремором — Эхо</link></u></color>"
                 }
               ]
             }

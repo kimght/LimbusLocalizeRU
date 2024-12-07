@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Gain 2 [FestivalFever]"
+                  "desc": "[WinDuelAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>"
                 }
               ]
             }
@@ -1129,7 +1129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Gain 2 [FestivalFever]"
+                  "desc": "[WinDuelAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>"
                 }
               ]
             }
