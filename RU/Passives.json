@@ -1520,12 +1520,12 @@
         {
             "id": 1051001,
             "name": "Учебный зал",
-            "desc": "Каждый раз, когда другой союзник <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбрасывает</link></u></color> навык, накладывает 1 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> на союзника и на себя (один раз за навык, 3 раза за ход)\nКонец хода: в следующем ходу получает <sprite name=\"PenetrateDamageUp\"><color=#f8c200><u><link=\"PenetrateDamageUp\">Повышение Пронзающего урона</link></u></color> и <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Повышение Дробящего урона</link></u></color>, равное количеству других союзников, которые <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбросили</link></u></color> навыки (до 3)"
+            "desc": "Каждый раз, когда другой союзник <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбрасывает</link></u></color> навык, накладывает 1 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> на союзника и на себя (один раз за навык, до 3 раз за ход)\nКонец хода: в следующем ходу получает <sprite name=\"PenetrateDamageUp\"><color=#f8c200><u><link=\"PenetrateDamageUp\">Повышение Пронзающего урона</link></u></color> и <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Повышение Дробящего урона</link></u></color>, равное количеству других союзников, которые <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбросили</link></u></color> навыки (до 3)"
         },
         {
             "id": 1051021,
             "name": "Усердное обучение",
-            "desc": "Когда союзник с наибольшими максимальными ОЗ <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбрасывает</link></u></color> навык, получает щит в размере (5 × уровень <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сброшенного</link></u></color> навыка)% от максимальных ОЗ (Один раз за ход)\nЕсли у персонажа есть <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color>, значение щита умножается на 1.5"
+            "desc": "Когда союзник с наибольшими максимальными ОЗ <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сбрасывает</link></u></color> навык, получает щит в размере (5 × уровень <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">сброшенного</link></u></color> навыка)% от максимальных ОЗ (Один раз за ход)\nЕсли у персонажа есть <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color>, значение щита увеличивается в 1.5 раза"
         },
         {
             "id": 1111001,
@@ -1839,6 +1839,31 @@
             "name": "Быстрый курьер",
             "desc": "Во время удара союзник с наибольшей скоростью наносит 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> против целей с <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывом</link></u></color>. (До 3-х на 1-го противника)",
             "summary": ""
+        },
+        {
+            "id": 1031001,
+            "name": "Кровавый пир",
+            "desc": "Если этот персонаж находится на поле боя или является одним из персонажей, которые могут появиться на этом этапе, увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на величину урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, полученного всеми персонажами.\nКогда этот персонаж выходит на поле боя, пропитавшая поле боя спящая кровь заполняет поверхность.\n\nПри поглощении <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, если присутствуют <La Manchaland[TabExplain]> Сородичи того же поколения, что и этот персонаж, этот персонаж получает приоритет.\n\nПри использовании 'Искусства Варианта Санчо <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Твердокровного</link></u></color>[TabExplain] 9 - Кнут', ОЗ не может опуститься ниже 1 от урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>."
+        },
+        {
+            "id": 1031002,
+            "name": "Искусство твёрдой крови вариант Санчо",
+            "desc": "Начало хода: При 15+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой броне</link></u></color>, если каждый из следующих персонажей либо побеждён, либо участвует в столкновении, усиливает самый левый слот этого персонажа.\nЖрец La Manchaland[TabExplain] Грегор: Усиливает навык 1\nЦирюльник La Manchaland[TabExplain] Утис: Усиливает навык 2\nЭтот персонаж: Усиливает навык 3\nПринцесса La Manchaland[TabExplain] Родион: Усиливает защитный навык[TabExplain]\n\nКогда другие персонажи среди союзников получают урон от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> или поглощают <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 2 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (три раза за ход)"
+        },
+        {
+            "id": 1031003,
+            "name": "Носитель кровного родства",
+            "desc": "Во время столкновения, если другой союзный персонаж <La Manchaland[TabExplain]> побеждён:\n- Получает на 1 больше <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> при получении <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> от базовых атакующих навыков этого персонажа\n- Когда побеждены 3+ других союзных персонажа <La Manchaland[TabExplain]>: получает дополнительно 3 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>; в начале хода получает 1 <sprite name=\"SadLamanchaland\"><color=#None><u><link=\"SadLamanchaland\">Ответственность</link></u></color>"
+        },
+        {
+            "id": 1031004,
+            "name": "Armadura de Sangre",
+            "desc": "После атаки: если враг повержен, увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 10% от максимального ОЗ цели (100 за ход; для Целевых столкновений - если Часть сломана)\nВ конце хода получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход за каждые 15% отсутствующих ОЗ (максимум 3)\nЕсли союзник должен быть повержен от урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, предотвращает его поражение от урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> в этот ход (один раз за Столкновение для каждой Личности)"
+        },
+        {
+            "id": 1031021,
+            "name": "'Утоли свой подавленный голод, моя Семья'",
+            "desc": "Начало боя: 1 союзник с наименьшим запасом ОЗ получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> за каждые недостающие 20% ОЗ (максимум 3)\n- Если указанный союзник является <Bloodfiend>, вместо этого получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> за каждые недостающие 15% ОЗ (максимум 3)"
         }
     ]
 }

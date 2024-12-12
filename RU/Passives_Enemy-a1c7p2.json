@@ -57,8 +57,8 @@
         },
         {
             "id": 9017305,
-            "name": "Мешок крови",
-            "desc": "При получении удара повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1.\nПолучает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и 2 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипа</link></u></color> каждый раз, когда теряет 20% ОЗ.\nЕсли на поле боя находится Кровопийца, независимо от того, союзник это или враг, при смерти увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 30."
+            "name": "Кровосос",
+            "desc": "При получении удара повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1.\nПолучает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и 2 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипа</link></u></color> каждый раз, когда теряет 20% ОЗ.\nЕсли на поле боя находится Кровожад, независимо от того, союзник это или враг, при смерти увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 30."
         },
         {
             "id": 9017101,

@@ -1035,6 +1035,544 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "С меня хватит",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 5 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "С меня хватит",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 5 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "С меня хватит",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 5 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пусть всё расцветёт",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[BeforeAttack] При 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>, вес атаки +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +5% больше урона за каждые 100 <sprite name=\"BloodDinner_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Пусть всё расцветёт",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1</style>\n[BeforeAttack] <style=\"highlight\">Вес атаки +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +<style=\"highlight\">10</style>% больше урона за каждые 100 <sprite name=\"BloodDinner_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пусть всё расцветёт",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>\n[BeforeAttack] Вес атаки +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +<style=\"highlight\">15</style>% больше урона за каждые 100 <sprite name=\"BloodDinner_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Я насажу на кол",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 10)\n[WhenUse] Сила столкновения +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (До 2)\n[WhenUse] Если у цели 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Наносит на +5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 50%)\n[WhenUse] Наносит на +10% больше урона за каждые 100 <sprite name=\"BloodDinner_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До 50%)\n[EndSkill] Если цель побеждена, увеличивает <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 30; получает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (раз за ход)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я насажу на кол",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 10)\n[WhenUse] Сила столкновения +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (До 2)\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>\n[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Наносит на +5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 50%)\n[WhenUse] Наносит на +<style=\"highlight\">20</style>% больше урона за каждые 100 <sprite name=\"BloodDinner_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До <style=\"highlight\">100</style>%)\n[EndSkill] Если цель побеждена, увеличивает <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на <style=\"highlight\">60</style>; получает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (раз за ход)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Смех должен утихнуть",
+          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[StartBattle] Союзнику с наименьшим количеством ОЗ: накладывает 1 <sprite name=\"SwirlingBloodPersonality\"><color=#None><u><link=\"SwirlingBloodPersonality\">Мерцание [Кровожады]</link></u></color> за каждые 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (макс. 10, раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Смех должен утихнуть",
+          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и получает 1 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавую броню</link></u></color> за каждые 10 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[StartBattle] Союзнику с наименьшим количеством ОЗ: накладывает 1 <sprite name=\"SwirlingBloodPersonality\"><color=#None><u><link=\"SwirlingBloodPersonality\">Мерцание [Кровожады]</link></u></color> за каждые 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (макс. <style=\"highlight\">15</style>, раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вариант искусства затвердевшей крови Санчо 9 - Хлыст",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 20)\n[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Наносит +1 дополнительное <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> при попадании за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>. (До 2) После атаки поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Вариант искусства затвердевшей крови Санчо 9 - Хлыст",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 20)\n<style=\"highlight\">[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1</style>\n[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Наносит +1 дополнительное <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> при попадании за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>. (До 2) После атаки поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вариант искусства затвердевшей крови Санчо 9 - Хлыст",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 20)\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>\n[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n[WhenUse] Наносит +1 дополнительное <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> при попадании за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>. (До 2) После атаки поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели один раз (цель теряет 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вариант искусства затвердевшей крови Санчо 8 - Разрезание",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[BeforeAttack] При 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>, вес атаки +1\n[EndSkill] Если этот навык имел увеличенный вес атаки, поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +5% больше урона за каждые 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (До 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Вариант искусства затвердевшей крови Санчо 8 - Разрезание",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>\n[BeforeAttack] <style=\"highlight\">Получает вес атаки +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (До 2)</style>\n[EndSkill] Поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> за каждый полученный вес атаки",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +<style=\"highlight\">10</style>% больше урона за каждые 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (До <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вариант искусства затвердевшей крови Санчо 8 - Разрезание",
+          "desc": "При попадании этим навыком: восстанавливает 30% от нанесённого урона ОЗ (До 10)\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)\n[BeforeAttack] Получает вес атаки +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> (До 2)\n[EndSkill] Поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> за каждый полученный вес атаки<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на +2.5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 25%)"
+                },
+                {
+                  "desc": "Наносит на +<style=\"highlight\">15</style>% больше урона за каждые 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (До <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Восходящее искусство затвердевшей крови Санчо - Ла Сангре",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе (До 2)\n[WhenUse] Если у цели 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Наносит на +5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 50%)\n[WhenUse] Наносит на +20% больше урона за каждые 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (До 100%)\n[EndSkill] Поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>\n[EndSkill] Если цель побеждена, увеличивает <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 50. Восстанавливает половину <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>, поглощённой этим навыком (раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и +4 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[EndSkill] Если цель побеждена, наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> и +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> всем врагам"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Восходящее искусство затвердевшей крови Санчо - Ла Сангре",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе (До <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>\n[WhenUse] Наносит на +5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 50%)\n[WhenUse] Наносит на +20% больше урона за каждые 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color> (До 100%)\n[EndSkill] Поглощает 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> за каждые 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>\n[EndSkill] Если цель побеждена, увеличивает <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на <style=\"highlight\">100</style>. Восстанавливает половину <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color>, поглощённой этим навыком (раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">8</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> и +4 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[EndSkill] Если цель побеждена, наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> и +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> всем врагам"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вариант искусства затвердевшей крови Санчо 15 - Нарастание к финалу",
+          "desc": "[DuelCounter]\n[StartBattle] (3 + (высший Резон. / 2)) союзникам с наименьшим ОЗ: накладывает (1 + (<sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавая броня</link></u></color> / 15)) <sprite name=\"SwirlingBloodPersonality\"><color=#None><u><link=\"SwirlingBloodPersonality\">Мерцаний [Кровожады]</link></u></color> за каждые 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color>, затем поглощает половину <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе. (раз на союзника; округляется вниз)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +3 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вариант искусства затвердевшей крови Санчо 15 - Нарастание к финалу",
+          "desc": "[DuelCounter]\n[StartBattle] (3 + (высший Резон. / 2)) союзникам с наименьшим ОЗ: накладывает (1 + (<sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавая броня</link></u></color> / <style=\"highlight\">10</style>)) <sprite name=\"SwirlingBloodPersonality\"><color=#None><u><link=\"SwirlingBloodPersonality\">Мерцаний [Кровожады]</link></u></color> за каждые 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#f8c200><u><link=\"BloodDinner_Common_Accumulation\">Поглощённого кровавого пиршества (общего)</link></u></color>, затем поглощает половину <sprite name=\"BloodArmorPersonalityFirst\"><color=#None><u><link=\"BloodArmorPersonalityFirst\">Кровавой брони</link></u></color> на себе. (раз на союзника; округляется вниз)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит +3 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

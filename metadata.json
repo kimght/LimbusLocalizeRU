@@ -1,5 +1,5 @@
 {
-  "version": "1.1.34",
+  "version": "1.1.35",
   "files": [
     {
       "path": "RU/Skills_Assist.json",
@@ -47,7 +47,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c7p3.json",
-      "checksum": "7217d20dc79698aed9b154ddeae55034"
+      "checksum": "59a09bf578b6d303ceb988c3118a7c91"
     },
     {
       "path": "RU/AbEvents_mowe.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c7p2.json",
-      "checksum": "3310cd6433c99f0dfb2c22da0ed10e7a"
+      "checksum": "4dff1f1cd9544e5ccaf669b9e7bc966b"
     },
     {
       "path": "RU/Bufs-mowe.json",
@@ -211,7 +211,7 @@
     },
     {
       "path": "RU/Bufs.json",
-      "checksum": "2748beea83e2007b8638ef021677b66f"
+      "checksum": "3b8ba79f33dd38a4210ff94fd805b896"
     },
     {
       "path": "RU/RailwayDungeonUI_2.json",
@@ -231,7 +231,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c7p1.json",
-      "checksum": "0fa31ffcbf7bcfbbaf35a00ef0101dce"
+      "checksum": "d7418394d9194b88d187a51782e771bf"
     },
     {
       "path": "RU/AbEventsResultLog-a1c6p2.json",
@@ -747,11 +747,11 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "92aa3ab8ab3ba8974444a0eda5a9ae40"
+      "checksum": "21e615985761024234a305f72a4e2add"
     },
     {
       "path": "RU/Bufs-a1c7p1.json",
-      "checksum": "e08c255060c0a189407120340c31bed6"
+      "checksum": "ec300d3ef5b1640a3ed0e2d2c4267b6c"
     },
     {
       "path": "RU/Announcer-a1c7p3.json",
@@ -835,7 +835,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c6p3.json",
-      "checksum": "27f5833508bbc9734796459b01d0f056"
+      "checksum": "70606c1735bb5a2cc4a9911fb422e38f"
     },
     {
       "path": "RU/AbEvents-walpu4.json",
@@ -955,7 +955,7 @@
     },
     {
       "path": "RU/Skills_personality-03.json",
-      "checksum": "0bbfff521469b5383813fc3a66d5ae2f"
+      "checksum": "d0c4d6795ff6cc08c9353061ea67bdf3"
     },
     {
       "path": "RU/Skills_Abnormality-ycgd.json",
@@ -963,7 +963,7 @@
     },
     {
       "path": "RU/BattleKeywords.json",
-      "checksum": "65256c519d6d466ecacb7729b8e51f43"
+      "checksum": "938dbaa9e0270bab92491dcf2c9a7982"
     },
     {
       "path": "RU/Skills_Abnormality-a1c5p1.json",
@@ -979,7 +979,7 @@
     },
     {
       "path": "RU/Passives_Abnormality_Refraction2.json",
-      "checksum": "f63c3308ef1d2dd3b044f2ba94dd5cd6"
+      "checksum": "008edb908227a1ae74ffb9c988cf041f"
     },
     {
       "path": "RU/EGOgift_MirrorDungeon.json",
@@ -1303,7 +1303,7 @@
     },
     {
       "path": "RU/Passives_Abnormality.json",
-      "checksum": "7241223b11e0d338f2ce92a9b52a0062"
+      "checksum": "54967a66943b086909ea9690f69301bb"
     },
     {
       "path": "RU/Bufs-a1c6p1.json",
@@ -1327,7 +1327,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-mowe.json",
-      "checksum": "f30ae74428fe1b79dac61cbdd743bf55"
+      "checksum": "c9871f1ee4ad06f42e952b6e6080fde3"
     },
     {
       "path": "RU/Passives_check4.json",
@@ -1479,7 +1479,7 @@
     },
     {
       "path": "RU/BattleKeywords-a1c7p1.json",
-      "checksum": "e75418060ace3262bd7cd650655bb8e9"
+      "checksum": "9ed5c928a1aea28fd24fad21cf7bc5e3"
     },
     {
       "path": "RU/Enemies-walpu4.json",
@@ -4931,7 +4931,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "53f77f25ecbffc16b686697e173a6257"
+      "checksum": "16f28c11f58950a56a5cf10deaef6912"
     }
   ]
 }

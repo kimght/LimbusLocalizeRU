@@ -17,8 +17,8 @@
         },
         {
             "id": 853904,
-            "name": "Опустошённое сердце",
-            "desc": "Получает 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонта</link></u></color> в начале первого хода. (До 6)\nПолучает доп. <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитные зонты</link></u></color>, равные кол-ву \"кругов\".\nПолучает <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>, равную счётчику <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color> на себе.\nЕсли в ячейке есть навык Ожидание, призывает Старые зонты в количестве <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color>."
+            "name": "Тщеславное сердце",
+            "desc": "Получает 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонта</link></u></color> в начале первого хода. (Максимум 6)\nПолучает дополнительные <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитные зонты</link></u></color> в количестве равном числу \"<sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Циклов</link></u></color>\".\nПолучает <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> равную количеству <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color> на себе.\nЕсли экипировано Умение ожидания, призывает Старых зонтов в количестве равном числу <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color>"
         },
         {
             "id": 853905,
@@ -58,7 +58,7 @@
         {
             "id": 854105,
             "name": "Подзаряд",
-            "desc": "Получает 3 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color> в начале первого хода.\nПолучает 1 дополнительный <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряд</link></u></color> за каждый круг. (До 8)."
+            "desc": "Получает 3 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color> в начале первого хода.\nПолучает 1 дополнительный <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряд</link></u></color> за каждый счётчик <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>. (Максимум 8)"
         },
         {
             "id": 854201,
@@ -148,7 +148,7 @@
         {
             "id": 854901,
             "name": "Зачарованный",
-            "desc": "Наносит <sprite name=\"FairyCharm\"><color=#f8c200><u><link=\"FairyCharm\">Зачарованный</link></u></color> на противника с наименьшей скоростью.\nЧисло целей повышается с каждым новым кругом.\nЧисло целей повышается, когда Фея восстанавливается."
+            "desc": "Накладывает <sprite name=\"FairyCharm\"><color=#f8c200><u><link=\"FairyCharm\">Зачарованный</link></u></color> на противника с наименьшей Скоростью.\nКоличество целей увеличивается с каждым счётчиком <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>.\nКоличество целей увеличивается при восстановлении Феи."
         },
         {
             "id": 854902,
@@ -292,8 +292,8 @@
         },
         {
             "id": 855601,
-            "name": "Вечное рабство",
-            "desc": "Максимальные ОЗ повышаются на (круг X 5)%.\nНаносит на (круг X 5)% меньше урона."
+            "name": "Вечное бремя",
+            "desc": "Максимальные ОЗ увеличиваются на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)%.\nНаносит на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)% меньше урона"
         },
         {
             "id": 855602,

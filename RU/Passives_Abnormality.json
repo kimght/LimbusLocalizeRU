@@ -80,7 +80,7 @@
         {
             "id": 800902,
             "name": "Хрупкое ядро",
-            "desc": "Когда голова уничтожена, все части получают <sprite name=\"Inactible\"><color=#f8c200><u><link=\"Inactible\">Обездвиживание</link></u></color> на следующий ход.\nГолова восстанавливается через 1 ход."
+            "desc": "Когда голова уничтожена, все части получают О​б​е​з​д​в​и​ж​и​в​а​н​и​е на следующий ход.\nГолова восстанавливается через 1 ход."
         },
         {
             "id": 800903,
@@ -585,17 +585,17 @@
         {
             "id": 826503,
             "name": "Голод",
-            "desc": "Конец хода: Если персонаж не убил союзника с <sprite name=\"PreparedMeat\"><color=#f8c200><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, получает 1 <sprite name=\"FamineBloodPriestServant_LowMorale\"><color=#f8c200><u><link=\"FamineBloodPriestServant_LowMorale\">Голод</link></u></color>. При 75% ОЗ или меньше, получает 2. При 50% ОЗ или меньше, получает 3.\nНачало хода: Если персонаж убил союзника с <sprite name=\"PreparedMeat\"><color=#f8c200><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, теряет 1 <sprite name=\"FamineBloodPriestServant_LowMorale\"><color=#f8c200><u><link=\"FamineBloodPriestServant_LowMorale\">Голод</link></u></color>."
+            "desc": "Конец хода: Если персонаж не убил союзника с <sprite name=\"PreparedMeat\"><color=#f8c200><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, получает 1 <sprite name=\"Hunger\"><color=#f8c200><u><link=\"Hunger\">Голод</link></u></color>. При 75% ОЗ или меньше, получает 2. При 50% ОЗ или меньше, получает 3.\nНачало хода: Если персонаж убил союзника с <sprite name=\"PreparedMeat\"><color=#f8c200><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, теряет 1 <sprite name=\"Hunger\"><color=#f8c200><u><link=\"Hunger\">Голод</link></u></color>."
         },
         {
             "id": 826504,
             "name": "Временное насыщение",
-            "desc": "Конец хода: При 0 <sprite name=\"FamineBloodPriestServant_LowMorale\"><color=#f8c200><u><link=\"FamineBloodPriestServant_LowMorale\">Голода</link></u></color> получает (количество убитых союзников в этом ходу × 3) <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>."
+            "desc": "Конец хода: При 0 <sprite name=\"Hunger\"><color=#f8c200><u><link=\"Hunger\">Голода</link></u></color>, получает (количество убитых союзников за этот ход × 3) <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>."
         },
         {
             "id": 826505,
             "name": "Неутолимый голод",
-            "desc": "Конец хода: При 4 <sprite name=\"FamineBloodPriestServant_LowMorale\"><color=#f8c200><u><link=\"FamineBloodPriestServant_LowMorale\">Голоде</link></u></color> получает более сильный шаблон."
+            "desc": "Конец хода: При 4 <sprite name=\"Hunger\"><color=#f8c200><u><link=\"Hunger\">Голода</link></u></color>, получает усиленный шаблон."
         },
         {
             "id": 811801,
@@ -605,7 +605,7 @@
         {
             "id": 811802,
             "name": "Утраченное прошлое",
-            "desc": "Когда тело повреждено, расходуется всё <sprite name=\"AccumulatedPastMirror\"><color=#f8c200><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color>.\nКогда тело повреждено, все типы атак и сродства становятся неэффективными(0.5) против тела начиная со следующего хода и до конца этого боя."
+            "desc": "Когда тело повреждено, расходуется всё <sprite name=\"AccumulatedPast\"><color=#f8c200><u><link=\"AccumulatedPast\">Накопленное прошлое</link></u></color>.\nКогда тело повреждено, все типы атак и сродства становятся неэффективными(0.5) против тела начиная со следующего хода и до конца этого боя."
         },
         {
             "id": 811808,
