@@ -1,5 +1,5 @@
 {
-  "version": "1.1.35",
+  "version": "1.1.36",
   "files": [
     {
       "path": "RU/Skills_Assist.json",
@@ -99,7 +99,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "7f6a3e64f15741d80fb79a91cb2f97fa"
+      "checksum": "c513ba4c71db8f19f9c9d0fb9caed038"
     },
     {
       "path": "RU/Passives_Enemy-a1c7p2.json",
@@ -2690,6 +2690,10 @@
       "checksum": "30184a07710dfd8acaebc33d793309d2"
     },
     {
+      "path": "RU/StoryData/E070X.json",
+      "checksum": "6bb1148f737db470f52bf2243ed6423c"
+    },
+    {
       "path": "RU/StoryData/5D205B.json",
       "checksum": "1e15e310414da61ab5577a257153ac74"
     },
@@ -2876,6 +2880,10 @@
     {
       "path": "RU/StoryData/5D304I7.json",
       "checksum": "b1c46d279728593f00acfbbe91689390"
+    },
+    {
+      "path": "RU/StoryData/E071X.json",
+      "checksum": "2b35f269231b438a449bafc553a080a4"
     },
     {
       "path": "RU/StoryData/2D306B.json",
@@ -3778,6 +3786,10 @@
       "checksum": "70a4d70b8fc5dc46f8fc2386ebc8c05b"
     },
     {
+      "path": "RU/StoryData/P10611.json",
+      "checksum": "83e3cb2b81b72ca9f7f0056a2eb091f8"
+    },
+    {
       "path": "RU/StoryData/4D107B.json",
       "checksum": "4239e7ed4e9b8b84fa78b0309c480e04"
     },
@@ -3972,6 +3984,10 @@
     {
       "path": "RU/StoryData/S316B.json",
       "checksum": "c131156695446a579e3c13c45f1e0b1b"
+    },
+    {
+      "path": "RU/StoryData/P10711.json",
+      "checksum": "9f4104c1e3b9407b33eb6d76ebd8e42a"
     },
     {
       "path": "RU/StoryData/E615I3.json",
@@ -4931,7 +4947,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "16f28c11f58950a56a5cf10deaef6912"
+      "checksum": "4534905a5b618bd14e25c88ebb817a65"
     }
   ]
 }

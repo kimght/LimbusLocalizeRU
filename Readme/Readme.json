@@ -5,7 +5,7 @@
             "version": 0,
             "type": 1,
             "startDate": "2023-08-31T00:00:00.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "Кредиты",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы MTL:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusCompanyRuMTL>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы оригинального мода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы ручного русского перевода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/Crescent-Corporation/LimbusCompanyBusRUS>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Особая благодарность анонам из /pmg/ треда:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://2ch.hk/gacha/catalog.html>Двач</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Также благодарим <i>abcdcode</i> за помощь с кодом!</b>\"}]}"
@@ -15,7 +15,7 @@
             "version": 0,
             "type": 1,
             "startDate": "2023-08-31T00:00:00.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "Участники проекта",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Участники проекта</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Babkaebpmg\"},{\"formatKey\":\"Text\",\"formatValue\":\"- DAFTPUSiK\"},{\"formatKey\":\"Text\",\"formatValue\":\"- KJHater\"},{\"formatKey\":\"Text\",\"formatValue\":\"- kimght\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Помочь в переводе</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusStory>GitHub</link>\"}]}"
@@ -25,7 +25,7 @@
             "version": 0,
             "type": 1,
             "startDate": "2023-08-31T00:00:00.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "Дополнительно",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"Онлайн читалочка:\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>kimght.github.io</link>\"}]}"
@@ -35,7 +35,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-12-12T13:56:37.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.1.3",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.3</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведена история\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведены все скиллы, пассивки и эффекты\"}]}"
@@ -45,7 +45,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-10-10T10:39:12.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.1.2",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.2</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод первой части 7 главы\"}]}"
@@ -55,7 +55,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-10-02T19:01:18.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.1.1",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.1</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлен баг в новой версии\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод заметок Данте\"}]}"
@@ -65,7 +65,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-09-01T12:44:24.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.1.0",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Улучшены автоматические обновления.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Начиная с этой версии перевода спрайтов больше не будет! Но благодаря этому мод будет обновляться ещё быстрее.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлен баг, из-за которого в последних эпизодах глав путалась озвучка.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведены недостающие интерваллы (S.E.A., Miracle in District 20).\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведены истории идентичностей.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправлены некоторые ошибки в переводе.\"}]}"
@@ -75,7 +75,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-23T16:19:01.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.9",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.9</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Исправил ошибку из-за которой мод крашился в последней версии игры.\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил пару мест в переводе.\"}]}"
@@ -85,7 +85,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-08T17:45:54.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.8",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.8</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил перевод 6.5(2)\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил автоматическое обновление перевода истории\"}]}"
@@ -95,7 +95,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-07T11:47:11.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.7",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.7</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил баг в авто-обновлении\"}]}"
@@ -105,7 +105,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-07T11:31:08.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.6",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.6</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Обновил код до [v0.3.6](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS/releases/tag/v0.3.6)\"}]}"
@@ -115,7 +115,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-07T10:13:48.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.5",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.5</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Улучшил автообновления\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Отключил рофлы в загрузке по умолчанию\"}]}"
@@ -125,7 +125,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-06T17:40:56.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.4",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.4</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил возможность задать версию при CD, надеюсь\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил перевод названий мест в истории\"}]}"
@@ -135,7 +135,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-06T08:39:02.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.3",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.3</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Поправил баги с кривой разметкой\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Перевел имя Хитклифа с одной \\\"ф\\\"\"}]}"
@@ -145,7 +145,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-05T18:18:23.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.2",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.2</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Починил авто-обновление\"}]}"
@@ -155,7 +155,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-05T17:54:50.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.1",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.1</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Обновил перевод\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавил картинку на кнопку\"}]}"
@@ -165,7 +165,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-05T15:27:47.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v1.0.0",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.0.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 5-ой главы\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 6-ой главы\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Значительно улучшен перевод 4-ой главы\"}]}"
@@ -175,7 +175,7 @@
             "version": 0,
             "type": 0,
             "startDate": "2024-08-03T15:10:21.000Z",
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": "v0.1.0",
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v0.1.0</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Добавлен перевод 4 главы\"}]}"
