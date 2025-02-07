@@ -1,5 +1,5 @@
 {
-  "version": "1.1.39",
+  "version": "1.1.40",
   "files": [
     {
       "path": "RU/MirrorDungeonTheme-1.json",
@@ -63,7 +63,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-mowe.json",
-      "checksum": "92c4868820ebc6289bbd4a22ea014d34"
+      "checksum": "96aaf9a48783e191ea8713d4afeb604c"
     },
     {
       "path": "RU/AbDlg_Faust.json",
@@ -251,7 +251,7 @@
     },
     {
       "path": "RU/Skills_personality-07.json",
-      "checksum": "ea718e39a2120510118fbcc79868390c"
+      "checksum": "775f726f513e429b7182d97b30266389"
     },
     {
       "path": "RU/EventLimbus1stAnnivText.json",
@@ -287,7 +287,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-ycgd.json",
-      "checksum": "664f5012632a396afcdbef7d7292648a"
+      "checksum": "3a671bce0db79b0ee067c194834e9126"
     },
     {
       "path": "RU/Skills_Abnormality-walpu4.json",
@@ -432,6 +432,10 @@
     {
       "path": "RU/RailwayDungeonUI_3.json",
       "checksum": "e8dc1e50170872b69e03fc39f754a32c"
+    },
+    {
+      "path": "RU/EGOgift_MirrorDungeon_2.json",
+      "checksum": "91f1e16c361319fee00ec340ee519389"
     },
     {
       "path": "RU/BattleUIText.json",
@@ -907,7 +911,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon.json",
-      "checksum": "2a24beb854ba58f527b6979ca0ec2824"
+      "checksum": "2c0a43a11f7870c8ca4929134a3d5374"
     },
     {
       "path": "RU/Passives_Abnormality-a1c951.json",
@@ -1039,7 +1043,7 @@
     },
     {
       "path": "RU/Skills_personality-03.json",
-      "checksum": "d0c4d6795ff6cc08c9353061ea67bdf3"
+      "checksum": "7c410f4f0dd518f8e9fb939e11b8b24f"
     },
     {
       "path": "RU/UserTicket-R.json",
@@ -2779,7 +2783,7 @@
     },
     {
       "path": "RU/StoryData/E705B.json",
-      "checksum": "1c3a55ac9769cd44e21ff32f8fbc9721"
+      "checksum": "a6297e80036f65179c6fe24243eaa158"
     },
     {
       "path": "RU/StoryData/5D201B.json",
@@ -4015,7 +4019,7 @@
     },
     {
       "path": "RU/StoryData/E704B.json",
-      "checksum": "6388ace97232b1fa6c58be08bdac3130"
+      "checksum": "d61d7983597b1aed57880c122e4c6e44"
     },
     {
       "path": "RU/StoryData/S313B.json",
@@ -4031,7 +4035,7 @@
     },
     {
       "path": "RU/StoryData/E704A.json",
-      "checksum": "dfce2dc85d37eb8a95f81b12dc6409a8"
+      "checksum": "712f83d45c5d2e82e5d16c832ef70309"
     },
     {
       "path": "RU/StoryData/S702B.json",
@@ -5051,7 +5055,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "70c21454a0a369b5cb95fa8c8566a5d2"
+      "checksum": "afd17c978f98df7a60ad60b6fd67bcfa"
     }
   ]
 }

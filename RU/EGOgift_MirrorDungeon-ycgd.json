@@ -1,139 +1,139 @@
-{
-    "dataList": [
+﻿{
+  "dataList": [
+    {
+      "id": 2027,
+      "name": "Чёрная тетрадь",
+      "desc": "Начало первого хода столкновения: даёт случайный ЭГО ресурс, равный количеству противников.\n\nЕсли на поле боя 4 и более идентичностей Родословной клинка или клана «Курокумо», участвующих в столкновении, даёт ЭГО ресурс наименее имеющегося Греха.",
+      "simpleDesc": [
         {
-            "id": 2027,
-            "name": "Black Ledger",
-            "desc": "First Turn Start of an Encounter: gain random E.G.O resources equal to the number of enemies.\n\nIf there are 4 or more Blade Lineage or Kurokumo Clan Identities participating in this Encounter, gain E.G.O resources for the least-owned E.G.O Affinity instead.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2027,
-                    "simpleDesc": "Gain random E.G.O resources"
-                },
-                {
-                    "abilityID": 20271,
-                    "simpleDesc": "Gain the least-owned E.G.O resources"
-                }
-            ]
+          "abilityID": 2027,
+          "simpleDesc": "Даёт случайный ЭГО ресурс"
         },
         {
-            "id": 2028,
-            "name": "Rusted Hilt",
-            "desc": "Turn Start: all allies gain 1 Slash Power Up.\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Slash Power Up instead.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2028,
-                    "simpleDesc": "Gain 1 Slash Power Up"
-                },
-                {
-                    "abilityID": 20281,
-                    "simpleDesc": "Gain 2 Slash Power Up"
-                }
-            ]
-        },
-        {
-            "id": 2029,
-            "name": "Fractured Blade",
-            "desc": "During this Encounter: when inflicting [Laceration] Potency or Unique Bleed for the first time against an enemy with an Attack Skill effect, inflict an additional +2 [Laceration] Count. (Once per Encounter)\n\nKurokumo Clan Identities, when inflicting damage against an enemy for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count instead.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2029,
-                    "simpleDesc": "Inflict additional 2 [Laceration] Count"
-                },
-                {
-                    "abilityID": 20291,
-                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
-                }
-            ]
-        },
-        {
-            "id": 2030,
-            "name": "Broken Blade",
-            "desc": "When an ally Critically Hits an enemy, deal an additional ([Breath] Potency/3) Pride damage.\n\nBlade Lineage Identities, when they Critically Hit an enemy, deal an additional ([Breath] Potency/2) Pride damage instead.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2030,
-                    "simpleDesc": "Deal an additional ([Breath] Potency/3) Pride damage."
-                },
-                {
-                    "abilityID": 20301,
-                    "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
-                }
-            ]
-        },
-        {
-            "id": 2031,
-            "name": "Red Tassel",
-            "desc": "If the target has 1.5 or lower Slash Resistance, Slash Resistance +0.3.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2031,
-                    "simpleDesc": "Slash Resistance +0.3"
-                }
-            ]
-        },
-        {
-            "id": 2032,
-            "name": "Sublimity",
-            "desc": "Encounter Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)",
-            "simpleDesc": [
-                {
-                    "abilityID": 2032,
-                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
-                },
-                {
-                    "abilityID": 20321,
-                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
-                }
-            ]
-        },
-        {
-            "id": 2033,
-            "name": "Unbending",
-            "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2033,
-                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
-                },
-                {
-                    "abilityID": 20331,
-                    "simpleDesc": "Deal additional Pride damage equal to [Breath] Potency on self"
-                }
-            ]
-        },
-        {
-            "id": 2034,
-            "name": "Ragged Bamboo Hat",
-            "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage allies with [Breath] have a fixed Critical rate of 100%.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2034,
-                    "simpleDesc": "Deal +50% Slash Damage"
-                },
-                {
-                    "abilityID": 20341,
-                    "simpleDesc": "Fix Critical rate to 100%"
-                }
-            ]
-        },
-        {
-            "id": 2035,
-            "name": "Old Dopo Robe",
-            "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage Identities: Skill 1 gains Coin Power +1. Single-coin Skill 1 gains Coin Power +3.\n\n[Blade Lineage Mentor Meursault Only] 'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Their Bones' Skill deals +50% more damage.",
-            "simpleDesc": [
-                {
-                    "abilityID": 2035,
-                    "simpleDesc": "Deal +50% Slash Damage"
-                },
-                {
-                    "abilityID": 20351,
-                    "simpleDesc": "Skill 1 Coin Power Up"
-                },
-                {
-                    "abilityID": 20352,
-                    "simpleDesc": "'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Your Bones' deals +50% more damage"
-                }
-            ]
+          "abilityID": 20271,
+          "simpleDesc": "Даёт наименее имеющийся ЭГО ресурс"
         }
-    ]
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Ржавая рукоять",
+      "desc": "Начало хода: все союзники получают 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color>.\n\nИдентичности же Родословной клинка или клана «Курокумо» получают 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>.",
+      "simpleDesc": [
+        {
+          "abilityID": 2028,
+          "simpleDesc": "Даёт 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color>"
+        },
+        {
+          "abilityID": 20281,
+          "simpleDesc": "Даёт 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 2029,
+      "name": "Повреждённый клинок",
+      "desc": "Во время этого столкновения: при нанесении силы или повышения счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> или Особого Кровотечения впервые спомощью эффекта навыков, дополнительно повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2. (Единожды за бой)\n\nИдентичности клана «Курокумо», при нанесении урона противнику впервые, наносит 4 еденицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4 вместо этого.",
+      "simpleDesc": [
+        {
+          "abilityID": 2029,
+          "simpleDesc": "Дополнительно повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+        },
+        {
+          "abilityID": 20291,
+          "simpleDesc": "Дополнително наносит 4 еденицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4"
+        }
+      ]
+    },
+    {
+      "id": 2030,
+      "name": "Сломанный клинок",
+      "desc": "При критическом ударе, дополнительно наносит (Потенциал <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> / 3) урона Гордыней.\n\nИдентичности же Родословной клинка при критическом ударе дополнительно наносят (Потенциал <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> / 2) урона гордыней.",
+      "simpleDesc": [
+        {
+          "abilityID": 2030,
+          "simpleDesc": "Наносит (Потенциал <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> / 3) урона Гордыней"
+        },
+        {
+          "abilityID": 20301,
+          "simpleDesc": "Наносит (Потенциал <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> / 2) урона Гордыней"
+        }
+      ]
+    },
+    {
+      "id": 2031,
+      "name": "Красная кисть",
+      "desc": "Если сопротивление цели к Рубящему урону 1.5 и менее, сопротивление к Рубящему урону увеличивается на 0.3.",
+      "simpleDesc": [
+        {
+          "abilityID": 2031,
+          "simpleDesc": "Сопротивение цели к Рубящему урону увеличивается на 0.3"
+        }
+      ]
+    },
+    {
+      "id": 2032,
+      "name": "Величественность",
+      "desc": "Начало столкновения: эффект активируется при наличии 3 и более идентичностей клана «Курокумо».\n\nНачало Хода: все союзники получают 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color> и наносят на 35% больше Рубящего урона.\n\nНачало хода: когда идентичность клана «Курокумо» впервые наносит урон, наносит дополнительные 4 еденицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4. (Единожды за ход)",
+      "simpleDesc": [
+        {
+          "abilityID": 2032,
+          "simpleDesc": "Даёт 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color> и на 35% больше Рубящего урона"
+        },
+        {
+          "abilityID": 20321,
+          "simpleDesc": "Наносит дополнительные 4 еденицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4"
+        }
+      ]
+    },
+    {
+      "id": 2033,
+      "name": "Непреклонность",
+      "desc": "Начало столкновения: эффект активируется при наличии 3 и более идентичностей Родословной клинка.\n\nНачало хода: все союзники получают 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>, и наносят на 35% больше Рубящего урона\n\nНачало хода: когда идентичность Родословной клинка наносит критический удар: наносит дополнительный урон гордыней, равный потенциалу <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе.",
+      "simpleDesc": [
+        {
+          "abilityID": 2033,
+          "simpleDesc": "Даёт 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>"
+        },
+        {
+          "abilityID": 20331,
+          "simpleDesc": "Наносит дополнительный урон гордыней, равный потенциалу <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе."
+        }
+      ]
+    },
+    {
+      "id": 2034,
+      "name": "Рваная бамбуковая шляпа",
+      "desc": "Начало столкновения: эффект активируется при наличии 3 и более идентичностей Родословной клинка.\n\nВсе союзники наносят на 50% больше Рубящего урона\n\nИденничности Родословной клинка с <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханием</link></u></color> получают фиксированный 100% шанс критического удара.",
+      "simpleDesc": [
+        {
+          "abilityID": 2034,
+          "simpleDesc": "На 50% больше Рубящего урона"
+        },
+        {
+          "abilityID": 20341,
+          "simpleDesc": "Фиксированный 100% шанс критического удара"
+        }
+      ]
+    },
+    {
+      "id": 2035,
+      "name": "Старая роба",
+      "desc": "Начало столкновения: эффект активируется при наличии 3 и более идентичностей Родословной клинка.\n\nВсе союзники наносят на 50% больше Рубящего урона.\n\nИдентичности Родословной клинка: Первый навык молучает +1 к Силе монет. Одномонетный Первый навык получает +3 к Силе монеты.\n\n[Только Наставник Родословной клинка Мерсо] Итоговая сила навыка 'Уступаю свою плоть' -12; Навык 'Дабы забрать их кости' наносит на 50% больше урона.",
+      "simpleDesc": [
+        {
+          "abilityID": 2035,
+          "simpleDesc": "На 50% больше Рубящего урона"
+        },
+        {
+          "abilityID": 20351,
+          "simpleDesc": "Первый навык молучает +1 к Силе монет"
+        },
+        {
+          "abilityID": 20352,
+          "simpleDesc": "Итоговая сила навыка 'Уступаю свою плоть' -12; Навык 'Дабы забрать их кости' наносит на 50% больше урона."
+        }
+      ]
+    }
+  ]
 }
