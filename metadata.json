@@ -1,5 +1,5 @@
 {
-  "version": "1.1.41",
+  "version": "1.1.42",
   "files": [
     {
       "path": "RU/MirrorDungeonTheme-1.json",
@@ -2659,7 +2659,7 @@
     },
     {
       "path": "RU/StoryData/E708B.json",
-      "checksum": "0f2dbbf7e888212c76b64994553ec989"
+      "checksum": "2a22ba223e4ea6daf05e1d8fadf3fb60"
     },
     {
       "path": "RU/StoryData/S609A.json",
@@ -3159,7 +3159,7 @@
     },
     {
       "path": "RU/StoryData/E711B.json",
-      "checksum": "4d2c44cf631d729d2684bbd863f98fd3"
+      "checksum": "11d8f82e48e3f9a994bf11963395f5c1"
     },
     {
       "path": "RU/StoryData/S722B.json",
@@ -3519,7 +3519,7 @@
     },
     {
       "path": "RU/StoryData/E714B.json",
-      "checksum": "757bc4b8763331a63d804af55dca02f9"
+      "checksum": "7e081527d26887dba072a7fd8ffb129e"
     },
     {
       "path": "RU/StoryData/2D301B.json",
