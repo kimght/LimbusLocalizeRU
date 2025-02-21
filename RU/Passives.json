@@ -921,13 +921,13 @@
             "id": 1070701,
             "name": "Изуродованные татуировки",
             "desc": "Если союзник, включая грешника, получает урон, Хитклиф получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход. (До 6-и)\nЧем ниже ОЗ — тем выше наносимый урон.\n- Урон повышается на 0.4% за каждый 1% потерянных ОЗ.",
-            "summary": "Gain 1 [AttackUp] and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
+            "summary": "Gain 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
         },
         {
             "id": 1070711,
             "name": "Изуродованные татуировки",
             "desc": "Если союзник, включая грешника, получает урон, Хитклиф получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход. Если союзник — член экипажа «Пекода», удваивает получение эффектов. (До 9-и)\nЧем ниже ОЗ — тем выше наносимый урон.\n- Урон повышается на 1% за каждый 1% потерянных ОЗ.",
-            "summary": "Gain 1 [AttackUp] and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
+            "summary": "Gain 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> and 1 [DefenseUp] every time this unit is attacked. Deal more damage the less HP this unit has."
         },
         {
             "id": 1070721,
@@ -1160,13 +1160,13 @@
             "id": 1090801,
             "name": "Боевой пыл",
             "desc": "+5% урона за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели. (До 15%)\nНачало боевой фазы: Если на всех противниках 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, даёт 1 <sprite name=\"CrimsonDamageUp\"><color=#f8c200><u><link=\"CrimsonDamageUp\">Повышение урона Гневом</link></u></color> (максимальный абсолют Гнева) союзникам по порядку выбора в команду.\n- В фокусированном столкновении зачитываются части.",
-            "summary": "Deal +5% more damage for every 6 [Combustion] Potency on target (Max 15%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
+            "summary": "Deal +5% more damage for every 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency on target (Max 15%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
         },
         {
             "id": 1090811,
             "name": "Боевой пыл",
             "desc": "+10% за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели. (До 30%)\nНачало боевой фазы: Если на всех противниках 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, даёт 1 <sprite name=\"CrimsonDamageUp\"><color=#f8c200><u><link=\"CrimsonDamageUp\">Повышение урона Гневом</link></u></color> (максимальный абсолют Гнева) союзникам по порядку выбора в команду.\n- В фокусированном столкновении зачитываются части;\n- Если союзник с эффектом — корректировщик ассоциации «Лю», дополнительно даёт 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>.",
-            "summary": "Deal +10% more damage for every 6 [Combustion] Potency on target (Max 30%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
+            "summary": "Deal +10% more damage for every 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency on target (Max 30%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
         },
         {
             "id": 1090821,
@@ -1177,25 +1177,25 @@
             "id": 1040701,
             "name": "Война пламенем",
             "desc": "При убийстве противника с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> случайному противнику с наименьшим потенциалом <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (включая его отсутствие). (Раз за ход)\n- В фокусированном столкновении наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на часть противника.",
-            "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency"
+            "summary": "When this unit defeats an enemy with <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, apply 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> to 1 random enemy with no <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> or with the least <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency"
         },
         {
             "id": 1040711,
             "name": "Война пламенем",
             "desc": "При убийстве противника с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум случайным противникам с наименьшим потенциалом <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (включая его отсутствие). (2 раза за ход)\n- В фокусированном столкновении наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на часть противника.",
-            "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency"
+            "summary": "When this unit defeats an enemy with <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, apply 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> to 2 random enemies with no <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> or with the least <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency"
         },
         {
             "id": 1040721,
             "name": "Пламя войны",
             "desc": "При убийстве союзником противника с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> случайному противнику с наименьшим потенциалом <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (включая его отсутствие). (Раз за ход)\n- В фокусированном столкновении наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на часть противника.",
-            "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy"
+            "summary": "When 1 ally with the lowest Speed defeats an enemy with <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, inflict 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> on 1 random enemy"
         },
         {
             "id": 1040731,
             "name": "Пламя войны",
             "desc": "При убийстве союзником противника с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум случайным противникам с наименьшим потенциалом <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (включая его отсутствие). (Раз за ход)\n- В фокусированном столкновении наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на часть противника.",
-            "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies"
+            "summary": "When 1 ally with the lowest Speed defeats an enemy with <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, inflict 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> on 2 random enemies"
         },
         {
             "id": 1070801,
@@ -1219,19 +1219,19 @@
             "id": 1050901,
             "name": "Шанс выиграть время",
             "desc": "Сила в поединке +1 против целей с <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
-            "summary": "Clash Power +1 in a Clash against targets with [Burst]"
+            "summary": "Clash Power +1 in a Clash against targets with <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
         },
         {
             "id": 1050921,
             "name": "Беру на себя",
             "desc": "Во время удара союзник с наибольшей скоростью наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> против целей с 6-ью и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>. (До 3-х на 1-го противника)",
-            "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ [Burst]"
+            "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
         },
         {
             "id": 1050931,
             "name": "Беру на себя",
             "desc": "Во время удара союзник с наибольшей скоростью наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> против целей с 3-мя и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>. (До 3-х на 1-го противника)",
-            "summary": "Inflict 1 [AttackDown] On Hit against targets with 3+ [Burst]"
+            "summary": "Inflict 1 [AttackDown] On Hit against targets with 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
         },
         {
             "id": 1110801,
@@ -1399,13 +1399,13 @@
             "id": 1100901,
             "name": "Оружие мастерской «Стигма» / Пыл",
             "desc": "Навыки Синклера наносят +1 единицу потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>. (Активируются до 6-и раз за ход)\nВ состоянии Нестабильного ЭГО при 0 и выше СД сила монет +(текущая СД/20). При 45 СД сила монет +3.",
-            "summary": "Inflict +1 more [Combustion] Potency with Skills\nGain Coin Power based on SP"
+            "summary": "Inflict +1 more <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency with Skills\nGain Coin Power based on SP"
         },
         {
             "id": 1100911,
             "name": "Оружие мастерской «Стигма» / Пыл",
             "desc": "Навыки Синклера наносят +1 единицу потенциала <style=\"highlight\">и +1 единицу счётчика</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Активируются до 6-и раз за ход)\nВ состоянии Нестабильного ЭГО при 0 и выше СД сила монет +(текущая СД/20). При 45 СД сила монет +3.",
-            "summary": "Inflict +1 more [Combustion] Potency and Count with Skills\nGain Coin Power based on SP"
+            "summary": "Inflict +1 more <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency and Count with Skills\nGain Coin Power based on SP"
         },
         {
             "id": 1100902,
@@ -1417,19 +1417,19 @@
             "id": 1100921,
             "name": "Пылающий клинок",
             "desc": "Когда монета навыка первого вступившего в команду союзника падет орлом, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1. (Активируется до 4-х раз за ход)",
-            "summary": "On Heads Hit, inflict +1 [Combustion] Count"
+            "summary": "On Heads Hit, inflict +1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Count"
         },
         {
             "id": 1010901,
             "name": "Оценка задачи",
             "desc": "Восстанавливает 2 СД при успешной атаке цели с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.\nДополнительно восстанавливает 1 СД за каждый негативный эффект на цели. (До 3)\nПри максимальной СД на момент восстановления получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход.\n(Пассивка активируется до 4-х раз за ход)",
-            "summary": "Conditional SP Heal On Hit. At max SP, gain 1 [AttackUp] next turn"
+            "summary": "Conditional SP Heal On Hit. At max SP, gain 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> next turn"
         },
         {
             "id": 1010911,
             "name": "Оценка задачи",
             "desc": "Восстанавливает 2 СД при успешной атаке цели с  <style=\"highlight\">4</style> и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.\nДополнительно восстанавливает 1 СД за каждый негативный эффект на цели. (До 3)\nПри максимальной СД на момент восстановления получает <style=\"highlight\">2</style> <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход.\n(Пассивка активируется до 4-х раз за ход)",
-            "summary": "Conditional SP Heal On Hit. At max SP, gain 2 [AttackUp] next turn"
+            "summary": "Conditional SP Heal On Hit. At max SP, gain 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> next turn"
         },
         {
             "id": 1010921,
@@ -1675,7 +1675,7 @@
             "id": 1091021,
             "name": "Превосходный курьёр",
             "desc": "Сила в поединке +1 самому быстрому союзнику на навык, наносящий потенциал и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>.",
-            "summary": "Skills that apply [Burst] Potency or Count gain Clash Power +1"
+            "summary": "Skills that apply <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> Potency or Count gain Clash Power +1"
         },
         {
             "id": 1081001,
@@ -1706,13 +1706,13 @@
             "id": 1051101,
             "name": "Дуэльный стрим",
             "desc": "В конце хода получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу за каждые 3 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2-х раз)\nПри попадании базовыми атакующими навыками накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#f8c200><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> в следующем ходу. (Раз за навык)",
-            "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
+            "summary": "Turn End: gain [Agility] based on <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
         },
         {
             "id": 1051111,
             "name": "Дуэльный стрим",
             "desc": "В конце хода получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу за каждые 3 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2-х раз)\nПри попадании базовыми атакующими навыками накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#f8c200><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> в следующем ходу. (Раз за навык)\n<style=\"highlight\">Если персонаж атаковал слот с <sprite name=\"ConcentratedAttackMeursault\"><color=#f8c200><u><link=\"ConcentratedAttackMeursault\">Сосредоточенной атакой - Мерсо</link></u></color> и победил его владельца или сломал Часть, восстанавливает 7 СД</style>",
-            "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+            "summary": "Turn End: gain [Agility] based on <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
         },
         {
             "id": 1051121,
@@ -1864,6 +1864,145 @@
             "id": 1031021,
             "name": "'Утоли свой подавленный голод, моя Семья'",
             "desc": "Начало боя: 1 союзник с наименьшим запасом ОЗ получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> за каждые недостающие 20% ОЗ (максимум 3)\n- Если указанный союзник является <Bloodfiend>, вместо этого получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> за каждые недостающие 15% ОЗ (максимум 3)"
+        },
+        {
+            "id": 1061101,
+            "name": "Концентрация",
+            "desc": "При подкидывании монеты, которая тратит <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>: даже когда у этой идентичности кончаются <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, атака не отменяется. Однако эффекты этих монет в таком случае не активируются."
+        },
+        {
+            "id": 1061102,
+            "name": "Тактическая огневая поддержка",
+            "desc": "Если Корректировщик Офиса Точки Хитклиф находится в состоянии <sprite name=\"Retreat_FullStop\"><color=#9f6a3a><u><link=\"Retreat_FullStop\">Отступления</link></u></color>, или же был выбран в качестве запасной идентичности, усиливает второй и третий навыки Хон Лу"
+        },
+        {
+            "id": 1061111,
+            "name": "Тактическая огневая поддержка",
+            "desc": "Если Корректировщик Офиса Точки Хитклиф находится в состоянии <sprite name=\"Retreat_FullStop\"><color=#9f6a3a><u><link=\"Retreat_FullStop\">Отступления</link></u></color>, или же был выбран в качестве запасной идентичности, усиливает второй и третий навыки Хон Лу\n\nНачало боя: при 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+        },
+        {
+            "id": 1061121,
+            "name": "Огонь на подавление",
+            "desc": "Союзник с наибольшим количеством <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патронов</link></u></color> наносит на 10% больше урона навыками, которые тратят <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>\n(Не активируется, если <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color> кончились)"
+        },
+        {
+            "id": 1071101,
+            "name": "Выстрел",
+            "desc": "Начало боя: получает 3 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышения силы Пронзающей атаки</link></u></color>\n\nКонец хода: если не осталось <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патронов</link></u></color> любого типа, <sprite name=\"Retreat_FullStop\"><color=#9f6a3a><u><link=\"Retreat_FullStop\">Отступает</link></u></color> с поля боя (Единожды за бой)\n\nЕсли заменяется или возвращается после отступления, получает максимальное поличество <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрации【Снайпер】</link></u></color>, 3 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышения силы Пронзающей атаки</link></u></color>, а так же <sprite name=\"FullReload\"><color=#9f6a3a><u><link=\"FullReload\">Перезаряжается</link></u></color> (За исключением <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патронов Ателье логики</link></u></color>; единожды за бой)"
+        },
+        {
+            "id": 1071102,
+            "name": "Точное прицеливание",
+            "desc": "Конец хода: получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за каждые 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 2)\n\nКонец хода: если не использовались никакие атакующие навыки (Включая ЭГО навыки, исключая эффект <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаруженной цели</link></u></color>), получает 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и 1 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышение силы Пронзающей атаки</link></u></color> на следующий ход"
+        },
+        {
+            "id": 1071103,
+            "name": "Выстрел",
+            "desc": "Начало боя: получает 3 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышения силы Пронзающей атаки</link></u></color>\n\n<style=\"highlight\">Когда этот союзник вступает на поле боя, получает 1 <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патрон Ателье логики</link></u></color> (Единожды за бой)</style>\n\nКонец хода: если не осталось <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патронов</link></u></color> любого типа, <sprite name=\"Retreat_FullStop\"><color=#9f6a3a><u><link=\"Retreat_FullStop\">Отступает</link></u></color> с поля боя (Единожды за бой)\n\nЕсли заменяется или возвращается после отступления, получает максимальное поличество <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрации【Снайпер】</link></u></color>, 3 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышения силы Пронзающей атаки</link></u></color>, а так же <sprite name=\"FullReload\"><color=#9f6a3a><u><link=\"FullReload\">Перезаряжается</link></u></color> (За исключением <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патронов Ателье логики</link></u></color>; единожды за бой)"
+        },
+        {
+            "id": 1071111,
+            "name": "Точное прицеливание",
+            "desc": "Конец хода: получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за каждые 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 2)\n\n<style=\"highlight\">Начало боя: если этот персонаж не использует никакие атакующие навыки (Включая ЭГО навыки), даёт 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 1 союзнику с его наименьшим потенциалом</style>\n\nКонец хода: если не использовались никакие атакующие навыки (Включая ЭГО навыки, исключая эффект <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаруженной цели</link></u></color>), получает 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и 1 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышение силы Пронзающей атаки</link></u></color> на следующий ход"
+        },
+        {
+            "id": 1071121,
+            "name": "Наблюдение",
+            "desc": "1 союзник с наименьшим количеством <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патронов</link></u></color> повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2 при использовании навыков, которые тратят <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>.\n- Если же вышеописанный союзнк принадлежит к Офису Точки, или имеет менее 5 счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда он повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 4 (Единожды за ход; не накладывается на союзников, у которых кончились <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>)"
+        },
+        {
+            "id": 1011101,
+            "name": "Это отражено в их внешнем виде, больше напоминающем исходную Аномалию, чем ЭГО бывшей L Corp.",
+            "desc": "При смерти, накладывает 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 против атаковавшего его противника, а так же даёт 2 ЭГО ресурса для 4 наименее имеющихся ЭГО ресурсов.\n- Если этого грешника никто не атаковал, или же его убил союзник, наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 противнику с наименьшим счётчиком <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+        },
+        {
+            "id": 1011111,
+            "name": "Это отражено в их внешнем виде, больше напоминающем исходную Аномалию, чем ЭГО бывшей L Corp.",
+            "desc": "При смерти, накладывает 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на <style=\"highlight\">3</style> против атаковавшего его противника, а так же добавляет 2 ЭГО ресурса для 4 наименее имеющихся ЭГО ресурсов.\n- Если этого грешника никто не атаковал, или же его убил союзник, наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 противнику с наименьшим счётчиком <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- Если грешник имеет <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Фею-приманку</link></u></color>, наносит двойное количество потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> этим эффектом"
+        },
+        {
+            "id": 1011121,
+            "name": "Распад ЭГО мало чем отличается от разложения компоста.",
+            "desc": "Когда 1 союзник с наименьшим ОЗ умрает, добавляет 2 ЭГО ресурса для 4 наименее имеющихся ЭГО ресурсов"
+        },
+        {
+            "id": 1021101,
+            "name": "Огнестойкость",
+            "desc": "Не может быть оглушена или убита от урона <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>."
+        },
+        {
+            "id": 1021111,
+            "name": "Пламенный мотылёк",
+            "desc": "Начало боевой фазы: при 80%+ потерянных ОЗ и менее чем 30 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе, повышает его до 30 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> (Единожды за бой)\n\nКонец хода: получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 5)\n\nПри смерти, активирует следующие эффекты:\n- Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на всех противников; наносит количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе среди противников (До 3 на противника)\n- Добавляет 2 ЭГО ресурса к 2 наименее имеющимся ЭГО ресурсам\n\nЕсли смерть произошла в результате использования навыка 'Максимальная настройка A.B.S.【Деградированная коррозия】', усиливает эффект:\n- Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на всех противниклв; наносит количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе среди противников (До 5 на противника)\n- Добавляет 2 ЭГО ресурса к 2 наименее имеющимся ЭГО ресурсам\n- Если было 30 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе, даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> союзнику, заменившиму Фауст"
+        },
+        {
+            "id": 1021121,
+            "name": "Остаточное тепло",
+            "desc": "Когда 1 союзник с наименьшим СД наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> базовыми Атакующими навыками, наносит 2 дополнительных <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (До 3 раз)\n- Если же у цели, которую атакует союзник, 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, тогда повышает счётчик на 1 (До 3 раз)"
+        },
+        {
+          "id": 1071201,
+          "name": "Грозовой клинок",
+          "desc": "Если 2 и более союзника из клана «Курокумо» участвуют в бою включая эту идентичность: получает 1 <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color> (Макс. 1)\n\nПротив врагов, которые в этот ход использовали навыки защиты или имели максимальное количество HP перед атакой: на 10% больше урона\n\nЕсли враг атаковал другого союзника и нанес ему урон в этот ход: использует одностороннюю атаку на атакующего своим первым навыком (Единожды за ход)",
+          "summary": "Получает <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color>; больше урона против врагов, которые в этот ход использовали навыки защиты или имели максимальное количество HP перед атакой; контратакует, когда атакуют союзника"
+        },
+        {
+          "id": 1071202,
+          "name": "Готовность к бою",
+          "desc": "Если союзник из клана «Курокумо» погибает, получает 1 [SlashResultUp]\n\nЕсли 3 и более союзника из клана «Курокумо» мертвы, полуачает <sprite name=\"EngageToBattle\"><color=#f8c200><u><link=\"EngageToBattle\">Готовность к бою</link></u></color>"
+        },
+        {
+          "id": 1071211,
+          "name": "Грозовой клинок",
+          "desc": "Если 2 и более союзника из клана «Курокумо» участвуют в бою включая эту идентичность: получает 1 <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color> (Макс. 1)\n\nПротив врагов, которые в этот ход использовали навыки защиты или имели максимальное количество HP перед атакой: на 10% больше урона\n\nЕсли враг атаковал другого союзника и нанес ему урон в этот ход: использует одностороннюю атаку на атакующего своим первым навыком (Единожды за ход)\n\n<style=\"highlight\">Если же противник убивает союзника, или же ОЗ этого союзника после атаки 25% или менее, тогда использует одностороннюю атаку на атакующего своим навыком <Правила переулков> (Единожды на союзника; Дважды за ход; навык считается Атакующим)</style>",
+          "summary": "Получает <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color>; больше урона против врагов, которые в этот ход использовали навыки защиты или имели максимальное количество HP перед атакой; контратакует, когда атакуют союзника"
+        },
+        {
+          "id": 1071221,
+          "name": "Пронзание",
+          "desc": "1 союзник с наибольшей скоростью: на 10% больше урона против врагов, которые в этот ход использовали навыки защиты или имели максимальное количество HP перед атакой"
+        },
+        {
+          "id": 1081101,
+          "name": "Надвигающиеся тучи",
+          "desc": "Начало боя: если 2 и более союзника из клана «Курокумо» участвуют в бою включая эту идентичность, получает 1 <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color>\n\nНачало боя: даёт 1 <sprite name=\"BlackCloud\"><color=#9f6a3a><u><link=\"BlackCloud\">Тёмные тучи</link></u></color> идентичностям клана «Курокумо» рядом с этим персонажем на приборной панели",
+          "summary": "Получает <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color>; даёт <sprite name=\"BlackCloud\"><color=#9f6a3a><u><link=\"BlackCloud\">Тёмные тучи</link></u></color> союзникам из клана «Курокумо»"
+        },
+        {
+          "id": 1081102,
+          "name": "Готовность к бою",
+          "desc": "Если союзник из клана «Курокумо» погибает, получает 1 [SlashResultUp]\n\nЕсли 3 и более союзника из клана «Курокумо» мертвы, полуачает <sprite name=\"EngageToBattle\"><color=#f8c200><u><link=\"EngageToBattle\">Готовность к бою</link></u></color>"
+        },
+        {
+          "id": 1081111,
+          "name": "Надвигающиеся тучи",
+          "desc": "Если 2 и более союзника из клана «Курокумо» участвуют в бою включая эту идентичность: получает 1 <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color> \n\nНачало боя: даёт 1 <sprite name=\"BlackCloud\"><color=#9f6a3a><u><link=\"BlackCloud\">Тёмные тучи</link></u></color> идентичностям клана «Курокумо» рядом с этим персонажем на приборной панели\n<style=\"highlight\">- При 4+ резонансе Похоти, даёт 1 <sprite name=\"BlackCloud\"><color=#9f6a3a><u><link=\"BlackCloud\">Тёмные тучи</link></u></color> всем союзникам клана «Курокумо»</style>",
+          "summary": "Получает <sprite name=\"BlackCloudBlade\"><color=#f8c200><u><link=\"BlackCloudBlade\">Клинок тёмных туч</link></u></color>; Даёт <sprite name=\"BlackCloud\"><color=#9f6a3a><u><link=\"BlackCloud\">Тёмные тучи</link></u></color> союзникам клана «Курокумо»"
+        },
+        {
+          "id": 1081121,
+          "name": "Клинок мастерской Облака",
+          "desc": "1 союзник с наибольшей скоростью наносит 1 дополнительное [Laceration] или его счётчик эффектами навыков и монет"
+        },
+        {
+          "id": 1011201,
+          "name": "Внутренний пыл",
+          "desc": "Конец хода: восстанавливает СД одному союзнику с наименьшими СД на (5 + наибольший резонанс) (До 10) (За исключением паники или коррозии ЭГО)\n- Если этот союзник имеет базовые навыки, которые наносят [Combustion] или повышают его счётчик, восстанавливает ему дополнительные 5 СД"
+        },
+        {
+          "id": 1011211,
+          "name": "Внутренний пыл",
+          "desc": "Конец хода: восстанавливает СД одному союзнику с наименьшими СД на (5 + наибольший резонанс) (До 10) (За исключением паники или коррозии ЭГО)\n- Если этот союзник имеет базовые навыки, которые наносят [Combustion] или повышают его счётчик, восстанавливает ему дополнительные 5 СД\n- При 4+ резонансе Гнева восстанавливает СД ещё одному союзнику"
+        },
+        {
+          "id": 1011221,
+          "name": "Оборонительный квадрат Лю",
+          "desc": "Для двух союзников с наименьшей СД: если они теряли СД на протяжении хода, восстанавливает им 5 СД в конце хода"
+        },
+        {
+          "id": 1011231,
+          "name": "Оборонительный квадрат Лю",
+          "desc": "Для двух союзников с наименьшей СД: если они теряли СД на протяжении хода, восстанавливает им 5 СД в конце хода\n- Если же эти союзники имели базовые навыки, которые наносят [Combustion] или повышают его счётчик, восстанавливает им 5~10 СД вместо этого"
         }
     ]
 }

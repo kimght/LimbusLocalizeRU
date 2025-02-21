@@ -1005,6 +1005,348 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1021101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Воспламенение",
+          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Воспламенение",
+          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n<style=\"highlight\">[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит 1 дополнительный <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Воспламенение",
+          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе наносит <style=\"highlight\">3</style> дополнительных <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ЭГО — Активация A.B.S",
+          "desc": "[WhenUse] <style=\"highlight\">При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "ЭГО — Активация A.B.S",
+          "desc": "<style=\"highlight\">[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] При 4+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ЭГО — Активация A.B.S",
+          "desc": "[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 4 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если цель имеет 15+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, повышает его счётчик цели на 2</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Привлечённая огнём",
+          "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели): Базовая сила +1\n[WhenUse] Если менее 70% ОЗ, Сила монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Привлечённая огнём",
+          "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на <style=\"highlight\">12.5</style>% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые за каждые 30% потерянных ОЗ <(До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Резонанс при повышении уровня настройки A.B.S",
+          "desc": "[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Резонанс при повышении уровня настройки A.B.S",
+          "desc": "<style=\"highlight\">[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>: Сила монеты +3</style>\n[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
+          "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Базовая сила +1\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 2)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
+          "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на <style=\"highlight\">12.5%</style> больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 3)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До <style=\"highlight\">4</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

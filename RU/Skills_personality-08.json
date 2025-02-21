@@ -994,6 +994,263 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Зачистка",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Зачистка",
+          "desc": "<style=\"highlight\">Если цель имеет 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, Сила монет +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [AttackDown]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Зачистка",
+          "desc": "<style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)\nНа 10% больше урона за каждый тип негативного эффекта на цели (До 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [AttackDown]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Заточенный клинок",
+          "desc": "[StartBattle] Для двух идентичностей клана «Курокумо» с наибольшей скоростью: даёт им 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> (Единожды за ход)\n- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда даёт 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> пяти другим союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Заточенный клинок",
+          "desc": "<style=\"highlight\">Если цель имеет 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, Сила монет +1</style>\n[StartBattle] Для двух идентичностей клана «Курокумо» с наибольшей скоростью: даёт им <style=\"highlight\">2</style> <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> (Единожды за ход)\n- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда даёт <style=\"highlight\">3</style> <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> пяти другим союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 1 [SlashTakeDamageUp] (Единожды за ход)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает 1 [SlashResultUp] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Заточенный клинок",
+          "desc": "<style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)\nНа 10% больше урона за каждый тип негативного эффекта на цели (До 50%)</style>\n[StartBattle] Для двух идентичностей клана «Курокумо» с наибольшей скоростью: даёт им 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> (Единожды за ход)\n- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда даёт <style=\"highlight\">4</style> <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> пяти другим союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [SlashTakeDamageUp] (Единожды за ход)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда наносит 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [SlashResultUp] на следующий ход (<style=\"highlight\">Дважды</style> за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Покрыть чернилами",
+          "desc": "Если цель имеет 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, Сила монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели 3 раза, затем снижает его счётчик на 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Покрыть чернилами",
+          "desc": "<style=\"highlight\">Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)\n[EnemyKill] Получает 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color> на следующий ход (Единожды за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На 10% больше урона за каждый тип негативного эффекта на цели (До 100%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели 3 раза, затем снижает его счётчик на 3<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рассекающий удар",
+          "desc": "[StartBattle] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рассекающий удар",
+          "desc": "[StartBattle] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> (Единожды за ход)\n<style=\"highlight\">[StartBattle] При (2 + наибольший резонанс) союзниках клана «Курокумо» на поле боя включая эту идентичность: союзник с наибольшей скоростью среди вышеописанных получает 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> (Единожды за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

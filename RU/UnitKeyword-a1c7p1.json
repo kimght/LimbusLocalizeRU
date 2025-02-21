@@ -19,6 +19,10 @@
     {
       "id": "UnitKeyword_FANG_HUNT",
       "content": "Офис «Охотников за Клыками»"
+    },
+    {
+      "id": "UnitKeyword_FULL_STOP",
+      "content": "Офис Точки"
     }
   ]
 }

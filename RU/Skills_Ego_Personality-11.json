@@ -15,7 +15,7 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 \"<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\" греха с наибольшим резонансом 2-м союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 2-м союзникам с наименьшей СД"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 20 СД 2-м союзникм с наименьшей СД"
@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 \"<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\" греха с наибольшим резонансом 3-м союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 3-м союзникам с наименьшей СД"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 20 СД 3-м союзникм с наименьшей СД"
@@ -57,7 +57,7 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 \"<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\" греха с наибольшим резонансом 4-м союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 4-м союзникам с наименьшей СД"
                 },
                 {
                   "desc": "[EndSkill] Восстанавливает 20 СД 4-м союзникм с наименьшей СД"
@@ -86,7 +86,7 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Наносит 1 \"<sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>\" к греху с наибольшим резонансом"
+                  "desc": "[OnSucceedAttackTail] Наносит 1 уязвимость к греху с наибольшим резонансом"
                 }
               ]
             }
@@ -107,10 +107,10 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Наносит 2 \"Уязвимости\" к греху с наибольшим резонансом"
+                  "desc": "[OnSucceedAttackTail] Наносит 2 уязвимости к греху с наибольшим резонансом"
                 },
                 {
-                  "desc": "[EndSkillTail] Получает 1 \"<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\" греха с наибольшим резонансом"
+                  "desc": "[EndSkillTail] Получает 1 повышениу рона греха с наибольшим резонансом"
                 }
               ]
             }
@@ -131,10 +131,10 @@
                   "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 \"Уязвимости\" к греху с наибольшим резонансом"
+                  "desc": "[OnSucceedAttack] Наносит 2 уязвимости к греху с наибольшим резонансом"
                 },
                 {
-                  "desc": "[EndSkillTail] Получает 1 \"<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\" греха с наибольшим резонансом"
+                  "desc": "[EndSkillTail] Получает 1 повышение урона греха с наибольшим резонансом"
                 }
               ]
             }
@@ -425,6 +425,130 @@
                 },
                 {
                   "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "На 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 2 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "На <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">3</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "На <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">4</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nСлучайные цели\nНа 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 3 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">5</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Магическая пуля",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">7</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
                 }
               ]
             }

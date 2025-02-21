@@ -533,6 +533,148 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2020811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно минувших дней",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

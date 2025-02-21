@@ -350,6 +350,124 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 4)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До 4)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До 2)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До 2)\n[TargetKill] Получает 1 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокое дыхание</link></u></color> на следующий ход (2 раза за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыхания</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До <style=\"highlight\">6</style>)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До <style=\"highlight\">6</style>)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До 2)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До 2)\n[TargetKill] Получает <style=\"highlight\">2</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">4</style> раза за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокое дыхание</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 6)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До 6)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До <style=\"highlight\">3</style>)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До <style=\"highlight\">3</style>)\n[TargetKill] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">6</style> раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">4</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыхания</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее 15 чем <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханиях</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки или же пришли из запаса после убитых союзников, получают 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее 15 чем <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханиях</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n<style=\"highlight\">- Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждого союзника, который является целью этого навыка (До 2)</style>\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки или же пришли из запаса после убитых союзников, получают <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2\n- Восстанавливает половину потраченной этим навыком СД",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торакалгия",
+          "abName": "Спальный мешок давно\nминувших дней",
+          "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее 15 чем <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханиях</link></u></color>, тратит 10% ОЗ, чтобы  получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n- Получает <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждого союзника, который является целью этого навыка (До <style=\"highlight\">4</style>)\n\n[EndSkill] Если цель побеждена, получает <style=\"highlight\">3</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки или же пришли из запаса после убитых союзников, получают 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на <style=\"highlight\">4</style>\n- Восстанавливает потраченную этим навыком СД и добавляет по 1 ЭГО ресурсу к каждому использованному ЭГО ресурсу",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">7</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыханий</link></u></color> (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

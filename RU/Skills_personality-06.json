@@ -1,4 +1,4 @@
-﻿{
+{
   "dataList": [
     {
       "id": 1060601,
@@ -1075,6 +1075,669 @@
               "coindescs": [
                 {
                   "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сделать выстрел",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Сделать выстрел",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сделать выстрел",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цель отмечена",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 3 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Цель отмечена",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 3 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Цель отмечена",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на <style=\"highlight\">25</style>%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 3 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "<style=\"highlight\">На (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона к критическому попаданию</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На 20% больше критического урона</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Точка к жизни",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, активирует <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружение цели</link></u></color>\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 10% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 10% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если цель оглушена, на 30% больше критического урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"PenetrateTakeDamageUp\"><color=#e30000><u><link=\"PenetrateTakeDamageUp\">Уязвимость к Пронзающему урону</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Точка к жизни",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, активирует <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружение цели</link></u></color>\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n<style=\"highlight\">[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x <style=\"highlight\">15</style>)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на <style=\"highlight\">15</style>% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x <style=\"highlight\">15</style>)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на <style=\"highlight\">15</style>% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если цель оглушена, на 30% больше критического урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"PenetrateTakeDamageUp\"><color=#e30000><u><link=\"PenetrateTakeDamageUp\">Уязвимости к Пронзающему урону</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Боевое дыхание",
+          "desc": "Начало хода: при отсутствии <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color><style=\"highlight\"></style>, заменяет этот навык на 'За пределами тени'\n[OnSucceedEvade] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> (Трижды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Боевое дыхание",
+          "desc": "Начало хода: при отсутствии <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>, заменяет этот навык на 'За пределами тени'\n[OnSucceedEvade] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> (<style=\"highlight\">Пять</style> раз за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061105,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "Комбо: Цель отмечена",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>, который должен потратиться при использовании этого навыка\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[DefeatDuel] Итоговая сила +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 3 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "На 30% больше критического урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Комбо: Цель отмечена",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>, который должен потратиться при использовании этого навыка\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">3</style>\n[DefeatDuel] Итоговая сила +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит до 3 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронов</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "<style=\"highlight\">На (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона к критическому попаданию</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На 20% больше критического урона</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "На 30% больше критического урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061106,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Комбо: Точка к жизни",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>, который должен потратиться при использовании этого навыка\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[DefeatDuel] Итоговая сила +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 10% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрона</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x 10)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 10% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если цель оглушена, на 30% больше критического урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"PenetrateTakeDamageUp\"><color=#e30000><u><link=\"PenetrateTakeDamageUp\">Уязвимость к Пронзающему урону</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "На 30% больше критического урона"
+                },
+                {
+                  "desc": "Наносит на (Сопротивление цели к пронзающему урону x 50)% больше урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Комбо: Точка к жизни",
+          "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>, который должен потратиться при использовании этого навыка\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n<style=\"highlight\">[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2</style>\n[DefeatDuel] Итоговая сила +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x <style=\"highlight\">15</style>)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на <style=\"highlight\">15</style>% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрона</link></u></color>"
+                },
+                {
+                  "desc": "Наносит на (Потраченные <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color> x <style=\"highlight\">15</style>)% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на <style=\"highlight\">15</style>% от нанесённого урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если цель оглушена, на 30% больше критического урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"PenetrateTakeDamageUp\"><color=#e30000><u><link=\"PenetrateTakeDamageUp\">Уязвимости к Пронзающему урону</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "На <style=\"highlight\">50</style>% больше критического урона"
+                },
+                {
+                  "desc": "Наносит на (Сопротивление цели к пронзающему урону x 50)% больше урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "За пределами тени",
+          "desc": "[DuelCounter]\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[EndBattle] <sprite name=\"FullReload\"><color=#9f6a3a><u><link=\"FullReload\">Перезаряжается</link></u></color> (Единожды за бой)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "За пределами тени",
+          "desc": "[DuelCounter]\n<style=\"highlight\">На 20% больше критического урона этим навыком</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[EndBattle] <sprite name=\"FullReload\"><color=#9f6a3a><u><link=\"FullReload\">Перезаряжается</link></u></color> (Единожды за бой)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рукопашная поддержка",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рукопашная поддержка",
+          "desc": "<style=\"highlight\">На 20% больше критического урона этим навыком</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
                 }
               ]
             }

@@ -2,186 +2,186 @@
   "dataList": [
     {
       "id": 2036,
-      "name": "Silver Watch Case",
-      "desc": "When dealing damage to an enemy with Attack Skills(Not counting E.G.O Skills) that inflict [Vibration] Potency, Count, or Unique Tremor, deal +10% more damage.\n\nIf the Skill triggered [VibrationExplosion] on the enemy for the first time this turn, inflict +2 [Vibration] Count next turn (once per turn)",
+      "name": "Серебрянный корпус для часов",
+      "desc": "При нанесении противнику урона атакующим навыком (ЭГО навыки не учитываются), который наносит <sprite name=\"Vibration\"><color=#e30000>Тремор</color> или повышает его счётчик, или наносит Особый Тремор, на 10% больше урона.\n\nЕсли навык <sprite name=\"VibrationExplosion\"><color=#e30000>Спровоцировал Тремор</color> на цели впервые за ход, повышает его счётчик на 2 в следующем ходу (Единожды за ход)",
       "simpleDesc": [
         {
           "abilityID": 2036,
-          "simpleDesc": "Deal +10% more damage"
+          "simpleDesc": "На 10% больше урона"
         },
         {
           "abilityID": 20361,
-          "simpleDesc": "Inflict +2 [Vibration] Count next turn"
+          "simpleDesc": "Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2 в следующем ходу"
         }
       ]
     },
     {
       "id": 2037,
-      "name": "Faded Watch Case",
-      "desc": "When Clashing with a faster enemy, Clash Power +1.\n\nWhen dealing damage to a faster enemy, inflict 3 [Vibration] Potency and +2 [Vibration] Count next turn. (once per turn)",
+      "name": "Выцветший корпус для часов",
+      "desc": "В столкновении с противником с большей скоростью: Сила в столкновении +1.\n\nПри нанесении урона таким противникам, наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 2 в следующем ходу. (Единожды за ход)",
       "simpleDesc": [
         {
           "abilityID": 2037,
-          "simpleDesc": "Clash Power +1"
+          "simpleDesc": "Сила в столкновении +1"
         },
         {
           "abilityID": 20371,
-          "simpleDesc": "Inflict 3 [Vibration] Potency and +2 [Vibration] Count next turn"
+          "simpleDesc": "Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> Potency и повышает его счётчик на 2 следующем ходу"
         }
       ]
     },
     {
       "id": 2038,
-      "name": "Warning Notice",
-      "desc": "Turn End: Inflict 1 [Binding] to the fastest enemy next turn. (for Abnormalities, a Part)\n\nIf the target has [Vibration] or 'Unique Tremor', inflict 2 [Binding] instead.\n\nWhen an ally attacks targets with [Binding], deal +(5 + (2.5 x [Binding] value)) more damage. (max 15%)",
+      "name": "Предупреждение",
+      "desc": "Конец хода: наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> самому быстрому противнику на следующий ход. (Для аномалий, части)\n- Если же цель имеет <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> или Особый Тремор, наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> вместо этого.\n\nКогда союзник атакует целей с <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связыванием</link></u></color>, он наносит на (5 + (2.5 x количество <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color>)) больше урона. (До 15%)",
       "simpleDesc": [
         {
           "abilityID": 2038,
-          "simpleDesc": "Apply 1 [Binding] next turn"
+          "simpleDesc": "Наносит 1 [Binding] на следующий ход"
         },
         {
           "abilityID": 20381,
-          "simpleDesc": "Deal +(5 + (2.5 x [Binding] value)) more damage"
+          "simpleDesc": "На (5 + (2.5 x количество <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color>)) больше урона. (До 15%)"
         }
       ]
     },
     {
       "id": 2039,
-      "name": "Etched Clock Hands",
-      "desc": "First Turn Start of a wave: inflict (9 - current Speed) [Vibration] Potency to 3 enemies with the slowest Speed. (min. 3)\n\nDeal +10% more damage against targets with 12+ [Vibration] or 'Unique Tremor' at Turn Start.",
+      "name": "Гравированные стрелки",
+      "desc": "Начало первого хода волны: наносит (9 - их скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> трём противникам с наименьшей скоростью. (Минимум 3)\n\nНа 10% больше урона против целей с 12 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или Особого Тремора в начале хода.",
       "simpleDesc": [
         {
           "abilityID": 2039,
-          "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency"
+          "simpleDesc": "Наносит (9 - скорость противника) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
         },
         {
           "abilityID": 20391,
-          "simpleDesc": "Deal +10% more damage"
+          "simpleDesc": "На 10% больше урона"
         }
       ]
     },
     {
       "id": 2040,
-      "name": "Rusted Clock Hands",
-      "desc": "First Turn Start of a wave: inflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)\n\nTake -10% less damage from targets with 12+ [Vibration] or 'Unique Tremor' at Turn Start.",
+      "name": "Заржавевшие стрелки",
+      "desc": "Начало первого хода волны: наносит (9 - их скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> трём противникам с наименьшей скоростью (Минимум 3) и повышает его счётчик на ((9 - его скорость) / 2) одному противнику с наибольшей скоростью. (Округляется вверх; для аномалий, частям)\n\nНа 10% меньше урона от противников с 12 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или Особого Тремора в начале хода.",
       "simpleDesc": [
         {
           "abilityID": 2040,
-          "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+          "simpleDesc": "Наносит (9 - скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> трём противникам с наименьшей скоростью (Минимум 3) и повышает его счётчик на ((9 - его скорость) / 2) одному противнику с наибольшей скоростью"
         },
         {
           "abilityID": 20401,
-          "simpleDesc": "Damage Taken -10%."
+          "simpleDesc": "На 10% меньше получаемого урона"
         }
       ]
     },
     {
       "id": 2041,
-      "name": "Chalice of Trickle-down",
-      "desc": "When an ally with Attack Skills(Not E.G.O Skills) that inflict [Vibration] Potency, Count, or 'Unique Tremor' wins a Clash, inflict 2 [Vibration] Potency and +2 [Vibration] Count. (2 times per turn)\n\nYurodivy Identities: inflict 3 [Vibration] Potency and +3 [Vibration] Count instead (3 times per turn)\n\nIf the affected Identity Clashes against targets with higher Offense Levels, Clash Power +2; deal +20% more damage when attacking after winning the Clash.",
+      "name": "Проливающийся кубок",
+      "desc": "Когда союзник побеждает в столкновении своим атакующим навыком (ЭГО навыки не учитываются), который наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> или повышает его счётчик, или наносит Особый Тремор, наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 2. (Дважды за ход)\n- Идентичности же Юродивых наносят 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышают его счётчик на 3 вместо этого (Трижды за ход)\n\nЕсли вышеописанная идентичность сталкиватся в целью с большим уровнем атаки: +2 к Силе в столкновении; на 20% больше урона после победы в столкновении.",
       "simpleDesc": [
         {
           "abilityID": 2041,
-          "simpleDesc": "Inflict 2 [Vibration] Potency and +2 [Vibration] Count"
+          "simpleDesc": "Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 2"
         },
         {
           "abilityID": 20411,
-          "simpleDesc": "Inflict 3 [Vibration] Potency and +3 [Vibration] Count"
+          "simpleDesc": "Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 3"
         },
         {
           "abilityID": 20412,
-          "simpleDesc": "Clash Power +2, deal +20% more damage"
+          "simpleDesc": "+2 к Силе в столкновении и на 20% больше урона"
         }
       ]
     },
     {
       "id": 2042,
-      "name": "Prepaid Time Receipt",
-      "desc": "Deal +(5 + (2.5 x Speed difference))% more damage against faster enemies with 2+ Speed difference. (max 15%)\n\nTurn End: If an ally dealt damage with an Attack Skill (Not counting E.G.O Skills) this turn against faster enemies with 2+ Speed difference, inflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn. (once per turn)",
+      "name": "Квитанция о предоплаченном времени",
+      "desc": "На (5 + (2.5 x Разница в скорости))% больше урона противникам с большей скоростью и 2+ разницей в скорости. (До 15%)\n\nКонец ходв: если союзник нанёс урон атакующими навыками (ЭГО навыки не учитываются) в течение хода вышеописанным противникам, наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 <sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> этим противникам на следующий ход. (Единожды за ход)",
       "simpleDesc": [
         {
           "abilityID": 2042,
-          "simpleDesc": "Deal +(5 + (2.5 x Speed difference))% more damage against"
+          "simpleDesc": "На (5 + (2.5 x Разница в скорости))% больше урона противникам"
         },
         {
           "abilityID": 20421,
-          "simpleDesc": "Inflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn"
+          "simpleDesc": "Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 <sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> противникам на следующий ход"
         }
       ]
     },
     {
       "id": 2043,
-      "name": "Pocket Watch : Type L",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% more damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' triggers [Switch_Vibration] on an enemy with Attack Skills(Including E.G.O Skills): multiply the [Vibration] Potency and Count by 1.5(only when actually Converting them into different 'Tremor' types) and inflict 5 [DefenseDown] next turn. (once per turn)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) to 3 enemies with the slowest Speed.",
+      "name": "Карманные часы : Тип L",
+      "desc": "Начало столкновения: эффект активируется при 5 и более идентичностях на поле боя, которые наносят <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n\nТретий вышеописанный навык союзников получает +2 к Силе монет и наносит на 25% больше урона.\n\nКогда вышеописанный союзник производит <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">Преобразование амплитуды</link></u></color> своими навыками (ЭГО навыки Учитываются): увеличивает количество <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и его счётчиков в 1.5 раза (Только при преобразовании Тремора в другие его типы), а так же наносит 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color> на следующий ход. (Единожды за ход)\n\nНачало первого хода волны: наносит (12 - их скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (Минимум 6) трём противникам с наименьшей скоростью.",
       "simpleDesc": [
         {
           "abilityID": 2043,
-          "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+          "simpleDesc": "Третий навык получает +2 к силе монет и наносит на 25% больше урона"
         },
         {
           "abilityID": 20431,
-          "simpleDesc": "Multiply [Vibration] Potency and Count by 1.5 when triggering Amplitude Conversion"
+          "simpleDesc": "Увеличивает количество <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и его счётчиков в 1.5 раза при <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">Преобразовании амплитуды</link></u></color>"
         },
         {
           "abilityID": 20432,
-          "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency"
+          "simpleDesc": "Наносит (12 - скорость противника) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
         }
       ]
     },
     {
       "id": 2044,
-      "name": "Pocket Watch : Type E",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% more damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' deals damage to a slower enemy with 2+ Speed difference between them: deal +([Vibration] Potency on target, max 25)% more damage and inflict 2 [DefenseDown] every time the ally deals damage (max 6)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) and (12 -current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)",
+      "name": "Карманные часы : Тип E",
+      "desc": "Начало столкновения: эффект активируется при 5 и более идентичностях на поле боя, которые наносят <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n\nТретий вышеописанный навык союзников получает +2 к Силе монет и наносит на 25% больше урона.\n\nКогда вышеописанный союзник наносит урон более медленному противнику с 2+ разницей в скорости: его урон повышается на (<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> противника)% (До 25%) и он так же наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> при ударе (До 6)\n\nНачало первого хода волны: наносит (12 - его скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> (Минимум 6) и повышает его счётчик на ((12 - его скорость) / 2) одному противнику с наибольшей скоростью. (Округляется вверх; для аномалий, части)",
       "simpleDesc": [
         {
           "abilityID": 2044,
-          "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+          "simpleDesc": "Третий навык получает +2 к силе монет и наносит на 25% больше урона"
         },
         {
           "abilityID": 20441,
-          "simpleDesc": "Deal +([Vibration] Potency on target)% more damage; inflict 2 [DefenseDown] every time the ally deals damage"
+          "simpleDesc": "На (<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> на цели)% больше урона; наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> каждый раз при нанесении урона"
         },
         {
           "abilityID": 20442,
-          "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+          "simpleDesc": "Наносит (12 - скорость) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (Минимум 3) и повышает его счётчик на ((9 - скорость) / 2) противнику"
         }
       ]
     },
     {
       "id": 2045,
-      "name": "Pocket Watch : Type Y",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% more damage.\n\nYurodivy Identities: Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% more damage. (max 100%)\n\nYurodivy Identities: gain +3 [Vibration] Count at Turn Start.",
+      "name": "Карманные часы : Тип Y",
+      "desc": "Начало столкновения: эффект активируется при 5 и более идентичностях на поле боя, которые наносят <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n\nТретий вышеописанный навык союзников получает +2 к Силе монет и наносит на 25% больше урона.\n\nИдентичности Юродивых: Третий навык получает +2 к силе монет и наносит на (25 + (Сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели))% больше урона вместо этого. (До 100%)\n\nИдентичности Юродивых так же повышают свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3 в начале хода",
       "simpleDesc": [
         {
           "abilityID": 2045,
-          "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+          "simpleDesc": "Третий навык получает +2 к силе монет и наносит на 25% больше урона"
         },
         {
           "abilityID": 20451,
-          "simpleDesc": "Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% more damage."
+          "simpleDesc": "Третий навык получает +2 к силе монет и наносит на (25 + (Сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели))% больше урона"
         },
         {
           "abilityID": 20452,
-          "simpleDesc": "Gain +3 [Vibration] Count"
+          "simpleDesc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
         }
       ]
     },
     {
       "id": 2046,
-      "name": "Pocket Watch : Type P",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% more damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' Clashes against a faster enemy with 2+ Speed difference: Clash Power +2 and deal +([Vibration] Potency on target)% more damage. (max 50%)\n\nTurn Start: from slowest to fastest, the 3 slowest allies gain 5 [AttackUp], 3 [AttackUp], and 2 [AttackUp] respectively.",
+      "name": "Карманные часы : Тип P",
+      "desc": "Начало столкновения: эффект активируется при 5 и более идентичностях на поле боя, которые наносят [Vibration] или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n\nТретий вышеописанный навык союзников получает +2 к Силе монет и наносит на 25% больше урона.\n\nКогда союзник, наносящий <sprite name=\"Vibration\"><color=#e30000>Тремор</color> или повышющий его счётчик, или наносящий Особый Тремор, сталкивается с противником с большей скоростью и 2+ разницей в скоростях: +2 к Силе в столкновении и на (Количество <sprite name=\"Vibration\"><color=#e30000>Тремора</color> на цели)% больше урона. (До 50%)\n\nНачало хода: от самого медленного к самому быстрому, трое медленныз союзников получают 5, 3 и 2 <sprite name=\"AttackUp\"><color=#f8c200>Повышений уровня атаки</color> соответственно.",
       "simpleDesc": [
         {
           "abilityID": 2046,
-          "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+          "simpleDesc": "Третий навык получает +2 к силе монет и наносит на 25% больше урона"
         },
         {
           "abilityID": 20461,
-          "simpleDesc": "Clash Power +2 and deal +([Vibration] Potency on target)% more damage"
+          "simpleDesc": "+2 к Силе в столкновении и на (Количество <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели)% больше урона"
         },
         {
           "abilityID": 20462,
-          "simpleDesc": "Gain [AttackUp]"
+          "simpleDesc": "Даёт [AttackUp]"
         }
       ]
     }

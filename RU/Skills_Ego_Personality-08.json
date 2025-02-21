@@ -461,6 +461,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[EndSkill] Если есть цели, которые оглушены, в состоянии пониженной морали, или в состоянии паники, восстанавливает 10 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> на 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)</style>\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[EndSkill] Если есть цели, которые оглушены, в состоянии пониженной морали, или в состоянии паники, восстанавливает 10 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, тратя 2 счётчика"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "Если у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[EndSkill] Если есть цели, которые оглушены, в состоянии пониженной морали, или в состоянии паники, восстанавливает 10 СД<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> <style=\"highlight\">дважды</style>, тратя 2 счётчика"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[BeforeAttack] Восстанавливает 10 ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если главная цель оглушена, в состоянии пониженной морали, или в состоянии паники, Базовая сила +1</style>\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[BeforeAttack] Восстанавливает 10 ОЗ\n<style=\"highlight\">[EndSkill] Восстанавливает 5 СД за каждую цель, которая оглушена, в состоянии пониженной морали, или в панике</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рождественский кошмар",
+          "abName": "Уютная кровать",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли главная цель оглушена, в состоянии пониженной морали, или в состоянии паники, Базовая сила +<style=\"highlight\">2</style>\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Наибольший резонанс + 5) (До 10)\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] Восстанавливает 5 СД за каждую цель, которая оглушена, в состоянии пониженной морали, или в панике",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель не является вышеописанной, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

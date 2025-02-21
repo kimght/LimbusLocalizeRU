@@ -351,7 +351,7 @@
             "id": 2060611,
             "name": "Чувство уныния",
             "desc": "При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход. (До 3-ёх раз за ход, включая ЭГО навыки)",
-            "summary": "When triggering [VibrationExplosion], inflict 1 [AttackDown] and 2 [DefenseDown] next turn"
+            "summary": "When triggering [VibrationExplosion], inflict 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> and 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> next turn"
         },
         {
             "id": 2100611,
@@ -433,7 +433,32 @@
             "id": 2070811,
             "name": "Разбитый колокол",
             "desc": "Накладывает <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> в этот ход на врагов, по которым попала <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокация Тремора</link></u></color> от эффектов Навыков, Монет или Пассивных умений.\n- Не складывается с Дарами П.О.Э., накладывающими <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> при срабатывании <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокации Тремора</link></u></color>. (Если указанные Дары П.О.Э. были усилены, вычтите значение этого эффекта из конечного значения перед его наложением.)",
-            "summary": "Inflict 1 [Vulnerable] upon triggering [VibrationExplosion] "
+            "summary": "Inflict 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> upon triggering [VibrationExplosion] "
+        },
+        {
+          "id": 2080811,
+          "name": "Взгляд в тени",
+          "desc": "Союзники дополнительно повышают счётчик more <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1 с помощью эффектов своих навыков (Дважды за ход)\n- Если же цель союзника оглушена, в состоянии паники или низкой морали, вместо этого счётчик повышается на 2\n- Эффект не складывается с ЭГО дарами с идентичным эффектом."
+        },
+        {
+          "id": 2120811,
+          "name": "Бессонная ночь",
+          "desc": "Начало боевой фазы: наносит <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> или 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> всем противникам (# оглушённых, в состоянии низкой морали, или паники противников) раз. (Дважды за ход)\n- Эффект не складывается с ЭГО дарами с идентичным эффектом."
+        },
+        {
+          "id": 2110811,
+          "name": "Семь пуль",
+          "desc": "- При попадании Базовыми Атакующими навыками: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Трижды за ход)\n- Для идентичности ЭГО «Лоботомии»::Магичская пуля[TabExplain] Отис: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> вместо этого (Трижды за ход)\n- Если цель имеет 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, наносит 1 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color> вместо этого эффекта (Дважды ха ход)"
+        },
+        {
+          "id": 2040811,
+          "name": "Дыхание",
+          "desc": "Начало следующего хода после использования этого ЭГО: даёт 1 <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзер β</link></u></color> (Единожды за ход)\n- Если этот навык убил противников, даёт дополнительные <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеры β</link></u></color>, равные количеству этих противников\n- Если навык убил союзников, даёт (Целей убито x 2) дополнительных <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеров β</link></u></color>\n- Этот эффект складывается на протяжении всего столкновения"
+        },
+        {
+          "id": 2020811,
+          "name": "Дыхание",
+          "desc": "Начало следующего хода после использования этого ЭГО: даёт 1 <sprite name=\"NebulizerExhale\"><color=#f8c200><u><link=\"NebulizerExhale\">Небулайзер α</link></u></color> (Единожды за ход)\n- Это значение складывается на протяжении столкновения\n\nНачало боевой фазы: даёт 1 <sprite name=\"NebulizerExhale\"><color=#f8c200><u><link=\"NebulizerExhale\">Небулайзер α</link></u></color> каждый раз, когда Фауст повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 10 союзникам при помощи эффектов <sprite name=\"NebulizerExhale\"><color=#f8c200><u><link=\"NebulizerExhale\">Небулайзера α</link></u></color>\n\nКонец хода: начиная с союзников с наименьшим процентом ОЗ, восстанавливает (Количество <sprite name=\"NebulizerExhale\"><color=#f8c200><u><link=\"NebulizerExhale\">Небулайзера α</link></u></color>)% ОЗ для (Наибольший резонанс) союзников (До 6)\n- Если этот союзник имеет 20 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, восстанавливает ОЗ ещё один раз"
         }
     ]
 }

@@ -293,6 +293,10 @@
       "content": "Вы больше не можетее получить ЭГО Дары этого уровня при соединении Даров на остановках."
     },
     {
+      "id": "mirror_dungoen_ego_gift_history_view_desc",
+      "content": "  См. Описание"
+    },
+    {
       "id": "side_content_ego_gift_is_unable_combine",
       "content": "Этот ЭГО Дар нельзя соединить."
     }

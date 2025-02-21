@@ -174,7 +174,7 @@
     {
       "id": 9008,
       "name": "Грязный железный кол",
-      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца сдедующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
+      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца следующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
       "simpleDesc": [
         {
           "abilityID": 9008,
@@ -1728,7 +1728,7 @@
     {
       "id": 19063,
       "name": "Кулон ностальгии+",
-      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
+      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
       "simpleDesc": [
         {
           "abilityID": 19063,
@@ -3586,7 +3586,7 @@
     {
       "id": 9134,
       "name": "Патрульный фонарик",
-      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nНачало хода: если эти идентичности имеют навык, который повышает или тратит счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, её первый навык получает +1 к силе в столкновении и наносит на 10% больше урона, пока имеется <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядный барьер</link></u></color>.\n\nКонец хода: если эти идентичности не имеют <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьеров</link></u></color>, даёт 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьера</link></u></color> на следующий ход.",
+      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nНачало хода: если эти идентичности имеют навык, который повышает или тратит счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, их первый навык получает +1 к силе в столкновении и наносит на 10% больше урона, пока имеется <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядный барьер</link></u></color>.\n\nКонец хода: если эти идентичности не имеют <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьеров</link></u></color>, даёт 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьера</link></u></color> на следующий ход.",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3694,7 +3694,7 @@
     {
       "id": 9138,
       "name": "Обманчивое соглашение",
-      "desc": "[Эффекты активируются для #5 Выбранной Идентичности]\n\nЕсли разница в скоростях этой идентичности и её цели составляет 3 и более, на 15% больше Рубящими атаками.",
+      "desc": "[Эффекты активируются для #5 Выбранной Идентичности]\n\nЕсли разница в скоростях этой идентичности и её цели составляет 3 и более, на 15% больше урона Рубящими атаками.",
       "simpleDesc": [
         {
           "abilityID": 9138,
