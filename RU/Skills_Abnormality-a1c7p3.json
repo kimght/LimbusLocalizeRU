@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Этот непростительный грех...",
-          "desc": "[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1\n[DefeatDuel] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "desc": "[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "Заслуженное покаяние...",
-          "desc": "[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1\n[DefeatDuel] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "desc": "[WhenUse] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1",
           "coinlist": [
             {
               "coindescs": [
@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "Думал ли ты сегодня о крови?",
-          "desc": "[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>: восстанавливает союзнику с наименьшим ОЗ (поглощённое <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> × 2). (исключая себя; округляется вниз)",
+          "desc": "[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>: восстанавливает ОЗ Ядра и Части союзника с наименьшим ОЗ на (поглощённое <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> × 2). (исключая себя; округляется вниз)",
           "coinlist": [
             {
               "coindescs": [
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненное сердце</link></u></color> и 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненных сердца</link></u></color> и 2 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленных руки</link></u></color>"
                 }
               ]
             }
@@ -82,14 +82,23 @@
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>\n[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2\n[OnSucceedAttack] Если у персонажа 50%+ ОЗ, активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе и уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе на 1"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 50% и более ОЗ, активирует [Laceration] на себе и тратит 1 его счётчик."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненных сердца</link></u></color> и <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленных руки</link></u></color>\n[OnSucceedAttack] При 10 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненных сердцах</link></u></color>, получает дополнительно 3 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленных руки</link></u></color> и 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> в следующем ходу"
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненных сердца</link></u></color> и <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 10 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненных сердцах</link></u></color>, получает 3 дополнительных <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленных руки</link></u></color> и 1 [AttackUp] на следующий ход"
                 }
               ]
             }
@@ -122,10 +131,13 @@
         {
           "level": 1,
           "name": "Какое изобилие...",
-          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>: получает +1 к силе монет за каждое поглощённое <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>\n[DefeatDuel] Получает 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> в следующем ходу",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>: получает +1 к силе монет за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (Эффект исчезает после использования первой монеты)\n[DefeatDuel] Получает 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> в следующем ходу",
           "coinlist": [
             {
               "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
                 {
                   "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>\n[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
@@ -141,7 +153,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ в размере нанесённого урона (До 30)\n[OnSucceedAttack] Если этот навык поглотил 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, и если у персонажа 30+ <sprite name=\"BloodyHand_3rd\"><color=#f8c200><u><link=\"BloodyHand_3rd\">Окровавленной руки III</link></u></color>, использует эту монету ещё раз\n- Если этот навык не смог поглотить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ в размере нанесённого урона (До 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если этот навык поглотил 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, и так же имеется 30 и более <sprite name=\"BloodyHand_3rd\"><color=#f8c200><u><link=\"BloodyHand_3rd\">Окровавленных руки III</link></u></color>, заново подкидывает монету"
+                },
+                {
+                  "desc": "- Если не удалось поглотить [BloodDinner] этим навыком, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 }
               ]
             }
@@ -155,7 +173,7 @@
         {
           "level": 1,
           "name": "Жертва ради семьи",
-          "desc": "[WhenUse] При 50%+ ОЗ активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе (максимум 3 раза; уменьшает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> при каждой активации; урон от этого эффекта не оглушает)\n[WhenUse] Все союзники восстанавливают 5 СД (включая себя)",
+          "desc": "[StartBattle] При 50%+ ОЗ активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе (максимум 3 раза; уменьшает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> при каждой активации; урон от этого эффекта не оглушает)\n[StartBattle] Все союзники восстанавливают 5 СД (включая себя)",
           "coinlist": [
             {
               "coindescs": [

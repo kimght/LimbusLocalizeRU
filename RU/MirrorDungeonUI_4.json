@@ -14,19 +14,19 @@
     },
     {
       "id": "mirrordungeon_appear_able_theme_pack_title",
-      "content": "{0} - Featured Theme Packs"
+      "content": "{0} - Отмеченные сборники тем"
     },
     {
       "id": "mirrordungeon_theme_pack_boss",
-      "content": "Featured Boss"
+      "content": "Отмеченный босс"
     },
     {
       "id": "mirrordungeon_theme_pack_ego_gift",
-      "content": "Featured E.G.O Gifts"
+      "content": "Отмеченные ЭГО дары"
     },
     {
       "id": "mirrordunge_theme_pack_history_button_label",
-      "content": "Theme Pack Compendium"
+      "content": "Сборник тем"
     },
     {
       "id": "simulation_difficulty",
@@ -826,7 +826,7 @@
     },
     {
       "id": "mirrordungeon_select_theme_pack_at_floor",
-      "content": "Select Floor {0} Theme Pack"
+      "content": "Выберите тему для {0} этажа"
     },
     {
       "id": "mirrordungeon_ego_gift_appear_rate_up",
@@ -878,7 +878,7 @@
     },
     {
       "id": "mirror_dungeon_select_theme_drag",
-      "content": "Select a Pack\nAnd Pull"
+      "content": "Потяните вниз"
     },
     {
       "id": "mirror_dungeon_cannot_acquired_ego_gift",

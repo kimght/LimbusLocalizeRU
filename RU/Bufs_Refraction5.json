@@ -1,0 +1,417 @@
+﻿{
+  "dataList": [
+    {
+      "id": "FellBulletMark",
+      "name": "Стигматизирован",
+      "desc": "- Становится целью Проклятого стрелка\n- Исчезает в конце хода",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR501",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR502",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR503",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR504",
+      "name": "Преломленное Дыхание",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR505",
+      "name": "Преломленный Заряд",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR506",
+      "name": "Преломленный Огонь",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR507",
+      "name": "Преломленный Разрыв",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR508",
+      "name": "Преломленное Утопание",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR509",
+      "name": "Прицельная уязвимость",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR510",
+      "name": "Небулайзер",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR511",
+      "name": "Одинокий стрелок",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR512",
+      "name": "Непоколебимый боевой дух",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR513",
+      "name": "Пожинание ресурсов",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR514",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR515",
+      "name": "Упорная защита",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR516",
+      "name": "Жизнь или смерть",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR517",
+      "name": "Гневный счетчик",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR518",
+      "name": "Кулон ностальгии",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR519",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR520",
+      "name": "Поток роковой пули",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR521",
+      "name": "Манипуляция ОЗ",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR522",
+      "name": "Рисковое соревнование",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR523",
+      "name": "Кровавый банкет",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR524",
+      "name": "Фестиваль крови",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR526",
+      "name": "Преломление рубящих атак",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR527",
+      "name": "Преломление пронзающих атак",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR528",
+      "name": "Преломление дробящих атак",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR529",
+      "name": "Растущее преломление I",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR530",
+      "name": "Растущее преломление II",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR531",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR532",
+      "name": "Испарение ресурсов",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR533",
+      "name": "Цветущая кровь",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR534",
+      "name": "Упорная защита",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR535",
+      "name": "Жизнь или смерть",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR536",
+      "name": "Преломленная ярость",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR537",
+      "name": "Преломление ОЗ II",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR538",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR539",
+      "name": "Кровавый банкет",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR540",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR541",
+      "name": "Преломление",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR542",
+      "name": "Преломление ОЗ I",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR543",
+      "name": "Прочная решимость",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletGroggy",
+      "name": "Отмеченная цель",
+      "desc": "- Не может быть снято\n- При 0 к концу хода, оглушается на следующий ход\n- При использовании навыка 'Прицельный огонь', если цель не Отмечена, теряет 1 количество эффекта\n- Если навык 'Прицельный огонь' проигрывает в поединке, теряет 1 количество эффекта\n- Если союзник, на которого был нацелен навык 'Прицельный огонь' перед его использованием убит, теряет 1 количество эффекта",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR544",
+      "name": "Силовая рулетка",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR545",
+      "name": "Стеклянная пушка",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR546",
+      "name": "Рискованность",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR547",
+      "name": "Силовая рулетка",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR548",
+      "name": "Рисковое соревнование",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR549",
+      "name": "Смерть или жизнь",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR550",
+      "name": "Высокий риск",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR551",
+      "name": "Преломленное Кровотечение",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR552",
+      "name": "Преломленное детерминирование",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR553",
+      "name": "Единственный вздох",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR554",
+      "name": "Жизнь или смерть",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR555",
+      "name": "Преломление силы в столкновении",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR556",
+      "name": "Стеклянная пушка",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR5BaseP",
+      "name": "Активные Усиления",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MRR5BaseN",
+      "name": "Активные Испытания",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

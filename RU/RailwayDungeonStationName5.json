@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "5",
+      "nameList": [
+        {
+          "id": "0",
+          "content": "Линия 5 в процессе"
+        },
+        {
+          "id": "1",
+          "content": "Секция #1 : Attachment/Hunt/Fountainhead/Misting",
+          "shortName": "Секция #1"
+        },
+        {
+          "id": "2",
+          "content": "Секция #2 : Ironstrike/Rampage/Oblivion",
+          "shortName": "Секция #2"
+        },
+        {
+          "id": "3",
+          "content": "Секция #3 : Motherhood/Treason/Blood Sin/Yearning",
+          "shortName": "Секция #3"
+        }
+      ]
+    }
+  ]
+}

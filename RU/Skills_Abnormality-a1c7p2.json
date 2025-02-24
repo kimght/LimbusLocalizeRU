@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "Финал",
-          "desc": "[WhenUse] Потребляет половину <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WinDuel] Наносит на +(<sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, потреблённого этим Навыком)% больше урона (макс. 150%)\n[DefeatDuel] Наносит на -50% меньше урона, и урон от этого Навыка не Оглушает цель\n[EndSkill] Теряет СД в количестве, равном потреблённому этим Навыком <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавому пиршеству</link></u></color>",
+          "desc": "[WhenUse] Потребляет половину <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WinDuel] Наносит на +(<sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, потреблённого этим Навыком)% больше урона (макс. 150%)\n[DefeatDuel] Наносит на -50% меньше урона, и урон от этого Навыка не Оглушает цель\n[EndSkill] СД опускается до -45",
           "coinlist": [
             {
               "coindescs": [

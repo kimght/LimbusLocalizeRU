@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": "railway_5_must_participate_all",
+      "content": "Выберите всех грешников.\n\n※ В Линии 5 Ж/Д Пеломления, каждый грешник должен быть выбран для входа."
+    },
+    {
+      "id": "mainui_personality_blocked",
+      "content": "Нельзя выбрать"
+    },
+    {
+      "id": "railway5_clear_info",
+      "content": "Информация прохождения"
+    },
+    {
+      "id": "railway5_clear_info_node_ui",
+      "content": "Информация прохождения"
+    },
+    {
+      "id": "railway_dungeon_5_entrance_recommended_level",
+      "content": "- Идентичности : Уровень связи 4, Уровень идентичности 50"
+    },
+    {
+      "id": "railway5_clear_info_clear_turn_count",
+      "content": "Ходов"
+    },
+    {
+      "id": "railway5_clear_info_ego_stock",
+      "content": "Оставшихся ресурсов"
+    },
+    {
+      "id": "railway5_clear_info_selected_buffs",
+      "content": "Выбранное усиление"
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_special_ticket",
+      "content": "Получается после прохождения 5 Линии со 100 или менее общим количеством ходов до окончания Сезона 5: Забвение."
+    },
+    {
+      "id": "railway_dungeon_5_statistics_button",
+      "content": "Детали"
+    },
+    {
+      "id": "railway_dungeon_5_required_condition_to_enter_format",
+      "content": "※ Информация\n\nКаждый грешник должен иметь хотя бы две идентичности, что бы войти в {0}."
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_special_ticket_warning",
+      "content": "<color=#990000>※ Не может быть получено после окончания Сезона 5: Забвение</color>"
+    },
+    {
+      "id": "railway_dungeon_5_reward_condition_warning",
+      "content": "※ Учтите, что любая взятая награда после окончания Сезона 5: Забвение, будет затронута сезонными эффектами. Любые сезонные валюты, такие как <color=#990000>Ящики эгосколков и Именные ящики эгосколков</color> будут уменьшены вдвое.\n(Не перенесённые ящики будут конвертированы в Ящики звеньев)"
+    },
+    {
+      "id": "railway_dungeon_5_banner_reward_condition_1",
+      "content": "Получается после зачистки Линии 5 Ж/Д Преломления"
+    },
+    {
+      "id": "railway_dungeon_5_banner_reward_condition_2",
+      "content": "Получается после зачистки Линии 5 с {0} или менее итоговым количеством ходов до конца <color=#9a0634>Сезона 5: Забвение</color>."
+    },
+    {
+      "id": "railway_5_banned_personality_exist",
+      "content": "Заблокированная идентичность входит в число выбранных.\n\n※ Идентичности должны быть разными для обоих секций в Линии 5."
+    },
+    {
+      "id": "railway_5_ally_buff",
+      "content": "Усиления"
+    },
+    {
+      "id": "railway_5_enemy_buff",
+      "content": "Испытания"
+    },
+    {
+      "id": "railway_5_section",
+      "content": "Секция #{0}"
+    },
+    {
+      "id": "railway_5_warning_enter_node_1",
+      "content": "Идентичности должны быть разными для обоих секций в.\n\nВы уверены, что хотите использовать эту команду для секции #1?"
+    },
+    {
+      "id": "railway_5_select_buff_title",
+      "content": "Выбранные усиления"
+    },
+    {
+      "id": "railway_5_stage_level_warning",
+      "content": "※ Текущий средний уровень команды: <color=#990000>{0}</color> (Рекомендуемый: <color=#990000>{1}</color>)"
+    }
+  ]
+}

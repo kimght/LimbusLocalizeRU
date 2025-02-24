@@ -43,6 +43,18 @@
     {
       "id": "mirrordungeon_name_4_1",
       "content": "Ритурнель грозового зеркала"
+    },
+    {
+      "id": "mirrordungeon_name_5",
+      "content": "Зеркало мечтаний"
+    },
+    {
+      "id": "mirrordungeon_name_5_0",
+      "content": "Зеркало мечтаний [NORMAL]"
+    },
+    {
+      "id": "mirrordungeon_name_5_1",
+      "content": "Зеркало мечтаний [HARD]"
     }
   ]
 }

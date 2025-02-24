@@ -159,6 +159,22 @@
     {
       "id": "railway_dungeon_operation_closed",
       "content": "Путь закрыт"
+    },
+    {
+      "id": "final_clear_accumulated_round",
+      "content": "Итоговый счётчик циклов"
+    },
+    {
+      "id": "railway_clear_date",
+      "content": "Дата записи"
+    },
+    {
+      "id": "railway_clear_turn_count",
+      "content": "Итоговое число ходов"
+    },
+    {
+      "id": "railway_clear_turn_count_by_stage",
+      "content": "Количество ходов на секцию"
     }
   ]
 }

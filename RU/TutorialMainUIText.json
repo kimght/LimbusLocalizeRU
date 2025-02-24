@@ -978,15 +978,15 @@
     },
     {
       "id": "tutorial_mainui_17_railway_title",
-      "content": "Refraction Railways"
+      "content": "Ж/Д Преломления"
     },
     {
       "id": "tutorial_mainui_17_railway_page_01_title_01",
-      "content": "Refraction Railway Opening"
+      "content": "Вход в Ж/Д Преломления"
     },
     {
       "id": "tutorial_mainui_17_railway_page_01_desc_01",
-      "content": "The Lines of the Refraction Railway run for a certain period of time.\nYou can enter the available Lines at no cost."
+      "content": "The Lines of the Ж/Д Преломления run for a certain period of time.\nYou can enter the available Lines at no cost."
     },
     {
       "id": "tutorial_mainui_17_railway_page_02_title_01",
@@ -1010,11 +1010,11 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_06_title_01",
-      "content": "Refraction Railway Main Screen"
+      "content": "Ж/Д Преломления Main Screen"
     },
     {
       "id": "tutorial_mainui_17_railway_page_06_desc_01",
-      "content": "The Refraction Railway consists of 13 stages."
+      "content": "The Ж/Д Преломления consists of 13 stages."
     },
     {
       "id": "tutorial_mainui_17_railway_page_07_title_01",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_07_desc_01",
-      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, similar to Focused Encounters."
+      "content": "Every battle in the Ж/Д Преломления will allow you to directly match ally skills against enemy skills, similar to Focused Encounters."
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_title_01",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_16_desc_01",
-      "content": "When a Line of the Refraction Railway closes, the best total turn record will be etched on the lower side of that Line’s banner."
+      "content": "When a Line of the Ж/Д Преломления closes, the best total turn record will be etched on the lower side of that Line’s banner."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_title",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
-      "content": "※ Mirror Dungeons, Luxcavation, and the Refraction Railway do not give [Bongy Plushies]."
+      "content": "※ Mirror Dungeons, Luxcavation, and the Ж/Д Преломления do not give [Bongy Plushies]."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_03_title_01",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_01_desc_01",
-      "content": "Refraction Railway 2 does not consume resources to play. Select a Line to enter."
+      "content": "Ж/Д Преломления 2 does not consume resources to play. Select a Line to enter."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_02_title_01",
@@ -1598,7 +1598,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_04_desc_01",
-      "content": "Refraction Railway Line 2 consists of 9 Stations."
+      "content": "Ж/Д Преломления Line 2 consists of 9 Stations."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_05_desc_01",
@@ -1622,7 +1622,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_07_desc_01",
-      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, just like in Focused Encounters."
+      "content": "Every battle in the Ж/Д Преломления will allow you to directly match ally skills against enemy skills, just like in Focused Encounters."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_07_desc_02",
@@ -1722,7 +1722,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_18_desc_02",
-      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_19_title_01",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_desc_01",
-      "content": "Upon clearing the final stage, your Refraction Railway play record will be saved. Up to 20 records can be viewed."
+      "content": "Upon clearing the final stage, your Ж/Д Преломления play record will be saved. Up to 20 records can be viewed."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_desc_02",
@@ -1826,11 +1826,11 @@
     },
     {
       "id": "tutorial_mainui_23_railway2_page_1_desc_02",
-      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_railway2_mainTitle",
-      "content": "Refraction Railway Line 2"
+      "content": "Ж/Д Преломления Line 2"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_title_01",
@@ -2266,7 +2266,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_title_01",
-      "content": "Refraction Railway Line 3"
+      "content": "Ж/Д Преломления Line 3"
     },
     {
       "id": "tutorial_mainui_railway3_page_01_title_01",
@@ -2274,7 +2274,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_01_desc_01",
-      "content": "Select the activated Line to enter. Entering the Refraction Railway does not cost any currency or resources."
+      "content": "Select the activated Line to enter. Entering the Ж/Д Преломления does not cost any currency or resources."
     },
     {
       "id": "tutorial_mainui_railway3_page_02_title_01",
@@ -2290,7 +2290,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_03_desc_01",
-      "content": "There are a total of 13 Stations in Refraction Railway Line 3. 10 of those Stations are combat Encounters."
+      "content": "There are a total of 13 Stations in Ж/Д Преломления Line 3. 10 of those Stations are combat Encounters."
     },
     {
       "id": "tutorial_mainui_railway3_page_03_desc_02",
@@ -2318,7 +2318,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_06_desc_01",
-      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, just like in Focused Encounters."
+      "content": "Every battle in the Ж/Д Преломления will allow you to directly match ally skills against enemy skills, just like in Focused Encounters."
     },
     {
       "id": "tutorial_mainui_railway3_page_07_title_01",
@@ -2326,15 +2326,15 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_07_desc_01",
-      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway and you can view their information as you would in those Dungeons."
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon Encounters, their Observation Levels will be reflected in the Ж/Д Преломления and you can view their information as you would in those Dungeons."
     },
     {
       "id": "tutorial_mainui_railway3_page_07_desc_02",
-      "content": "However, the damage bonus based on Observation Levels do not apply in the Refraction Railway."
+      "content": "However, the damage bonus based on Observation Levels do not apply in the Ж/Д Преломления."
     },
     {
       "id": "tutorial_mainui_railway3_page_07_desc_03",
-      "content": "In Refraction Railway Line 3, the updated Observation Level will be saved even if you give up mid-Encounter."
+      "content": "In Ж/Д Преломления Line 3, the updated Observation Level will be saved even if you give up mid-Encounter."
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_01",
@@ -2390,7 +2390,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_13_desc_02",
-      "content": "Clearing the Terminus is the ultimate objective of Refraction Railway Line 3."
+      "content": "Clearing the Terminus is the ultimate objective of Ж/Д Преломления Line 3."
     },
     {
       "id": "tutorial_mainui_railway3_page_14_title_01",
@@ -2398,7 +2398,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_14_desc_01",
-      "content": "You can check the requirements for acquiring Refraction Railway Line 3 banners here."
+      "content": "You can check the requirements for acquiring Ж/Д Преломления Line 3 banners here."
     },
     {
       "id": "tutorial_mainui_railway3_page_14_desc_02",
@@ -2426,7 +2426,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_16_desc_01",
-      "content": "Upon clearing the final Station, your Refraction Railway play record will be saved. Up to 20 records can be viewed. "
+      "content": "Upon clearing the final Station, your Ж/Д Преломления play record will be saved. Up to 20 records can be viewed. "
     },
     {
       "id": "tutorial_mainui_railway3_page_16_desc_02",
@@ -2450,7 +2450,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_02_desc_01",
-      "content": "The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages and Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages and Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Ж/Д Преломленияs."
     },
     {
       "id": "tutorial_mainui_26_ycgd_03_title_01",
@@ -2526,7 +2526,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_02_desc_01",
-      "content": "The duration of the Timekilling Time event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Timekilling Time event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Ж/Д Преломленияs."
     },
     {
       "id": "tutorial_mainui_28_tkt_03_title_01",
@@ -2586,7 +2586,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_title_01",
-      "content": "Refraction Railway Line 4"
+      "content": "Ж/Д Преломления Line 4"
     },
     {
       "id": "tutorial_mainui_railway4_page_01_title_01",
@@ -2594,11 +2594,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_01_desc_01",
-      "content": "Select the activated Line to enter. Entering the Refraction Railway does not cost any currency or resources."
+      "content": "Select the activated Line to enter. Entering the Ж/Д Преломления does not cost any currency or resources."
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_01",
-      "content": "Refraction Railway presents a series of very challenging battles."
+      "content": "Ж/Д Преломления presents a series of very challenging battles."
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_02",
@@ -2618,7 +2618,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_03_desc_02",
-      "content": "If you level up, Uptie, or Threadspin your Identities or E.G.O outside the Refraction Railway, the changes will be applied to your characters in the Refraction Railway as well."
+      "content": "If you level up, Uptie, or Threadspin your Identities or E.G.O outside the Ж/Д Преломления, the changes will be applied to your characters in the Ж/Д Преломления as well."
     },
     {
       "id": "tutorial_mainui_railway4_page_04_title_01",
@@ -2626,7 +2626,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_04_desc_01",
-      "content": "Refraction Railway Line 4 is composed of several Sections that tie several Stations into a single Stage. There are a total of 13 Stations."
+      "content": "Ж/Д Преломления Line 4 is composed of several Sections that tie several Stations into a single Stage. There are a total of 13 Stations."
     },
     {
       "id": "tutorial_mainui_railway4_page_04_desc_02",
@@ -2650,7 +2650,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_06_desc_01",
-      "content": "Refraction Railway Line 4 presents special buffs to your Sinners depending on their order of Deployment."
+      "content": "Ж/Д Преломления Line 4 presents special buffs to your Sinners depending on their order of Deployment."
     },
     {
       "id": "tutorial_mainui_railway4_page_06_desc_02",
@@ -2662,7 +2662,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_07_desc_01",
-      "content": "Refraction Railway Line 4 introduces the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+      "content": "Ж/Д Преломления Line 4 introduces the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
     },
     {
       "id": "tutorial_mainui_railway4_page_07_desc_02",
@@ -2674,7 +2674,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_08_desc_01",
-      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, just like in Focused Encounters.\nIn Refraction Railway Line 4, the Sapling of Light ability can be activated once per every run.\nActivation inside the Refraction Railway does not count toward the activation limit outside the Refraction Railway."
+      "content": "Every battle in the Ж/Д Преломления will allow you to directly match ally skills against enemy skills, just like in Focused Encounters.\nIn Ж/Д Преломления Line 4, the Sapling of Light ability can be activated once per every run.\nActivation inside the Ж/Д Преломления does not count toward the activation limit outside the Ж/Д Преломления."
     },
     {
       "id": "tutorial_mainui_railway4_page_09_title_01",
@@ -2718,11 +2718,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_12_desc_01",
-      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon or Mirror Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway, and you can view their information as you would in those Dungeons."
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon or Mirror Dungeon Encounters, their Observation Levels will be reflected in the Ж/Д Преломления, and you can view their information as you would in those Dungeons."
     },
     {
       "id": "tutorial_mainui_railway4_page_12_desc_02",
-      "content": "However, the damage bonus based on Observation Levels does not apply in the Refraction Railway."
+      "content": "However, the damage bonus based on Observation Levels does not apply in the Ж/Д Преломления."
     },
     {
       "id": "tutorial_mainui_railway4_page_12_desc_03",
@@ -2770,7 +2770,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_17_desc_01",
-      "content": "You can check the requirements for acquiring Refraction Railway Line 4 banners here."
+      "content": "You can check the requirements for acquiring Ж/Д Преломления Line 4 banners here."
     },
     {
       "id": "tutorial_mainui_railway4_page_17_desc_02",
@@ -2794,7 +2794,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_19_desc_01",
-      "content": "Upon clearing the final Stage, your Refraction Railway play record will be saved. Up to 20 records can be viewed. "
+      "content": "Upon clearing the final Stage, your Ж/Д Преломления play record will be saved. Up to 20 records can be viewed. "
     },
     {
       "id": "tutorial_mainui_railway4_page_19_desc_02",
@@ -2818,7 +2818,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_02_desc_01",
-      "content": "The duration of the Murder on the WARP Express event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Murder on the WARP Express event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Ж/Д Преломленияs."
     },
     {
       "id": "tutorial_mainui_29_mowe_03_title_01",
@@ -2875,6 +2875,218 @@
     {
       "id": "tutorial_mainui_29_mowe_09_desc_01",
       "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters and view its story at any time at the Driverside and Theater - [Detour Tales]."
+    },
+    {
+      "id": "TutoRailway5_P1_T1",
+      "content": "Ж/Д преломления : Линия 5"
+    },
+    {
+      "id": "TutoRailway5_P1_D1",
+      "content": "Как войти"
+    },
+    {
+      "id": "TutoRailway5_P1_D2",
+      "content": "Выберите активированную линию для входа. Вход в Ж/Д Преломления не стоит ни валюты, ни ресурсов."
+    },
+    {
+      "id": "TutoRailway5_P2_T1",
+      "content": "Ж/Д Преломления представляет собой серию очень сложных сражений."
+    },
+    {
+      "id": "TutoRailway5_P2_D1",
+      "content": "Перед входом рекомендуется поднять уровень связи Идентичностей и их ЭГО до 4, а так жу повысить уровень Идентичностей до 50."
+    },
+    {
+      "id": "TutoRailway5_P2_D2",
+      "content": "Вход в Ж/Д Преломления рекомендуется после выполнения этих условий"
+    },
+    {
+      "id": "TutoRailway5_P3_T1",
+      "content": "Линия 5: Станции и секции"
+    },
+    {
+      "id": "TutoRailway5_P3_D1",
+      "content": "Линия 5 состоит из нескольких Секций, которые объединяют несколько Станций в одну ступень. Всего на линии 11 Станций."
+    },
+    {
+      "id": "TutoRailway5_P3_D2",
+      "content": "Там имеется 3 этапа сражений, каждый из которых называется Секцией."
+    },
+    {
+      "id": "TutoRailway5_P4_T1",
+      "content": "Вход в секцию"
+    },
+    {
+      "id": "TutoRailway5_P4_D1",
+      "content": "Прохождение Секции будет записывать количество ходов её зачистики.\n\nПод этим значением находится сумма всех ходов с каждой Секции."
+    },
+    {
+      "id": "TutoRailway5_P4_D2",
+      "content": "Под каждой Секцией вы можете видеть список наград за их прохождение. Возьмите их в бюро находок."
+    },
+    {
+      "id": "TutoRailway5_P5_T1",
+      "content": "Выбор идентичностей — Цепные сражения."
+    },
+    {
+      "id": "TutoRailway5_P5_D1",
+      "content": "Линия 5 использует систему Цепных сражений.\n\nВ них, когда выбранная идентичность убита, другая идентичность из запаса займёт её место по её очереди в запасе."
+    },
+    {
+      "id": "TutoRailway5_P5_D2",
+      "content": "Вы можете войти в секцию только после того, как выберете основные и запасные идентичности. (По 6 в каждой категории)"
+    },
+    {
+      "id": "TutoRailway5_P6_T1",
+      "content": "Ограничения выбора идентичностей"
+    },
+    {
+      "id": "TutoRailway5_P6_D1",
+      "content": "В линии 5 вы не можете использовать одну и ту же команду для испытания Секции 1 и Секции 2.\nДля каждой Секции нужна своя команда."
+    },
+    {
+      "id": "TutoRailway5_P6_D2",
+      "content": "Однако это ограничение не распространяется на Секцию 3."
+    },
+    {
+      "id": "TutoRailway5_P7_T1",
+      "content": "Создание вашей команды"
+    },
+    {
+      "id": "TutoRailway5_P7_D1",
+      "content": "Выберите несколько идентичностей и ЭГО для входа."
+    },
+    {
+      "id": "TutoRailway5_P7_D2",
+      "content": "Если вы повышаете уровень или уровень связи идентичностей или ЭГО вне Ж/Д Преломления, это применится так же к идентичностям в Ж/Д Преломления."
+    },
+    {
+      "id": "TutoRailway5_P7_D3",
+      "content": "Запасные идентичности получают стартовые СД в порядке возрастания их номера\n\nИдентичности с отрицательными монетами получают уменьшение СД."
+    },
+    {
+      "id": "TutoRailway5_P8_T1",
+      "content": "Сражения"
+    },
+    {
+      "id": "TutoRailway5_P8_D1",
+      "content": "Каждое столкновение в Ж/Д Преломления будет фокусированным\nМаксимальное количество ходов для каждой Секции составляет 100. Если количество ходов превысит 100, столкновение закончится поражением."
+    },
+    {
+      "id": "TutoRailway5_P9_T1",
+      "content": "Журналы наблюдений"
+    },
+    {
+      "id": "TutoRailway5_P9_D1",
+      "content": "За исключением боссов в последних волнах каждой Секции, вся информация о врагах будет открыта для просмотра с самого начала. Подготовьте соответствующую стратегию, идентичностей и ЭГО на основе этой информации."
+    },
+    {
+      "id": "TutoRailway5_P9_D2",
+      "content": "Однако бонус к урону, основанный на уровне наблюдения, не применяется в Ж/Д Преломления."
+    },
+    {
+      "id": "TutoRailway5_P9_D3",
+      "content": "В Линии 5, журналы наблюдений сохраняются даже после поражения или выхода из боя."
+    },
+    {
+      "id": "TutoRailway5_P10_T1",
+      "content": "Бой — цепные столкновения"
+    },
+    {
+      "id": "TutoRailway5_P10_D1",
+      "content": "Когда выбранная идентичность убита, другая идентичность из запаса займёт её место по её очереди в запасе."
+    },
+    {
+      "id": "TutoRailway5_P10_D2",
+      "content": "При входе запасной идентичности в бой, вместо её пассивного навыка поддержки активируется боевой.\n\nПри смерти этой идентичности, её боевой навык поддержки заменяется пассивным."
+    },
+    {
+      "id": "TutoRailway5_P11_T1",
+      "content": "Бой — активные эффекты"
+    },
+    {
+      "id": "TutoRailway5_P11_D1",
+      "content": "В Линии 5, если идентичность умирает, она даёт ЭГО ресурсы за каждый грех своих навыков, равные рангу навыка. Их смерть так же не заставляет союзников терять СД."
+    },
+    {
+      "id": "TutoRailway5_P12_T1",
+      "content": "Некоторые враги на Линии 5 получают определенные эффекты в зависимости от порядка их входа в бой."
+    },
+    {
+      "id": "TutoRailway5_P13_T1",
+      "content": "Бой — усиления и испытания"
+    },
+    {
+      "id": "TutoRailway5_P13_D1",
+      "content": "Зачистка волны (Станции) в Секции приведёт вас к меню усилений и испытаний."
+    },
+    {
+      "id": "TutoRailway5_P13_D2",
+      "content": "Здесь вам предстоит выбрать усиления и испытания с положительными эффектами как для союзников, так и для врагов. Все выбранные здесь усиления и испытания будут действовать на протяжении всей Линии 5."
+    },
+    {
+      "id": "TutoRailway5_P14_T1",
+      "content": "Информация прохождения"
+    },
+    {
+      "id": "TutoRailway5_P14_D1",
+      "content": "После прохождения каждой Секции вы можете просмотреть статистику, например полученные усиления, испытания и участвовавших идентичностей в меню Информации прохождения."
+    },
+    {
+      "id": "TutoRailway5_P15_T1",
+      "content": "ЭГО ресурсы, полученные после прохождения Секции, можно перенести в следующую."
+    },
+    {
+      "id": "TutoRailway5_P16_T1",
+      "content": "Если все союзники побеждены, вы можете выбрать между возвращением в меню их выбора, чтобы изменить порядок выбора, или же повторым входом в бой."
+    },
+    {
+      "id": "TutoRailway5_P17_T1",
+      "content": "Обновление записи"
+    },
+    {
+      "id": "TutoRailway5_P17_D1",
+      "content": "Во время экспедиции вы можете начать заново с ранее пройденных этапов."
+    },
+    {
+      "id": "TutoRailway5_P17_D2",
+      "content": "Если вы это сделаете, битва начнется со статусами грешников и ЭГО ресурсами, возвращенными к тому моменту, и весь прогресс, достигнутый вами с этого этапа, будет сброшен."
+    },
+    {
+      "id": "TutoRailway5_P18_T1",
+      "content": "Требования баннеров"
+    },
+    {
+      "id": "TutoRailway5_P18_D1",
+      "content": "Ознакомиться с требованиями к получению фонов профиля Линии 5 Ж/Д Преломления можно здесь."
+    },
+    {
+      "id": "TutoRailway5_P18_D2",
+      "content": "Как только вы получите баннер, на нем будет отображаться счетчик ходов вашего лучшего рекорда в каждой секции и общее количество ходов.\nДля достижения нового рекорда в общем количестве ходов, счетчик ходов будет обновлен на вашем баннере. Если есть рекорды с одинаковым количеством ходов, то будет показан более поздний рекорд."
+    },
+    {
+      "id": "TutoRailway5_P19_T1",
+      "content": "Бюро находок"
+    },
+    {
+      "id": "TutoRailway5_P19_D1",
+      "content": "После первого прохождения Секции, награды будут отправлены в Бюро находок."
+    },
+    {
+      "id": "TutoRailway5_P19_D2",
+      "content": "Чтобы впервые получить доступ к награде в Бюро находок, потребуется некоторое количество Энкефалиновых модулей."
+    },
+    {
+      "id": "TutoRailway5_P20_T1",
+      "content": "История поездок"
+    },
+    {
+      "id": "TutoRailway5_P20_D1",
+      "content": "После прохождения последнего этапа, ваша история Ж/Д Преломления будет сохранения. Может быть сохранено до 20 поездок."
+    },
+    {
+      "id": "TutoRailway5_P20_D2",
+      "content": "При более чем 20 поездках, запись с самым большим количеством ходов будет удалена."
     }
   ]
 }

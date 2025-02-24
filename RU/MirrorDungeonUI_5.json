@@ -1,0 +1,496 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
+      "content": "У вас остались варианты выбора ЭГО даров\n\nВы продолжите без них?\n\n(※ Вы получите случайные испытания, равные количеству оставшихся вариантов)"
+    },
+    {
+      "id": "mirror_dungeon_easy_difficulty",
+      "content": "Normal"
+    },
+    {
+      "id": "mirror_dungeon_hard_difficulty",
+      "content": "Hard"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_rest_point",
+      "content": "Стартовый бонус"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_total",
+      "content": "Стартовый\nбонус"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_reset_selection",
+      "content": "Выбор эффекта"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_applied_effect",
+      "content": "Активные эффекты"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
+      "content": "Все идентичности, не входящие в текущую команду, получают 1 Стартовый бонус"
+    },
+    {
+      "id": "mirror_user_start_buff",
+      "content": "Стартовый бонус"
+    },
+    {
+      "id": "mirror_enemy_buff",
+      "content": "Испытания"
+    },
+    {
+      "id": "mirror_enemy_addenemylevel_desc",
+      "content": "Ур. противников +{0}"
+    },
+    {
+      "id": "mirror_card_pack",
+      "content": "Тема"
+    },
+    {
+      "id": "mirror_acquired_random_enemy_buff_popup_title",
+      "content": "Полученные испытания"
+    },
+    {
+      "id": "mirror_acquired_enemy_buff_popup_desc",
+      "content": "Испытания были добавлены."
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_title",
+      "content": "Выбранное Звёздное благославление"
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_desc",
+      "content": "Звёздное благославление было выбрано."
+    },
+    {
+      "id": "mirror_recovered_unit_status",
+      "content": "Все союзники полностью вылечены, мёртвые воскрешены"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_title",
+      "content": "Нельзя пройти"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
+      "content": "Недостаточно бонуса"
+    },
+    {
+      "id": "user_enemy_buff_empty_list",
+      "content": "Нет активных эффектов"
+    },
+    {
+      "id": "mirror_start_set_buff_type",
+      "content": "Благославление звёзд"
+    },
+    {
+      "id": "mirror_start_buff_type",
+      "content": "Кластеры благославления звёзд"
+    },
+    {
+      "id": "mirror_start_buff_purchase_button",
+      "content": "Войти"
+    },
+    {
+      "id": "user_enemy_buff_select_event_buff",
+      "content": "Эффекты выбора"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_one_revive",
+      "content": "Оживляет выбранного грешника"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_all_revive",
+      "content": "Оживляет всех грешников"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
+      "content": "Столкновение с аномалией"
+    },
+    {
+      "id": "dungeon_shop_heal_enter",
+      "content": "Мы можем исцелить или оживить грешника здесь.\nЧто мы будем делать?"
+    },
+    {
+      "id": "dungeon_shop_heal_select_one",
+      "content": "Восстановление {0} ОЗ и СД."
+    },
+    {
+      "id": "dungeon_shop_heal_all",
+      "content": "ОЗ и СД всех грешников выло восстановлено."
+    },
+    {
+      "id": "dungeon_shop_heal_revive_select_one",
+      "content": "{0}, оживает, возвращается в бой."
+    },
+    {
+      "id": "mirrordungeon_revive_log",
+      "content": "Благославление звёзд активировано\n[{0}] оживлено"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
+      "content": "При {0}+ стартового бонуса"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
+      "content": "Оставшееся Звёздное благославление"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_exchanged_cost",
+      "content": "Стоимость"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_title",
+      "content": "Выбрано Благославление звёзд"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_description",
+      "content": "Выберете ли вы эти эффекты?"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_purchase_description",
+      "content": "Оставшееся Звёздное благославление будет конвертировано в Стоимость"
+    },
+    {
+      "id": "mirror_start_buff_applied_passive",
+      "content": "Благославление звёзд Passive"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title",
+      "content": "Благославление"
+    },
+    {
+      "id": "mirror_shop_purchase_complete",
+      "content": "Куплено"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
+      "content": "Не выбирать никакой"
+    },
+    {
+      "id": "dungeon_shop_heal_title_all_season5",
+      "content": "Умеренно лечит каждого грешника."
+    },
+    {
+      "id": "dungeon_shop_heal_title_one_season5",
+      "content": "Хорошо лечит выбранного грешника."
+    },
+    {
+      "id": "dungeon_shop_revive_title_one_season5",
+      "content": "Оживляет выбранного грешника."
+    },
+    {
+      "id": "dungeon_shop_revive_one_select_ask",
+      "content": "Выберите грешника для оживления."
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_hard_theme_list",
+      "content": "Пройдите 6 главу\nдля разблокировки"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked",
+      "content": "Пройдите 6 главу\nдля разблокировки"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_title",
+      "content": "Вылечить грешников"
+    },
+    {
+      "id": "mirrordungeon_shop_title",
+      "content": "Магазин"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_5",
+      "content": "Зеркало Мечтаний - F{0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_awaiting_reward_claim",
+      "content": "Несобранные награды"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_bonus_gift",
+      "content": "Благославление звёзд активировано\nДля получения ЭГО даров Слияния & Продажи"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "NORMAL"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "HARD"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "Обычное столкновение : 7.5%\nФокусированное столкновение : -\nЭлитное столкновение : -\nСтолкновение с аномалией: -\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "Обычное столкновение : 7.5%\nФокусированное столкновение : -\nЭлитное столкновение : -\nСтолкновение с аномалией: -\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "Обычное столкновение : 10%\nФокусированное столкновение : 20%\nЭлитное столкновение : 33%\nСтолкновение с аномалией: -\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "Обычное столкновение : 10%\nФокусированное столкновение : 20%\nЭлитное столкновение : 33%\nСтолкновение с аномалией: -\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "Обычное столкновение : 10%\nФокусированное столкновение : 20%\nЭлитное столкновение : 33%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "Обычное столкновение : 10%\nФокусированное столкновение : 20%\nЭлитное столкновение : 33%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "Обычное столкновение : 12.5%\nФокусированное столкновение : 25%\nЭлитное столкновение : 50%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "Обычное столкновение : 12.5%\nФокусированное столкновение : 25%\nЭлитное столкновение : 50%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "Обычное столкновение : 12.5%\nФокусированное столкновение : 25%\nЭлитное столкновение : 50%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : -"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "Обычное столкновение : 12.5%\nФокусированное столкновение : 25%\nЭлитное столкновение : 50%\nСтолкновение с аномалией: 100%\nСтолкновение с боссом : -"
+    },
+    {
+      "id": "mirrordungeon_additional_cost_by_start_bonus",
+      "content": "Благославление звёзд активировано\nСтоимость получена"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_desc",
+      "content": "Каждый ЭГО дар имеет разные 'очки' для Слияния в зависимости от его уровня."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+      "content": "Уровни ЭГО даров"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+      "content": "Очки"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+      "content": "Уровень 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+      "content": "3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+      "content": "Уровень 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
+      "content": "6"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+      "content": "Уровень 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+      "content": "10"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+      "content": "Уровень 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+      "content": "15"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+      "content": "Уровень 5"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+      "content": "30"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label",
+      "content": "Уровень ЭГО дара в результате Слияния определяется суммой очков каждого ингредиента."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+      "content": "Подсчет очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+      "content": "Уровень ЭГО дара Слияния"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+      "content": "10- Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+      "content": "Уровень 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+      "content": "11~16 Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+      "content": "Уровень 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+      "content": "17 ~ 24 Очка"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+      "content": "Уровень 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+      "content": "25+ Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+      "content": "Уровень 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
+      "content": "※ Any ЭГО дары находящиеся в вашем распоряжении, не могут быть получены в результате Слияния."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+      "content": "※ ЭГО дары, использованные в качестве ингридиента, не могут быть получены в результате слияния. Однако, ЭГО дары, которые уже были использованы в качестве ингредиентов в предыдущих Слияниях, могут быть получены в результате Слияния."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+      "content": "※ Если вы получили все возможные ЭГО дары этого определённого уровня и комбинации ключевых слов, вы получите ЭГО дар другого ключевого слова того же уровня."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+      "content": "※ Если вы получили все возможные ЭГО дары этого уровня, вы получите ЭГО дар для Слияния & Продажи."
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_title",
+      "content": "<color=#990000>Супер магазин</color>"
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
+      "content": "Супер магазин\nна след. этаже?"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
+      "content": "Недостаточно стартового бонуса"
+    },
+    {
+      "id": "mirror_theme_pack_baton",
+      "content": "Длинный бой"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_no_pool",
+      "content": "Теперь вы выполнили условия для разблокировки сложности 'Hard'. Вы можете переключать сложности, начиная со следующего меню выбора темы."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "4+ ЭГО дара"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "99%"
+    },
+    {
+      "id": "mirrordungeon_level_up_by_long_battle_theme",
+      "content": "Получена награда за длинный бой\nУровень идентичностей +3"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_100",
+      "content": "Звезда начала"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_101",
+      "content": "Растущие звёзды"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_102",
+      "content": "Межзвездные путешествия"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_103",
+      "content": "Звездопад"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_104",
+      "content": "Бинарный звёздныймагазин"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_105",
+      "content": "Лунный звёздный магазин"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_106",
+      "content": "Благосклонность туманностей"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_107",
+      "content": "Звёздный путеводитель"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_108",
+      "content": "Комета шанса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_109",
+      "content": "Совершенная возможность"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over10",
+      "content": "При [10]+ Стартового бонуса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over20",
+      "content": "При [20]+ Стартового бонуса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over30",
+      "content": "При [30]+ Стартового бонуса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over40",
+      "content": "При [40]+ Стартового бонуса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over50",
+      "content": "При [50]+ Стартового бонуса"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over60",
+      "content": "При [60]+ Стартового бонуса"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+      "content": "Слияние в Супермагазине добавляет специальный модификатор к необходимому количеству очков из каждого ингредиента."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+      "content": "9- Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+      "content": "10 ~ 14 Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+      "content": "15 ~ 21 Очков"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+      "content": "22+ Очка"
+    }
+  ]
+}
