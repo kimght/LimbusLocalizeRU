@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": "ADDITIONAL_COST_START",
+      "description": "Начальная стоимость +{0}"
+    },
+    {
+      "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+      "description": "Даёт на {0} Стоимости после победы в битве"
+    },
+    {
+      "id": "EGO_RESOURCE",
+      "description": "ЭГО ресурсы для всех грехов +{0}"
+    },
+    {
+      "id": "EGO_RESOURCE_FORMATION",
+      "description": "ЭГО ресурсы для грехов Идентичностей +{0}"
+    },
+    {
+      "id": "HP_RECOVER_RATE_AFTER_WIN_BATTLE",
+      "description": "После победы в битве восстанавливает {0}% от макс. ОЗ"
+    },
+    {
+      "id": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER",
+      "description": "После события восстанавливает {0} СД"
+    },
+    {
+      "id": "AttackLevelAdder",
+      "description": "Уровень атаки +{0}"
+    },
+    {
+      "id": "AttackLevelMultiply",
+      "description": "Уровень атаки +{0}%"
+    },
+    {
+      "id": "DefenseLevelAdder",
+      "description": "Уровень защиты +{0}"
+    },
+    {
+      "id": "DefenseLevelMultiply",
+      "description": "Уровень защиты +{0}%"
+    },
+    {
+      "id": "MaxHpAdder",
+      "description": "Макс. ОЗ +{0}"
+    },
+    {
+      "id": "MaxHpMultiply",
+      "description": "Макс. ОЗ +{0}%"
+    },
+    {
+      "id": "MaxSpeedUpAdder",
+      "description": "Макс. скорость +{0}"
+    },
+    {
+      "id": "AttackDamageAdder",
+      "description": "Наносимый урон +{0}"
+    },
+    {
+      "id": "AttackDamageMultiply",
+      "description": "Наносимый урон +{0}%"
+    },
+    {
+      "id": "TakeAttackDamageReducer",
+      "description": "Получаемый урон -{0}"
+    },
+    {
+      "id": "TakeAttackDamageMultipliedReducer",
+      "description": "Получаемый урон -{0}%"
+    },
+    {
+      "id": "StickCoinHeadAndTailToMaxPer",
+      "description": "Каждый(-ые) {0} ход(-ов), все монеты за каждый навык, используемый союзниками, выпадают на одну и ту же сторону в зависимости от типа монеты"
+    },
+    {
+      "id": "RemoveBreakSection",
+      "description": "Первая граница оглушения союзников исчезает"
+    }
+  ]
+}

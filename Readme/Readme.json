@@ -31,6 +31,16 @@
             "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Дополнительно</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"Онлайн читалочка:\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://kimght.github.io>kimght.github.io</link>\"}]}"
         },
         {
+            "id": 2931,
+            "version": 0,
+            "type": 0,
+            "startDate": "2025-02-27T12:51:18.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
+            "sprNameList": [],
+            "title_KR": "v1.1.8",
+            "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>v1.1.8</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведен 5 рейлвей\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Дополнен перевод 7.5(1)\"},{\"formatKey\":\"Text\",\"formatValue\":\"- Переведено обновление зеркального подземелья\"}]}"
+        },
+        {
             "id": 2930,
             "version": 0,
             "type": 0,

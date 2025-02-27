@@ -58,11 +58,11 @@
     },
     {
       "id": "mirror_start_buff_purchase_complete_modal_title",
-      "content": "Выбранное Звёздное благославление"
+      "content": "Выбранное Благославление"
     },
     {
       "id": "mirror_start_buff_purchase_complete_modal_desc",
-      "content": "Звёздное благославление было выбрано."
+      "content": "Благославление было выбрано."
     },
     {
       "id": "mirror_recovered_unit_status",
@@ -154,11 +154,11 @@
     },
     {
       "id": "mirror_start_buff_applied_passive",
-      "content": "Благославление звёзд Passive"
+      "content": "Пассивки Звёздного благославления"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_title",
-      "content": "Благославление"
+      "content": "Благославление мечтающей звезды"
     },
     {
       "id": "mirror_shop_purchase_complete",
@@ -378,11 +378,11 @@
     },
     {
       "id": "mirrordungeon_upgrade_shop_title",
-      "content": "<color=#990000>Супер магазин</color>"
+      "content": "<color=#990000>Супер-магазин</color>"
     },
     {
       "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
-      "content": "Супер магазин\nна след. этаже?"
+      "content": "Супер-магазин\nна след. этаже?"
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",

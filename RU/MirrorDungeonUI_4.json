@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "dungeon_selectable",
-      "content": "Selectable"
+      "content": "Выбрано"
     },
     {
       "id": "dungeon_battle_reawrd_card_selection",
-      "content": "Select Encounter Reward Card"
+      "content": "Выберите карту с наградой"
     },
     {
       "id": "dungeon_opportunity_to_select_rewards_remaining",
@@ -54,7 +54,7 @@
     },
     {
       "id": "mirror_dungeon_progress_text_before_exploration",
-      "content": "Before Entry"
+      "content": "Ожидание начала"
     },
     {
       "id": "mirror_dungeon4_entrance_hard_hint_after_release",
@@ -62,15 +62,15 @@
     },
     {
       "id": "dungeon_encounter_guide_elite_battle",
-      "content": "Elite Encounter"
+      "content": "Элитное столкновение"
     },
     {
       "id": "purchase_ego_gift",
-      "content": "Purchase E.G.O Gifts"
+      "content": "Покупка ЭГО даров"
     },
     {
       "id": "purchase_personality_skill_desc",
-      "content": "Spend <color=#f8c200>{0}</color> Cost to replace this Skill?"
+      "content": "Потратить <color=#f8c200>{0}</color> Стоимости на замену навыка?"
     },
     {
       "id": "mirror_dungeon_4_start_buff_name",
@@ -822,7 +822,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_popup_title",
-      "content": "Fusion Guide"
+      "content": "Руководство"
     },
     {
       "id": "mirrordungeon_select_theme_pack_at_floor",
@@ -842,11 +842,11 @@
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_tier",
-      "content": "By Tier"
+      "content": "По уровню"
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_keyword",
-      "content": "By Keyword"
+      "content": "По типу"
     },
     {
       "id": "side_content_cannot_acquire_specific_ego_gift",
@@ -866,7 +866,7 @@
     },
     {
       "id": "mirror_dungeon_finished_panel_battle_reward",
-      "content": "Encounter Reward Cards"
+      "content": "Карты наград"
     },
     {
       "id": "mirror_dungeon_finished_panel_used",
@@ -906,7 +906,7 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh",
-      "content": "Keyword Refresh"
+      "content": "Ключевое обновление"
     },
     {
       "id": "mirror_dungeon_shop_refresh_by_chip",
@@ -914,27 +914,27 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
-      "content": "Shop - Keyword Refresh"
+      "content": "Магазин - Ключевое обновление"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
-      "content": "'Keyword Refresh' to raise the chances of getting E.G.O Gifts of the selected Keyword category in the Shop.\nSpend {0} Cost to Keyword Refresh?"
+      "content": "'Ключевое обновление' повышает шанс появления ЭГО даров определённого типа в ассортименте магазина.\nПотратить {0} Стоимости на Ключевое обновление?"
     },
     {
       "id": "ego_gift_combine_ui_plz_select_keyword",
-      "content": "Select a Keyword."
+      "content": "Выберите ключевое слово."
     },
     {
       "id": "ego_gift_select_keyword_ui_title",
-      "content": "Fusion - Keyword Selection"
+      "content": "Слияние - выбор типа"
     },
     {
       "id": "ego_gift_select_keyword_ui_desc",
-      "content": "Please choose a Keyword you want to Fuse into."
+      "content": "Выберите ключевое слово для ЭГО дара."
     },
     {
       "id": "new_ego_gift_combine_guide_desc_1",
-      "content": "The following is the E.G.O Gift Keyword forecast once you've selected the Keyword you want to Fuse into in the <Fusion - Keyword Selection> screen."
+      "content": "The following is the E.G.O Gift Keyword forecast once you've selected the Keyword you want to Fuse into in the <Слияние - выбор типа> screen."
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_col_1_title",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_popup_title",
-      "content": "Encounter Reward Cards Guide"
+      "content": "Руководство"
     },
     {
       "id": "mirror_battle_reward_card_guide_text_1",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
-      "content": "Floor 5"
+      "content": "Этаж 5+"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
@@ -1158,11 +1158,11 @@
     },
     {
       "id": "expected_result",
-      "content": "Forecasts"
+      "content": "Прогнозы"
     },
     {
       "id": "confirmed",
-      "content": "Guaranteed"
+      "content": "Гарантия"
     },
     {
       "id": "combine_tooltip_title",

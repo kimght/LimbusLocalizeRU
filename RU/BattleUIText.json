@@ -746,7 +746,7 @@
     },
     {
       "id": "Retreat_Textalram",
-      "content": "! КУРЬЕР ОТСТУПАЕТ !"      
+      "content": "! КУРЬЕР ОТСТУПАЕТ !"
     },
     {
       "id": "Retreat_TextPassive",
@@ -775,6 +775,10 @@
     {
       "id": "QTE_Notice",
       "content": "ГАЛОПОМ ВПЕРЕД, ВМЕСТЕ!"
+    },
+    {
+      "id": "septempeccata_classification",
+      "content": "Класс {0}"
     }
   ]
 }

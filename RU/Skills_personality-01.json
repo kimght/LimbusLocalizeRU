@@ -633,14 +633,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -654,14 +654,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -675,14 +675,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает границы выносливости цели на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }

@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": "InfinityFloor_CheckEnter_Modal_Title",
+      "content": "Режим параллельной суперпозиции"
+    },
+    {
+      "id": "InfinityFloor_CheckEnter_Modal_Desc",
+      "content": "Вы можете войти в Режим параллельной суперпозиции.\n\nВойти в Режим параллельной суперпозиции и пройти на следующий этаж?"
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Title",
+      "content": "Режим параллельной суперпозиции : "
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Title_forProgressPopup",
+      "content": "Пар. С."
+    },
+    {
+      "id": "mirror_dungeon_infinity_difficulty",
+      "content": "бесконечность"
+    },
+    {
+      "id": "mirror_dungeon_achievement_panel_title",
+      "content": "Достижения"
+    },
+    {
+      "id": "mirror_dungeon_achievement_reward_title",
+      "content": "Список наград"
+    },
+    {
+      "id": "mirror_dungeon_achievement_list_title",
+      "content": "Список достижений"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_COLLECTION",
+      "content": "Коллекция"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_CLEAR",
+      "content": "Прохождения"
+    },
+    {
+      "id": "mirrordungeon_mission_date",
+      "content": "Награды можно получить до выхода #6 обновления Зеркального подземелья."
+    },
+    {
+      "id": "mirrordungeon_infinityFloor_Entrance_ThemeSelectPanel",
+      "content": "Параллельная суперпозиция активна"
+    },
+    {
+      "id": "mirrordungeon_mission_clear_condition",
+      "content": "※ Этажи Зеркального подземелья считаются пройденными, если были потрачены энкефалиновые модули на сбор наград в окне."
+    },
+    {
+      "id": "mirrordungeon_infinity_open_condition",
+      "content": "Пройдите главу VI"
+    },
+    {
+      "id": "InfinityFloor_Mode_Button_Notie",
+      "content": "※ Пройдите каждый этаж вашей экспедиции на сложности 'Hard', чтобы войти."
+    },
+    {
+      "id": "IsOnInfinityMod",
+      "content": "ВКЛ"
+    },
+    {
+      "id": "IsOFFInfinityMod",
+      "content": "ВЫКЛ"
+    }
+  ]
+}
