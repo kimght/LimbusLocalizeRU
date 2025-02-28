@@ -1,5 +1,5 @@
 {
-  "version": "1.1.45",
+  "version": "1.1.46",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -71,7 +71,7 @@
     },
     {
       "path": "RU/BattleUIText.json",
-      "checksum": "503119f2493d1515ec7c051208eb2bf2"
+      "checksum": "c648875bc342f6f9824031ea8ec8843b"
     },
     {
       "path": "RU/Items.json",
