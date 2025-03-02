@@ -1,5 +1,5 @@
 {
-  "version": "1.1.46",
+  "version": "1.1.47",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -179,7 +179,7 @@
     },
     {
       "path": "RU/EGOgift_walpu4.json",
-      "checksum": "01ad3526e16729a478f86c3716ed8288"
+      "checksum": "1233743c9ff1a947c35b4979c97e7588"
     },
     {
       "path": "RU/Skills_Enemy-tkt.json",
@@ -291,7 +291,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-StoryTheme_2.json",
-      "checksum": "c192ff9883b8ae19da8caf1cdd51cb57"
+      "checksum": "308add1af2d463e2de11da824bbf73fb"
     },
     {
       "path": "RU/Skills_Enemy91-4.json",
@@ -395,7 +395,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon.json",
-      "checksum": "7b3228804ac78d8a80874c426bff65cb"
+      "checksum": "beaf7a516c5bfdeaf39844412184bca4"
     },
     {
       "path": "RU/Passives_Enemy-tkt.json",
@@ -695,7 +695,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-EventTheme.json",
-      "checksum": "adfe00a6b29a0dd565020ab54e710c90"
+      "checksum": "366f88b392c77f6e3b797c96e6ae4f21"
     },
     {
       "path": "RU/BattleKeywords-a1c5p1.json",
@@ -719,7 +719,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon-tkt.json",
-      "checksum": "918c521ed19acbc61c30791ff2bc7346"
+      "checksum": "5f03000466a19f830d5fe37ce4c77daa"
     },
     {
       "path": "RU/MirrorDungeonName.json",
@@ -871,7 +871,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-EventTheme_2.json",
-      "checksum": "5d23149e1d9d75889425f8f81a86c054"
+      "checksum": "4e5753b6d56c6a13a5239ff310770577"
     },
     {
       "path": "RU/TutorialNewUpperSkillInfoUI.json",
@@ -999,7 +999,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon.json",
-      "checksum": "480ccd86515613310b9abadfbf4c2afb"
+      "checksum": "e22bbe857a8845544dcfb72d55834e45"
     },
     {
       "path": "RU/Announcer-a1c7p1.json",
@@ -1223,7 +1223,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-StoryTheme.json",
-      "checksum": "14ca641aaa8bc519cb93edc799b432f6"
+      "checksum": "af07a3e1f792b6cffa9323db54a0171f"
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c5p2.json",
@@ -1479,7 +1479,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c7p3.json",
-      "checksum": "d9d0030bd935875ca9b8730380171fe1"
+      "checksum": "3912f586eb3e427ed5228b4c690a7575"
     },
     {
       "path": "RU/Enemies-a1c5p3.json",
@@ -1491,7 +1491,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c5p3.json",
-      "checksum": "3caf0b51927e8268015aaf1057a76966"
+      "checksum": "32741649541fa75ea60db330c96ce5c0"
     },
     {
       "path": "RU/Bufs-a1c5p1.json",
@@ -1503,7 +1503,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-mowe.json",
-      "checksum": "96aaf9a48783e191ea8713d4afeb604c"
+      "checksum": "e23b0aec3054dadfdc6c358df7f007a4"
     },
     {
       "path": "RU/MirrorDungeonUI_2.json",
@@ -1511,7 +1511,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-ycgd.json",
-      "checksum": "998c47c85972bb44a455ab5df33033de"
+      "checksum": "ccb738cc12a2c1dc4d99377dd0b21cee"
     },
     {
       "path": "RU/Passives_Abnormality-a1c6p3.json",
@@ -1635,7 +1635,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon_2.json",
-      "checksum": "91f1e16c361319fee00ec340ee519389"
+      "checksum": "2e898f486ac615318143682182e28485"
     },
     {
       "path": "RU/Skills_Ego.json",
@@ -3163,7 +3163,7 @@
     },
     {
       "path": "RU/StoryData/S701B.json",
-      "checksum": "9e9dad93a668fc568ed790d20fd0c6fc"
+      "checksum": "a7b186a58dcf0a53b2cc8644cbf08351"
     },
     {
       "path": "RU/StoryData/4D102A.json",
@@ -3403,7 +3403,7 @@
     },
     {
       "path": "RU/StoryData/S702B.json",
-      "checksum": "e1161d229337134e5115dca2e79ec115"
+      "checksum": "a6703759056cf81a7a0f69fd5eea98a8"
     },
     {
       "path": "RU/StoryData/S207A.json",
@@ -3443,7 +3443,7 @@
     },
     {
       "path": "RU/StoryData/E625B.json",
-      "checksum": "435dc1d8c36ac1414bc42b952f49da6b"
+      "checksum": "a665560e6abbd1bee15596f9d561267a"
     },
     {
       "path": "RU/StoryData/S318B.json",
