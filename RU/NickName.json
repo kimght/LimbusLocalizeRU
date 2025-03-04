@@ -5154,7 +5154,7 @@
       "jpname": "ネリー",
       "enname": "Nelly",
       "fileName": "Nellie",
-      "nickName": "Экономка",
+      "nickName": "Старший Дворецкий",
       "jpNickName": "チーフバトラー",
       "enNickName": "Chief Butler",
       "staringSide": "",
@@ -5238,7 +5238,7 @@
     },
     {
       "name": "린튼버틀러1",
-      "krname": "1-ый слуга Линтона",
+      "krname": "1-ый дворецкий Линтона",
       "jpname": "",
       "enname": "",
       "fileName": "LintonButler_2",
@@ -5260,7 +5260,7 @@
     },
     {
       "name": "린튼버틀러2",
-      "krname": "2-ая слуга Линтона",
+      "krname": "2-ая дворецкая Линтона",
       "jpname": "",
       "enname": "",
       "fileName": "LintonButler_1",
