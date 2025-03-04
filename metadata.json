@@ -1,5 +1,5 @@
 {
-  "version": "1.1.47",
+  "version": "1.1.48",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -95,7 +95,7 @@
     },
     {
       "path": "RU/StoryTheaterPersonality.json",
-      "checksum": "651b89ba92a47ad0625f0d4fa0cbdf01"
+      "checksum": "7bd04a5c47c24091fb823ac6cfccd2c9"
     },
     {
       "path": "RU/IntroductionPreset.json",
@@ -331,7 +331,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "49f303acc7c838db50bfc07241a9b960"
+      "checksum": "dd09bdefe88186cc88cc1e0342d21fce"
     },
     {
       "path": "RU/Bufs-a1c7p3.json",
@@ -383,7 +383,7 @@
     },
     {
       "path": "RU/StoryTheaterMirrorWorldStoryTitle.json",
-      "checksum": "e8c7c8c9c56568836c596751006bf5cb"
+      "checksum": "829f30ff1805df3a8f0eea7ad8fd8060"
     },
     {
       "path": "RU/AbnormalityGuides-a1c7p3.json",
@@ -1095,7 +1095,7 @@
     },
     {
       "path": "RU/Personalities.json",
-      "checksum": "13e798d44196dbd8049942f3a5e381c2"
+      "checksum": "5f533cda85f97498ee704642da3c6643"
     },
     {
       "path": "RU/MirrorDungeonEgoGiftLockedDesc.json",
@@ -1115,7 +1115,7 @@
     },
     {
       "path": "RU/Enemies-a1c6p1.json",
-      "checksum": "45ad8e4f80a8cc1aba97a1ad911dac7d"
+      "checksum": "ed8c658a5a338368b9d2fe1313842fdc"
     },
     {
       "path": "RU/AbEventsResultLog-a1c6p3.json",
@@ -1131,7 +1131,7 @@
     },
     {
       "path": "RU/Personality_Get_Condition.json",
-      "checksum": "39bbb27c1b0f7ad5c0b895627bf13ce1"
+      "checksum": "d250c84c5cd8b84c39592e0b2bdaaa56"
     },
     {
       "path": "RU/Passive-walpu2.json",
@@ -1619,7 +1619,7 @@
     },
     {
       "path": "RU/GachaTitle.json",
-      "checksum": "6f2202b98cabd356eec8f271149a0313"
+      "checksum": "483af97a9d4535ece4a78d45a00dde9c"
     },
     {
       "path": "RU/StageNode-a1c7p3.json",
@@ -2539,7 +2539,7 @@
     },
     {
       "path": "RU/StoryData/P10805.json",
-      "checksum": "107abc5213e16cabfb6c18431709b346"
+      "checksum": "9ba5c5d5d79a9f1b71eaea0e91b2ef49"
     },
     {
       "path": "RU/StoryData/S504B.json",
@@ -3535,11 +3535,11 @@
     },
     {
       "path": "RU/StoryData/S430B.json",
-      "checksum": "9904c6c98c4e6971b76c46ec767543db"
+      "checksum": "9f0023351d245ba67bea9b1a961b0035"
     },
     {
       "path": "RU/StoryData/P10605.json",
-      "checksum": "5563834a43f51063d60a703084825224"
+      "checksum": "71c38597eac14b18178502dbce761f3a"
     },
     {
       "path": "RU/StoryData/E041X.json",
@@ -4391,7 +4391,7 @@
     },
     {
       "path": "RU/StoryData/S441B.json",
-      "checksum": "ffdc1b100441be9f08ed5d3ac7671901"
+      "checksum": "11c08af4078152884cecffd3f703ada0"
     },
     {
       "path": "RU/StoryData/5D101B.json",

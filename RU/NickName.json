@@ -3016,7 +3016,7 @@
     },
     {
       "name": "검문소경비2",
-      "krname": "Сотрудник удаления 2-го уровня",
+      "krname": "Сотрудник иссечения 2-го уровня",
       "jpname": "",
       "enname": "",
       "fileName": "K_Employee",
@@ -3830,7 +3830,7 @@
     },
     {
       "name": "쪽빛노인",
-      "krname": "Индиго старик",
+      "krname": "Старик Индиго",
       "jpname": "",
       "enname": "",
       "fileName": "IndigoMan",
@@ -3852,7 +3852,7 @@
     },
     {
       "name": "쪽빛노인후드",
-      "krname": "Индиго старик",
+      "krname": "Старик Индиго",
       "jpname": "",
       "enname": "",
       "fileName": "IndigoMan_Hood",
@@ -3874,7 +3874,7 @@
     },
     {
       "name": "쪽빛노인무기",
-      "krname": "Индиго старик",
+      "krname": "Старик Индиго",
       "jpname": "",
       "enname": "",
       "fileName": "IndigoMan_Weapon",
