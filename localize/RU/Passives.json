@@ -739,25 +739,25 @@
       "id": 1070601,
       "name": "Инстинктивное чтение",
       "desc": "При атаке цели с типом урона, к которому у неё \"Фатальная\" слабость (Сопротивление > х1.5), наносит на 1 [Burst] больше эффектами навыков.",
-      "summary": "When attacking a target with a damage type the target is Fatal to, inflict +1 more Rupture"
+      "summary": "При атаке цели с типом урона, к которому у неё \"Фатальная\", наносит 1 [Burst]"
     },
     {
       "id": 1070611,
       "name": "Инстинктивное чтение",
       "desc": "При атаке цели с типом урона, к которому у неё \"Фатальная\" слабость (Сопротивление > х1.5), наносит на 1 [Burst] больше эффектами навыков.\n\n<style=\"highlight\">Если 4 или более выживших союзника, включая этого, являются Корректировщиками Ассоциации «Севен», наносит ещё 1 дополнительный [Burst].</style>",
-      "summary": "When attacking a target with a damage type the target is Fatal to, inflict +1 more Rupture\nWith 4 or more Seven Association Fixer allies, additional +1 more Rupture"
+      "summary": "При атаке цели с типом урона, к которому у неё \"Фатальная\", наносит 1 [Burst]\nНаносит ещё 1 [Burst], если на поле боя находятся 3 других союзника из Ассоциации Севен"
     },
     {
       "id": 1070621,
       "name": "Соединяя точки",
       "desc": "Союзник с наибольшими максимальными ОЗ наносит ещё 1 [Burst] эффектами навыков, когда атакует цель типом урона, к которому у неё \"Фатальная\" слабость (Сопротивление > х1.5).",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to"
+      "summary": "Союзник с наибольшими максимальными ОЗ наносит ещё 1 [Burst], когда атакует цель типом урона, к которому у неё \"Фатальная\" слабость"
     },
     {
       "id": 1070631,
       "name": "Соединяя точки",
       "desc": "Союзник с наибольшими максимальными ОЗ наносит ещё 1 [Burst] эффектами навыков, когда атакует цель типом урона, к которому у неё \"Фатальная\" слабость (Сопротивление > х1.5).\n<style=\"highlight\">Если союзник — корректировщик Ассоциации «Севен», дополнительно наносит ещё 1 [Burst].",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to\nIf the ally is a Seven Association Fixer, additional +1 more Rupture"
+      "summary": "Союзник с наибольшими максимальными ОЗ наносит ещё 1 [Burst], когда атакует цель типом урона, к которому у неё \"Фатальная\" слабость\nЕсли союзник из Ассоциации Севен — он наносит ещё 1 [Burst]"
     },
     {
       "id": 1020601,
@@ -933,13 +933,13 @@
       "id": 1070721,
       "name": "Безнадёга",
       "desc": "Союзник с наибольшими максимальными ОЗ наносит больше Пронзающего урона с потерей ОЗ:\n- Урон повышается на 0.15% за каждый 1% потерянных ОЗ. (До 15%)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "summary": "Союзник с наибольшими максимальными ОЗ наносит больше Пронзающего урна при низких ОЗ"
     },
     {
       "id": 1070731,
       "name": "Безнадёга",
       "desc": "Союзник с наибольшими максимальными ОЗ наносит больше Пронзающего урона с потерей ОЗ:\n- Урон повышается на <style=\"highlight\">0.3%</style> за каждый 1% потерянных ОЗ. (До <style=\"highlight\">30%</style>)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "summary": "Союзник с наибольшими максимальными ОЗ наносит больше Пронзающего урна при низких ОЗ"
     },
     {
       "id": 1010701,
@@ -1166,7 +1166,7 @@
       "id": 1090811,
       "name": "Боевой пыл",
       "desc": "На <style=\"highlight\">10%</style> больше урона за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели. (До <style=\"highlight\">30%</style>)\n\nНачало боевой фазы: если на всех противниках или частях 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, даёт 1 [CrimsonDamageUp] (Максимальный абсолют Гнева) союзникам по порядку выбора в команду.\n<style=\"highlight\">- Если союзник с эффектом — Корректировщик Ассоциации «Лю», дополнительно даёт 1 [Enhancement].</style>",
-      "summary": "Deal +10% more damage for every 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> Potency on target (Max 30%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
+      "summary": "На 10% больше урона за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 30%)\nПри абсолютном резонансе гнева восстанавливает СД"
     },
     {
       "id": 1090821,
@@ -1225,7 +1225,7 @@
       "id": 1050921,
       "name": "Беру на себя",
       "desc": "Во время удара союзник с наибольшей скоростью наносит 1 [AttackDown] против целей с 6-ью и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>. (Трижды на противника за ход)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+      "summary": "Наносит 1 [AttackDown] при ударе по целям с <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывом</link></u></color>"
     },
     {
       "id": 1050931,
@@ -1237,25 +1237,25 @@
       "id": 1110801,
       "name": "Голос миледи!..",
       "desc": "Сила в столкновении +1 и на 10% больше урона против целей с -25 СД и ниже.\n\nНа 15% больше урона целям с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color>.\n\nВосстанавливает 10 СД по окончании столкновения с противником без потери монет. При максимальной СД получает 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход. (Дважды за ход)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +10% more damage\nDeal +15% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "summary": "Сила в столкновении +1 и на 10% больше урона против целей 0 СД и ниже.\nНа 15% больше урона, если цель имеет [EchoOfMansion]\nВосстанавилвает СД при победе в столкновени"
     },
     {
       "id": 1110811,
       "name": "Голос миледи!..",
-      "desc": "Сила в столкновении +1 и на <style=\"highlight\">20%</style> больше урона против целей <style=\"highlight\">0</style> СД и ниже.\n\nНа <style=\"highlight\">30%</style> больше урона целям с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color>.\n\nВосстанавливает 10 СД по окончании столкновения с противником без потери монет. При максимальной СД получает <style=\"highlight\">3</style> <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход. (Дважды за ход)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +20% more damage\nDeal +30% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "desc": "Сила в столкновении +1 и на <style=\"highlight\">20%</style> больше урона против целей с <style=\"highlight\">0</style> СД и ниже.\n\nНа <style=\"highlight\">30%</style> больше урона целям с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color>.\n\nВосстанавливает 10 СД по окончании столкновения с противником без потери монет. При максимальной СД получает <style=\"highlight\">3</style> <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход. (Дважды за ход)",
+      "summary": "Сила в столкновении +1 и на 20% больше урона против целей 0 СД и ниже.\nНа 30% больше урона, если цель имеет [EchoOfMansion]\nВосстанавилвает СД при победе в столкновении"
     },
     {
       "id": 1110821,
       "name": "Обучение дворецких",
       "desc": "Сила в столкновении +1 союзнику с наибольшей СД против целей с -25 и менее СД.",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "summary": "Сила в столкновении +1 против целей с -25 и менее СД"
     },
     {
       "id": 1110831,
       "name": "Обучение дворецких",
       "desc": "Сила в столкновении +1 союзнику с наибольшей СД против целей с -25 и менее СД.",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "summary": "Сила в столкновении +1 против целей с -25 и менее СД"
     },
     {
       "id": 1050911,
@@ -1267,19 +1267,19 @@
       "id": 1020901,
       "name": "Реакция лакея",
       "desc": "При победе в столкновении наносит 1 [Sinking] на цель. (Трижды за ход)",
-      "summary": "Clash Win: inflict 1 [Sinking]"
+      "summary": "Наносит 1 [Sinking] при победе в столкновении"
     },
     {
       "id": 1020911,
       "name": "Реакция лакея",
       "desc": "При победе в столкновении наносит 1 [Sinking] на цель. (Трижды за ход)\n<style=\"highlight\">- Если на цели было [EchoOfMansion], наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>.</style>",
-      "summary": "Clash Win: inflict 1 [Sinking]"
+      "summary": "Наносит 1 [Sinking] при победе в столкновении"
     },
     {
       "id": 1020921,
       "name": "Обучение для того самого дня",
       "desc": "Союзник с наименьшей СД восстанавливает 2 СД при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>. (4 раза за ход)",
-      "summary": "Conditional SP healing"
+      "summary": "Дополнительно восстанавливает СД"
     },
     {
       "id": 1020931,
@@ -1585,49 +1585,49 @@
       "id": 1071001,
       "name": "Зов Лесного царя",
       "desc": "На 1% больше урона за каждое [Sinking] на цели. (До 15%)",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "summary": "Наносит больше урона в зависимости от <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели"
     },
     {
       "id": 1071011,
       "name": "Зов Лесного царя",
       "desc": "На 1% больше урона за каждое [Sinking] на цели. (До 15%)\n\n<style=\"highlight\">При смерти союзника во время битвы тратит 2 <sprite name=\"Coffin\"><color=#f8c200><u><link=\"Coffin\">Гроба</link></u></color>, чтобы воскресить его как часть <sprite name=\"WildHunt\"><color=#f8c200><u><link=\"WildHunt\">Дикой охоты</link></u></color>. (Единожды за ход)\n- <sprite name=\"WildHunt\"><color=#f8c200><u><link=\"WildHunt\">Участник Дикой охоты</link></u></color> получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход;\n- Если воскрешённый союзник из рода Эдгар или Грозового перевала, он дополнительно получает 1 [Enhancement] на следующий ход.</style>",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "summary": "Наносит больше урона в зависимости от <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели"
     },
     {
       "id": 1071021,
       "name": "Плач и горестные стенания",
       "desc": "Союзник с наибольшей СД наносит на 5% больше урона целям с менее чем 0 СД.\n\nЧем ниже СД цели, тем больше урон (+0.5% за единицу потерянного СД, до 20%).\n- Если у цели нет СД, этот союзник вместо этого наносит на 1 силу и счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> больше эффектами его навыков или монет атакующих навыков. (Дважды за ход)",
-      "summary": "Deal more damage to targets with less than 0 SP"
+      "summary": "Больше урона противникам с менее чем 0 СД"
     },
     {
       "id": 1071012,
       "name": "Зов Лесного царя",
       "desc": "На 1% больше урона за каждое [Sinking] на цели. (До 15%)\n\nПри смерти союзника во время битвы тратит 2 <sprite name=\"Coffin\"><color=#f8c200><u><link=\"Coffin\">Гроба</link></u></color>, чтобы воскресить его как часть <sprite name=\"WildHunt\"><color=#f8c200><u><link=\"WildHunt\">Дикой охоты</link></u></color>. (<style=\"highlight\">Дважды</style> за ход)\n- <sprite name=\"WildHunt\"><color=#f8c200><u><link=\"WildHunt\">Участник Дикой охоты</link></u></color> получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход;\n- Если воскрешённый союзник из рода Эдгар или Грозового перевала, он дополнительно получает 1 [Enhancement] на следующий ход.",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "summary": "Наносит больше урона в зависимости от <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели"
     },
     {
       "id": 1041001,
       "name": "Паучья башка / Черепушка",
       "desc": "При нанесении ударов противнику монетами навыков, дающих [RedEyeFirst]:\n- На ([RedEyeFirst] / 2)% больше урона;\n- Получает 1 [RedEyeFirst], если цель имеет [Laceration]. (Трижды за ход)\n\nПри нанесении ударов противнику монетами навыков, дающих [PenanceFirst]:\n- На ([PenanceFirst] / 2)% больше урона;\n- Получает 1 [PenanceFirst] при 20 и более СД. (Трижды за ход)",
-      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence"
+      "summary": "Монеты, дающие [RedEyeFirst], наносят больше урона; если цель имеет [Laceration], получает 1 [RedEyeFirst]\nМонеты, дающие [PenanceFirst], наносят больше урона; получает 1 [PenanceFirst] при 20 и более СД"
     },
     {
       "id": 1041011,
       "name": "Паучья башка / Черепушка",
       "desc": "При нанесении ударов противнику монетами навыков, дающих [RedEyeFirst]:\n- На ([RedEyeFirst] / 2)% больше урона;\n<style=\"highlight\">- Если Рёшу быстрее цели на 3 и более единицы Скорости, на ([RedEyeFirst] / 2)% больше урона;</style>\n- Получает 1 [RedEyeFirst], если цель имеет [Laceration]. (Трижды за ход)\n\nПри нанесении ударов противнику монетами навыков, дающих [PenanceFirst]:\n- На ([PenanceFirst] / 2)% больше урона;\n<style=\"highlight\">- Если СД цели ниже, чем у Рёшу, на ([PenanceFirst] / 2)% больше урона; (Противники без СД считаются за 0)</style>\n- Получает 1 [PenanceFirst] при 20 и более СД. (Трижды за ход)\n\n<style=\"highlight\">Рёшу получает 1 [PenanceFirst], будучи атакованной. (До 3)</style>",
-      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence\nWhen hit by an enemy, gain 1 Penitence (max 3)"
+      "summary": "Монеты, дающие [RedEyeFirst], наносят больше урона; если цель имеет [Laceration], получает 1 [RedEyeFirst]\nМонеты, дающие [PenanceFirst], наносят больше урона; получает 1 [PenanceFirst] при 20 и более СД\nПри получении удара от противника, так же получает 1 [PenanceFirst] (До 3)"
     },
     {
       "id": 1041002,
       "name": "Ассимиляция ЭГО",
       "desc": "При повышении счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает [RedEyeFirst] или [PenanceFirst] вместо него.\n- [RedEyeFirst] и [PenanceFirst] не могут быть изменены силой <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>;",
-      "summary": "When gaining Charge Count, gain Red Eyes or Penitence instead"
+      "summary": "При повышении счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает [RedEyeFirst] или [PenanceFirst] вместо него."
     },
     {
       "id": 1041021,
       "name": "Поели и на боковую",
       "desc": "В начале боевой фазы:\n- Союзник с наименьшим процентом ОЗ восстанавливает 3 ОЗ\n- Союзник с наименьшей СД восстанавливает 3 СД",
-      "summary": "Heal HP for 1 ally with the lowest HP percentage, heal SP for 1 ally with the least SP"
+      "summary": "Восстанавливает ОЗ союзнику с наименьшим процентом ОЗ и восстанавливает СД союзнику с наименьшей СД"
     },
     {
       "id": 1011001,
@@ -1651,7 +1651,7 @@
       "id": 1011021,
       "name": "Рука спасения",
       "desc": "При попадании союзника по противнику, тратит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели, преобразовывая их в 1 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочку</link></u></color>. (Трижды за ход)",
-      "summary": "Convert target's Sinking into Butterfly"
+      "summary": "Преобразовывает [Sinking] цели в <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color>"
     },
     {
       "id": 1091001,
@@ -1706,19 +1706,19 @@
       "id": 1051101,
       "name": "Дуэльный стрим",
       "desc": "В конце хода: получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за каждые 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2)\n\nПри попадании базовыми атакующими навыками накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на следующий ход. (Единожды за навык)",
-      "summary": "Turn End: gain [Agility] based on <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
+      "summary": "Конец хода: получает <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> основываясь на своём счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на следующий ход при ударе"
     },
     {
       "id": 1051111,
       "name": "Дуэльный стрим",
       "desc": "В конце хода: получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за каждые 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2)\n\nПри попадании базовыми атакующими навыками накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на следующий ход. (Единожды за навык)\n\n<style=\"highlight\">Если Мерсо атаковал слот навыков с <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенной атакой - Мерсо</link></u></color> и убил его владельца (Или сломал Часть), восстанавливает 7 СД.</style>",
-      "summary": "Turn End: gain [Agility] based on <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+      "summary": "Конец хода: получает <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> основываясь на своём счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Накладывает <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на следующий ход при ударе и восстанавливает СД при убийсте"
     },
     {
       "id": 1051121,
       "name": "На шаг впереди",
       "desc": "Самый быстрый союзник при победе в столкновении получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (Дважды за ход)",
-      "summary": "The fastest ally, on Clash Win, gains 1 [Agility] next turn"
+      "summary": "Самый быстрый союзник при победе в столкновении получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
     },
     {
       "id": 1061001,
@@ -1742,13 +1742,13 @@
       "id": 1111101,
       "name": "НЕПРАВИЛЬНЫЙ КОСТЮМ!!!",
       "desc": "При ударе наносит на 1% больше урона за каждые 10 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color>. (До 20%)",
-      "summary": "Deal more damage based on cumulative Bloodfeast consumed"
+      "summary": "Наносит больше урона в зависимости от <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color>"
     },
     {
       "id": 1111111,
       "name": "НЕПРАВИЛЬНЫЙ КОСТЮМ!!!",
       "desc": "При ударе наносит на <style=\"highlight\">1.5%</style> больше урона за каждые 10 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого кровавого пиршества</link></u></color> (До <style=\"highlight\">30%</style>), а так же <style=\"highlight\">на 0.5% больше урона за каждое [Laceration] на цели (До 10%)</style>.\n\n<style=\"highlight\">В столкновении с <sprite name=\"LineCuttingPersonality\"><color=#e30000><u><link=\"LineCuttingPersonality\">Целью шитья</link></u></color>: +1 к Силе в столкновении.</style>",
-      "summary": "In a Clash against Sewing Target, Clash Power +1"
+      "summary": "Сила столкновения +1 с <sprite name=\"LineCuttingPersonality\"><color=#e30000><u><link=\"LineCuttingPersonality\">Целью шитья</link></u></color>"
     },
     {
       "id": 1111102,
@@ -1760,7 +1760,7 @@
       "id": 1111121,
       "name": "Искусство твёрдой крови Дон Кихота 8: Ножницы",
       "desc": "Союзнику с наибольшей скоростью: если противник убит после атаки, восстанавливает 10 ОЗ (Дважды за ход), а так же +1 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> при нанесении его силы эффектами навыков или монет в следующем ходу. (Трижды за ход)",
-      "summary": "If the enemy is dead After Attack, heal HP"
+      "summary": "Если противник убит после атаки, восстанавливает ОЗ"
     },
     {
       "id": 1121001,
