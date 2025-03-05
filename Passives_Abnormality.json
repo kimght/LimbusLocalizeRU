@@ -1,0 +1,631 @@
+﻿{
+    "dataList": [
+        {
+            "id": 800101,
+            "name": "Яблочный сумрак",
+            "desc": "Когда уничтожен Фрукт, все части получают 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>.\nФрукт восстанавливается спустя 1 ход.",
+            "summary": "When the Fruit is destroyed, apply 2 Fragile to all parts"
+        },
+        {
+            "id": 800102,
+            "name": "НЕ ДЛЯ ПОКАЗА1",
+            "desc": "После регенерации головы до 50% ОЗ появляется подсказка выбора."
+        },
+        {
+            "id": 800103,
+            "name": "НЕ ДЛЯ ПОКАЗА2",
+            "desc": "В начале 3-го хода появляется подсказка выбора, с помощью которой вы можете убрать эффект Зелёного стебля."
+        },
+        {
+            "id": 800104,
+            "name": "Опутывающие корни",
+            "desc": "В начале хода наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> всем противникам.\nДлится до тех пор, пока Корни не будут разрушены.",
+            "summary": "Inflict 1 Bind on all enemies until Roots are broken"
+        },
+        {
+            "id": 800105,
+            "name": "Один единственный корень",
+            "desc": "Корни получают 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> за каждую целую Руку."
+        },
+        {
+            "id": 800201,
+            "name": "Фестиваль крови начинается",
+            "desc": "Битва переходит в следующую фазу после уничтожения всех Терракотовых кукол."
+        },
+        {
+            "id": 800202,
+            "name": "НЕ ДЛЯ ПУБЛИКАЦИИ",
+            "desc": "В начале хода 2 фазы 2 появляется подсказка выбора 1."
+        },
+        {
+            "id": 800203,
+            "name": "Пусть разгорится огненный фестиваль",
+            "desc": "Если уничтожены обе Руки или ОЗ главного тела достигает 70%, битва переходит в следующую фазу."
+        },
+        {
+            "id": 800204,
+            "name": "Ярый пыл",
+            "desc": "В течение фазы 3\nВ начале хода наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем противникам."
+        },
+        {
+            "id": 800205,
+            "name": "НЕ ДЛЯ ПОКАЗА",
+            "desc": "Когда ОЗ достигает 60%, появляется подсказка выбора 2."
+        },
+        {
+            "id": 800206,
+            "name": "Пусть падёт звёздный фестиваль",
+            "desc": "Когда ОЗ достигает 25%, битва переходит в следующую фазу."
+        },
+        {
+            "id": 800207,
+            "name": "НЕ ДЛЯ ПОКАЗА",
+            "desc": "В начале хода 2 фазы 4 появляется подсказка выбора 3."
+        },
+        {
+            "id": 800301,
+            "name": "Идолопоклонство",
+            "desc": "Не умирает при 0 ОЗ; вместо этого остаётся на поле боя как недействующий и не нацеливаемый персонаж.\nЯвляется побеждённым при победе над Календарём судного дня."
+        },
+        {
+            "id": 800801,
+            "name": "Треснувшее золото",
+            "desc": "Восстанавливает ОЗ каждый ход на кол-во <sprite name=\"BeingGolden\"><color=#f8c200><u><link=\"BeingGolden\">Золотой блеск</link></u></color>."
+        },
+        {
+            "id": 800901,
+            "name": "",
+            "desc": ""
+        },
+        {
+            "id": 800902,
+            "name": "Хрупкое ядро",
+            "desc": "Когда голова уничтожена, все части получают О​б​е​з​д​в​и​ж​и​в​а​н​и​е на следующий ход.\nГолова восстанавливается через 1 ход."
+        },
+        {
+            "id": 800903,
+            "name": "Гнилое яблоко",
+            "desc": "Когда уничтожено тело, все части получают 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+        },
+        {
+            "id": 800904,
+            "name": "НЕ ДЛЯ ПОКАЗА",
+            "desc": "НЕ ДЛЯ ПОКАЗА"
+        },
+        {
+            "id": 801001,
+            "name": "Работа улучшенного завода",
+            "desc": "При смерти этот персонаж восстанавливается на следующем ходу и получает 1 <sprite name=\"Operation\"><color=#9f6a3a><u><link=\"Operation\">Операция</link></u></color>."
+        },
+        {
+            "id": 801002,
+            "name": "Ты должен стать сильным",
+            "desc": "В начале хода получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>."
+        },
+        {
+            "id": 801201,
+            "name": "Ты должен стать сильным",
+            "desc": "В начале хода получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>."
+        },
+        {
+            "id": 801301,
+            "name": "Колеблющиеся желания",
+            "desc": "При наличии <sprite name=\"Greedy\"><color=#9f6a3a><u><link=\"Greedy\">Желание</link></u></color>, персонаж получает 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> и 10 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, а также 1 ячейку навыка, затем меняет поведение."
+        },
+        {
+            "id": 801302,
+            "name": "Манящие желания",
+            "desc": "У персонажа появляется <sprite name=\"Greedy\"><color=#9f6a3a><u><link=\"Greedy\">Желание</link></u></color> каждый раз, как он теряет 30% от его ОЗ."
+        },
+        {
+            "id": 801904,
+            "name": "Трепещущий страх",
+            "desc": "Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> за каждого умершего в этой волне союзника. (макс. 5.)"
+        },
+        {
+            "id": 802401,
+            "name": "Пульсирующие руки",
+            "desc": "В начале хода получает <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>, равные счётчику <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>."
+        },
+        {
+            "id": 802402,
+            "name": "Повреждённые руки",
+            "desc": "Теряет 1 <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> каждый раз, как получает урон от атак."
+        },
+        {
+            "id": 802403,
+            "name": "Восстанавливающаяся оболочка",
+            "desc": "В конце хода, если персонаж не получал урона от атак в течение хода, он восстанавливает 5% ОЗ и получает 1 <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>."
+        },
+        {
+            "id": 802404,
+            "name": "Безумные глаза",
+            "desc": "Поведение зависит от счётчика <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>.\nИспользует агрессивные навыки при 4+ <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> и становится в защиту при 3-х и меньше."
+        },
+        {
+            "id": 802501,
+            "name": "Усиленная агрессия",
+            "desc": "При получении урона от атаки получает 1 <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>.\nЕсли у персонажа 4+ <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> в конце хода, входит в состояние <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color>."
+        },
+        {
+            "id": 802502,
+            "name": "Неистовство",
+            "desc": "В состоянии <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color> персонаж получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, меняет поведение и перестаёт получать <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> от атак противника."
+        },
+        {
+            "id": 802503,
+            "name": "Мерцающая ярость",
+            "desc": "При уровне ОЗ ниже 50% каждый ход впадает в <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color>."
+        },
+        {
+            "id": 802701,
+            "name": "Усиленная агрессия",
+            "desc": "При получении урона от атаки получает 1 <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>.\nЕсли у персонажа 4+ <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> в конце хода, входит в состояние <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color>."
+        },
+        {
+            "id": 802702,
+            "name": "Неистовство",
+            "desc": "В состоянии <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color> персонаж получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, меняет поведение и перестаёт получать <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> от атак противника."
+        },
+        {
+            "id": 802801,
+            "name": "Гниющая кожа",
+            "desc": "В начале хода, если здоровье ниже 50%, при получении атаки накладывает 3 <sprite name=\"Poison\"><color=#e30000><u><link=\"Poison\">Яд</link></u></color>."
+        },
+        {
+            "id": 802802,
+            "name": "Снятие шкуры",
+            "desc": "После поломки этой части, если другая рука не будет повреждена в конце следующего хода, эта часть восстановится с теми же ОЗ, что и у другой руки."
+        },
+        {
+            "id": 802803,
+            "name": "Болезненные корчи",
+            "desc": "Когда повреждены обе руки, персонаж получает 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> и накладывает 10 <sprite name=\"Poison\"><color=#e30000><u><link=\"Poison\">Яд</link></u></color> на всех врагов каждый ход."
+        },
+        {
+            "id": 802804,
+            "name": "Извивающиеся инстинкты",
+            "desc": "Поведение зависит от счётчика <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color>.\nИспользует агрессивные навыки при 4+ <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> и становится в защиту при 0."
+        },
+        {
+            "id": 803302,
+            "name": "Оторванная рука",
+            "desc": "Когда повреждена рука, получает 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> каждый ход."
+        },
+        {
+            "id": 802901,
+            "name": "Жуткий свист",
+            "desc": "Если вы собрали менее 3-х частей <sprite name=\"LittleCourage\"><color=#9f6a3a><u><link=\"LittleCourage\">Печать</link></u></color>, Синклер получает 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> каждый ход."
+        },
+        {
+            "id": 802902,
+            "name": "Мужество победить страх",
+            "desc": "Если вы собрали 3 и более части <sprite name=\"LittleCourage\"><color=#9f6a3a><u><link=\"LittleCourage\">Печать</link></u></color>, Синклер получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> каждый ход."
+        },
+        {
+            "id": 802903,
+            "name": "Ты должен принять боль!",
+            "desc": "В начале хода, если неразрушенная часть имеет <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> или <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, восстанавливает 15% от максимальных ОЗ и получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>.\nКоличество восстанавливаемых ОЗ и получаемых эффектов уменьшается в зависимости от количества <sprite name=\"LittleCourage\"><color=#9f6a3a><u><link=\"LittleCourage\">Печатей</link></u></color>, вплоть до 0."
+        },
+        {
+            "id": 802904,
+            "name": "Наслаждение казнью",
+            "desc": "После убийства противника получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 5 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход."
+        },
+        {
+            "id": 803001,
+            "name": "Переполняющий экстаз",
+            "desc": "Начиная с хода 3 получает <sprite name=\"Cromer_Ecstasy\"><color=#e30000><u><link=\"Cromer_Ecstasy\">Экстаз</link></u></color> каждые 2 хода."
+        },
+        {
+            "id": 803002,
+            "name": "Процветающее очищение",
+            "desc": "Если главное тело Кромер достигает 50% ОЗ, она получает <sprite name=\"Cromer_Madness\"><color=#e30000><u><link=\"Cromer_Madness\">Очищение</link></u></color> на оставшиеся ходы."
+        },
+        {
+            "id": 803003,
+            "name": "Совершенная плоть",
+            "desc": "Когда повреждена рука, часть получает 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color>."
+        },
+        {
+            "id": 803101,
+            "name": "Кровяной мешок",
+            "desc": "Повышается сопротивления к Гневу.\nПонижается сопротивления к Унынию."
+        },
+        {
+            "id": 803102,
+            "name": "Жидкостный мешок",
+            "desc": "Пока активен этот эффект, Ядро восстанавливает (20 * счётчик <sprite name=\"WaterPocket\"><color=#f8c200><u><link=\"WaterPocket\">Жидкостный мешок</link></u></color>) ОЗ."
+        },
+        {
+            "id": 803103,
+            "name": "Кипящая кровь",
+            "desc": "Если повреждено тело при наличии <sprite name=\"BloodPocket\"><color=#9f6a3a><u><link=\"BloodPocket\">Кровяной мешок</link></u></color>, все противники получают 20 фикс. урона."
+        },
+        {
+            "id": 803201,
+            "name": "Молниеотвод",
+            "desc": "Когда Телестолб получает удар, наносит 2 <sprite name=\"ElectricShock\"><color=#e30000><u><link=\"ElectricShock\">Ток</link></u></color> атаковавшему на этот ход.\nПри 5+ <sprite name=\"DogThunder\"><color=#9f6a3a><u><link=\"DogThunder\">Молния</link></u></color> все Части будут наносить 3 <sprite name=\"ElectricShock\"><color=#e30000><u><link=\"ElectricShock\">Ток</link></u></color> атаковавшему, начиная со следующего хода.\n(Длится до тех пор, пока кол-во <sprite name=\"DogThunder\"><color=#9f6a3a><u><link=\"DogThunder\">Молния</link></u></color> не достигнет 0.)\nПри получении удара от атаки Лености кол-во наносимого <sprite name=\"ElectricShock\"><color=#e30000><u><link=\"ElectricShock\">Ток</link></u></color> уменьшается вдвое. (десятичные опускаются.)"
+        },
+        {
+            "id": 803202,
+            "name": "Молния",
+            "desc": "Пока Телестолб не повреждён, получает 1 <sprite name=\"DogThunder\"><color=#9f6a3a><u><link=\"DogThunder\">Молния</link></u></color> после атаки.\nКаждый раз, как Телестолб получает удар, теряет 1 <sprite name=\"DogThunder\"><color=#9f6a3a><u><link=\"DogThunder\">Молния</link></u></color>."
+        },
+        {
+            "id": 803203,
+            "name": "Сломанные фрагменты",
+            "desc": "Когда Телестолб оглушён или повреждён, теряет все <sprite name=\"DogThunder\"><color=#9f6a3a><u><link=\"DogThunder\">Молния</link></u></color>.\nВсе атаки Уличного сторожевого пса будут отменены на ход."
+        },
+        {
+            "id": 803401,
+            "name": "Куриные Боньи ножки",
+            "desc": "В конце хода наносит 3 урона по СД случайному противнику."
+        },
+        {
+            "id": 803701,
+            "name": "Усиление курочки Бони",
+            "desc": "В конце хода даёт 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> всем союзникам на следующий ход."
+        },
+        {
+            "id": 803901,
+            "name": "Счастливый цыплёнок",
+            "desc": "В конце хода восстанавливает 5 ОЗ за каждого Сырого цыплёнка на поле боя."
+        },
+        {
+            "id": 803902,
+            "name": "Грустная курочка",
+            "desc": "В конце хода наносит 5 урона по СД всем противникам за каждого Сырого цыплёнка на поле боя."
+        },
+        {
+            "id": 803903,
+            "name": "Ранимая наседка",
+            "desc": "Когда часть ломается, каждый ход получает 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> за каждого Сырого цыплёнка, который умер перед поломкой части."
+        },
+        {
+            "id": 803904,
+            "name": "Мощная курятина",
+            "desc": "Если часть не повреждена, получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> за каждого живого Сырого цыплёнка."
+        },
+        {
+            "id": 804101,
+            "name": "Растущая печаль",
+            "desc": "В конце хода, если у персонажа 3+ <sprite name=\"Bull_Sadness\"><color=#9f6a3a><u><link=\"Bull_Sadness\">Нерешённая печаль</link></u></color>, генерирует голову на следующий ход и меняет поведение."
+        },
+        {
+            "id": 804102,
+            "name": "Безутешная печаль",
+            "desc": "В конце хода, если у персонажа 3+ <sprite name=\"Bull_Sadness\"><color=#9f6a3a><u><link=\"Bull_Sadness\">Нерешённая печаль</link></u></color> и голова повреждена, становится оглушён на следующий ход."
+        },
+        {
+            "id": 804103,
+            "name": "Взять за рога",
+            "desc": "Когда голова оглушена, все части становятся оглушёнными на следующий ход."
+        },
+        {
+            "id": 804104,
+            "name": "Полностью взять за рога",
+            "desc": "Когда голова повреждена, все части становятся оглушёнными на следующий ход. После этого все части получают 3 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на оставшуюся битву."
+        },
+        {
+            "id": 804501,
+            "name": "Живой нерв",
+            "desc": "При смерти все навыки на этот ход отменяются.\nПолучает <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color>, равный текущему кол-ву."
+        },
+        {
+            "id": 804502,
+            "name": "Подвижный нерв",
+            "desc": "После смерти навыки атаки тратят 1 <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color>.\nАтакует противников, пока не закончится <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color>."
+        },
+        {
+            "id": 804503,
+            "name": "Повышенная живучесть",
+            "desc": "Каждые 5 ходов получает щит, равный ОЗ головы."
+        },
+        {
+            "id": 804504,
+            "name": "Закончившаяся живучесть",
+            "desc": "После использования 'Свернуться', если закончился щит, тратит <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color>.\nВсе части становятся оглушёнными на следующий ход."
+        },
+        {
+            "id": 804601,
+            "name": "Сломанный зонт",
+            "desc": "Когда повреждена спина, получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> каждый ход. Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>."
+        },
+        {
+            "id": 804602,
+            "name": "Порванный зонт",
+            "desc": "Когда главный зонт повреждён, получает 5 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> каждый ход. Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
+        },
+        {
+            "id": 804603,
+            "name": "Последняя борьба",
+            "desc": "При 15% ОЗ скорость персонажа фиксирована на 1, также он получает 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color>.\nОЗ новых призванных Старых зонтов на 30% больше. Использует 'Плач в поисках чего-то' каждый ход."
+        },
+        {
+            "id": 804701,
+            "name": "Тлеющий уголёк",
+            "desc": "В конце хода, если у этого персонажа есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит то же самое кол-во <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем персонажам с <sprite name=\"WrappedCurseTagRe\"><color=#9f6a3a><u><link=\"WrappedCurseTagRe\">Приклеенный оберег проклятия</link></u></color> на следующий ход"
+        },
+        {
+            "id": 804702,
+            "name": "Разбитая возможность",
+            "desc": "Когда повреждена рука, наносит -20% урона"
+        },
+        {
+            "id": 804801,
+            "name": "От выпивки икается!",
+            "desc": "После использования 'Я это возьму!' на противниках с 5+ <sprite name=\"TipsinessRail\"><color=#9f6a3a><u><link=\"TipsinessRail\">Опьянений</link></u></color> и успешного попадания атаки впадает в оглушение."
+        },
+        {
+            "id": 804802,
+            "name": "Бодрящий запах, не так ли?",
+            "desc": "Таинственный запах изнутри, поднимает настроение.\nСлучайный Грешник получает 5 <sprite name=\"Exalted\"><color=#9f6a3a><u><link=\"Exalted\">Повышение морали</link></u></color> в начале волны."
+        },
+        {
+            "id": 805201,
+            "name": "Заброшенный старый зонт",
+            "desc": "Когда этот персонаж убит, убивший его Грешник получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход.\nВсе части Бродячего лиса получают 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и 1 <sprite name=\"ShardOfUmbrella\"><color=#9f6a3a><u><link=\"ShardOfUmbrella\">Остатки зонта</link></u></color>."
+        },
+        {
+            "id": 804301,
+            "name": "Рискующий рассудок",
+            "desc": "В конце каждого хода теряет 10 СД."
+        },
+        {
+            "id": 804302,
+            "name": "Рискующий разум",
+            "desc": "Будучи в слабом духе, получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color>."
+        },
+        {
+            "id": 804303,
+            "name": "Пошатнувшийся разум",
+            "desc": "В панике становится оглушён."
+        },
+        {
+            "id": 804304,
+            "name": "Решимость",
+            "desc": "При выходе из паники полностью восстанавливает СД и получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>."
+        },
+        {
+            "id": 804305,
+            "name": "ЭГО «Лоботомии»",
+            "desc": "Начинает битву с щитом, равным 1200 ОЗ"
+        },
+        {
+            "id": 805301,
+            "name": "Ограждённое сердце",
+            "desc": "Каждый раз, когда этот персонаж повреждён, Донбэк повышает свой счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 5, а все Грешники теряют 2 единицы на своём счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>; все Грешники получают 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> и 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> на следующий ход."
+        },
+        {
+            "id": 804401,
+            "name": "В полном расцвете",
+            "desc": "В начале хода 5 призывает 4 Цветущих цветка с 3 <sprite name=\"DongbaekGrow\"><color=#f8c200><u><link=\"DongbaekGrow\">Рост</link></u></color>"
+        },
+        {
+            "id": 804402,
+            "name": "Цветущий разум",
+            "desc": "Когда ОЗ достигает 50%, входит в следующую фазу. ОЗ не падают ниже 50% до смены фазы."
+        },
+        {
+            "id": 804403,
+            "name": "Дуэль",
+            "desc": "Когда ОЗ падают ниже 50%, использует специальный навык и нацеливается на 1 персонажа, затем получает иммунитет против оглушения и паники на следующие 2 хода.\nЕсли '<sprite name=\"DongbaekShowdown\"><color=#9f6a3a><u><link=\"DongbaekShowdown\">Дуэль</link></u></color>' у И Сана, Донбэк получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>.\nЕсли И Сан побеждает в дуэли, все союзники получают 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход.\nЕсли Донбэк побеждает в дуэли, она полностью восстанавливает СД."
+        },
+        {
+            "id": 804404,
+            "name": "Цена цветения",
+            "desc": "Если 'Приятный весенний воздух' проигрывает в столкновении, теряет 10 СД"
+        },
+        {
+            "id": 805401,
+            "name": "Растущий цветок",
+            "desc": "Появляется с 1 <sprite name=\"DongbaekGrow\"><color=#f8c200><u><link=\"DongbaekGrow\">Рост</link></u></color>"
+        },
+        {
+            "id": 804901,
+            "name": "나오면 안되는 텍스트 (번역 x)",
+            "desc": "나오면 안되는 텍스트 (번역 x)"
+        },
+        {
+            "id": 804902,
+            "name": "나오면 안되는 텍스트 (번역 x)",
+            "desc": "나오면 안되는 텍스트 (번역 x)"
+        },
+        {
+            "id": 804903,
+            "name": "Саморазрушение",
+            "desc": "Все навыки нацеливаются бесконтрольно. При каждом использованном навыке персонаж теряет 2% от макс. ОЗ."
+        },
+        {
+            "id": 804904,
+            "name": "Самосохранение",
+            "desc": "Эффекты, восстанавливающие ОЗ, восстанавливают в два раза больше."
+        },
+        {
+            "id": 805601,
+            "name": "Лучезарное тщеславие",
+            "desc": "Пока этот персонаж на поле боя, Донран получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> в начале каждого хода."
+        },
+        {
+            "id": 805602,
+            "name": "Великое достижение",
+            "desc": "Пока у этого персонажа есть <sprite name=\"DistortedDongrangEarnestAchievement\"><color=#9f6a3a><u><link=\"DistortedDongrangEarnestAchievement\">Великое достижение</link></u></color>, этот эффект даёт:\n- Может быть уничтожен только атаками Донрана.\n- Если Грешник опускает ОЗ этого персонажа до 1, Грешник восстанавливает ОЗ, а этот персонаж получает <sprite name=\"DistortedDongrangEmptyHonor\"><color=#9f6a3a><u><link=\"DistortedDongrangEmptyHonor\">Пустая честь</link></u></color>.\n- Если Донран убивает этого персонажа, Донран восстанавливает ОЗ и становится сильнее на следующий ход."
+        },
+        {
+            "id": 805603,
+            "name": "Пустая честь",
+            "desc": "Пока у этого персонажа есть <sprite name=\"DistortedDongrangEmptyHonor\"><color=#9f6a3a><u><link=\"DistortedDongrangEmptyHonor\">Пустая честь</link></u></color>, этот эффект даёт:\n- Может быть уничтожен только атаками Донрана.\n- Если Донран убивает этого персонажа, Донран теряет ОЗ, получает 1 <sprite name=\"DistortedDongrangEmptiness\"><color=#9f6a3a><u><link=\"DistortedDongrangEmptiness\">Пустота</link></u></color> и становится слабее на следующий ход"
+        },
+        {
+            "id": 805701,
+            "name": "Плодородие",
+            "desc": "Убивший этого персонажа восстанавливает 5% от макс. ОЗ и получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход"
+        },
+        {
+            "id": 805001,
+            "name": "Навстречу к идеалу",
+            "desc": "Когда ОЗ достигают 85% и 50% от макс. ОЗ соответственно, призывает 2 Древа желаний и меняет поведение."
+        },
+        {
+            "id": 806001,
+            "name": "Светлое желание",
+            "desc": "Пока этот персонаж на поле боя, Донран получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> в начале каждого хода."
+        },
+        {
+            "id": 805004,
+            "name": "Цена забвения",
+            "desc": "Если 'Пора собирать урожай' проигрывает в столкновении, теряет 5 СД"
+        },
+        {
+            "id": 805005,
+            "name": "Горькая улыбка",
+            "desc": "В панике получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> и сбрасывает СД до 0 в начале следующего хода."
+        },
+        {
+            "id": 805006,
+            "name": "Невыгодное решение",
+            "desc": "При выходе из оглушения получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>."
+        },
+        {
+            "id": 805007,
+            "name": "Изматывающее стремление",
+            "desc": "После использования навыка Будь моим удобрением 3 раза, становится оглушён на следующий ход."
+        },
+        {
+            "id": 805002,
+            "name": "Навстречу к идеалу",
+            "desc": "Когда ОЗ достигают 85% от макс. ОЗ, призывает 2 Древа желаний и меняет поведение."
+        },
+        {
+            "id": 805003,
+            "name": "Навстречу к идеалу",
+            "desc": "Когда ОЗ достигают 50% от макс. ОЗ, призывает 2 Древа желаний и меняет поведение."
+        },
+        {
+            "id": 805801,
+            "name": "Приманка феи",
+            "desc": "Когда Фея атакована, только эта часть теряет ОЗ."
+        },
+        {
+            "id": 805802,
+            "name": "Открытое основание",
+            "desc": "Когда часть Феи сломана, корни могут быть атакованы в следующий ход.\nВсе части получают 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> в следующий ход."
+        },
+        {
+            "id": 805803,
+            "name": "Запасная приманка",
+            "desc": "Фея восстанавливается в следующий ход после того, как корни становятся открытыми. (Только один раз)\nПосле того как корни становятся открытыми 3 раза или уничтожены, персонаж впадает в ярость."
+        },
+        {
+            "id": 805804,
+            "name": "Обнаруженная слабость",
+            "desc": "Если у феи есть <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, она получает урон, равный его силе, в конце хода. (Максимум 20)"
+        },
+        {
+            "id": 805805,
+            "name": "Связанная слабость",
+            "desc": "Если на части тела есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, она получает больше урона в зависимости от его силы. (До +15%)"
+        },
+        {
+            "id": 805901,
+            "name": "Перерыв",
+            "desc": "Если на поле боя присутствует Гигантский клевер, этот персонаж восстанавливает 30 ОЗ в конце хода."
+        },
+        {
+            "id": 805902,
+            "name": "Потерянное средство",
+            "desc": "Когда повреждена рука, персонаж получает 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+        },
+        {
+            "id": 805903,
+            "name": "Неполная тень",
+            "desc": "Когда повреждён Лист, персонаж получает 4 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> и 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> каждый ход."
+        },
+        {
+            "id": 806201,
+            "name": "Загрязняющий лист",
+            "desc": "В начале хода даёт 1 <sprite name=\"TakeHpHealIncrease\"><color=#f8c200><u><link=\"TakeHpHealIncrease\">Повышение восстановления ОЗ</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> Фее-длинноножке."
+        },
+        {
+            "id": 80620101,
+            "name": "Загрязняющий лист",
+            "desc": "В начале хода даёт 1 <sprite name=\"TakeHpHealIncrease\"><color=#f8c200><u><link=\"TakeHpHealIncrease\">Повышение восстановления ОЗ</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> Фее-длинноножке."
+        },
+        {
+            "id": 826301,
+            "name": "Временное насыщение",
+            "desc": "В конце хода: если у союзника с <sprite name=\"PreparedMeat\"><color=#9f6a3a><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color> остаётся 1 ОЗ, убивает союзника; затем все части получают 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>, <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> и <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Понижение силы защиты</link></u></color>."
+        },
+        {
+            "id": 826302,
+            "name": "Неутолимый голод",
+            "desc": "Начало хода: Если есть выжившие союзники с 25% ОЗ или меньше, убивает всех союзников.\nВосстанавливает (количество убитых союзников x 5)% от максимального запаса ОЗ ядра.\nКонец хода: Если не осталось выживших союзников, получает 20 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышений силы атаки</link></u></color> на следующий ход."
+        },
+        {
+            "id": 826303,
+            "name": "Разорванная рука",
+            "desc": "Когда повреждена рука, тело получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> в начале каждого хода."
+        },
+        {
+            "id": 826304,
+            "name": "Приглашение на трапезу",
+            "desc": "В конце хода: все Грешники восстанавливают 10 СД и получают +1 ЭГО ресурс для всех Сродств"
+        },
+        {
+            "id": 826501,
+            "name": "Пустой желудок",
+            "desc": "Конец хода: если союзник с <sprite name=\"PreparedMeat\"><color=#9f6a3a><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color> оглушён, убивает союзника."
+        },
+        {
+            "id": 826502,
+            "name": "Бездонный голод",
+            "desc": "После убийства союзника восстанавливает 20 ОЗ ядра; затем получает 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход."
+        },
+        {
+            "id": 826503,
+            "name": "Голод",
+            "desc": "Конец хода: Если персонаж не убил союзника с <sprite name=\"PreparedMeat\"><color=#9f6a3a><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, получает 1 <sprite name=\"Hunger\"><color=#9f6a3a><u><link=\"Hunger\">Голод</link></u></color>. При 75% ОЗ или меньше, получает 2. При 50% ОЗ или меньше, получает 3.\nНачало хода: Если персонаж убил союзника с <sprite name=\"PreparedMeat\"><color=#9f6a3a><u><link=\"PreparedMeat\">Приготовленным мясом</link></u></color>, теряет 1 <sprite name=\"Hunger\"><color=#9f6a3a><u><link=\"Hunger\">Голод</link></u></color>."
+        },
+        {
+            "id": 826504,
+            "name": "Временное насыщение",
+            "desc": "Конец хода: При 0 <sprite name=\"Hunger\"><color=#9f6a3a><u><link=\"Hunger\">Голода</link></u></color>, получает (количество убитых союзников за этот ход × 3) <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>."
+        },
+        {
+            "id": 826505,
+            "name": "Неутолимый голод",
+            "desc": "Конец хода: При 4 <sprite name=\"Hunger\"><color=#9f6a3a><u><link=\"Hunger\">Голода</link></u></color>, получает усиленный шаблон."
+        },
+        {
+            "id": 811801,
+            "name": "Возвращающееся прошлое",
+            "desc": "Если накоплено 50+ <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color>, и если ОЗ Ядра меньше или равно 80%, Ядро восстанавливает 200 ОЗ, расходуя 50 <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color> в конце хода"
+        },
+        {
+            "id": 811802,
+            "name": "Утраченное прошлое",
+            "desc": "Когда тело повреждено, расходуется всё <sprite name=\"AccumulatedPast\"><color=#9f6a3a><u><link=\"AccumulatedPast\">Накопленное прошлое</link></u></color>.\nКогда тело повреждено, все типы атак и сродства становятся неэффективными(0.5) против тела начиная со следующего хода и до конца этого боя."
+        },
+        {
+            "id": 811808,
+            "name": "Метроном",
+            "desc": "Если <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color> нечётное, получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> и <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли чётное, получает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> и <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>."
+        },
+        {
+            "id": 826401,
+            "name": "Забота",
+            "desc": "В начале хода: восстанавливает 15% от максимальных ОЗ"
+        },
+        {
+            "id": 826402,
+            "name": "Сохранить свежесть",
+            "desc": "ОЗ не опускается ниже 1."
+        },
+        {
+            "id": 814201,
+            "name": "Дуэль",
+            "desc": "Когда ОЗ падают ниже 50%, использует специальный навык и нацеливается на 1 персонажа, затем получает иммунитет против оглушения и паники на следующие 2 хода.\nЕсли у И Сана есть <sprite name=\"DongbaekShowdown\"><color=#9f6a3a><u><link=\"DongbaekShowdown\">Дуэль</link></u></color>, Донбэк получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>.\nЕсли И Сан побеждает в дуэли, все союзники получают 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход.\nЕсли Донбэк побеждает в дуэли, она полностью восстанавливает СД."
+        }
+    ]
+}

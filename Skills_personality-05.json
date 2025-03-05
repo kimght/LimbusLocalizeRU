@@ -1,0 +1,1148 @@
+﻿{
+  "dataList": [
+    {
+      "id": 1050701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мы помним",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Мы помним",
+          "desc": "[DefeatDuel] Получает 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Мы помним",
+          "desc": "[DefeatDuel] Получает 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 <sprite name=\"VioletResultUp\"><color=#f8c200><u><link=\"VioletResultUp\">Повышение силы Зависти</link></u></color> грешникам, чьи навыки находятся на приборной панели по бокам.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 <sprite name=\"VioletResultUp\"><color=#f8c200><u><link=\"VioletResultUp\">Повышение силы Зависти</link></u></color> грешникам, чьи навыки находятся на приборной панели по бокам.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 <sprite name=\"VioletResultUp\"><color=#f8c200><u><link=\"VioletResultUp\">Повышение силы Зависти</link></u></color> грешникам, чьи навыки находятся на приборной панели по бокам.\nЕсли навык сбоку имеет грех Зависти, также даёт 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color>.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Запись",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Метка возмездия</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Метка возмездия</link></u></color>, наносит 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Запись",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше\nСила монет +1 при резонансе Зависти, равном 6 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Метка возмездия</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Метка возмездия</link></u></color>, наносит 2 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимости к Зависти</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Многократное воздаяние",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Многократное воздаяние",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обнажение меча",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Обнажение меча",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт 1 <sprite name=\"BladeResultUpTier1\"><color=#f8c200><u><link=\"BladeResultUpTier1\">Меч родины - Учение силы</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Обнажение меча",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Даёт 1 <sprite name=\"BladeResultUpTier1\"><color=#f8c200><u><link=\"BladeResultUpTier1\">Меч родины - Учение силы</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Обнажение меча",
+          "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[StartBattle] Даёт 1 <sprite name=\"BladeResultUpTier1\"><color=#f8c200><u><link=\"BladeResultUpTier1\">Меч родины - Учение силы</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)\n<style=\"highlight\">- Если в команде 6 и более членов Родословной клинка, вместо 1 даёт 2 <sprite name=\"BladeResultUpTier1\"><color=#f8c200><u><link=\"BladeResultUpTier1\">Меча родины - Учение силы</link></u></color></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иглоукалывание",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт 1 <sprite name=\"BladeResultUpTier2\"><color=#f8c200><u><link=\"BladeResultUpTier2\">Меч родины - Учение пронзания</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +40%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Иглоукалывание",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Даёт 1 <sprite name=\"BladeResultUpTier2\"><color=#f8c200><u><link=\"BladeResultUpTier2\">Меч родины - Учение пронзания</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +40%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">Сила монет +1 при 7 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[StartBattle] Даёт 1 <sprite name=\"BladeResultUpTier2\"><color=#f8c200><u><link=\"BladeResultUpTier2\">Меч родины - Учение пронзания</link></u></color> нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)\n<style=\"highlight\">- Если в команде 6 и более членов Родословной клинка, вместо 1 даёт 2 <sprite name=\"BladeResultUpTier2\"><color=#f8c200><u><link=\"BladeResultUpTier2\">Меча родины - Учение пронзания</link></u></color></style></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3\n[WinDuel] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +60%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Уступаю свою плоть",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[DefeatDuel] После принятия атаки использует навык 「Дабы забрать их кости」\n[CriticalActivated] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +15%\n За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Уступаю свою плоть",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[DefeatDuel] После принятия атаки использует навык「Дабы забрать их кости」\n[CriticalActivated] Повышает критический урон на 3% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 75%)\nКритический урон +30%\n За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Низвержение",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход (Единожды)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Низвержение",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышение силы Рубящей атаки</link></u></color> на следующий ход (Единожды)\n<style=\"highlight\">За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дабы забрать их кости",
+          "desc": "[BeforeAttack] Число целей +1 при 10 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WhenUse] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +20%\nЗа каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Дабы забрать их кости",
+          "desc": "<style=\"highlight\">[BeforeAttack] Число целей +1 за каждые 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 2)</style>\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WhenUse] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +<style=\"highlight\">30</style>%\nЗа каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)\n<style=\"highlight\">При ударе 1-ой цели, урон +100% (В фокусированных столкновениях — 1-ой части)</style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Удар битой",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Удар битой",
+          "desc": "Сила монет +1 против целей с 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Удар битой",
+          "desc": "Сила монет +<style=\"highlight\">2</style> против целей с 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сбитие с ног",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Сбитие с ног",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сбитие с ног",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color></style>\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели с 4 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Взбучка",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\n[WinDuel] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color> на следующий ход "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Взбучка",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 3 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color></style>\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\n[WinDuel] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color> на следующий ход "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Контратака",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x <style=\"highlight\">4%</style> максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Сила в поединке +1 при 2 и более <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>\n[WinDuel] Получает 2 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color> (Раз за ход)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сосредоточение на учении",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x <style=\"highlight\">5%</style> максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Сила в поединке +(<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> - 1) (До 2)</style>\n[WinDuel] Получает 2 <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color> (Раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Час учений",
+          "desc": "[StartBattle] Получает <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе.\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Час учений",
+          "desc": "<style=\"highlight\">+3% урона за каждое <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> на себе (До 9%)</style>\n<style=\"highlight\">[StartBattle] Он и случайный союзник</style> получает <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо. <style=\"highlight\">(В приоритете союзники, использующие <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сброс</link></u></color> с наименьшим числом <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color>)</style>\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на себе.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Час учений",
+          "desc": "<style=\"highlight\">+5%</style> урона за каждое <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> на себе (До <style=\"highlight\">15%</style>)\n[StartBattle] Он и <style=\"highlight\">два</style> случайных союзника получают <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color>, равную <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо. (В приоритете союзники, использующие <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сброс</link></u></color> с наименьшим числом <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалки эрудиции</link></u></color>)\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника (начиная с самого низшего)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное <style=\"highlight\">(<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Сожжение познаний",
+          "desc": "+3% урона за каждое <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> на себе (До 18%)\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[BeforeAttack] Тратит свою <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> и получает дополнительное <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color>, равное половине потраченного числа (Округление в меньшую сторону)\n[EndSkill] В конце хода <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> сбрасывается до 1 (до 3 при убийстве противника с помощью этого навыка)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик и потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайным образом так, что суммарно они становятся равны <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сожжение познаний",
+          "desc": "<style=\"highlight\">+5%</style> урона за каждое <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> на себе (До <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)</style>\n[BeforeAttack] Тратит свою <sprite name=\"KnowledgeTraining\"><color=#f8c200><u><link=\"KnowledgeTraining\">Закалку эрудиции</link></u></color> и получает дополнительное <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color>, равное <style=\"highlight\">потраченному числу</style>\n[EndSkill] В конце хода <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> сбрасывается до 1 (до 3 при убийстве противника с помощью этого навыка)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик и потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайным образом так, что суммарно они становятся равны <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровению</link></u></color> на Мерсо<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Погружение в поиск",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Погружение в поиск",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n<style=\"highlight\">[WhenUse] Этот слот получает 6 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Алле",
+          "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Алле",
+          "desc": "Сила монет +1, если скорость этого персонажа выше скорости цели на 3 или больше\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не наносит Потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами, но и не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Алле",
+          "desc": "Если скорость этого персонажа выше, чем у цели, получает Силу монет в зависимости от разницы в скорости (Сила монет +1 за каждые 3 единицы разницы в скорости; максимум 2)\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не наносит Потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами, но и не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если скорость этого персонажа выше, чем у цели, наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный разнице в скорости (максимум 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпад",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Выпад",
+          "desc": "Сила монет +1, если скорость этого персонажа выше скорости цели на 3 или больше\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не наносит Потенциал и не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами, но и не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WinDuel] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выпад",
+          "desc": "Сила монет +1, если скорость этого персонажа выше скорости цели на 3 или больше\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не наносит Потенциал и не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами, но и не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WinDuel] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Если этот персонаж не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, +5% к урону при критическом попадании за каждый Потенциал и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, который он должен был нанести</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Салют",
+          "desc": "Сила монет +1, если скорость персонажа выше скорости цели на 2 или больше\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если у цели есть <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенная атака - Мерсо</link></u></color>, получает дополнительно 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит на 10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит на 10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на 10% больше урона за каждую <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на слоте"
+                },
+                {
+                  "desc": "+30% критического урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Салют",
+          "desc": "<style=\"highlight\">Если скорость персонажа выше, чем у цели, получает Силу монет в зависимости от разницы в скорости (Сила монет +1 за каждые 2 единицы разницы в скорости; максимум 3)</style>\n[WhenUse] Если у цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> 3+, этот навык не расходует счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при попадании\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если у цели есть <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенная атака - Мерсо</link></u></color>, получает дополнительно 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит на 10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Последняя монета наносит на 10% больше урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на <style=\"highlight\">20%</style> больше урона за каждую <sprite name=\"ConcentratedAttackMeursault\"><color=#e30000><u><link=\"ConcentratedAttackMeursault\">Сосредоточенную атаку - Мерсо</link></u></color> на слоте"
+                },
+                {
+                  "desc": "+30% критического урона"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Увеличивает критический урон на 2% за каждый <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на цели (максимум 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Если эта монета уничтожила цель или часть тела, использует этот навык ещё раз против случайной цели (не активируется при повторном использовании)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дефенсив",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Дефенсив",
+          "desc": "[WhenUse] Сила монет +2, если скорость этого персонажа выше скорости цели на 3 или более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+﻿{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вперёд",
+          "desc": "[WhenUse] <sprite name=\"DuelDeclaration_Camille\"><color=#e30000><u><link=\"DuelDeclaration_Camille\">Вызывает на дуэль</link></u></color>\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Прямой Выпад",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпад",
+          "desc": "[WhenUse] При 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> сила монет +2\n[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7+, наносит 3 счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% урона при критическом ударе"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Салют",
+          "desc": "[WhenUse] Сила монет +1, если скорость этого персонажа выше, чем у цели (Сила монет +1 за каждые 2 единицы разницы в скорости; максимум 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 4"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7 и выше наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7 и выше наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При скорости 7 и выше наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% урона при критическом ударе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +5% урона за каждый <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на цели (максимум 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Парирование",
+          "desc": "[WinDuel] Наносит больше урона в зависимости от количества Столкновений (+10% урона за каждое Столкновение, максимум 50%)\n[WinDuel] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n[DefeatDuel] Получает 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Защитная стойка",
+          "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу тебя красиво!",
+          "desc": "[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила монеты +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повторно использует монету (<sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> Этап - 1) раз (Максимум 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ещё острее",
+          "desc": "[WhenUse] Поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстанавливает 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 30 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила столкновения +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила монет +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ЧИРК!!",
+          "desc": "[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстанавливает 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила столкновения +5 против целей с <sprite name=\"LineCutting\"><color=#e30000><u><link=\"LineCutting\">Целью шитья</link></u></color>\nВосстанавливает 5 СД при каждом попадании по <sprite name=\"LineCutting\"><color=#e30000><u><link=\"LineCutting\">Цели шитья</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу и тебя тоже!",
+          "desc": "[BeforeAttack] Вес атаки +1 за каждый Этап <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color> (До 2)\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстанавливает 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила в поединке +2 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"BloodScissorScars\"><color=#e30000><u><link=\"BloodScissorScars\">Глубокую Рану</link></u></color> в следующем ходу"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Теперь твоя очередь",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"BloodScissorScars\"><color=#e30000><u><link=\"BloodScissorScars\">Глубокая Рана</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"LineCutting\"><color=#e30000><u><link=\"LineCutting\">Цель шитья</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я разрежу вас вместе!",
+          "desc": "[BeforeAttack] Вес атаки +1 за каждый Этап <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color>\n[WhenUse] Поглощает до 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстанавливает 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила в поединке +2 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Поглощает 10 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 3"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (До 10). Цель теряет 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (До 10). Цель теряет 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (До 10). Цель теряет 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +40% урона за каждый Этап <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color> (До 120%)"
+                },
+                {
+                  "desc": "[EnemyKill] Если эффект монеты убил цель, восстанавливает 50% от нанесённого урона убитой цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Как невежливо!",
+          "desc": "[DuelCounter]\n[WhenUse] Сила в поединке +1 за каждый этап <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color> (До 3)\n[WhenUse] Сила монеты +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и +4 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мне не нужны уродливые вещи!!",
+          "desc": "[CantChangeTarget]\nПриоритет целей с наименьшим процентом ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 30% ОЗ или меньше, убивает цель"
+                },
+                {
+                  "desc": "[EnemyKill] Повышает <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 30% от максимального ОЗ побеждённого врага"
+                },
+                {
+                  "desc": "[EnemyKill] Получает 4 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

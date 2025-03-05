@@ -1,0 +1,69 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9008301,
+            "name": "Выброс на берег",
+            "desc": "Кит Пористой руки получает урон при убийстве этого персонажа."
+        },
+        {
+            "id": 9008302,
+            "name": "Общая боль",
+            "desc": "При смерти наносит 10 урона присоединённым Русалкам. Затем даёт им 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход.\nОЗ присоединённых Русалок от действия этого эффекта не опускаются ниже 1."
+        },
+        {
+            "id": 9008401,
+            "name": "Лёгкий вдох",
+            "desc": "Если у этого персонажа есть <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>, получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при победе в столкновении."
+        },
+        {
+            "id": 9008402,
+            "name": "Две стороны монеты",
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход."
+        },
+        {
+            "id": 9008601,
+            "name": "Не уколола?",
+            "desc": "При ударе, если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели"
+        },
+        {
+            "id": 9008701,
+            "name": "На абордаж!!",
+            "desc": "При получении <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>, получает 1 дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> при скорости, равной 1"
+        },
+        {
+            "id": 9008702,
+            "name": "Не колется?",
+            "desc": "При ударе, если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели"
+        },
+        {
+            "id": 9101201,
+            "name": "Две стороны монеты",
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> и 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход."
+        },
+        {
+            "id": 9101202,
+            "name": "Нет… Прочь от меня!",
+            "desc": "При проигрыше в столкновении получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3."
+        },
+        {
+            "id": 9101203,
+            "name": "Йо-хо-хо!",
+            "desc": "При критическом ударе получает 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход.\nВосстанвливает себе 15 СД.\nВсе союзники восстанавливают 10 СД.\n(Раз за ход)"
+        },
+        {
+            "id": 9101204,
+            "name": "Что вы творите?!",
+            "desc": "При пленении все союзники теряют 30 СД"
+        },
+        {
+            "id": 9101205,
+            "name": "Не колется?",
+            "desc": "При ударе, если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели"
+        },
+        {
+            "id": 9101101,
+            "name": "Выброс на берег",
+            "desc": "Кит Пористой руки получает урон при убийстве этого персонажа."
+        }
+    ]
+}

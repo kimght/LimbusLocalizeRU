@@ -1,0 +1,1186 @@
+﻿{
+  "dataList": [
+    {
+      "id": 9015801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный удар застывшей кровью",
+          "desc": "[WhenUse] Если у персонажа есть <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшая кровь</link></u></color>, и если эффект монеты этого навыка наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, также повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Безудержный гнев",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Если у персонажа 3 и более <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>, и если эффект монеты этого навыка наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, также наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неистовое возмездие",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 20% больше урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Блок",
+          "desc": "[WhenUse] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получите 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный удар застывшей кровью",
+          "desc": "[WhenUse] Если у персонажа есть <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшая кровь</link></u></color>, и если эффект монеты этого навыка наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, также повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Безудержный гнев",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Если у персонажа 3 и более <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>, и если эффект монеты этого навыка наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, также повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неистовое возмездие",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 20% больше урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Блок",
+          "desc": "[WhenUse] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получите 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный взмах застывшей кровью",
+          "desc": "[DefeatDuel] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный хлыст застывшей кровью",
+          "desc": "[WhenUse] +20% урона против целей с 8 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный удар застывшей кровью",
+          "desc": "[WhenUse] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +1\n[WhenUse] При нанесении <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> этим навыком также получает <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>\n[EndSkill] Потребляет всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели)% ОЗ (макс. 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] Базовая атака +1 за каждую <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный взмах застывшей кровью",
+          "desc": "[DefeatDuel] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный хлыст застывшей кровью",
+          "desc": "[WhenUse] +10% урона против целей с 4 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Усиленный удар застывшей кровью",
+          "desc": "[WhenUse] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +1\n[WhenUse] При нанесении <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> этим навыком также получает <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>\n[EndSkill] Потребляет всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели)% ОЗ (макс. 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] Базовая атака +1 за каждую <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пройдите опрос",
+          "desc": "[WhenUse] Получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Нет! Не обрывай меня!",
+          "desc": "[WhenUse] Получите 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получите 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иссякшее терпение",
+          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Бесконечное искупление",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила в поединке +1 за каждую <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе\n[DefeatDuel] Тратит 2 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Поглощает все <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>, чтобы нанести +3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе, чтобы повысить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на (поглощённая <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшая кровь</link></u></color> × 3) и получить 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели)% ОЗ (До 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] При 1+ <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленной руке</link></u></color>, Базовая атака +1\n[WhenUse] При 3+ <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>, Сила монеты +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пройдите опрос",
+          "desc": "[WhenUse] Получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Нет! Не обрывай меня!",
+          "desc": "[WhenUse] Получите 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получите 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иссякшее терпение",
+          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленную руку</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Бесконечное искупление",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила в поединке +1 за каждую <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе\n[DefeatDuel] Тратит 2 <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Поглощает все <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленные руки</link></u></color>, чтобы нанести +3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> на себе, чтобы повысить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на (поглощённая <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшая кровь</link></u></color> × 3) и получить 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели)% ОЗ (До 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] При 1+ <sprite name=\"BloodyHand\"><color=#f8c200><u><link=\"BloodyHand\">Окровавленной руке</link></u></color>, Базовая атака +1\n[WhenUse] При 3+ <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color>, Сила монеты +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рубящий удар застывшей кровью",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Итоговая сила +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрез застывшей кровью",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> на себе или каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 2)\n[WhenUse] Получает 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, мгновенно активирует его один раз и уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Высвобождение силы застывшей крови",
+          "desc": "[WhenUse] Получает 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2, мгновенно активирует его дважды, затем уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2\n[EndBattle] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color> на себе"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> × 2.5)% ОЗ (макс. 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничных горячки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уворот",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> итоговая сила +1\n[StartBattle] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>\n[OnDefeatEvade] Теряет 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Хлёсткий удар застывшей кровью",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Итоговая сила +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дикий рывок застывшей крови",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> на себе или каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 2)\n[WhenUse] Получает 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, мгновенно активирует его один раз и уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Высвобождение силы застывшей крови",
+          "desc": "[WhenUse] Получает 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2, мгновенно активирует его дважды, затем уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2\n[EndBattle] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color> на себе"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> × 2.5)% ОЗ (макс. 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничных горячки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уворот",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> итоговая сила +1\n[StartBattle] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>\n[OnDefeatEvade] Теряет 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Добро пожаловать на Фестиваль чудес!",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Итоговая сила +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Присоединяйся к радостному параду!",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> на себе или каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 3)\n[WhenUse] При менее 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, мгновенно активирует его один раз и уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1\n[EndSkill] Потребляет 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2~3 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипа</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Расцветайте улыбками радости!",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Сила монеты +1\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Сила столкновения +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вечное королевство счастья, Ла-Манчаленд!",
+          "desc": "[WhenUse] При менее чем 40 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2, мгновенно активирует его дважды, затем уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2\n[EndSkill] Поглощает 40 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[EndBattle] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color> на себе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> × 4)% ОЗ (макс. 40%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипов</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уворот",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> итоговая сила +2\n[StartBattle] Получает 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>\n[OnDefeatEvade] Теряет 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Добро пожаловать на Фестиваль чудес!",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Итоговая сила +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Давайте танцевать в такт!",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> на себе или каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 3)\n[WhenUse] При менее 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, мгновенно активирует его один раз и уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1\n[EndSkill] Потребляет 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (макс. 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2~3 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипа</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Растворись в пении!",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> Сила монеты +1\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Сила столкновения +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Получает 2 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вечное королевство счастья, Ла-Манчаленд!",
+          "desc": "[WhenUse] При менее чем 40 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2, мгновенно активирует его дважды, затем уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2\n[EndSkill] Поглощает 40 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[EndBattle] Поглощает всю <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> и <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> в количестве равном <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшей крови</link></u></color> на себе"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> × 4)% ОЗ (макс. 40%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипов</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уворот",
+          "desc": "[WhenUse] При 5+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> итоговая сила +2\n[StartBattle] Получает 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>\n[OnDefeatEvade] Теряет 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+﻿{
+  "dataList": [
+    {
+      "id": 9732,
+      "name": "Скидочный билет на поездку эконом-класса",
+      "desc": "Конец хода: среди союзников со скоростью 5 или менее, союзник с наименьшей скоростью, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход.",
+      "simpleDesc": [
+        {
+          "abilityID": 9732,
+          "simpleDesc": "Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу"
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "name": "Консервированное мороженое",
+      "desc": "Когда союзник теряет ОЗ из-за эффекта собственного Атакующего навыка, восстанавливает половину потерянных ОЗ от эффекта навыка в начале следующего хода. (Округляется вниз)\n\nКогда союзник восстанавливает ОЗ благодаря эффекту ЭГО навыка, восстанавливает на 12.5% больше ОЗ. (Округляется вниз)",
+      "simpleDesc": [
+        {
+          "abilityID": 9733,
+          "simpleDesc": "Восстанавливает ОЗ в начале следующего хода"
+        },
+        {
+          "abilityID": 97331,
+          "simpleDesc": "Усиливает эффекты восстановления ОЗ Э.Г.О"
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "name": "Пространственный Кинжал типа E",
+      "desc": "Первый навык, повышающий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда: +1 к Силе в столкновении и на 5% больше урона.\n\nЕсли это был одномонетный навык, вместо этого получает +1 к Силе столкновении и наносит на 12.5% больше урона.\n\nЕсли идентичность Корп. W нанесла урон противнику навыком с грехом Зависти (ЭГО навыки Учитываются), наносит 2 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижения восстановления ОЗ</link></u></color>. (Не складывается)",
+      "simpleDesc": [
+        {
+          "abilityID": 9734,
+          "simpleDesc": "Первый навык получает Силу в столкновении и наносит больше урона"
+        },
+        {
+          "abilityID": 97341,
+          "simpleDesc": "Первый навык получает Силу в столкновении и наносит больше урона"
+        },
+        {
+          "abilityID": 97342,
+          "simpleDesc": "Наносит 2 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "name": "Портативная защитная батарея",
+      "desc": "Первый навык, повышающий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда, получает +2 к Силе в столкновении.\n\nПри использовании вышеописанного навыка, повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2 и даёт 1 [ChargeForceField]. (Единожды за ход)\n\nЕсли идентичность Корп. W получает урон ОЗ от любого эффекта, кроме прямого урона, она получает 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьеров</link></u></color>. (Единожды за ход)",
+      "simpleDesc": [
+        {
+          "abilityID": 9735,
+          "simpleDesc": "Первый навык получает Силу в столкновении, <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> и <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядный барьер</link></u></color>"
+        },
+        {
+          "abilityID": 97351,
+          "simpleDesc": "Получает <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядный барьер</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "name": "Биогенеративная батарея",
+      "desc": "Союзники с <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядом</link></u></color> или Особым Зарядом получают 1 Уровень атаки при каждом столкновении с противником. (До 6, сбрасывается после атаки).\n\nКонец хода: союзники с 10+ (Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> + Особый Заряд) получают 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. При 18+ (Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> + Особый Заряд), дополнительно даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>.",
+      "simpleDesc": [
+        {
+          "abilityID": 9736,
+          "simpleDesc": "Даёт Повышение уровень Атаки"
+        },
+        {
+          "abilityID": 97361,
+          "simpleDesc": "Даёт <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>"
+        },
+        {
+          "abilityID": 97362,
+          "simpleDesc": "Даёт <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 9737,
+      "name": "Кардиоваскулярный реактивный модуль",
+      "desc": "Когда союзник с счётчиком <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особым Зарядом проигрывает в столкновении, он получает щит, равный (Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> + Особый Заряд). (Единожды за ход)\n\nКогда ОЗ 50% или меньше, вместо этого получает ((Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + Особый Заряд) x 2) щита. (Единожды за ход)\n\nЕсли идентичность Офиса МультиРазлома получила урон ОЗ во время этой битвы: в следующем ходу восстанавливает 33% от потерянных ОЗ в этом ходу. (Округляется вниз)",
+      "simpleDesc": [
+        {
+          "abilityID": 9737,
+          "simpleDesc": "Даёт Щит"
+        },
+        {
+          "abilityID": 97371,
+          "simpleDesc": "Восстанавливает ОЗ на основе потерянных ОЗ в прошлом ходу"
+        }
+      ]
+    },
+    {
+      "id": 9738,
+      "name": "Сервоприводы протезных суставов",
+      "desc": "Следующий ход: союзники получают <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и повышают счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, равные количеству Базовых Атакующих навыков, повышающих счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда, использованных в этом ходу. (До 2)\n\nКогда идентичность Офиса МультиРазлома повышает или тратит счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> Базовыми Атакующими навыками, она получает +1 дополнительный счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>. (До 2).",
+      "simpleDesc": [
+        {
+          "abilityID": 9738,
+          "simpleDesc": "Даёт <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color> и <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>"
+        },
+        {
+          "abilityID": 97381,
+          "simpleDesc": "Получает больше <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 9739,
+      "name": "Кристаллизованная кровь",
+      "desc": "Конец хода: если у союзника есть [Laceration], уменьшает его силу вдвое и восстанавливает (Уменьшенная сила x счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе) ОЗ. (До 10% от макс. ОЗ за раз; округляется в меньшую сторону)",
+      "simpleDesc": [
+        {
+          "abilityID": 9739,
+          "simpleDesc": "Уменьшает вдвое потенциал <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе, восстанавливает ОЗ"
+        }
+      ]
+    },
+    {
+      "id": 9740,
+      "name": "Автоматизированные суставы",
+      "desc": "Начало столкновения: эффект активируется при наличии у 5 и более идентичностей навыков, повышающих счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (ЭГО навыки не учитываются)\n\nБазовые Атакующие навыки, тратящие счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда: +1 к Силе монет и на (Сумма потраченных счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда этим навыком x 4)% больше урона. (До 40%)\n\nКонец хода: союзники с <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядом</link></u></color> или Особым Зарядом получают 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> (До 2) и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> (До 3) за каждый случай использования Базового Атакующего навыка, тратящего счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда в этой битве.\n\nЕсли у идентичности Офиса МультиРазлома имеется 5 и более счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: +1 к Силе монет для Базовых Атакующих навыков.",
+      "simpleDesc": [
+        {
+          "abilityID": 9740,
+          "simpleDesc": "Даёт Силу монет и наносит больше урона"
+        },
+        {
+          "abilityID": 97401,
+          "simpleDesc": "Даёт <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> в следующем ходу"
+        },
+        {
+          "abilityID": 97402,
+          "simpleDesc": "Даёт Силу Монет"
+        }
+      ]
+    },
+    {
+      "id": 9741,
+      "name": "Перегруженная батарея",
+      "desc": "Начало столкновения: эффект активируется при наличии у 5 и более идентичностей навыков, повышающих счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (ЭГО навыки не учитываются)\n\nБазовые Атакующие навыки, тратящие счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда: +1 к Силе монет и на (Сумма потраченных счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда этим навыком x 4)% больше урона. (До 40%)\n\nКогда союзники с <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядом</link></u></color> или Особым Зарядом участвуют в столкновениях с противниками используя Базовые Атакующие навыки: +2 к Силе в столкновении; повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3 при победе в Столкновении и теряет 6 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> при поражении.\n\nПри победе в столкновении Атакующим навыком с Грехом зависти, наносит 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color>. (До 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9741,
+          "simpleDesc": "Даёт Силу монет и наносит больше урона"
+        },
+        {
+          "abilityID": 97411,
+          "simpleDesc": "Получает Силу в столкновении; повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> при победе в Столкновении и теряет при поражении"
+        },
+        {
+          "abilityID": 97412,
+          "simpleDesc": "Накладывает <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color>"
+        }
+      ]
+    },
+    {
+      "id": 9742,
+      "name": "Сервоприводы вечного генератора",
+      "desc": "Начало столкновения: эффект активируется при наличии у 5 и более идентичностей навыков, повышающих счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (ЭГО навыки не учитываются)\n\nБазовые Атакующие навыки, тратящие счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда: +1 к Силе монет и на (Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда этим навыком x 4)% больше урона. (До 40%)\n\nКогда союзники с <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядом</link></u></color> или Особым Зарядом участвуют в столкновении с противниками Базовыми Атакующими навыками: Сила в столкновения +1; даёт 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> в начале хода за каждую победу в столкновении в этой битве. (До 6)\n\nКогда союзник получает смертельный урон, расходует все его счётчики <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда и восстанавливает (10 + Сумма израсходованных счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда)% ОЗ (Единожды за битву), а так же даёт ему 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> до его смерти.",
+      "simpleDesc": [
+        {
+          "abilityID": 9742,
+          "simpleDesc": "Получает силу Монеты и наносит больше урона"
+        },
+        {
+          "abilityID": 97421,
+          "simpleDesc": "Получает силу Столкновения и <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>"
+        },
+        {
+          "abilityID": 97422,
+          "simpleDesc": "Непосредственно перед смертью, потребляет счетчик Заряда для мгновенного исцеления и получения Защиты"
+        }
+      ]
+    },
+    {
+      "id": 9743,
+      "name": "Драгоценный Камень, Питаемый Сердцами",
+      "desc": "Начало столкновения: эффект активируется при наличии у 5 и более идентичностей навыков, повышающих счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (ЭГО навыки не учитываются)\n\nБазовые Атакующие навыки, тратящие счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда: +1 к Силе монет и на (Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда этим навыком x 4)% больше урона. (До 40%)\n\nКогда союзники имеют 15+ (Счетчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> + Особый Заряд): при использовании третьего навыка, тратящего счетчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда, и если остаются счетчики <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого заряда после атаки, тратит все оставшиеся счетчики <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда для нанесения (Сумма потраченных счетчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> и Особого Заряда x 7.5)% дополнительного фиксированного урона. (До 75%)\n\nМаксимальный счетчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> +5.",
+      "simpleDesc": [
+        {
+          "abilityID": 9743,
+          "simpleDesc": "Даёт Силу монет и наносит больше урона"
+        },
+        {
+          "abilityID": 97431,
+          "simpleDesc": "Тратит дополнительные счетчики Заряда для нанесения бонусного урона"
+        },
+        {
+          "abilityID": 97432,
+          "simpleDesc": "Максимальный счетчик Заряда +5"
+        }
+      ]
+    }
+  ]
+}

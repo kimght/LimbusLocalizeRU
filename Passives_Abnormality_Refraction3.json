@@ -1,0 +1,119 @@
+﻿{
+    "dataList": [
+        {
+            "id": 858801,
+            "name": "Введённые ненависть и враждебность",
+            "desc": "Конец хода: При ОЗ ядра менее 50% получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход. (Один раз за бой)"
+        },
+        {
+            "id": 857801,
+            "name": "Белый госсипиум",
+            "desc": "В конце хода: снимает оглушение с противников и накладывает на них (Уровень оглушения × 8) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color> на следующий ход."
+        },
+        {
+            "id": 857802,
+            "name": "Связывающие корни",
+            "desc": "В конце хода: накладывает 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на всех врагов с <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиумом</link></u></color>"
+        },
+        {
+            "id": 857803,
+            "name": "Окровавленный Госсипиум",
+            "desc": "При ОЗ ядра менее 20% превращается в <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> в конце хода. Этот <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> не исчезает."
+        },
+        {
+            "id": 857804,
+            "name": "Купаться в крови",
+            "desc": "При нанесении урона Атакующим Навыком восстанавливает ОЗ в размере <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели."
+        },
+        {
+            "id": 857805,
+            "name": "Посадка Госсипиума",
+            "desc": "Если персонаж проигрывает в поединке, используя Рассеивающий <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиум</link></u></color>, использует Наступающий <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиум</link></u></color> в следующем ходу."
+        },
+        {
+            "id": 857806,
+            "name": "Цветущий Госсипиум",
+            "desc": "Когда часть тела сломана, уменьшает вдвое значение <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиума</link></u></color> на всех врагах."
+        },
+        {
+            "id": 857701,
+            "name": "Пылающий уголёк",
+            "desc": "Преобразовывает количество навыков без сродства Гнева, равное значению <sprite name=\"MRcAiBa\"><color=#f8c200><u><link=\"MRcAiBa\">Искры</link></u></color>, в навыки со сродством Гнева."
+        },
+        {
+            "id": 857702,
+            "name": "Переплетённый пылающий цветок",
+            "desc": "При попадании накладывает <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный (количеству навыков Сродства Гнева, которые Мотылёк пылающего цветка использует в этом ходу).\nПри попадании восстанавливает ОЗ, равные (количеству навыков стихии Гнева, которые Мотылёк пылающего цветка использует в этом ходу ×2)."
+        },
+        {
+            "id": 857703,
+            "name": "Последняя искра",
+            "desc": "При менее, чем 30% ОЗ, получает +1 <sprite name=\"MRcAiBa\"><color=#f8c200><u><link=\"MRcAiBa\">Искру</link></u></color>"
+        },
+        {
+            "id": 857704,
+            "name": "Раздуть пламя",
+            "desc": "При использовании Звезды пылающего цветка, если у Аномалии 0 <sprite name=\"MRcAiBa\"><color=#f8c200><u><link=\"MRcAiBa\">Искр</link></u></color>, использует Раздуть пламя."
+        },
+        {
+            "id": 858501,
+            "name": "Презрение и взор",
+            "desc": "Накладывает 1 <sprite name=\"MRcAmBc\"><color=#e30000><u><link=\"MRcAmBc\">Взор</link></u></color> на цель каждый раз, когда часть 'Руки' получает урон. (3 раза за ход)\nПерсонажи с <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрением</link></u></color> не могут получить <sprite name=\"MRcAmBc\"><color=#e30000><u><link=\"MRcAmBc\">Взор</link></u></color>.\nКогда персонаж с <sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хваткой</link></u></color> и <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрением</link></u></color> сломлен, все части Аномалии получают 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> в следующем ходу."
+        },
+        {
+            "id": 858502,
+            "name": "Всевидящий взор",
+            "desc": "Когда ОЗ Ядра опускаются ниже 30% от максимальных ОЗ, снимает <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрение</link></u></color> и <sprite name=\"MRcAmBc\"><color=#e30000><u><link=\"MRcAmBc\">Взор</link></u></color> со всех Личностей, после чего накладывает <sprite name=\"MRcAmBd\"><color=#e30000><u><link=\"MRcAmBd\">Всевидящий взор</link></u></color> на все Идентичности."
+        },
+        {
+            "id": 858503,
+            "name": "Сокрушительная хватка",
+            "desc": "В определённые ходы, если ни у одного из врагов нет <sprite name=\"MRcAmBbDisplay\"><color=#e30000><u><link=\"MRcAmBbDisplay\">Хватки</link></u></color>, использует Сокрушение."
+        },
+        {
+            "id": 858504,
+            "name": "Накопленное презрение",
+            "desc": "Конец хода: Получает 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#e30000><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color>, <sprite name=\"ScarletTakeDamageUp\"><color=#e30000><u><link=\"ScarletTakeDamageUp\">Уязвимость к Похоти</link></u></color>, <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color>, <sprite name=\"ShamrockTakeDamageUp\"><color=#e30000><u><link=\"ShamrockTakeDamageUp\">Уязвимость к Чревоугодию</link></u></color> или <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимость к Унынию</link></u></color> (До 3) за каждые 10 потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на себе соответственно."
+        },
+        {
+            "id": 858505,
+            "name": "Пронзённый взор",
+            "desc": "При получении критического удара получает 1 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Уязвимость к Гордыне</link></u></color> один раз за навык (Максимум 3)\nПри получении урона от навыка, потратившего 8+ счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получает 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> один раз за навык (Максимум 3)"
+        },
+        {
+            "id": 860401,
+            "name": "Хватка",
+            "desc": "Конец хода: при значении <sprite name=\"MRcAmBbDisplay\"><color=#e30000><u><link=\"MRcAmBbDisplay\">Хватки</link></u></color> 2 или меньше наносит урон, равный половине максимальных ОЗ цели. После этого все части Спирали <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрения</link></u></color> восстанавливают количество ОЗ, равное урону от этого эффекта."
+        },
+        {
+            "id": 860402,
+            "name": "Спасение",
+            "desc": "Конец хода: Если у этого персонажа было <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрение</link></u></color> при получении <sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хватки</link></u></color>, снимает <sprite name=\"MRcAmBa\"><color=#e30000><u><link=\"MRcAmBa\">Презрение</link></u></color> со всех Идентичностей, когда <sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хватка</link></u></color> сломана Идентичностью."
+        },
+        {
+            "id": 857301,
+            "name": "Обнажённая жемчужина",
+            "desc": "В начале хода: если количество <sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color> равно 0, становится оглушённым. Когда часть Жемчужины оглушена, часть Жемчужины теряет все сопротивления к Сродству на 0.5.\nПри восстановлении от оглушения получает 10 <sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>."
+        },
+        {
+            "id": 857302,
+            "name": "Собирающаяся слизь",
+            "desc": "Фиксирует скорость этой Части на значении 3 на один ход при использовании Пожирающей жидкости."
+        },
+        {
+            "id": 857401,
+            "name": "Загрязняющая слизь",
+            "desc": "В конце хода: накладывает (<sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёная слизь</link></u></color> + 4) <sprite name=\"Poison\"><color=#e30000><u><link=\"Poison\">Яда</link></u></color> на всех врагов."
+        },
+        {
+            "id": 857501,
+            "name": "Подводное дыхание",
+            "desc": "Начиная со 2 хода, получает 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, если Часть с флюоресценцией не разрушена. Получает +3 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nНачиная со 2 хода, получает 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> и 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижения урона</link></u></color>, если Часть с флюоресценцией разрушена."
+        },
+        {
+            "id": 858601,
+            "name": "Общая рана",
+            "desc": "При смерти наносит 10 урона присоединённым Русалкам. Затем даёт им 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход."
+        }
+    ]
+}
