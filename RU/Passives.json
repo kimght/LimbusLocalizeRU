@@ -2003,6 +2003,41 @@
       "id": 1011231,
       "name": "Оборонительный квадрат Лю",
       "desc": "Для двух союзников с наименьшей СД: если они теряли СД на протяжении хода, восстанавливает им 5 СД в его конце.\n<style=\"highlight\">- Если же эти союзники имели базовые навыки, которые наносят [Combustion] или повышают его счётчик, восстанавливает им 5~10 СД вместо этого.</style>"
+    },
+    {
+      "id": 1121102,
+      "name": "Особое топливо мастерской 12-го Района",
+      "desc": "В начале боя имеет 100 <sprite name=\"FirePunchFuel\"><color=#9f6a3a><u><link=\"FirePunchFuel\">Топлива 12-го Района</link></u></color>\n- При 50 и менее оно становится <sprite name=\"FirePunchFuelOverheated\"><color=#9f6a3a><u><link=\"FirePunchFuelOverheated\">Перегретым топливом</link></u></color>"
+    },
+    {
+      "id": 1121101,
+      "name": "Я единственный выживший...",
+      "desc": "На 0.2% больше урона за каждое потраченное в течение битвы [FirePunchFuel] и [FirePunchFuelOverheated]. (До 40%)\n- Если главной целью является <Кровожад>, <Кровосос>, или сумма силы и счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели составляет 30 и более, на 0.3% больше урона вместо этого. (До 60%)\n\nПри 1 и более <sprite name=\"FirePunchFuelOverheated\"><color=#9f6a3a><u><link=\"FirePunchFuelOverheated\">Перегретом топливе</link></u></color> или <sprite name=\"FirePunchFuel\"><color=#9f6a3a><u><link=\"FirePunchFuel\">Топливе 12-го Района</link></u></color>, если Грегор оглушает или убивает целей с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, он повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2 двум случайным противникам или частям аномалии без <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или с его наименьшим счётчиком. (Единожды за ход)"
+    },
+    {
+      "id": 1121121,
+      "name": "Я хочу верить, что они из нашего офиса...",
+      "desc": "Самый быстрый союзник наносит на 5% больше урона Гневом за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели. (До 20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "Нефритовые кольца",
+      "desc": "В конце хода получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за каждые 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2)\n\nНакладывает [DianxueDonQuixote] на последнего противника, по которому Дон Кихот попала своими атакующими навыками. (Единожды за ход)\n\nНа (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели)% больше урона при критическом попадании. (До 15%)"
+    },
+    {
+      "id": 1031111,
+      "name": "Нефритовые кольца",
+      "desc": "В конце хода получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход за <style=\"highlight\">каждые 3</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (До 2)\n\nНакладывает [DianxueDonQuixote] на последнего противника, по которому Дон Кихот попала своими атакующими навыками. (Единожды за ход)\n\nНа (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели)% больше урона при критическом попадании. (До 15%)\n<style=\"highlight\">- Лимит повышается на 5% за каждый 1 [DianxueDonQuixote] на цели</style>"
+    },
+    {
+      "id": 1031121,
+      "name": "Техника летящего шага",
+      "desc": "Союзник с наибольшей скоростью получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при победе в столкновении с противниками, имеющими [Combustion] или Особый Огонь. (Единожды за ход)"
+    },
+    {
+      "id": 1031131,
+      "name": "Техника летящего шага",
+      "desc": "Союзник с наибольшей скоростью получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при победе в столкновении с противниками, имеющими [Combustion] или Особый Огонь. (Единожды за ход)\n<style=\"highlight\">- Если противник имеет 20 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color></style>"
     }
   ]
 }
