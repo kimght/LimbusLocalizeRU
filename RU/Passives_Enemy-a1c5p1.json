@@ -18,7 +18,7 @@
         {
             "id": 9008402,
             "name": "Две стороны монеты",
-            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 1 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход."
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход."
         },
         {
             "id": 9008601,
@@ -38,7 +38,7 @@
         {
             "id": 9101201,
             "name": "Две стороны монеты",
-            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 2 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> и 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход."
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход.\nЕсли на первой монете выпала решка, получает 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> и 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход."
         },
         {
             "id": 9101202,

@@ -56,12 +56,12 @@
         {
           "level": 1,
           "name": "Риск",
-          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
+                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
                 }
               ]
             }
@@ -70,7 +70,7 @@
         {
           "level": 2,
           "name": "Риск",
-          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {
               "coindescs": [
@@ -78,7 +78,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
+                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
                 }
               ]
             }
@@ -87,7 +87,7 @@
         {
           "level": 4,
           "name": "Риск",
-          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "desc": "Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {
               "coindescs": [
@@ -95,7 +95,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
+                  "desc": "[OnSucceedAttack] При 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 2"
                 }
               ]
             }
@@ -109,7 +109,7 @@
         {
           "level": 3,
           "name": "Зубной скрежет",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n[WhenUse] Тратит 10 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы получить +1 силу монет",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n[WhenUse] Тратит 10 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы получить +1 силу монет",
           "coinlist": [
             {
               "coindescs": [
@@ -117,7 +117,7 @@
                   "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
                 }
               ]
             },
@@ -125,10 +125,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -137,7 +137,7 @@
         {
           "level": 4,
           "name": "Зубной скрежет",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n[WhenUse] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10, чтобы получить +2 силы монет",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника\n[WhenUse] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10, чтобы получить +2 силы монет",
           "coinlist": [
             {
               "coindescs": [
@@ -145,7 +145,7 @@
                   "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
                 }
               ]
             },
@@ -153,10 +153,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -170,7 +170,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {}
           ]
@@ -178,7 +178,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {}
           ]
@@ -340,7 +340,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> за каждые 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченные на этот навык (До 6)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил 15 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разлома</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил 15 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственных разлома</link></u></color>"
                 },
                 {
                   "desc": "[EnemyKill] Получает 3 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьера</link></u></color>"
@@ -374,7 +374,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> за каждые 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченные на этот навык (До 9)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если навык потратил 15 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разлома</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если навык потратил 15 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственных разлома</link></u></color>"
                 },
                 {
                   "desc": "[EnemyKill] Получает 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Зарядных барьеров</link></u></color>"
@@ -628,19 +628,19 @@
         {
           "level": 1,
           "name": "Трата знаний",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 2% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 2% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -649,19 +649,19 @@
         {
           "level": 2,
           "name": "Трата знаний",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -670,19 +670,19 @@
         {
           "level": 4,
           "name": "Трата знаний",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 3% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на число <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -696,20 +696,20 @@
         {
           "level": 1,
           "name": "Сокрытие за печатью",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 4% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 4% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -718,20 +718,20 @@
         {
           "level": 2,
           "name": "Сокрытие за печатью",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 5% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 5% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttackHead] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -740,20 +740,20 @@
         {
           "level": 4,
           "name": "Сокрытие за печатью",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 6% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 6% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешника\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, равное числу <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>"
                 }
               ]
             }
@@ -767,7 +767,7 @@
         {
           "level": 3,
           "name": "Благословение знания",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 9% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Этот слот получает 8 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 9% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Этот слот получает 8 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
           "coinlist": [
             {},
             {},
@@ -775,7 +775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -784,7 +784,7 @@
         {
           "level": 4,
           "name": "Благословение знания",
-          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровение</link></u></color> x 12% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Этот слот получает 10 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 при 50% и менее ОЗ",
+          "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 12% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Этот слот получает 10 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 при 50% и менее ОЗ",
           "coinlist": [
             {},
             {},
@@ -792,7 +792,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -806,7 +806,7 @@
         {
           "level": 1,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -820,7 +820,7 @@
         {
           "level": 4,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#f8c200><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешника\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -845,7 +845,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             },
@@ -867,7 +867,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             },
@@ -889,7 +889,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             },
@@ -921,7 +921,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -941,7 +941,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -961,7 +961,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -984,7 +984,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1. При 4-х и более негативных эффектах на цели, дополнительно повышает счётчик наносимого эффекта на 2."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             },
@@ -994,7 +994,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>. При 4-х и более негативных эффектах на цели, дополнительно наносит 2 единицы нанесённого эффекта"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
@@ -1004,7 +1004,7 @@
                   "desc": "+15% урона за каждый негативный эффект на цели (До 75%)"
                 },
                 {
-                  "desc": "[EndSkill] При оглушении или убийстве цели наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> случайному противнику"
+                  "desc": "[EndSkill] При оглушении или убийстве цели наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайному противнику"
                 }
               ]
             }
@@ -1022,7 +1022,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1. При 3-х и более негативных эффектах на цели, дополнительно повышает счётчик наносимого эффекта на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             },
@@ -1032,7 +1032,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>. При 3-х и более негативных эффектах на цели, дополнительно наносит 2 единицы нанесённого эффекта"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
@@ -1042,7 +1042,7 @@
                   "desc": "+25% урона за каждый негативный эффект на цели (До 125%)"
                 },
                 {
-                  "desc": "[EndSkill] При оглушении или убийстве цели наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> 2-м случайным противникам"
+                  "desc": "[EndSkill] При оглушении или убийстве цели наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> 2-м случайным противникам"
                 }
               ]
             }
@@ -1094,20 +1094,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1116,25 +1116,25 @@
         {
           "level": 2,
           "name": "Поздравления ушедшим в мир иной",
-          "desc": "Сила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2",
+          "desc": "Сила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1143,25 +1143,25 @@
         {
           "level": 4,
           "name": "Поздравления ушедшим в мир иной",
-          "desc": "<style=\"highlight\">Сила в поединке +1 при 10 и более <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочках Живых и Почивших</link></u></color> у И Сана на руках</style>\nСила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2",
+          "desc": "<style=\"highlight\">Сила в поединке +1 при 10 и более <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочках Живых и Почивших</link></u></color> у И Сана на руках</style>\nСила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1180,20 +1180,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1202,25 +1202,25 @@
         {
           "level": 2,
           "name": "Оставшимся с нами же — торжественные соболезнования",
-          "desc": "Сила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1\n[EndSkill] Получает <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color> в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютом, вместо этого получает (число грехов в абсолюте x 2) <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> в запас (До 12)",
+          "desc": "Сила монет +1 против целей с суммой <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели равен или более 6\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1\n[EndSkill] Получает <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color> в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютом, вместо этого получает (число грехов в абсолюте × 2) <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> в запас (До 12)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1229,25 +1229,25 @@
         {
           "level": 4,
           "name": "Оставшимся с нами же — торжественные соболезнования",
-          "desc": "Сила в поединке +1 при 10 и более <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках\nСила монет +1 <style=\"highlight\">за каждые 6 единиц</style> в сумме <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1\n[EndSkill] Получает <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color> в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютом, вместо этого получает (число грехов в абсолюте x 2) <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> в запас (До 12)\n- Если в наибольшем абсолюте 4 и более греха, заменяет на <sprite name=\"ReloadLament\"><color=#f8c200><u><link=\"ReloadLament\">Перезарядку</link></u></color>",
+          "desc": "Сила в поединке +1 при 10 и более <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках\nСила монет +1 <style=\"highlight\">за каждые 6 единиц</style> в сумме <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1\n[EndSkill] Получает <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color> в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютом, вместо этого получает (число грехов в абсолюте × 2) <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> в запас (До 12)\n- Если в наибольшем абсолюте 4 и более греха, заменяет на <sprite name=\"ReloadLament\"><color=#9f6a3a><u><link=\"ReloadLament\">Перезарядку</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 5 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             }
@@ -1261,45 +1261,45 @@
         {
           "level": 3,
           "name": "И скорби акме нашей, словно альвеолы наполнив, испарись",
-          "desc": "Базовая сила +1 за каждые 10 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] <sprite name=\"ReloadLament\"><color=#f8c200><u><link=\"ReloadLament\">Перезаряжается</link></u></color>",
+          "desc": "Базовая сила +1 за каждые 10 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] <sprite name=\"ReloadLament\"><color=#9f6a3a><u><link=\"ReloadLament\">Перезаряжается</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 6 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 6 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит все оставшиеся <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color>"
+                  "desc": "Тратит все оставшиеся <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +2% урона за каждую <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочку Живых и Почивших</link></u></color>, потраченную этим навыком"
+                  "desc": "[OnSucceedAttack] +2% урона за каждую <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочку Живых и Почивших</link></u></color>, потраченную этим навыком"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный <b>всем</b> <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочкам</link></u></color> на цели\n- Учитывается сумма Живых и Почивших"
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный <b>всем</b> <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочкам</link></u></color> на цели\n- Учитывается сумма Живых и Почивших"
                 }
               ]
             }
@@ -1308,45 +1308,45 @@
         {
           "level": 4,
           "name": "И скорби акме нашей, словно альвеолы наполнив, испарись",
-          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках <style=\"highlight\">(До 4)</style>\nСила монет +1 за каждые 6 единиц в сумме <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] <sprite name=\"ReloadLament\"><color=#f8c200><u><link=\"ReloadLament\">Перезаряжается</link></u></color>",
+          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color> у И Сана на руках <style=\"highlight\">(До 4)</style>\nСила монет +1 за каждые 6 единиц в сумме <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] <sprite name=\"ReloadLament\"><color=#9f6a3a><u><link=\"ReloadLament\">Перезаряжается</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайную бабочку Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 6 <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
+                  "desc": "Тратит 6 <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">случайных бабочек Живых или Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Тратит все оставшиеся <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color>"
+                  "desc": "Тратит все оставшиеся <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочки Живых и Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки</link></u></color> по числу потраченных <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочек Живых и Почивших</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] +4% урона за каждую <sprite name=\"BulletLament\"><color=#f8c200><u><link=\"BulletLament\">бабочку Живых и Почивших</link></u></color>, потраченную этим навыком"
+                  "desc": "[OnSucceedAttack] +4% урона за каждую <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">бабочку Живых и Почивших</link></u></color>, потраченную этим навыком"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный <b>всем</b> <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочкам</link></u></color> на цели\n- Учитывается сумма Живых и Почивших"
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный <b>всем</b> <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочкам</link></u></color> на цели\n- Учитывается сумма Живых и Почивших"
                 }
               ]
             }
@@ -1374,7 +1374,7 @@
         {
           "level": 4,
           "name": "Ивыпорхнетбабочкаизгроба",
-          "desc": "[StartBattle] <color=#a16a3b><u><link=\"ReloadLament\">Перезаряжается</link></u></color> (Единожды за ход)\n[StartBattle] Получает щит на (число всех <sprite name=\"SinkingWhite\"><color=#f8c200><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели)% от максимальных ОЗ. (До 20% за ход)",
+          "desc": "[StartBattle] <color=#a16a3b><u><link=\"ReloadLament\">Перезаряжается</link></u></color> (Единожды за ход)\n[StartBattle] Получает щит на (число всех <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> на цели)% от максимальных ОЗ. (До 20% за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1393,7 +1393,7 @@
         {
           "level": 1,
           "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
-          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
-          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 2)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
+          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 2)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
-          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +<style=\"highlight\">2</style>",
+          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1479,7 +1479,7 @@
         {
           "level": 1,
           "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
-          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами",
           "coinlist": [
             {
               "coindescs": [
@@ -1496,7 +1496,7 @@
         {
           "level": 2,
           "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
-          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 3)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
+          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 3)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
-          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную <style=\"highlight\">(количество навыков, на которые нацелен грешник х 2)</style> (До <style=\"highlight\">6</style>)\n[WhenUse] Получает 4 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами навыка: <style=\"highlight\">+2</style>",
+          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную <style=\"highlight\">(количество навыков, на которые нацелен грешник х 2)</style> (До <style=\"highlight\">6</style>)\n[WhenUse] Получает 4 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами навыка: <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "особенности источника могут быть использованы с большей гибкостью",
-          "desc": "За каждый 1% потерянных ОЗ повышает урон на 0.5%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До 2)\n[WhenUse] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
+          "desc": "За каждый 1% потерянных ОЗ повышает урон на 0.5%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До 2)\n[WhenUse] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "особенности источника могут быть использованы с большей гибкостью",
-          "desc": "За каждый 1% потерянных ОЗ повышает урон на <style=\"highlight\">0.8</style>%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
+          "desc": "За каждый 1% потерянных ОЗ повышает урон на <style=\"highlight\">0.8</style>%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,7 +1602,7 @@
         {
           "level": 1,
           "name": "Однако степень, в которой достигается это согласование и синхронизация, может в результате поглотить своего пользователя",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
         {
           "level": 4,
           "name": "Однако степень, в которой достигается это согласование и синхронизация, может в результате поглотить своего пользователя",
-          "desc": "[StartBattle] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
+          "desc": "[StartBattle] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
           "coinlist": [
             {
               "coindescs": [

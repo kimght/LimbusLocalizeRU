@@ -510,33 +510,33 @@
     {
       "id": 9020,
       "name": "Белый хлопок",
-      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (8 + уровень оглушения x 4) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и ((8 + уровень оглушения x 4) / 2) <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения)",
+      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (8 + уровень оглушения × 4) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и ((8 + уровень оглушения × 4) / 2) <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения)",
       "simpleDesc": [
         {
           "abilityID": 9020,
-          "simpleDesc": "Наносит (8 + уровень оглушения x 4) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+          "simpleDesc": "Наносит (8 + уровень оглушения × 4) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
         }
       ]
     },
     {
       "id": 19020,
       "name": "Белый хлопок+",
-      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (<style=\"upgradeHighlight\">10</style> + уровень оглушения x <style=\"upgradeHighlight\">5</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и <style=\"upgradeHighlight\">(<style=\"upgradeHighlight\">10</style> + уровень оглушения x <style=\"upgradeHighlight\">5</style>)</style> <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения.)",
+      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (<style=\"upgradeHighlight\">10</style> + уровень оглушения × <style=\"upgradeHighlight\">5</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и <style=\"upgradeHighlight\">(<style=\"upgradeHighlight\">10</style> + уровень оглушения × <style=\"upgradeHighlight\">5</style>)</style> <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения.)",
       "simpleDesc": [
         {
           "abilityID": 19020,
-          "simpleDesc": "Наносит (10 + уровень оглушения x 5) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+          "simpleDesc": "Наносит (10 + уровень оглушения × 5) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
         }
       ]
     },
     {
       "id": 29020,
       "name": "Белый хлопок++",
-      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (<style=\"upgradeHighlight\">12</style> + уровень оглушения x <style=\"upgradeHighlight\">6</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и (<style=\"upgradeHighlight\">12</style> + уровень оглушения x <style=\"upgradeHighlight\">6</style>) <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color> <style=\"upgradeHighlight\">и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color></style>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения.)",
+      "desc": "Начало хода: если противник оглушён, снимает с него оглушение и наносит (<style=\"upgradeHighlight\">12</style> + уровень оглушения × <style=\"upgradeHighlight\">6</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и (<style=\"upgradeHighlight\">12</style> + уровень оглушения × <style=\"upgradeHighlight\">6</style>) <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижений уровня атаки</link></u></color> <style=\"upgradeHighlight\">и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color></style>. (Активируется на противнике один раз за битву. Не активируется на тех противниках, которые не восстанавливаются от оглушения.)",
       "simpleDesc": [
         {
           "abilityID": 29020,
-          "simpleDesc": "Наносит (12 + уровень оглушения x 6) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+          "simpleDesc": "Наносит (12 + уровень оглушения × 6) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
         }
       ]
     },
@@ -1113,45 +1113,45 @@
     {
       "id": 9045,
       "name": "Проблеск пламени",
-      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. (До 3)",
+      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. (До 3)",
       "simpleDesc": [
         {
           "abilityID": 9045,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гнева"
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гнева"
         },
         {
           "abilityID": 90451,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
         }
       ]
     },
     {
       "id": 19045,
       "name": "Проблеск пламени+",
-      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> <style=\"upgradeHighlight\">x 1.5</style>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. <style=\"upgradeHighlight\">(До 5)</style>",
+      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> <style=\"upgradeHighlight\">x 1.5</style>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. <style=\"upgradeHighlight\">(До 5)</style>",
       "simpleDesc": [
         {
           "abilityID": 19045,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x 1.5) урона Гнева"
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × 1.5) урона Гнева"
         },
         {
           "abilityID": 190451,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x 1.5) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × 1.5) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
         }
       ]
     },
     {
       "id": 29045,
       "name": "Проблеск пламени++",
-      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x <style=\"upgradeHighlight\">2</style>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. <style=\"upgradeHighlight\">(До 8)</style>",
+      "desc": "Конец хода: тратит половину счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> с противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>, чтобы нанести (Сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × <style=\"upgradeHighlight\">2</style>) урона Гневом. Противник теряет (Потраченный счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> / 2) Уровней защиты на следующий ход. <style=\"upgradeHighlight\">(До 8)</style>",
       "simpleDesc": [
         {
           "abilityID": 29045,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x 2) урона Гнева"
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × 2) урона Гнева"
         },
         {
           "abilityID": 290451,
-          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> x 2) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
+          "simpleDesc": "Наносит (сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × Потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> × 2) урона Гнева. Противник теряет (потраченные счётчики <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>/2) Уровней защиты на следующий ход."
         }
       ]
     },
@@ -1499,11 +1499,11 @@
     {
       "id": 9055,
       "name": "Ливень",
-      "desc": "Начало хода: наносит (Номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 2 всем противникам (Или всем частям аномалии).\n\nКонец хода: <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
+      "desc": "Начало хода: наносит (Номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 2 всем противникам (Или всем частям аномалии).\n\nКонец хода: <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
       "simpleDesc": [
         {
           "abilityID": 9055,
-          "simpleDesc": "Наносит (номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+          "simpleDesc": "Наносит (номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
         },
         {
           "abilityID": 90551,
@@ -1514,11 +1514,11 @@
     {
       "id": 19055,
       "name": "Ливень+",
-      "desc": "Начало хода: наносит (<style=\"upgradeHighlight\">3 + </style>номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"upgradeHighlight\">3</style> всем противникам (Или всем частям аномалии).\n\nКонец хода: <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
+      "desc": "Начало хода: наносит (<style=\"upgradeHighlight\">3 + </style>номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"upgradeHighlight\">3</style> всем противникам (Или всем частям аномалии).\n\nКонец хода: <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
       "simpleDesc": [
         {
           "abilityID": 19055,
-          "simpleDesc": "Наносит (3 + номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+          "simpleDesc": "Наносит (3 + номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
         },
         {
           "abilityID": 190551,
@@ -1529,11 +1529,11 @@
     {
       "id": 29055,
       "name": "Ливень++",
-      "desc": "Начало хода: наносит (<style=\"upgradeHighlight\">5</style> + номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 3 всем противникам (Или всем частям аномалии).\n\nКонец хода: <style=\"upgradeHighlight\">дважды</style> <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
+      "desc": "Начало хода: наносит (<style=\"upgradeHighlight\">5</style> + номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 3 всем противникам (Или всем частям аномалии).\n\nКонец хода: <style=\"upgradeHighlight\">дважды</style> <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> на всех противниках (Или частях аномалии).",
       "simpleDesc": [
         {
           "abilityID": 29055,
-          "simpleDesc": "Наносит (5 + номер хода x 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+          "simpleDesc": "Наносит (5 + номер хода × 2) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
         },
         {
           "abilityID": 290551,
@@ -1600,7 +1600,7 @@
     {
       "id": 9060,
       "name": "Волнение",
-      "desc": "Начало хода: наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила x счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодием и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2 всем противникам с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
+      "desc": "Начало хода: наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила × счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодием и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2 всем противникам с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
       "simpleDesc": [
         {
           "abilityID": 9060,
@@ -1608,14 +1608,14 @@
         },
         {
           "abilityID": 90601,
-          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> x Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> × Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
         }
       ]
     },
     {
       "id": 19060,
       "name": "Волнение+",
-      "desc": "Начало хода: наносит <style=\"upgradeHighlight\">4</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила x счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодием и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на <style=\"upgradeHighlight\">1</style> всем противникам с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
+      "desc": "Начало хода: наносит <style=\"upgradeHighlight\">4</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила × счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодием и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на <style=\"upgradeHighlight\">1</style> всем противникам с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
       "simpleDesc": [
         {
           "abilityID": 19060,
@@ -1623,14 +1623,14 @@
         },
         {
           "abilityID": 190601,
-          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> x Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
+          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> × Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия и понижает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
         }
       ]
     },
     {
       "id": 29060,
       "name": "Волнение++",
-      "desc": "Начало хода: наносит <style=\"upgradeHighlight\">6</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила x счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) <style=\"upgradeHighlight\">урона Чревоугодием всем противникам</style> с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
+      "desc": "Начало хода: наносит <style=\"upgradeHighlight\">6</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3 всем противникам (Или частям аномалии).\n\nКонец хода: наносит (Сила × счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) <style=\"upgradeHighlight\">урона Чревоугодием всем противникам</style> с 3 и более счётчиками <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> (Или частям аномалии, урон наносится на каждую часть отдельно).",
       "simpleDesc": [
         {
           "abilityID": 29060,
@@ -1638,7 +1638,7 @@
         },
         {
           "abilityID": 290601,
-          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> x Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия"
+          "simpleDesc": "Наносит (сила <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> × Счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>) урона Чревоугодия"
         }
       ]
     },
@@ -2202,7 +2202,7 @@
     {
       "id": 9080,
       "name": "Указатель выжившего",
-      "desc": "При переходе на следующий этаж после победы над боссом: даёт (80 + # идентичностей, участвовавших в битве x 5) дополнительной Стоимости. (Не подвержено стартовым усилениям и другим ЭГО Дарам)",
+      "desc": "При переходе на следующий этаж после победы над боссом: даёт (80 + # идентичностей, участвовавших в битве × 5) дополнительной Стоимости. (Не подвержено стартовым усилениям и другим ЭГО Дарам)",
       "simpleDesc": [
         {
           "abilityID": 9080,
@@ -2509,33 +2509,33 @@
     {
       "id": 9095,
       "name": "Сломанный компас",
-      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (5 + количество противников x 3) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
+      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (5 + количество противников × 3) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
       "simpleDesc": [
         {
           "abilityID": 9095,
-          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (5 + количество противников x 3)"
+          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (5 + количество противников × 3)"
         }
       ]
     },
     {
       "id": 19095,
       "name": "Сломанный компас+",
-      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (<style=\"upgradeHighlight\">10</style> + количество противников x 3) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
+      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (<style=\"upgradeHighlight\">10</style> + количество противников × 3) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
       "simpleDesc": [
         {
           "abilityID": 19095,
-          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников x 3)"
+          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников × 3)"
         }
       ]
     },
     {
       "id": 29095,
       "name": "Сломанный компас++",
-      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников x <style=\"upgradeHighlight\">4</style>) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
+      "desc": "Начало первого хода волны: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников × <style=\"upgradeHighlight\">4</style>) всем противникам (Или всем частям аномалии).\n(В случае с аномалиями только ядро учитывается в подсчёте противников).",
       "simpleDesc": [
         {
           "abilityID": 29095,
-          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников x 4)"
+          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в общей сложности на (10 + количество противников × 4)"
         }
       ]
     },
@@ -2775,7 +2775,7 @@
     {
       "id": 9105,
       "name": "Фрагмент Адского пламени",
-      "desc": "Активируется при использовании ЭГО навыков, которые наносят <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, повышают его счётчик, или наносят Особый Огонь. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Гнева + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Гнева: дополнительно повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на основе уровня ЭГО перед атакой (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.) и получает +(Вес атаки / # количество целей x 20)% к урону.",
+      "desc": "Активируется при использовании ЭГО навыков, которые наносят <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, повышают его счётчик, или наносят Особый Огонь. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Гнева + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Гнева: дополнительно повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на основе уровня ЭГО перед атакой (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.) и получает +(Вес атаки / # количество целей × 20)% к урону.",
       "simpleDesc": [
         {
           "abilityID": 9105,
@@ -2985,7 +2985,7 @@
     {
       "id": 9113,
       "name": "Аромат кислого ликёра",
-      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают 2 уровня атаки.\n\nЕсли главная цель имеет [Vibration] и она оглушена, на (Уровень оглушения x 7.5)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения x 15)% больше урона этим навыком вместо этого.",
+      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают 2 уровня атаки.\n\nЕсли главная цель имеет [Vibration] и она оглушена, на (Уровень оглушения × 7.5)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения × 15)% больше урона этим навыком вместо этого.",
       "simpleDesc": [
         {
           "abilityID": 9113,
@@ -2993,18 +2993,18 @@
         },
         {
           "abilityID": 91131,
-          "simpleDesc": "При соблюдении условий: На +(Уроень оглушения x 7.5)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: На +(Уроень оглушения × 7.5)% к урону навыками"
         },
         {
           "abilityID": 91132,
-          "simpleDesc": "При соблюдении условий: На +(Уроень оглушения x 15)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: На +(Уроень оглушения × 15)% к урону навыками"
         }
       ]
     },
     {
       "id": 19113,
       "name": "Аромат кислого ликёра+",
-      "desc": "[Эффекты активируются для #1, #2 <style=\"upgradeHighlight\">и #3</style> Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают 2 уровня атаки.\n\nЕсли главная цель имеет [Vibration] и она оглушена, на (Уровень оглушения x <style=\"upgradeHighlight\">10</style>)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения x <style=\"upgradeHighlight\">20</style>)% больше урона этим навыком вместо этого.",
+      "desc": "[Эффекты активируются для #1, #2 <style=\"upgradeHighlight\">и #3</style> Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают 2 уровня атаки.\n\nЕсли главная цель имеет [Vibration] и она оглушена, на (Уровень оглушения × <style=\"upgradeHighlight\">10</style>)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения × <style=\"upgradeHighlight\">20</style>)% больше урона этим навыком вместо этого.",
       "simpleDesc": [
         {
           "abilityID": 19113,
@@ -3012,18 +3012,18 @@
         },
         {
           "abilityID": 191131,
-          "simpleDesc": "При соблюдении условий: +(Уроень оглушения x 10)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: +(Уроень оглушения × 10)% к урону навыками"
         },
         {
           "abilityID": 191132,
-          "simpleDesc": "При соблюдении условий: +(Уроень оглушения x 20)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: +(Уроень оглушения × 20)% к урону навыками"
         }
       ]
     },
     {
       "id": 29113,
       "name": "Аромат кислого ликёра++",
-      "desc": "[Эффекты активируются для #1, #2 и #3 Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают <style=\"upgradeHighlight\">3</style> уровня атаки.\n\nЕсли главная цель имеет <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> и она оглушена, на (Уровень оглушения x <style=\"upgradeHighlight\">12.5</style>)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения x <style=\"upgradeHighlight\">25</style>)% больше урона этим навыком вместо этого.",
+      "desc": "[Эффекты активируются для #1, #2 и #3 Выбранных Идентичностей]\n\nНавыки, наносящие [Vibration] или повышающие его счётчик (Включая свой), получают <style=\"upgradeHighlight\">3</style> уровня атаки.\n\nЕсли главная цель имеет <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> и она оглушена, на (Уровень оглушения × <style=\"upgradeHighlight\">12.5</style>)% больше урона этим навыком.\n\nПри нанесении урона противнику навыком, нансящим [Vibration] или повышающим его счётчик (Не свой), на (Уровень оглушения × <style=\"upgradeHighlight\">25</style>)% больше урона этим навыком вместо этого.",
       "simpleDesc": [
         {
           "abilityID": 29113,
@@ -3031,11 +3031,11 @@
         },
         {
           "abilityID": 291131,
-          "simpleDesc": "При соблюдении условий: +(Уроень оглушения x 12.5)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: +(Уроень оглушения × 12.5)% к урону навыками"
         },
         {
           "abilityID": 291132,
-          "simpleDesc": "При соблюдении условий: +(Уроень оглушения x 25)% к урону навыками"
+          "simpleDesc": "При соблюдении условий: +(Уроень оглушения × 25)% к урону навыками"
         }
       ]
     },
@@ -3076,7 +3076,7 @@
     {
       "id": 9116,
       "name": "Фрагмент Инерции",
-      "desc": "Активируется при использовании ЭГО навыков, которые наносят силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, повышают его счётчик, или наносят Особый Тремор. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Лености + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Лености: дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (Сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели x 1.5)% больше урона.",
+      "desc": "Активируется при использовании ЭГО навыков, которые наносят силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, повышают его счётчик, или наносят Особый Тремор. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Лености + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Лености: дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (Сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели × 1.5)% больше урона.",
       "simpleDesc": [
         {
           "abilityID": 9116,
@@ -3084,7 +3084,7 @@
         },
         {
           "abilityID": 91161,
-          "simpleDesc": "При соблюдении условий: дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(Сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели x 1.5)% к урону"
+          "simpleDesc": "При соблюдении условий: дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(Сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели × 1.5)% к урону"
         }
       ]
     },
@@ -3207,7 +3207,7 @@
     {
       "id": 9121,
       "name": "Фрагмент желания",
-      "desc": "Активируется при использовании ЭГО навыков, которые повышают счётчик или наносят силу <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Чревоугодия + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Чревоугодия: дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (# разных используемых ЭГО ресурсов x 15)% больше урона.",
+      "desc": "Активируется при использовании ЭГО навыков, которые повышают счётчик или наносят силу <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Чревоугодия + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Чревоугодия: дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (# разных используемых ЭГО ресурсов × 15)% больше урона.",
       "simpleDesc": [
         {
           "abilityID": 9121,
@@ -3215,7 +3215,7 @@
         },
         {
           "abilityID": 91211,
-          "simpleDesc": "Наносит дополнительные счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(# разных используемых ЭГО ресурсов x 15)% к урону"
+          "simpleDesc": "Наносит дополнительные счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(# разных используемых ЭГО ресурсов × 15)% к урону"
         }
       ]
     },
@@ -3356,7 +3356,7 @@
     {
       "id": 9126,
       "name": "Фрагмент Распада",
-      "desc": "Активируется при использовании ЭГО навыков, которые наносят силу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, повышают его счётчик, или наносят Особое Утопание. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Уныния + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Уныния: наносит дополнительные счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же на (Потраченное СД для активации ЭГО x 2.5)% больше урона.",
+      "desc": "Активируется при использовании ЭГО навыков, которые наносят силу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, повышают его счётчик, или наносят Особое Утопание. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Уныния + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Уныния: наносит дополнительные счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же на (Потраченное СД для активации ЭГО × 2.5)% больше урона.",
       "simpleDesc": [
         {
           "abilityID": 9126,
@@ -3368,7 +3368,7 @@
         },
         {
           "abilityID": 91262,
-          "simpleDesc": "При соблюдении условий: дополнительно повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(Потраченное СД для активации ЭГО x 2.5)% к урону"
+          "simpleDesc": "При соблюдении условий: дополнительно повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же получает +(Потраченное СД для активации ЭГО × 2.5)% к урону"
         }
       ]
     },
@@ -3493,7 +3493,7 @@
     {
       "id": 9131,
       "name": "Фрагмент Тщеславия",
-      "desc": "Активируется при использовании ЭГО навыков, которые повышают счётчик или силу <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Гордыни + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Гордыни: дополнительно повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (Сумма всех потраченных ЭГО ресурсов x 8)% больше урона.",
+      "desc": "Активируется при использовании ЭГО навыков, которые повышают счётчик или силу <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Гордыни + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше урона.\n\nЭГО навыки Гордыни: дополнительно повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на (Сумма всех потраченных ЭГО ресурсов × 8)% больше урона.",
       "simpleDesc": [
         {
           "abilityID": 9131,
@@ -3501,7 +3501,7 @@
         },
         {
           "abilityID": 91311,
-          "simpleDesc": "ЭГО навыки Гордыни: доподнительно повышает счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же +(сумма всех потраченных ЭГО ресурсов x 8)% к урону."
+          "simpleDesc": "ЭГО навыки Гордыни: доподнительно повышает счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же +(сумма всех потраченных ЭГО ресурсов × 8)% к урону."
         }
       ]
     },
@@ -3646,7 +3646,7 @@
     {
       "id": 9136,
       "name": "Фрагмент Трения",
-      "desc": "Активируется при использовании ЭГО навыков, которые повышают или тратят счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Зависти + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше.\n\nЭГО навыки Зависти: дополнительно повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на ((Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе + Особый Заряд) x 5)% к урону. (До 200%)",
+      "desc": "Активируется при использовании ЭГО навыков, которые повышают или тратят счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> или Особого Заряда. (Коррозия ЭГО не учитывается)\n\nНавык получает итоговую силу, равную потраченным (ЭГО ресурс Зависти + сумма других потраченных ЭГО ресурсов / 3) и наносит на 50% больше.\n\nЭГО навыки Зависти: дополнительно повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на ((Счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе + Особый Заряд) × 5)% к урону. (До 200%)",
       "simpleDesc": [
         {
           "abilityID": 9136,
@@ -3654,7 +3654,7 @@
         },
         {
           "abilityID": 91361,
-          "simpleDesc": "Дополнительно повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на ((счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе + Особый Заряд) x 5)% к урону."
+          "simpleDesc": "Дополнительно повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> перед атакой на основе уровня ЭГО (ZAYIN: +2 счётчика, TETH: +3 счётчика, HE: +4 счётчика, и т.д.), а так же наносит на ((счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе + Особый Заряд) × 5)% к урону."
         }
       ]
     },
@@ -3971,7 +3971,7 @@
         },
         {
           "abilityID": 91452,
-          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрона</link></u></color>"
+          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрона</link></u></color>"
         }
       ]
     },
@@ -3990,7 +3990,7 @@
         },
         {
           "abilityID": 191452,
-          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрона</link></u></color>"
+          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрона</link></u></color>"
         }
       ]
     },
@@ -4009,7 +4009,7 @@
         },
         {
           "abilityID": 291452,
-          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрона</link></u></color>"
+          "simpleDesc": "Начало следующего хода: даёт 2 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрона</link></u></color>"
         }
       ]
     },
@@ -4061,7 +4061,7 @@
     {
       "id": 9147,
       "name": "Проколотая память",
-      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nАтакующие навыки Пронзающего типа (ЭГО навыки Учитываются) получают +2 к Базовой силе, +1 к Силе положительных монет и -1 к Силе отрицательных монет.\n\nПри победе в столкновении Атакующим навыком Пронзающего типа (ЭГО навыки не учитываются), на 15% больше урона этим навыком; при попадании этим навыком, если скорость выше скорости главной цели, на (Разница в скорости с главной целью x 2.5)% больше урона. (До 35%)",
+      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nАтакующие навыки Пронзающего типа (ЭГО навыки Учитываются) получают +2 к Базовой силе, +1 к Силе положительных монет и -1 к Силе отрицательных монет.\n\nПри победе в столкновении Атакующим навыком Пронзающего типа (ЭГО навыки не учитываются), на 15% больше урона этим навыком; при попадании этим навыком, если скорость выше скорости главной цели, на (Разница в скорости с главной целью × 2.5)% больше урона. (До 35%)",
       "simpleDesc": [
         {
           "abilityID": 9147,
@@ -4627,7 +4627,7 @@
     {
       "id": 9193,
       "name": "Изношенный точильный камень",
-      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНавыки Рубящего типа получают (# Базовых навыков Рубящего типа) Уровней атаки. (До 3; копии навыков не считаются)\n\nКогда атакуемые протвиники уязвимы к Рубящему урону (Сопротивление более 1.0; оглушение не считается), на (5 + (Сопротивление цели к Рубящему урону x 10))% больше урона. (До 25%)",
+      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНавыки Рубящего типа получают (# Базовых навыков Рубящего типа) Уровней атаки. (До 3; копии навыков не считаются)\n\nКогда атакуемые протвиники уязвимы к Рубящему урону (Сопротивление более 1.0; оглушение не считается), на (5 + (Сопротивление цели к Рубящему урону × 10))% больше урона. (До 25%)",
       "simpleDesc": [
         {
           "abilityID": 9193,
@@ -4751,7 +4751,7 @@
     {
       "id": 9197,
       "name": "Высокоэластичные ботинки",
-      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nПронзающие навыки получают (# навыков Пронзающего типа) Уровней атаки. (До 3)\n\nПри 3 и более <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешках</link></u></color>: при нанесении урона противнику, на (10 + (<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешек</link></u></color> на себе x 3))% больше Пронзающего урона. (До 25%)",
+      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nПронзающие навыки получают (# навыков Пронзающего типа) Уровней атаки. (До 3)\n\nПри 3 и более <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешках</link></u></color>: при нанесении урона противнику, на (10 + (<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешек</link></u></color> на себе × 3))% больше Пронзающего урона. (До 25%)",
       "simpleDesc": [
         {
           "abilityID": 9197,
@@ -4759,7 +4759,7 @@
         },
         {
           "abilityID": 91971,
-          "simpleDesc": "При 3+ Спешках: при нанесении урона противнику, на (10 + (Спешек на себе x 3))% больше Пронзающего урона (Макс. 25%)."
+          "simpleDesc": "При 3+ Спешках: при нанесении урона противнику, на (10 + (Спешек на себе × 3))% больше Пронзающего урона (Макс. 25%)."
         }
       ]
     },
@@ -4867,7 +4867,7 @@
     {
       "id": 9201,
       "name": "Габаритная мусорная корзина",
-      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНавыки Дробящего типа поулчают (# Атакющих навыков Дробящего типа) Уровней атаки. (До 3; копии навыков не считаются)\n\nПри использовании навыка для атаки противника, если другой навык был <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сброшен</link></u></color>, на (10 + (Ранг сброшенного навыка x 5))% больше Дробящего урона. (До 25%; при сбросе нескольких навыков ранг считается наивысшим)",
+      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНавыки Дробящего типа поулчают (# Атакющих навыков Дробящего типа) Уровней атаки. (До 3; копии навыков не считаются)\n\nПри использовании навыка для атаки противника, если другой навык был <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сброшен</link></u></color>, на (10 + (Ранг сброшенного навыка × 5))% больше Дробящего урона. (До 25%; при сбросе нескольких навыков ранг считается наивысшим)",
       "simpleDesc": [
         {
           "abilityID": 9201,

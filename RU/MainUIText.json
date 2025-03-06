@@ -1154,7 +1154,7 @@
     },
     {
       "id": "notice_consumption_multiples",
-      "content": " Стоимость {0} x {1}"
+      "content": " Стоимость {0} × {1}"
     },
     {
       "id": "notice_additional_rewards",

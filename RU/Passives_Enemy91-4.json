@@ -28,7 +28,7 @@
         {
             "id": 9008102,
             "name": "Старая крабовая раковина",
-            "desc": "Начало боя: Получает 1 <sprite name=\"Bullet_Crab\"><color=#f8c200><u><link=\"Bullet_Crab\">Старая крабовая раковина</link></u></color>"
+            "desc": "Начало боя: Получает 1 <sprite name=\"Bullet_Crab\"><color=#9f6a3a><u><link=\"Bullet_Crab\">Старая крабовая раковина</link></u></color>"
         }
     ]
 }

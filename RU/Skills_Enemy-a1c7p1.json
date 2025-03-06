@@ -260,7 +260,7 @@
         {
           "level": 1,
           "name": "У нас для вас событие!",
-          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -291,7 +291,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 8 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
@@ -386,7 +386,7 @@
         {
           "level": 1,
           "name": "Какой божественный вкус!",
-          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "desc": "[WhenUse] Поглощает до 50 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; получает 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Если персонаж не поглотил <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> этим Навыком, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>\n[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -417,7 +417,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
@@ -472,7 +472,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                 }
               ]
             }
@@ -498,10 +498,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#f8c200><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, также наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#f8c200><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, также наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
                 }
               ]
             }
@@ -523,7 +523,7 @@
                   "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
@@ -574,7 +574,7 @@
                   "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                 }
               ]
             }
@@ -600,10 +600,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#f8c200><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, также наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#f8c200><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, также наносит 1 <sprite name=\"TakeHpHealReduce\"><color=#e30000><u><link=\"TakeHpHealReduce\">Понижение восстановления ОЗ</link></u></color>"
                 }
               ]
             }
@@ -625,7 +625,7 @@
                   "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
@@ -680,7 +680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color>"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит на 20% больше урона"
@@ -702,17 +702,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Если у цели есть <sprite name=\"TrulyWeak\"><color=#f8c200><u><link=\"TrulyWeak\">Слабость</link></u></color>, наносит на 30% больше урона"
+                  "desc": "[CriticalOnSucceedAttack] Если у цели есть <sprite name=\"TrulyWeak\"><color=#e30000><u><link=\"TrulyWeak\">Слабость</link></u></color>, наносит на 30% больше урона"
                 }
               ]
             }
@@ -776,7 +776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },

@@ -85,7 +85,7 @@
         {
           "level": 2,
           "name": "Гибкое усмирение",
-          "desc": "[WhenUse] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "desc": "[WhenUse] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -114,7 +114,7 @@
         {
           "level": 4,
           "name": "Гибкое усмирение",
-          "desc": "[WhenUse] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\nПри 6+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +1",
+          "desc": "[WhenUse] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\nПри 6+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +1",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
         {
           "level": 4,
           "name": "Лучшая защита",
-          "desc": "[StartBattle] Получает (2 * <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на себе) щитов\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+          "desc": "[StartBattle] Получает (2 * <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на себе) щитов\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
           "coinlist": [
             {}
           ]
@@ -379,7 +379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
                 },
                 {
                   "desc": "+50% урона, если удар был критическим"
@@ -403,7 +403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color>"
+                  "desc": "Тратит 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color>"
                 },
                 {
                   "desc": "+100% урона, если удар был критическим"
@@ -517,10 +517,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -541,10 +541,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -565,10 +565,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -587,27 +587,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#f8c200><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -621,20 +621,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             },
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели <style=\"highlight\">7</style> и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#f8c200><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели <style=\"highlight\">7</style> и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -684,7 +684,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -693,12 +693,12 @@
         {
           "level": 2,
           "name": "Рассечение шпагой",
-          "desc": "[WhenUse] Сила монет +2 против целей с 6 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>",
+          "desc": "[WhenUse] Сила монет +2 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -707,12 +707,12 @@
         {
           "level": 4,
           "name": "Рассечение шпагой",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на цели  (До 2)\n[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели  (До 2)\n[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -726,19 +726,19 @@
         {
           "level": 1,
           "name": "Ремиз",
-          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -747,19 +747,19 @@
         {
           "level": 2,
           "name": "Ремиз",
-          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 1",
+          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -768,19 +768,19 @@
         {
           "level": 4,
           "name": "Ремиз",
-          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при атаке цели с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -794,33 +794,33 @@
         {
           "level": 3,
           "name": "Кошмарная охота",
-          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[EndSkill] При оглушении цели повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] При убийстве цели повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> случайного противника на 3",
+          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 2)\n[EndSkill] При оглушении цели повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] При убийстве цели повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> случайного противника на 3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Переносит 10 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> с цели на себя и получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход. С 50%-м шансом эффект активируется без переноса <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>."
+                  "desc": "[OnSucceedAttack] Переносит 10 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> с цели на себя и получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход. С 50%-м шансом эффект активируется без переноса <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
                 }
               ]
             }
@@ -829,33 +829,33 @@
         {
           "level": 4,
           "name": "Кошмарная охота",
-          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> цели (До 3)\n[EndSkill] При оглушении цели повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] При убийстве цели повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> 2-ух случайных противников на 3",
+          "desc": "[WhenUse] Сила в поединке +1 за каждые 3 на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 3)\n[EndSkill] При оглушении цели повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3\n[EndSkill] При убийстве цели повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> 2-ух случайных противников на 3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Переносит 10 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> с цели на себя и получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход. С 50%-м шансом эффект активируется без переноса <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>."
+                  "desc": "[OnSucceedAttack] Переносит 10 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> с цели на себя и получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход. С 50%-м шансом эффект активируется без переноса <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
                 }
               ]
             }
@@ -869,7 +869,7 @@
         {
           "level": 1,
           "name": "И ты хочешь залиться слезами?",
-          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -877,7 +877,7 @@
         {
           "level": 4,
           "name": "И ты хочешь залиться слезами?",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на цели  (До 3)",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели  (До 3)",
           "coinlist": [
             {}
           ]
@@ -890,7 +890,7 @@
         {
           "level": 1,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -905,7 +905,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color>"
                 }
               ]
             }
@@ -914,7 +914,7 @@
         {
           "level": 2,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -929,7 +929,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             }
@@ -938,7 +938,7 @@
         {
           "level": 4,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n- При 50%+ ОЗ получает дополнительно 15 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -953,7 +953,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             }
@@ -967,7 +967,7 @@
         {
           "level": 1,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -982,7 +982,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color>"
                 }
               ]
             }
@@ -991,7 +991,7 @@
         {
           "level": 2,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, сила монет +1\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, сила монет +1\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1006,7 +1006,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             }
@@ -1015,7 +1015,7 @@
         {
           "level": 4,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
+          "desc": "[WhenUse] Получает +3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> для этого слота навыка в следующем ходу\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] При 5+ <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> поглощает до 60 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>; затем получает 1 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленную руку</link></u></color> за каждые 6 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- При менее чем 5 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненного сердца</link></u></color> получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1030,7 +1030,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             }
@@ -1044,12 +1044,12 @@
         {
           "level": 3,
           "name": "Непростительный грех",
-          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 100 за навык)\n[WhenUse] Наносит +1% дополнительного урона за каждый 1% недостающих ОЗ (До 60%)\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Поглощает все стаки <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленных рук</link></u></color> свыше 10 и получает следующие эффекты:\n- Восстанавливает (Поглощённые стаки x 3) ОЗ\n- Если персонаж поглотил 10+ стаков, сила монет +1\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Восстанавливает 10% ОЗ",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 100 за навык)\n[WhenUse] Наносит +1% дополнительного урона за каждый 1% недостающих ОЗ (До 60%)\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Поглощает все стаки <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленных рук</link></u></color> свыше 10 и получает следующие эффекты:\n- Восстанавливает (Поглощённые стаки × 3) ОЗ\n- Если персонаж поглотил 10+ стаков, сила монет +1\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Восстанавливает 10% ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             },
@@ -1078,12 +1078,12 @@
         {
           "level": 4,
           "name": "Непростительный грех",
-          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 100 за навык)\n[WhenUse] Наносит +1.5% дополнительного урона за каждый 1% недостающих ОЗ (До 90%)\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Поглощает все стаки <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленных рук</link></u></color> свыше 10 и получает следующие эффекты:\n- Восстанавливает (Поглощённые стаки x 3) ОЗ\n- Если персонаж поглотил 10+ стаков, сила монет +1\n- Если персонаж поглотил 20 стаков, повторно использует последнюю монету\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Восстанавливает 10% ОЗ",
+          "desc": "При попадании этим навыком: восстанавливает 50% от нанесённого урона ОЗ (До 100 за навык)\n[WhenUse] Наносит +1.5% дополнительного урона за каждый 1% недостающих ОЗ (До 90%)\n[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1\n[WhenUse] Поглощает все стаки <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленных рук</link></u></color> свыше 10 и получает следующие эффекты:\n- Восстанавливает (Поглощённые стаки × 3) ОЗ\n- Если персонаж поглотил 10+ стаков, сила монет +1\n- Если персонаж поглотил 20 стаков, повторно использует последнюю монету\n[WhenUse] Получает 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Восстанавливает 10% ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#f8c200><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Окровавленные руки</link></u></color>"
                 }
               ]
             },
@@ -1117,7 +1117,7 @@
         {
           "level": 1,
           "name": "Угасшее терпение",
-          "desc": "[StartBattle] Получает 3 <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненных сердца</link></u></color> (раз за ход)",
+          "desc": "[StartBattle] Получает 3 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненных сердца</link></u></color> (раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Угасшее терпение",
-          "desc": "[StartBattle] При 40%+ ОЗ получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе до 3 раз (раз за ход; теряет Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> равный количеству активаций)\n[StartBattle] При менее 40% ОЗ поглощает до 20 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и восстанавливает такое же значение ОЗ (раз за ход)\n[StartBattle] Получает 3 <sprite name=\"WornHeartGreg\"><color=#f8c200><u><link=\"WornHeartGreg\">Болезненных сердца</link></u></color> (раз за ход)",
+          "desc": "[StartBattle] При 40%+ ОЗ получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на себе до 3 раз (раз за ход; теряет Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> равный количеству активаций)\n[StartBattle] При менее 40% ОЗ поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и восстанавливает такое же значение ОЗ (раз за ход)\n[StartBattle] Получает 3 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Болезненных сердца</link></u></color> (раз за ход)",
           "coinlist": [
             {
               "coindescs": [

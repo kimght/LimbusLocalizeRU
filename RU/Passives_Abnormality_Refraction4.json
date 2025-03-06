@@ -8,47 +8,47 @@
         {
             "id": 860502,
             "name": "Изгнание чужака",
-            "desc": "Когда присутствуют портреты:\n- Конец хода: Когда пройдёт 3 хода с момента появления портретов...\n     - Накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на первого развёрнутого противника без <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>\n     - Сжигает все портреты. Накладывает удвоенное количество сожжённых фальшивых портретов в качестве силы и длительности <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на всех противников. Получает <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> в следующий ход"
+            "desc": "Когда присутствуют портреты:\n- Конец хода: Когда пройдёт 3 хода с момента появления портретов...\n     - Накладывает <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на первого развёрнутого противника без <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color>\n     - Сжигает все портреты. Накладывает удвоенное количество сожжённых фальшивых портретов в качестве силы и длительности <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на всех противников. Получает <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> в следующий ход"
         },
         {
             "id": 860503,
             "name": "Охота на захватчика",
-            "desc": "Если у цели есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, сила в поединке +1, урон +20%."
+            "desc": "Если у цели есть <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, сила в поединке +1, урон +20%."
         },
         {
             "id": 860507,
             "name": "Ох, дорогой Мастер...",
-            "desc": "Когда присутствуют портреты, снижает сопротивление к типам атак и Сродства на 0.5 и получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nЕсли противники уничтожили портрет Мастера, накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Вторженец</link></u></color> на персонажа, уничтожившего его; затем получает 0.5 физического сопротивления и 5 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход."
+            "desc": "Когда присутствуют портреты, снижает сопротивление к типам атак и Сродства на 0.5 и получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nЕсли противники уничтожили портрет Мастера, накладывает <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженец</link></u></color> на персонажа, уничтожившего его; затем получает 0.5 физического сопротивления и 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход."
         },
         {
             "id": 860505,
             "name": "Ты, должно быть, родственник захватчика?",
-            "desc": "Когда у противника есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника без <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> каждый раз, когда этот персонаж теряет 10% своих ОЗ (максимум 4 противника)"
+            "desc": "Когда у противника есть <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, накладывает <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника без <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color> каждый раз, когда этот персонаж теряет 10% своих ОЗ (максимум 4 противника)"
         },
         {
             "id": 860601,
             "name": "Пронзающий взор",
-            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
+            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
         },
         {
             "id": 860602,
             "name": "Захватчик",
-            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
+            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
         },
         {
             "id": 860701,
             "name": "Пронзающий взор",
-            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
+            "desc": "Пока этот персонаж существует, каждый ход накладывает 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> (количество и счётчик)"
         },
         {
             "id": 860702,
             "name": "Захватчик",
-            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#f8c200><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
+            "desc": "При поражении этого персонажа накладывает <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color> на противника, который атаковал его последним\n- Если у 4+ противников есть <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Захватчик</link></u></color>, этот эффект не активируется"
         },
         {
             "id": 860801,
             "name": "Знакомый разъём",
-            "desc": "За каждое <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключение</link></u></color> получает +1 к минимальной скорости, 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли персонаж оглушён на следующий ход из-за наличия 3 <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключения</link></u></color>, получает 4 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+            "desc": "За каждое <sprite name=\"ConnectedPlug\"><color=#e30000><u><link=\"ConnectedPlug\">Подключение</link></u></color> получает +1 к минимальной скорости, 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли персонаж оглушён на следующий ход из-за наличия 3 <sprite name=\"ConnectedPlug\"><color=#e30000><u><link=\"ConnectedPlug\">Подключения</link></u></color>, получает 4 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
         },
         {
             "id": 860802,
@@ -58,17 +58,17 @@
         {
             "id": 860803,
             "name": "Жажда свободы",
-            "desc": "При 25% ОЗ, начиная с этого хода, получает 1 из следующих эффектов каждый ход. Значения накапливаются и не истекают.\n- Получает 1 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышение силы в поединке</link></u></color>\n- Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\n- Получает 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+            "desc": "При 25% ОЗ, начиная с этого хода, получает 1 из следующих эффектов каждый ход. Значения накапливаются и не истекают.\n- Получает 1 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышение силы в поединке</link></u></color>\n- Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>\n- Получает 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
         },
         {
             "id": 860804,
             "name": "Генератор",
-            "desc": "В конце хода: если у этого персонажа нет <sprite name=\"ConnectedPlug\"><color=#f8c200><u><link=\"ConnectedPlug\">Подключения</link></u></color> и <sprite name=\"ThundercloudFormation\"><color=#f8c200><u><link=\"ThundercloudFormation\">Грозового облака</link></u></color>, призывает Генератор в следующем ходу."
+            "desc": "В конце хода: если у этого персонажа нет <sprite name=\"ConnectedPlug\"><color=#e30000><u><link=\"ConnectedPlug\">Подключения</link></u></color> и <sprite name=\"ThundercloudFormation\"><color=#e30000><u><link=\"ThundercloudFormation\">Грозового облака</link></u></color>, призывает Генератор в следующем ходу."
         },
         {
             "id": 862801,
             "name": "Собирающееся грозовое облако",
-            "desc": "В конце хода: накладывает 4 <sprite name=\"ThundercloudFormation\"><color=#f8c200><u><link=\"ThundercloudFormation\">Собирающихся грозовых облака</link></u></color> на Грезящую электроовцу на следующий ход.\nНе накладывает больше этого эффекта, если он уже наложен."
+            "desc": "В конце хода: накладывает 4 <sprite name=\"ThundercloudFormation\"><color=#e30000><u><link=\"ThundercloudFormation\">Собирающихся грозовых облака</link></u></color> на Грезящую электроовцу на следующий ход.\nНе накладывает больше этого эффекта, если он уже наложен."
         },
         {
             "id": 862802,

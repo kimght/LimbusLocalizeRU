@@ -18,7 +18,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -39,7 +39,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -60,7 +60,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -86,10 +86,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -113,10 +113,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -140,10 +140,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -157,32 +157,32 @@
         {
           "level": 3,
           "name": "Опасное решение",
-          "desc": "Сила монет +1 при 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\nЕсли на цели 6+ <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, наносит +20% урона",
+          "desc": "Сила монет +1 при 5+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\nЕсли на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит +20% урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 5"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 5"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -191,32 +191,32 @@
         {
           "level": 4,
           "name": "Опасное решение",
-          "desc": "Сила монет +1 за каждые 5 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе (До 2)\nЕсли на цели 6+ <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, наносит +40% урона",
+          "desc": "Сила монет +1 за каждые 5 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе (До 2)\nЕсли на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит +40% урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 5"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 5"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы нанести 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -249,7 +249,7 @@
         {
           "level": 1,
           "name": "Ко мне!",
-          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)",
+          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)",
           "coinlist": [
             {},
             {
@@ -264,7 +264,7 @@
         {
           "level": 2,
           "name": "Ко мне!",
-          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> после активации эффекта (Раз за ход)",
+          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> после активации эффекта (Раз за ход)",
           "coinlist": [
             {},
             {
@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "Ко мне!",
-          "desc": "<style=\"highlight\">[StartBattle] Даёт союзникам, окружающим грешницу на приборной панели 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color></style>\n[WhenUse] Повышает <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> после активации эффекта (Раз за ход)",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт союзникам, окружающим грешницу на приборной панели 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color></style>\n[WhenUse] Повышает <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> после активации эффекта (Раз за ход)",
           "coinlist": [
             {},
             {
@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "Охотимся до конца!",
-          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 10% за каждый навык в наибольшем резонансе.",
+          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#9f6a3a><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 10% за каждый навык в наибольшем резонансе.",
           "coinlist": [
             {},
             {
@@ -321,7 +321,7 @@
         {
           "level": 2,
           "name": "Охотимся до конца!",
-          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 15% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 1 <sprite name=\"IndigoResultUp\"><color=#f8c200><u><link=\"IndigoResultUp\">Повышение силы Гордыни</link></u></color>",
+          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#9f6a3a><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 15% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 1 <sprite name=\"IndigoResultUp\"><color=#f8c200><u><link=\"IndigoResultUp\">Повышение силы Гордыни</link></u></color>",
           "coinlist": [
             {},
             {
@@ -343,7 +343,7 @@
         {
           "level": 4,
           "name": "Охотимся до конца!",
-          "desc": "[StartBattle] Даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> союзникам, окружающим грешницу на приборной панели.\n[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 20% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 2 <sprite name=\"IndigoResultUp\"><color=#f8c200><u><link=\"IndigoResultUp\">Повышения силы Гордыни</link></u></color>",
+          "desc": "[StartBattle] Даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> союзникам, окружающим грешницу на приборной панели.\n[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#9f6a3a><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 20% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 2 <sprite name=\"IndigoResultUp\"><color=#f8c200><u><link=\"IndigoResultUp\">Повышения силы Гордыни</link></u></color>",
           "coinlist": [
             {},
             {
@@ -472,7 +472,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -493,7 +493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -514,7 +514,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
@@ -539,14 +539,14 @@
                   "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -563,14 +563,14 @@
                   "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -590,14 +590,14 @@
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             }
@@ -616,27 +616,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#f8c200><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -650,27 +650,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#f8c200><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "Рыцарское фехтование «Цвай»",
-          "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 4 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)",
+          "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 4 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -738,7 +738,7 @@
         {
           "level": 2,
           "name": "Рыцарское фехтование «Цвай»",
-          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые <style=\"highlight\">3</style> единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)\n<style=\"highlight\">[WhenUse] Базовая сила +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил</style>",
+          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые <style=\"highlight\">3</style> единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)\n<style=\"highlight\">[WhenUse] Базовая сила +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -765,7 +765,7 @@
         {
           "level": 4,
           "name": "Рыцарское фехтование «Цвай»",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые <style=\"highlight\">2</style> единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">3</style>)\n[WhenUse] Базовая сила +1 <style=\"highlight\">за каждые 4</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил <style=\"highlight\">(До 2)</style>",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые <style=\"highlight\">2</style> единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">3</style>)\n[WhenUse] Базовая сила +1 <style=\"highlight\">за каждые 4</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил <style=\"highlight\">(До 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -797,7 +797,7 @@
         {
           "level": 1,
           "name": "Ты не пройдёшь.",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До 3)\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До 3)\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -819,7 +819,7 @@
                   "desc": "[OnSucceedAttack] Наносит (счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе/22) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>"
                 }
               ]
             }
@@ -828,7 +828,7 @@
         {
           "level": 2,
           "name": "Ты не пройдёшь.",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил</style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил</style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -850,7 +850,7 @@
                   "desc": "[OnSucceedAttack] Наносит (счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе/22) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">3</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>"
                 }
               ]
             }
@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "Ты не пройдёшь.",
-          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">5</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">5</style>)\n[WhenUse] Сила монет +1 при <style=\"highlight\">4+</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">5</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">5</style>)\n[WhenUse] Сила монет +1 при <style=\"highlight\">4+</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -881,7 +881,7 @@
                   "desc": "[OnSucceedAttack] Наносит (счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе/22) <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при <style=\"highlight\">8+</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> при <style=\"highlight\">8+</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color> на Измаил"
                 }
               ]
             }
@@ -895,7 +895,7 @@
         {
           "level": 3,
           "name": "Хранитель",
-          "desc": "[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До 3)\n[WhenUse] +50% урона, если Измаил приняла <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color>\n[WhenUse] Сила монет +1 за каждые 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил (До 2)\n[WhenUse] Этот слот получает 8 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До 3)\n[WhenUse] +50% урона, если Измаил приняла <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color>\n[WhenUse] Сила монет +1 за каждые 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил (До 2)\n[WhenUse] Этот слот получает 8 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -914,13 +914,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Измаил тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> пропорционально потраченному счётчику. (До 10)\n- +(Лишний <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> x 1.5)% урона (До 30%)"
+                  "desc": "[OnSucceedAttack] Измаил тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> пропорционально потраченному счётчику. (До 10)\n- +(Лишний <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> × 1.5)% урона (До 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack]<sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> во время <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитной стойки</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack]<sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> во время <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитной стойки</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -929,7 +929,7 @@
         {
           "level": 4,
           "name": "Хранитель",
-          "desc": "[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">5</style>)\n[WhenUse] +<style=\"highlight\">70</style>%, если Измаил приняла <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color>\n[WhenUse] Сила монет +1 за каждые 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил (До <style=\"highlight\">4</style>)\n[WhenUse] Этот слот получает <style=\"highlight\">10</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у Измаил (До <style=\"highlight\">5</style>)\n[WhenUse] +<style=\"highlight\">70</style>%, если Измаил приняла <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color>\n[WhenUse] Сила монет +1 за каждые 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на Измаил (До <style=\"highlight\">4</style>)\n[WhenUse] Этот слот получает <style=\"highlight\">10</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -948,13 +948,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Измаил тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> пропорционально потраченному счётчику. (До <style=\"highlight\">20</style>)\n- +(Лишний <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> x <style=\"highlight\">5</style>)% урона (До <style=\"highlight\">50</style>%)"
+                  "desc": "[OnSucceedAttack] Измаил тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и наносит <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> пропорционально потраченному счётчику. (До <style=\"highlight\">20</style>)\n- +(Лишний <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> × <style=\"highlight\">5</style>)% урона (До <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> во время <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитной стойки</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> во время <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитной стойки</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -968,12 +968,12 @@
         {
           "level": 1,
           "name": "Ваш щит",
-          "desc": "<sprite name=\"CanDuelGuard\"><color=#f8c200><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Встаёт в <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color> на 2 хода. (Единожды за ход)\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10 (Единожды за ход)",
+          "desc": "<sprite name=\"CanDuelGuard\"><color=#9f6a3a><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Встаёт в <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color> на 2 хода. (Единожды за ход)\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 }
               ]
             }
@@ -982,12 +982,12 @@
         {
           "level": 4,
           "name": "Ваш щит",
-          "desc": "<sprite name=\"CanDuelGuard\"><color=#f8c200><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Встаёт в <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color> на 2 хода. (Единожды за ход)\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10 (Единожды за ход)\n<style=\"highlight\">[WinDuel] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color></style>",
+          "desc": "<sprite name=\"CanDuelGuard\"><color=#9f6a3a><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Встаёт в <sprite name=\"DefensiveStance\"><color=#f8c200><u><link=\"DefensiveStance\">Защитную стойку</link></u></color> на 2 хода. (Единожды за ход)\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 10 (Единожды за ход)\n<style=\"highlight\">[WinDuel] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 }
               ]
             }
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 1 [SlashTakeDamageUp] (Единожды за ход)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда наносит 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color></style>"
+                  "desc": "<style=\"highlight\">- Если же на поле боя 6+ союзников из клана «Курокумо» включая эту идентичность, тогда наносит 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color></style>"
                 }
               ]
             },

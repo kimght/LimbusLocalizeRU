@@ -3,7 +3,7 @@
         {
             "id": 827701,
             "name": "Спасённое время",
-            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#f8c200><u><link=\"LimitedTime\">Украденного времени</link></u></color>"
+            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденного времени</link></u></color>"
         },
         {
             "id": 827702,
@@ -13,12 +13,12 @@
         {
             "id": 827801,
             "name": "Всеобщее время",
-            "desc": "При 75% ОЗ переходит во вторую фазу. При смене фазы восстанавливает СД до 30 и разделяет <sprite name=\"LimitedTime\"><color=#f8c200><u><link=\"LimitedTime\">Украденное время</link></u></color> между всеми частями как <sprite name=\"OwnTime\"><color=#f8c200><u><link=\"OwnTime\">Распределённое время</link></u></color>."
+            "desc": "При 75% ОЗ переходит во вторую фазу. При смене фазы восстанавливает СД до 30 и разделяет <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденное время</link></u></color> между всеми частями как <sprite name=\"OwnTime\"><color=#9f6a3a><u><link=\"OwnTime\">Распределённое время</link></u></color>."
         },
         {
             "id": 827802,
             "name": "Равные расходы",
-            "desc": "В конце хода получает <sprite name=\"EquitableDistribution\"><color=#f8c200><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color>."
+            "desc": "В конце хода получает <sprite name=\"EquitableDistribution\"><color=#9f6a3a><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color>."
         },
         {
             "id": 827803,
@@ -28,7 +28,7 @@
         {
             "id": 827804,
             "name": "Вначале у них забери!",
-            "desc": "При менее 60% ОЗ преобразует <sprite name=\"EquitableDistribution\"><color=#f8c200><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color> в <sprite name=\"UnfairDistribution\"><color=#f8c200><u><link=\"UnfairDistribution\">Распри</link></u></color>."
+            "desc": "При менее 60% ОЗ преобразует <sprite name=\"EquitableDistribution\"><color=#9f6a3a><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color> в <sprite name=\"UnfairDistribution\"><color=#9f6a3a><u><link=\"UnfairDistribution\">Распри</link></u></color>."
         }
     ]
 }

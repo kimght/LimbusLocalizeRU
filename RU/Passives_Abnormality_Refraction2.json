@@ -3,27 +3,27 @@
         {
             "id": 853901,
             "name": "Сломанный зонт",
-            "desc": "Когда тело повреждено, тело получает 1 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> каждый ход."
+            "desc": "Когда тело повреждено, тело получает 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> каждый ход."
         },
         {
             "id": 853902,
             "name": "Порванный зонт",
-            "desc": "Когда голова повреждена, получает 1 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> каждый ход."
+            "desc": "Когда голова повреждена, получает 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> каждый ход."
         },
         {
             "id": 853903,
             "name": "Борьба до конца",
-            "desc": "При 15% ОЗ этот персонаж получает 10 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход\nОЗ новых призванных Старых зонтов на 30% больше. Использует 'Плач в поисках чего-то' каждый ход."
+            "desc": "При 15% ОЗ этот персонаж получает 10 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход\nОЗ новых призванных Старых зонтов на 30% больше. Использует 'Плач в поисках чего-то' каждый ход."
         },
         {
             "id": 853904,
             "name": "Тщеславное сердце",
-            "desc": "Получает 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонта</link></u></color> в начале первого хода. (Максимум 6)\nПолучает дополнительные <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитные зонты</link></u></color> в количестве равном числу \"<sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Циклов</link></u></color>\".\nПолучает <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> равную количеству <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color> на себе.\nЕсли экипировано Умение ожидания, призывает Старых зонтов в количестве равном числу <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color>"
+            "desc": "Получает 2 <sprite name=\"WaveFoxUmbrella\"><color=#9f6a3a><u><link=\"WaveFoxUmbrella\">Защитных зонта</link></u></color> в начале первого хода. (Максимум 6)\nПолучает дополнительные <sprite name=\"WaveFoxUmbrella\"><color=#9f6a3a><u><link=\"WaveFoxUmbrella\">Защитные зонты</link></u></color> в количестве равном числу \"<sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#9f6a3a><u><link=\"RailBuffForLine2_A_ENEMY\">Циклов</link></u></color>\".\nПолучает <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> равную количеству <sprite name=\"WaveFoxUmbrella\"><color=#9f6a3a><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color> на себе.\nЕсли экипировано Умение ожидания, призывает Старых зонтов в количестве равном числу <sprite name=\"WaveFoxUmbrella\"><color=#9f6a3a><u><link=\"WaveFoxUmbrella\">Защитных зонтов</link></u></color>"
         },
         {
             "id": 853905,
             "name": "Преломлённые Разрыв и Утопание",
-            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
         },
         {
             "id": 853906,
@@ -33,12 +33,12 @@
         {
             "id": 854001,
             "name": "Заброшенный старый зонт",
-            "desc": "Когда этот персонаж убит, убивший его персонаж получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход.\nВсе части Бродячего лиса получают 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>.\nБродячий лис получает 1 <sprite name=\"ShardOfUmbrella\"><color=#f8c200><u><link=\"ShardOfUmbrella\">Остатки зонта</link></u></color>."
+            "desc": "Когда этот персонаж убит, убивший его персонаж получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход.\nВсе части Бродячего лиса получают 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>.\nБродячий лис получает 1 <sprite name=\"ShardOfUmbrella\"><color=#9f6a3a><u><link=\"ShardOfUmbrella\">Остатки зонта</link></u></color>."
         },
         {
             "id": 854101,
             "name": "Пониженная живучесть",
-            "desc": "Если ОЗ щита полностью истощены после использования навыка защиты, получает 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход."
+            "desc": "Если ОЗ щита полностью истощены после использования навыка защиты, получает 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход."
         },
         {
             "id": 854102,
@@ -48,7 +48,7 @@
         {
             "id": 854104,
             "name": "Преломленный заряд",
-            "desc": "При попадании, если у цели есть <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>, уменьшает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> цели на 1 и получает 1 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряд</link></u></color>. (3 раза за ход)"
+            "desc": "При попадании, если у цели есть <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>, уменьшает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> цели на 1 и получает 1 <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color>. (3 раза за ход)"
         },
         {
             "id": 854103,
@@ -58,12 +58,12 @@
         {
             "id": 854105,
             "name": "Подзаряд",
-            "desc": "Получает 3 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color> в начале первого хода.\nПолучает 1 дополнительный <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряд</link></u></color> за каждый счётчик <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>. (Максимум 8)"
+            "desc": "Получает 3 <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряда</link></u></color> в начале первого хода.\nПолучает 1 дополнительный <sprite name=\"SelfCharge\"><color=#9f6a3a><u><link=\"SelfCharge\">Подзаряд</link></u></color> за каждый счётчик <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#9f6a3a><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>. (Максимум 8)"
         },
         {
             "id": 854201,
             "name": "Митоз",
-            "desc": "Когда повреждена рука, все части получают 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+            "desc": "Когда повреждена рука, все части получают 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
         },
         {
             "id": 854202,
@@ -83,27 +83,27 @@
         {
             "id": 854301,
             "name": "Вино феи",
-            "desc": "Когда убит идентичностью, все идентичности получают 5 <sprite name=\"TipsinessRail\"><color=#f8c200><u><link=\"TipsinessRail\">Опьянений</link></u></color> на следующий ход.\nЕсли не убит, Фея-джентльмен восстанавливает 10% ОЗ и получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>, 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nИстекает в конце хода"
+            "desc": "Когда убит идентичностью, все идентичности получают 5 <sprite name=\"TipsinessRail\"><color=#9f6a3a><u><link=\"TipsinessRail\">Опьянений</link></u></color> на следующий ход.\nЕсли не убит, Фея-джентльмен восстанавливает 10% ОЗ и получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>, 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nИстекает в конце хода"
         },
         {
             "id": 854401,
             "name": "Разбитая возможность",
-            "desc": "Когда повреждена рука, рука получает 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+            "desc": "Когда повреждена рука, рука получает 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
         },
         {
             "id": 854402,
             "name": "Действие преломлённого Утопания",
-            "desc": "При получении <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> получает 1 доп. кол-во и счётчик."
+            "desc": "При получении <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> получает 1 доп. кол-во и счётчик."
         },
         {
             "id": 854501,
             "name": "Потерянная возможность",
-            "desc": "Когда рука повреждена, персонаж получает 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+            "desc": "Когда рука повреждена, персонаж получает 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
         },
         {
             "id": 854502,
             "name": "Неполная тень",
-            "desc": "Когда голова повреждена, персонаж получает 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> каждый ход."
+            "desc": "Когда голова повреждена, персонаж получает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> каждый ход."
         },
         {
             "id": 854503,
@@ -123,7 +123,7 @@
         {
             "id": 854701,
             "name": "Митоз",
-            "desc": "Когда повреждена рука, персонаж получает 1 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
+            "desc": "Когда повреждена рука, персонаж получает 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> каждый ход."
         },
         {
             "id": 854702,
@@ -143,12 +143,12 @@
         {
             "id": 854801,
             "name": "Вино феи",
-            "desc": "Когда убит идентичностью, все идентичности получают 5 <sprite name=\"TipsinessRail\"><color=#f8c200><u><link=\"TipsinessRail\">Опьянений</link></u></color> на следующий ход.\nЕсли не убит, Фея-джентльмен восстанавливает 10% ОЗ и получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>, 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nИстекает в конце хода."
+            "desc": "Когда убит идентичностью, все идентичности получают 5 <sprite name=\"TipsinessRail\"><color=#9f6a3a><u><link=\"TipsinessRail\">Опьянений</link></u></color> на следующий ход.\nЕсли не убит, Фея-джентльмен восстанавливает 10% ОЗ и получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>, 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nИстекает в конце хода."
         },
         {
             "id": 854901,
             "name": "Зачарованный",
-            "desc": "Накладывает <sprite name=\"FairyCharm\"><color=#f8c200><u><link=\"FairyCharm\">Зачарованный</link></u></color> на противника с наименьшей Скоростью.\nКоличество целей увеличивается с каждым счётчиком <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>.\nКоличество целей увеличивается при восстановлении Феи."
+            "desc": "Накладывает <sprite name=\"FairyCharm\"><color=#9f6a3a><u><link=\"FairyCharm\">Зачарованный</link></u></color> на противника с наименьшей Скоростью.\nКоличество целей увеличивается с каждым счётчиком <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#9f6a3a><u><link=\"RailBuffForLine2_A_ENEMY\">Цикла</link></u></color>.\nКоличество целей увеличивается при восстановлении Феи."
         },
         {
             "id": 854902,
@@ -158,7 +158,7 @@
         {
             "id": 854903,
             "name": "Главная приманка",
-            "desc": "Не может нанести урон Ядру при нанесении урона Фее.\nНацеливается на более кол-во ячеек в зависимости от кол-ва <sprite name=\"FairyCharm\"><color=#f8c200><u><link=\"FairyCharm\">Зачарованных</link></u></color> персонажей."
+            "desc": "Не может нанести урон Ядру при нанесении урона Фее.\nНацеливается на более кол-во ячеек в зависимости от кол-ва <sprite name=\"FairyCharm\"><color=#9f6a3a><u><link=\"FairyCharm\">Зачарованных</link></u></color> персонажей."
         },
         {
             "id": 854904,
@@ -173,7 +173,7 @@
         {
             "id": 854906,
             "name": "Преломлённые Разрыв и Утопание",
-            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
         },
         {
             "id": 854907,
@@ -183,17 +183,17 @@
         {
             "id": 855001,
             "name": "Побег из пространства",
-            "desc": "Начиная со 2-го хода, проходит через <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственный разлом</link></u></color> каждые несколько ходов.\nКогда все части оглушены, проходит через <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственный разлом</link></u></color> на следующем ходе.\nНе может быть оглушён будучи в Пространственном разломе.\nКогда ОЗ ядра 30% и меньше не проходит через <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственный разлом</link></u></color>."
+            "desc": "Начиная со 2-го хода, проходит через <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственный разлом</link></u></color> каждые несколько ходов.\nКогда все части оглушены, проходит через <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственный разлом</link></u></color> на следующем ходе.\nНе может быть оглушён будучи в Пространственном разломе.\nКогда ОЗ ядра 30% и меньше не проходит через <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственный разлом</link></u></color>."
         },
         {
             "id": 855002,
             "name": "Ловушка пространственного побега",
-            "desc": "Когда все <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственные разломы</link></u></color> уничтожены в тот же ход, в который они были созданы, добровольно выходит из <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственного разлома</link></u></color>.\nПосле этого теряет 5 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и повышает порог оглушения на 30 для всех частей."
+            "desc": "Когда все <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственные разломы</link></u></color> уничтожены в тот же ход, в который они были созданы, добровольно выходит из <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Пространственного разлома</link></u></color>.\nПосле этого теряет 5 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и повышает порог оглушения на 30 для всех частей."
         },
         {
             "id": 855003,
             "name": "Восстановление пространственно-преломляющего лезвия",
-            "desc": "Когда часть лезвия повреждена, теряет 5 единиц на своём счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>,\nи в конце след. хода восстанавливает часть с лезвием, тратя на это 2 единицы счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>.\nКогда часть с лезвием повреждена, получает 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> в начале каждого хода."
+            "desc": "Когда часть лезвия повреждена, теряет 5 единиц на своём счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>,\nи в конце след. хода восстанавливает часть с лезвием, тратя на это 2 единицы счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>.\nКогда часть с лезвием повреждена, получает 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> в начале каждого хода."
         },
         {
             "id": 855004,
@@ -208,22 +208,22 @@
         {
             "id": 856001,
             "name": "Кровоточащее измерение",
-            "desc": "Наносит на 10% больше урона после прохода через <sprite name=\"PassedPortal_Red\"><color=#f8c200><u><link=\"PassedPortal_Red\">Кровоточащее измерение</link></u></color>."
+            "desc": "Наносит на 10% больше урона после прохода через <sprite name=\"PassedPortal_Red\"><color=#9f6a3a><u><link=\"PassedPortal_Red\">Кровоточащее измерение</link></u></color>."
         },
         {
             "id": 856101,
             "name": "Отравляющее измерение",
-            "desc": "Ядро получает +20% максимальных ОЗ после прохода через <sprite name=\"PassedPortal_Green\"><color=#f8c200><u><link=\"PassedPortal_Green\">Отравляющее измерение</link></u></color>."
+            "desc": "Ядро получает +20% максимальных ОЗ после прохода через <sprite name=\"PassedPortal_Green\"><color=#9f6a3a><u><link=\"PassedPortal_Green\">Отравляющее измерение</link></u></color>."
         },
         {
             "id": 856201,
             "name": "Содрогающееся измерение",
-            "desc": "Получает 1 скорость после прохода через <sprite name=\"PassedPortal_Yellow\"><color=#f8c200><u><link=\"PassedPortal_Yellow\">Содрогающееся измерение</link></u></color>."
+            "desc": "Получает 1 скорость после прохода через <sprite name=\"PassedPortal_Yellow\"><color=#9f6a3a><u><link=\"PassedPortal_Yellow\">Содрогающееся измерение</link></u></color>."
         },
         {
             "id": 856301,
             "name": "Электризующее измерение",
-            "desc": "Получает +1 к силе монет после прохода через <sprite name=\"PassedPortal_Blue\"><color=#f8c200><u><link=\"PassedPortal_Blue\">Электризующее измерение</link></u></color>."
+            "desc": "Получает +1 к силе монет после прохода через <sprite name=\"PassedPortal_Blue\"><color=#9f6a3a><u><link=\"PassedPortal_Blue\">Электризующее измерение</link></u></color>."
         },
         {
             "id": 855101,
@@ -233,7 +233,7 @@
         {
             "id": 855102,
             "name": "Последствия отмотки времени",
-            "desc": "После активации Золотого часа получает 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> в начале хода."
+            "desc": "После активации Золотого часа получает 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> в начале хода."
         },
         {
             "id": 855103,
@@ -243,7 +243,7 @@
         {
             "id": 855104,
             "name": "Преломлённые Разрыв и Утопание",
-            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимально количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимально количества, равного 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> могут достигать только максимального счётчика, равного 5."
         },
         {
             "id": 855105,
@@ -253,17 +253,17 @@
         {
             "id": 855501,
             "name": "Возвращающееся прошлое",
-            "desc": "Если накоплено 50+ <sprite name=\"AccumulatedPastMirror\"><color=#f8c200><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color>, и если ОЗ Ядра меньше или равно 80%, Ядро восстанавливает 200 ОЗ, расходуя 50 <sprite name=\"AccumulatedPastMirror\"><color=#f8c200><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color>."
+            "desc": "Если накоплено 50+ <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color>, и если ОЗ Ядра меньше или равно 80%, Ядро восстанавливает 200 ОЗ, расходуя 50 <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленного прошлого</link></u></color>."
         },
         {
             "id": 855502,
             "name": "Утраченное прошлое",
-            "desc": "Когда тело повреждено, расходуется всё <sprite name=\"AccumulatedPastMirror\"><color=#f8c200><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color>.\nКогда тело повреждено, все типы атак и сродства становятся неэффективными(0.5) против тела начиная со следующего хода и до конца этого боя."
+            "desc": "Когда тело повреждено, расходуется всё <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color>.\nКогда тело повреждено, все типы атак и сродства становятся неэффективными(0.5) против тела начиная со следующего хода и до конца этого боя."
         },
         {
             "id": 855503,
             "name": "Сломанный паровой двигатель",
-            "desc": "Когда Паровой пистолет повреждён, сразу убирает всё <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> у всех частей.\nПосле того, как повреждён Паровой пистолет, получает <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>, равную кол-ву <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> каждый раз, как этот персонаж получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>.\nПосле того, как повреждён Паровой пистолет, теряет 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> каждый раз, как этот персонаж использует навык атаки."
+            "desc": "Когда Паровой пистолет повреждён, сразу убирает всё <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> у всех частей.\nПосле того, как повреждён Паровой пистолет, получает <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>, равную кол-ву <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> каждый раз, как этот персонаж получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>.\nПосле того, как повреждён Паровой пистолет, теряет 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> каждый раз, как этот персонаж использует навык атаки."
         },
         {
             "id": 855504,
@@ -273,7 +273,7 @@
         {
             "id": 855505,
             "name": "Действие преломлённого Утопания",
-            "desc": "При получении <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> получает 1 дополнительные количество и счётчик."
+            "desc": "При получении <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> получает 1 дополнительные количество и счётчик."
         },
         {
             "id": 855506,
@@ -283,17 +283,17 @@
         {
             "id": 855507,
             "name": "Перекрытое прошлое",
-            "desc": "Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> за каждые 80 Накопленного прошлого каждый ход.\nПри 80+ <sprite name=\"AccumulatedPast\"><color=#f8c200><u><link=\"AccumulatedPast\">Накопленного прошлого</link></u></color> получает +1 ячейку."
+            "desc": "Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> за каждые 80 Накопленного прошлого каждый ход.\nПри 80+ <sprite name=\"AccumulatedPast\"><color=#9f6a3a><u><link=\"AccumulatedPast\">Накопленного прошлого</link></u></color> получает +1 ячейку."
         },
         {
             "id": 855508,
             "name": "Метроном",
-            "desc": "Если <sprite name=\"AccumulatedPastMirror\"><color=#f8c200><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color> нечётное, получает 3 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color> и <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли чётное, получает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> и <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>."
+            "desc": "Если <sprite name=\"AccumulatedPastMirror\"><color=#9f6a3a><u><link=\"AccumulatedPastMirror\">Накопленное прошлое</link></u></color> нечётное, получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> и <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.\nЕсли чётное, получает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> и <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>."
         },
         {
             "id": 855601,
             "name": "Вечное бремя",
-            "desc": "Максимальные ОЗ увеличиваются на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)%.\nНаносит на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#None><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)% меньше урона"
+            "desc": "Максимальные ОЗ увеличиваются на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#9f6a3a><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)%.\nНаносит на (количество <sprite name=\"RailBuffForLine2_A_ENEMY\"><color=#9f6a3a><u><link=\"RailBuffForLine2_A_ENEMY\">Цикл</link></u></color> × 5)% меньше урона"
         },
         {
             "id": 855602,
@@ -313,7 +313,7 @@
         {
             "id": 856401,
             "name": "Ненависть",
-            "desc": "При получении удара получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>."
+            "desc": "При получении удара получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>."
         },
         {
             "id": 856402,
@@ -323,12 +323,12 @@
         {
             "id": 856403,
             "name": "Цветущие грехи",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856404,
             "name": "Кипящий гнев",
-            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> эффектами навыков\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит 4 счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем союзникам"
+            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> эффектами навыков\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит 4 счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем союзникам"
         },
         {
             "id": 856405,
@@ -343,12 +343,12 @@
         {
             "id": 856502,
             "name": "Цветущие грехи",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856503,
             "name": "Мерцающая страсть",
-            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> навыки наносят на 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> больше.\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех союзников."
+            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> навыки наносят на 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> больше.\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех союзников."
         },
         {
             "id": 856504,
@@ -363,12 +363,12 @@
         {
             "id": 856602,
             "name": "Желтая роза 2",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856603,
             "name": "Сокрушительная леность",
-            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> эффектами умений\nПри гибели во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на всех союзников"
+            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> эффектами умений\nПри гибели во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на всех союзников"
         },
         {
             "id": 856604,
@@ -378,17 +378,17 @@
         {
             "id": 856701,
             "name": "Голод",
-            "desc": "Если персонаж не наносит урона в течение хода, получает 2 <sprite name=\"BurstVulnerable\"><color=#f8c200><u><link=\"BurstVulnerable\">Уязвимости к разрывам</link></u></color>"
+            "desc": "Если персонаж не наносит урона в течение хода, получает 2 <sprite name=\"BurstVulnerable\"><color=#e30000><u><link=\"BurstVulnerable\">Уязвимости к разрывам</link></u></color>"
         },
         {
             "id": 856702,
             "name": "Зелёная роза 2",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856703,
             "name": "Растущая прожорливость",
-            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> эффектами умений\nПри гибели во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на всех союзников"
+            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> наносит на 1 больше <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> эффектами умений\nПри гибели во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на всех союзников"
         },
         {
             "id": 856704,
@@ -408,12 +408,12 @@
         {
             "id": 856803,
             "name": "Синяя роза 3",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856804,
             "name": "Мерцающее уныние",
-            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> навыки наносят на 1 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> больше\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на всех союзников"
+            "desc": "Во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> навыки наносят на 1 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> больше\nПри смерти во время <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленного состояния</link></u></color> накладывает 4 единицы счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на всех союзников"
         },
         {
             "id": 856805,
@@ -433,12 +433,12 @@
         {
             "id": 856903,
             "name": "Лазурная роза 3",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 856904,
             "name": "Чрезмерная Гордыня",
-            "desc": "Если начинает ход в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, получает +1 дополнительное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> от эффектов навыков.\nПри гибели в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, даёт всем врагам 4 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>."
+            "desc": "Если начинает ход в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, получает +1 дополнительное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> от эффектов навыков.\nПри гибели в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, даёт всем врагам 4 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>."
         },
         {
             "id": 856905,
@@ -458,12 +458,12 @@
         {
             "id": 857003,
             "name": "Фиолетовая роза 3",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 857004,
             "name": "Пронзительная Зависть",
-            "desc": "Если начинает ход в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, эффекты навыков повышают счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 1 больше.\nПри гибели в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, даёт всем врагам 4 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>."
+            "desc": "Если начинает ход в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, эффекты навыков повышают счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 1 больше.\nПри гибели в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленном состоянии</link></u></color>, даёт всем врагам 4 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>."
         },
         {
             "id": 857005,
@@ -473,7 +473,7 @@
         {
             "id": 855605,
             "name": "Цветущие грехи",
-            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#f8c200><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#f8c200><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
+            "desc": "При наличии 4 <sprite name=\"BloomingRose\"><color=#9f6a3a><u><link=\"BloomingRose\">Цветущий грех</link></u></color> входит в <sprite name=\"EnhanceRose\"><color=#9f6a3a><u><link=\"EnhanceRose\">Усиленное состояние</link></u></color> до конца боя"
         },
         {
             "id": 855606,
@@ -483,12 +483,12 @@
         {
             "id": 854403,
             "name": "Тлеющий уголёк",
-            "desc": "В конце хода, если у этого персонажа есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит то же самое кол-во <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем персонажам с <sprite name=\"WrappedCurseTagRe\"><color=#f8c200><u><link=\"WrappedCurseTagRe\">Приклеенный оберег проклятия</link></u></color> на следующий ход"
+            "desc": "В конце хода, если у этого персонажа есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит то же самое кол-во <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> всем персонажам с <sprite name=\"WrappedCurseTagRe\"><color=#9f6a3a><u><link=\"WrappedCurseTagRe\">Приклеенный оберег проклятия</link></u></color> на следующий ход"
         },
         {
             "id": 855607,
             "name": "Пропитанные грехом шипы",
-            "desc": "Каждый ход все части получают <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> равную количеству грешников с эффектом <sprite name=\"PrepareSinRose\"><color=#f8c200><u><link=\"PrepareSinRose\">Терновая корона</link></u></color>"
+            "desc": "Каждый ход все части получают <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> равную количеству грешников с эффектом <sprite name=\"PrepareSinRose\"><color=#9f6a3a><u><link=\"PrepareSinRose\">Терновая корона</link></u></color>"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.49",
+  "version": "1.1.50",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -11,7 +11,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-mowe.json",
-      "checksum": "afc7d32c93f3dc3081d65a2770f4829b"
+      "checksum": "03e8e1528174c469b4c3cce435823b7e"
     },
     {
       "path": "RU/Bufs-a1c7p1.json",
@@ -35,7 +35,7 @@
     },
     {
       "path": "RU/MentalCondition.json",
-      "checksum": "865518941510d8edc12b56b8999477d7"
+      "checksum": "50f1f1805e18520cb20639800e4f17a8"
     },
     {
       "path": "RU/MirrorDungeonEnemyBuffDesc.json",
@@ -55,15 +55,15 @@
     },
     {
       "path": "RU/BattleKeywords_Refraction5.json",
-      "checksum": "8dacb2074e7ef269462584b0970aac03"
+      "checksum": "a1ca5c5d485f7f7b385363ca50e44e4c"
     },
     {
       "path": "RU/Skills_personality-05.json",
-      "checksum": "427fe8cd9f5e7c8580e00f604e031484"
+      "checksum": "85d76e114506a3bba954192ac316cf5d"
     },
     {
       "path": "RU/Passives_Abnormality-a1c7p1.json",
-      "checksum": "278a2f8fb5d82ba26fdd47ba2e04be56"
+      "checksum": "6b931c673a6bd8fbd9bc4caa29fe3c0d"
     },
     {
       "path": "RU/BattlePass_Banner-a1c6.json",
@@ -83,11 +83,11 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c6p1.json",
-      "checksum": "bba8c2a8dc563819ee71d6c77c96869d"
+      "checksum": "7247744413dc48c8c143ce07dfa97904"
     },
     {
       "path": "RU/Skills_personality-07.json",
-      "checksum": "92e07eabd3038664241ba1c9c1d39ae4"
+      "checksum": "121a98f3165681098bf13010e37e0ad4"
     },
     {
       "path": "RU/AbDlg_Rodion.json",
@@ -103,11 +103,11 @@
     },
     {
       "path": "RU/Skills_personality-02.json",
-      "checksum": "c594e5d28ade6fc7872aa32a61ecaef0"
+      "checksum": "97dacff3ddff36ef2e4dd687ea2a5a7c"
     },
     {
       "path": "RU/BattleKeywords.json",
-      "checksum": "46ad92dd1a9818c595dd89b493037883"
+      "checksum": "039c4c92303df7319e42eb460205a3d9"
     },
     {
       "path": "RU/DungeonArea1-3.json",
@@ -119,7 +119,7 @@
     },
     {
       "path": "RU/Skills_personality-06.json",
-      "checksum": "c30c4c0b32924868c5edf2e8c8a3d81d"
+      "checksum": "350a20e3c5099f9c377ed3f16f2ab9b1"
     },
     {
       "path": "RU/StageNode-a1c6p3.json",
@@ -151,7 +151,7 @@
     },
     {
       "path": "RU/BuffAbilities.json",
-      "checksum": "e21860c9a9fe2b6a2b9fbca830843c73"
+      "checksum": "dc6649ed0d35045d3da0ba5e66e26bf9"
     },
     {
       "path": "RU/MainUIText_UPDATE_ON_0720.json",
@@ -179,11 +179,11 @@
     },
     {
       "path": "RU/EGOgift_walpu4.json",
-      "checksum": "1233743c9ff1a947c35b4979c97e7588"
+      "checksum": "38dc73b5906da8228de9839cd3f268ec"
     },
     {
       "path": "RU/Skills_Enemy-tkt.json",
-      "checksum": "61b84c2f4e021f1387e762a01664f00f"
+      "checksum": "acdef8a539e276a65feee903052d4a3f"
     },
     {
       "path": "RU/Bufs-a1c6p2.json",
@@ -199,7 +199,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c6p3.json",
-      "checksum": "080f15bbc9a1c09e11d9425a2acdba89"
+      "checksum": "c05f98c5eff3bb7e393e98760a4e8fa8"
     },
     {
       "path": "RU/SkillTag.json",
@@ -207,7 +207,7 @@
     },
     {
       "path": "RU/Passives_Abnormality_Refraction5.json",
-      "checksum": "4945c0c55e7a70151f5fec6609701741"
+      "checksum": "5fe8132def84e22bfbf45d6ff485352d"
     },
     {
       "path": "RU/Enemies-tkt.json",
@@ -259,7 +259,7 @@
     },
     {
       "path": "RU/Passive-a1c971.json",
-      "checksum": "66c3ae67d10a4a49ff92ab1354d8c503"
+      "checksum": "6e4c1c56679036cde43dbe5aedec9a6b"
     },
     {
       "path": "RU/ShotcutKeyManual.json",
@@ -291,7 +291,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-StoryTheme_2.json",
-      "checksum": "308add1af2d463e2de11da824bbf73fb"
+      "checksum": "b35f213871c15236b23f203c00c5dfd0"
     },
     {
       "path": "RU/Skills_Enemy91-4.json",
@@ -347,7 +347,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p3.json",
-      "checksum": "236488151cfc41a87f5bc61c8813f04c"
+      "checksum": "2383490da8b87f1450e5beb21ff73d9d"
     },
     {
       "path": "RU/Enemies-a1c951.json",
@@ -371,7 +371,7 @@
     },
     {
       "path": "RU/Passives_check4.json",
-      "checksum": "2e263d4b9aea097a26cd01a634817f4b"
+      "checksum": "a3fd42409545a029d9b47f309f2cca0d"
     },
     {
       "path": "RU/MirrorDungeonUI_3.json",
@@ -399,7 +399,7 @@
     },
     {
       "path": "RU/Passives_Enemy-tkt.json",
-      "checksum": "738d4a323f40891489cc514efddaa80e"
+      "checksum": "3654fbcce7d24efe304b1e768ce7060a"
     },
     {
       "path": "RU/ActionEvents-a1c5p3.json",
@@ -407,7 +407,7 @@
     },
     {
       "path": "RU/Skills_personality-03.json",
-      "checksum": "7c410f4f0dd518f8e9fb939e11b8b24f"
+      "checksum": "6ddcfef739f3d2014776f605890c2da2"
     },
     {
       "path": "RU/StageNode-a1c6p2.json",
@@ -423,7 +423,7 @@
     },
     {
       "path": "RU/Skills_Enemy-ycgd.json",
-      "checksum": "96b9f4ebaf3c37d1145ebe27441af346"
+      "checksum": "a0a55affb1f8e43328af761f5437a294"
     },
     {
       "path": "RU/Enemies-ycgd.json",
@@ -447,7 +447,7 @@
     },
     {
       "path": "RU/MainUIText.json",
-      "checksum": "0ac4237acd08ee490a220536519be086"
+      "checksum": "82ade271c51717bfaec43c6667058c38"
     },
     {
       "path": "RU/TutorialDesc.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c5p3.json",
-      "checksum": "c1b05f5d3ab0b0941ab9a6f6b08f0459"
+      "checksum": "3cecc6c8c99bed0cfd34eef5f7f3469e"
     },
     {
       "path": "RU/Enemies-a1c971.json",
@@ -467,7 +467,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c7p1.json",
-      "checksum": "d7418394d9194b88d187a51782e771bf"
+      "checksum": "93068a2a5bf920e6f2019a1d8402089c"
     },
     {
       "path": "RU/PanicInfo-a1c7p3.json",
@@ -475,7 +475,7 @@
     },
     {
       "path": "RU/PanicInfo.json",
-      "checksum": "e3fcca0ac8393b82b895c191475f7196"
+      "checksum": "d5b1e6baa3d764198c77b210fd4c02a0"
     },
     {
       "path": "RU/AbDlg_Merusault.json",
@@ -487,7 +487,7 @@
     },
     {
       "path": "RU/Skills_personality-04.json",
-      "checksum": "136a27c48e626bce5f9623e115456f0f"
+      "checksum": "7442df1e50e642dbe0d0032108e8620d"
     },
     {
       "path": "RU/StageNode1-0.json",
@@ -507,7 +507,7 @@
     },
     {
       "path": "RU/Skills_personality-09.json",
-      "checksum": "37e66ae7c2ded2831efd1d71da253ff4"
+      "checksum": "eb7db5a4838011d79f41a49328a4b5b7"
     },
     {
       "path": "RU/UserTicket-R.json",
@@ -543,7 +543,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c5p3.json",
-      "checksum": "69fc2db653b3bd1fed6a6b37e2d97bd1"
+      "checksum": "42986ec8ffb294983ae1189bc64f01df"
     },
     {
       "path": "RU/Skills_Abnormality-ycgd.json",
@@ -555,7 +555,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c6p2.json",
-      "checksum": "ca5067829fb0686197afc7e783762d29"
+      "checksum": "5dc2a6e2e0b0959672caef8c49af0fd8"
     },
     {
       "path": "RU/BattleKeywords_Refraction4.json",
@@ -571,7 +571,7 @@
     },
     {
       "path": "RU/Bufs.json",
-      "checksum": "4b0daafdbe295ddb70cde66c5848bdb6"
+      "checksum": "31842a353f5f024424a30d44639a500d"
     },
     {
       "path": "RU/UserInfo_Friends.json",
@@ -579,7 +579,7 @@
     },
     {
       "path": "RU/Passive_Ego.json",
-      "checksum": "64d670bde39fe6e3a2c34640d3f569d1"
+      "checksum": "a8cd1ae8d4bf034a86cebb2b61ba6f93"
     },
     {
       "path": "RU/AbEventsResultLog-a1c5p1.json",
@@ -611,7 +611,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c6p1.json",
-      "checksum": "8e9b06a4d2e5f2dece7aa02652dc4f9e"
+      "checksum": "df97eb26a1b092844fad4bd971a37b79"
     },
     {
       "path": "RU/AttributeText.json",
@@ -619,7 +619,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-ycgd.json",
-      "checksum": "17cc65d0ec34ab2abb1c1d53437f225c"
+      "checksum": "8276f9d8ee4aeb0f1c0dd78bd2d9cf3b"
     },
     {
       "path": "RU/Passives_Enemy-a1c5p3.json",
@@ -647,7 +647,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c7p2.json",
-      "checksum": "4dff1f1cd9544e5ccaf669b9e7bc966b"
+      "checksum": "34f347a20133967bdb37ec3c91225b69"
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p2.json",
@@ -691,11 +691,11 @@
     },
     {
       "path": "RU/BattleKeywords-walpu4.json",
-      "checksum": "7606cfeffe44888e080c0c3384730e36"
+      "checksum": "7a830646e2c48cfe3b59a2d687e6632b"
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-EventTheme.json",
-      "checksum": "366f88b392c77f6e3b797c96e6ae4f21"
+      "checksum": "d6984e5775aa811ce5222d32731c6fad"
     },
     {
       "path": "RU/BattleKeywords-a1c5p1.json",
@@ -719,7 +719,7 @@
     },
     {
       "path": "RU/EGOgift_StoryDungeon-tkt.json",
-      "checksum": "5f03000466a19f830d5fe37ce4c77daa"
+      "checksum": "74d13deac576cd85ed13c01c72b0e5d8"
     },
     {
       "path": "RU/MirrorDungeonName.json",
@@ -755,7 +755,7 @@
     },
     {
       "path": "RU/Bufs-a1c6p3.json",
-      "checksum": "e293cdc7cd9ef05df4308ec0d422e75e"
+      "checksum": "7be043c4a217cd72034447f690579cb8"
     },
     {
       "path": "RU/Skills_Abnormality_Refraction4.json",
@@ -763,7 +763,7 @@
     },
     {
       "path": "RU/Skills_personality-01.json",
-      "checksum": "4dd8f4bde1a01762b70fa0052e743f0d"
+      "checksum": "08db0a62208b17f54ad0d29c50b871ad"
     },
     {
       "path": "RU/AbEvents-a1c6p3.json",
@@ -783,7 +783,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c6p3.json",
-      "checksum": "f633a283757588944224acbf145f29e2"
+      "checksum": "2a1805456c27b010318ce9729b4a4889"
     },
     {
       "path": "RU/MirrorDungeonBattleRewardCase.json",
@@ -791,7 +791,7 @@
     },
     {
       "path": "RU/Passives_Enemy.json",
-      "checksum": "c934dd401cfd3e41b376742f85a59488"
+      "checksum": "2fc274f6cfc9275efe7f88930a6337b0"
     },
     {
       "path": "RU/Enemies_Refraction5.json",
@@ -855,7 +855,7 @@
     },
     {
       "path": "RU/Bufs_Refraction2.json",
-      "checksum": "7ebf07d0fb72befb8db1c5e49d521837"
+      "checksum": "2200d2b88b78d4c086c00aa890581579"
     },
     {
       "path": "RU/ActionEvents-walpu4.json",
@@ -863,7 +863,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c971.json",
-      "checksum": "3edd76fe2ce09f6b8f9993d2015887f9"
+      "checksum": "08da65e8415612a2c01fd2bdad2d6ef1"
     },
     {
       "path": "RU/Passives_Abnormality-a1c5p1.json",
@@ -871,7 +871,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-EventTheme_2.json",
-      "checksum": "4e5753b6d56c6a13a5239ff310770577"
+      "checksum": "684d533e281133cccf059b861a0979c4"
     },
     {
       "path": "RU/TutorialNewUpperSkillInfoUI.json",
@@ -911,7 +911,7 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "a7230cc8ab4357e90ae615ccb67ed912"
+      "checksum": "ea6f8cd5143d025a9b6cbbeed570670b"
     },
     {
       "path": "RU/RailwayDungeonStationName2.json",
@@ -955,7 +955,7 @@
     },
     {
       "path": "RU/Passives_Abnormality_Refraction2.json",
-      "checksum": "008edb908227a1ae74ffb9c988cf041f"
+      "checksum": "d72af37fa259affc2523e62a96ff9088"
     },
     {
       "path": "RU/Skills_Abnormality-tkt.json",
@@ -971,7 +971,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p2.json",
-      "checksum": "7594272bc2ccddebac7e78d8e3f2596a"
+      "checksum": "cff9864fe76674e56a7ab3bc1b6fbbed"
     },
     {
       "path": "RU/MentalCondition-a1c6p3.json",
@@ -999,7 +999,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon.json",
-      "checksum": "e22bbe857a8845544dcfb72d55834e45"
+      "checksum": "48d04dd3fb05cc75c4bb7792070d3165"
     },
     {
       "path": "RU/Announcer-a1c7p1.json",
@@ -1019,7 +1019,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c6p2.json",
-      "checksum": "2f7a98ee248c291491b801dbd48d12ea"
+      "checksum": "a6d378cd13ef7c9d396cdfc9a1f21cfc"
     },
     {
       "path": "RU/BattleKeywords_Refraction2.json",
@@ -1103,7 +1103,7 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c5p1.json",
-      "checksum": "442eaa36ca15d801f6e5fe9790551688"
+      "checksum": "8fd155a41b933cbafe084a4c2e055d8d"
     },
     {
       "path": "RU/PanicInfo-a1c7p1.json",
@@ -1127,7 +1127,7 @@
     },
     {
       "path": "RU/Skills_Enemy-mowe.json",
-      "checksum": "3d23a3a4ba8b028ebc82ea8c82ba5f7a"
+      "checksum": "afc6cd6e55e8e2d2837d1e8296f2b8ac"
     },
     {
       "path": "RU/Personality_Get_Condition.json",
@@ -1155,7 +1155,7 @@
     },
     {
       "path": "RU/Passives_Abnormality.json",
-      "checksum": "54967a66943b086909ea9690f69301bb"
+      "checksum": "675117352867ee48bd173dff5751b279"
     },
     {
       "path": "RU/Bufs-a1c6p1.json",
@@ -1199,7 +1199,7 @@
     },
     {
       "path": "RU/Bufs-walpu4.json",
-      "checksum": "7606cfeffe44888e080c0c3384730e36"
+      "checksum": "7a830646e2c48cfe3b59a2d687e6632b"
     },
     {
       "path": "RU/StoryTheaterDanteNoteDetail_8.json",
@@ -1215,11 +1215,11 @@
     },
     {
       "path": "RU/BattleKeywords-a1c971.json",
-      "checksum": "d5b656bc349a8a24648d145fe82324da"
+      "checksum": "5d2a2dc56b9a82805233295d6ad63f00"
     },
     {
       "path": "RU/Passives_Abnormality_Refraction.json",
-      "checksum": "6588ca74e0efb7467c75c3b29259c41d"
+      "checksum": "9f8cbae1464a3e326e5be51c59bc6824"
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-StoryTheme.json",
@@ -1231,7 +1231,7 @@
     },
     {
       "path": "RU/Bufs-a1c971.json",
-      "checksum": "d5b656bc349a8a24648d145fe82324da"
+      "checksum": "5d2a2dc56b9a82805233295d6ad63f00"
     },
     {
       "path": "RU/Skills_Enemy-walpu2.json",
@@ -1251,7 +1251,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c951.json",
-      "checksum": "5407569b532324cab13f0be4adef0898"
+      "checksum": "719b711fa332fb695f28b1d443d4b1d8"
     },
     {
       "path": "RU/ShopUI.json",
@@ -1267,7 +1267,7 @@
     },
     {
       "path": "RU/BattleKeywords-a1c6p3.json",
-      "checksum": "1b7949986ed8f823c0b4b004c255cc04"
+      "checksum": "961ff18f2894caff115e1f979f6bd865"
     },
     {
       "path": "RU/LoginUIText.json",
@@ -1287,7 +1287,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c7p2.json",
-      "checksum": "3e08a8ad608bc860375df2e7f27f0e07"
+      "checksum": "524fdeef67cc0aec2f5be06b58f13869"
     },
     {
       "path": "RU/StoryDungeonUI.json",
@@ -1315,7 +1315,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c7p3.json",
-      "checksum": "59a09bf578b6d303ceb988c3118a7c91"
+      "checksum": "d6bb3c215a7cb708b7bb77147886384a"
     },
     {
       "path": "RU/StageNode1-3.json",
@@ -1327,7 +1327,7 @@
     },
     {
       "path": "RU/Passives_Abnormality_Refraction3.json",
-      "checksum": "bac5aa15b971b6de3ce58b227ae8b99a"
+      "checksum": "1d0b1fd6986529c64a2ea414a31f45a5"
     },
     {
       "path": "RU/Enemies91-4.json",
@@ -1363,7 +1363,7 @@
     },
     {
       "path": "RU/Skills_personality-10.json",
-      "checksum": "6757e05d942216a14624de36d838fa97"
+      "checksum": "a2e382f0a3529cd4eebbd776295a8624"
     },
     {
       "path": "RU/Skills_Abnormality-walpu4.json",
@@ -1451,11 +1451,11 @@
     },
     {
       "path": "RU/Skills_personality-12.json",
-      "checksum": "1b53ceb410ddab6b2e81d186edde8ba3"
+      "checksum": "21a595f900b9700ca563ff37f5ce267b"
     },
     {
       "path": "RU/Skills_Enemy-a1c6p2.json",
-      "checksum": "0df56f0d95ba93331afdf57b0e167441"
+      "checksum": "04d9bfc31c038982a034810fa5b8feb6"
     },
     {
       "path": "RU/Bufs_Mirror4.json",
@@ -1467,7 +1467,7 @@
     },
     {
       "path": "RU/Skills_personality-08.json",
-      "checksum": "7540d453736b406fe0add54b27415d34"
+      "checksum": "72e3770411108969e9af21a793e38cc6"
     },
     {
       "path": "RU/AssociationName.json",
@@ -1475,7 +1475,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c7p1.json",
-      "checksum": "bb779fd0b6b7473523b5cb25c6e42026"
+      "checksum": "ec4234574fe5966e603b8fc77590c221"
     },
     {
       "path": "RU/EGOgift_StoryDungeon-a1c7p3.json",
@@ -1503,7 +1503,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-mowe.json",
-      "checksum": "e23b0aec3054dadfdc6c358df7f007a4"
+      "checksum": "5a7491b5bf4881104d884e22c4169a25"
     },
     {
       "path": "RU/MirrorDungeonUI_2.json",
@@ -1515,7 +1515,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-a1c6p3.json",
-      "checksum": "70606c1735bb5a2cc4a9911fb422e38f"
+      "checksum": "991fd2e36a9697e4794945ecd7c6746e"
     },
     {
       "path": "RU/PanicInfo-mowe.json",
@@ -1555,7 +1555,7 @@
     },
     {
       "path": "RU/Passives_Abnormality-tkt.json",
-      "checksum": "4cc04aa58c0227ac5307c9cfdbd07318"
+      "checksum": "014a37080b85ff3fca6616373e02bdc1"
     },
     {
       "path": "RU/StageNode-a1c5p1.json",
@@ -1567,7 +1567,7 @@
     },
     {
       "path": "RU/Skills_personality-11.json",
-      "checksum": "c1646f45be100b8d716c117c754adf14"
+      "checksum": "3b00f4099bc9dbdb39810c759636b4c4"
     },
     {
       "path": "RU/Skills_Abnormality-mowe.json",
@@ -1583,7 +1583,7 @@
     },
     {
       "path": "RU/Passives_Abnormality_Refraction4.json",
-      "checksum": "ba48f1b79a6a54265b9cebedb66b4416"
+      "checksum": "3a4a143c1f781a299ab6f3df54cc205d"
     },
     {
       "path": "RU/StoryTheaterMain-a1c7p1.json",
@@ -1631,11 +1631,11 @@
     },
     {
       "path": "RU/Passives_Enemy-a1c5p2.json",
-      "checksum": "997d2ff7f6539205450180d62819bdae"
+      "checksum": "8c88e167a139421eab94304a2cbdc874"
     },
     {
       "path": "RU/EGOgift_MirrorDungeon_2.json",
-      "checksum": "2e898f486ac615318143682182e28485"
+      "checksum": "ec3a0d617336ab343d7a51a4c5e5ba12"
     },
     {
       "path": "RU/Skills_Ego.json",
@@ -1663,7 +1663,7 @@
     },
     {
       "path": "RU/Passives_Enemy91-4.json",
-      "checksum": "6d0cb4d299a598efbf51f4a742949bbd"
+      "checksum": "35fd4a8a9b8905764d9b90bdd620d4a6"
     },
     {
       "path": "RU/StageNode-a1c5p3.json",
@@ -1679,7 +1679,7 @@
     },
     {
       "path": "RU/Skills_Enemy-a1c5p2.json",
-      "checksum": "543b74672bbc098d8c69cb9a76cd5a82"
+      "checksum": "d7c95b3c04c43d383ba25f7e4414db2c"
     },
     {
       "path": "RU/StageNode91-4.json",
@@ -2406,6 +2406,10 @@
       "checksum": "ae56534e779cae7802249960a4379f10"
     },
     {
+      "path": "RU/StoryData/P10311.json",
+      "checksum": "d0e7656d7b979ad7d0771d983d055fa9"
+    },
+    {
       "path": "RU/StoryData/P11006.json",
       "checksum": "a46e808c082b10a43e321ebb426f8473"
     },
@@ -2444,6 +2448,10 @@
     {
       "path": "RU/StoryData/E626B.json",
       "checksum": "8c137069bb10970e9a421a2bf4a72584"
+    },
+    {
+      "path": "RU/StoryData/P11211.json",
+      "checksum": "2831c786cc59ef6bd5fb3e455ad35d1e"
     },
     {
       "path": "RU/StoryData/E306B.json",
@@ -5187,7 +5195,7 @@
     },
     {
       "path": "Readme/Readme.json",
-      "checksum": "20aba5eab5594d0d9e19b9a77195bb02"
+      "checksum": "51435f58c06662aecfa4f23a30e496f4"
     }
   ]
 }

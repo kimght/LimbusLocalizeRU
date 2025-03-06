@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести столько же счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель\n[OnSucceedAttack] При менее, чем 10 на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color> на себе\nНаносит Дробящий урон, равный урону от спровоцированного <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести столько же счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель\n[OnSucceedAttack] При менее, чем 10 на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color> на себе\nНаносит Дробящий урон, равный урону от спровоцированного <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести столько же счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель\n[OnSucceedAttack] При менее, чем 10 на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color> на себе\nНаносит Дробящий урон, равный урону от спровоцированного <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит весь счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести столько же счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель\n[OnSucceedAttack] При менее, чем 10 на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color> на себе\nНаносит Дробящий урон, равный урону от спровоцированного <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
@@ -330,12 +330,12 @@
         {
           "level": 3,
           "name": "Контратака",
-          "desc": "Сила монет +1, если скорость грешника выше, чем у цели, на 2 и более единиц\n[WinDuel] Меняет 10 единиц счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>.\n[WinDuel] Если у грешника произошёл <sprite name=\"OneOnOneDuel\"><color=#f8c200><u><link=\"OneOnOneDuel\">Поединок</link></u></color> после атаки слота навыка противника, наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> при ударе (До 2-х раз за ход)",
+          "desc": "Сила монет +1, если скорость грешника выше, чем у цели, на 2 и более единиц\n[WinDuel] Меняет 10 единиц счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>.\n[WinDuel] Если у грешника произошёл <sprite name=\"OneOnOneDuel\"><color=#9f6a3a><u><link=\"OneOnOneDuel\">Поединок</link></u></color> после атаки слота навыка противника, наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> при ударе (До 2-х раз за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"DuelDeclaration_Sinclair\"><color=#f8c200><u><link=\"DuelDeclaration_Sinclair\">Вызывает на дуэль</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"DuelDeclaration_Sinclair\"><color=#e30000><u><link=\"DuelDeclaration_Sinclair\">Вызывает на дуэль</link></u></color>"
                 }
               ]
             },
@@ -352,12 +352,12 @@
         {
           "level": 4,
           "name": "Контратака",
-          "desc": "Сила монет +1 за каждые 2 единицы разницы в скорости между грешником и целью (До 3-х раз)\n[WinDuel] Меняет 10 единиц счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>. Если целью навыка стал <sprite name=\"DuelDeclaration_Sinclair\"><color=#f8c200><u><link=\"DuelDeclaration_Sinclair\">противник-дуэлянт</link></u></color>, удваивает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> при обмене.\n[WinDuel] Если у грешника произошёл <sprite name=\"OneOnOneDuel\"><color=#f8c200><u><link=\"OneOnOneDuel\">Поединок</link></u></color> после атаки слота навыка противника, наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> при ударе (До 2-х раз за ход)",
+          "desc": "Сила монет +1 за каждые 2 единицы разницы в скорости между грешником и целью (До 3-х раз)\n[WinDuel] Меняет 10 единиц счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>. Если целью навыка стал <sprite name=\"DuelDeclaration_Sinclair\"><color=#e30000><u><link=\"DuelDeclaration_Sinclair\">противник-дуэлянт</link></u></color>, удваивает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> при обмене.\n[WinDuel] Если у грешника произошёл <sprite name=\"OneOnOneDuel\"><color=#9f6a3a><u><link=\"OneOnOneDuel\">Поединок</link></u></color> после атаки слота навыка противника, наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> при ударе (До 2-х раз за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"DuelDeclaration_Sinclair\"><color=#f8c200><u><link=\"DuelDeclaration_Sinclair\">Вызывает на дуэль</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"DuelDeclaration_Sinclair\"><color=#e30000><u><link=\"DuelDeclaration_Sinclair\">Вызывает на дуэль</link></u></color>"
                 }
               ]
             },
@@ -697,7 +697,7 @@
         {
           "level": 1,
           "name": "Подавление.",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "Подавление.",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает <style=\"highlight\">2</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 4 и более единицами <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает <style=\"highlight\">2</style> <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 4 и более единицами <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -739,7 +739,7 @@
         {
           "level": 4,
           "name": "Подавление.",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Сила в поединке +<style=\"highlight\">2</style> против целей с 4 и более единицами <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\n[WhenUse] Сила в поединке +<style=\"highlight\">2</style> против целей с 4 и более единицами <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -765,7 +765,7 @@
         {
           "level": 1,
           "name": "Боевая подготовка",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
           "coinlist": [
             {},
             {
@@ -780,7 +780,7 @@
         {
           "level": 2,
           "name": "Боевая подготовка",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n<style=\"highlight\">[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у себя (До 3)\n[WhenUse] Сила монет +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color></style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n<style=\"highlight\">[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у себя (До 3)\n[WhenUse] Сила монет +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color></style>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
         {
           "level": 4,
           "name": "Боевая подготовка",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у себя (До 3)\n[WhenUse] Сила монет +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> за каждые 2 единицы на счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> у себя (До 3)\n[WhenUse] Сила монет +1 при 4+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -849,7 +849,7 @@
                   "desc": "[OnSucceedAttack] Поглощает до 8 единиц со своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на то же значение"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокацию Тремора</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провокацию Тремора</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -880,7 +880,7 @@
                   "desc": "[OnSucceedAttack] Поглощает до 8 единиц со своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на то же значение"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокацию Тремора</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                  "desc": "[OnSucceedAttack] Активирует <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провокацию Тремора</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -894,12 +894,12 @@
         {
           "level": 1,
           "name": "Форма двуручного меча рыцаря Цвай - Блок",
-          "desc": "<sprite name=\"CanDuelGuard\"><color=#f8c200><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Повышает <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокацию</link></u></color> этого слота умения на 5 в следующем ходу\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2 (Единожды за ход)\n[WinDuel] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>",
+          "desc": "<sprite name=\"CanDuelGuard\"><color=#9f6a3a><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Повышает <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокацию</link></u></color> этого слота умения на 5 в следующем ходу\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2 (Единожды за ход)\n[WinDuel] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 }
               ]
             }
@@ -908,12 +908,12 @@
         {
           "level": 4,
           "name": "Форма двуручного меча рыцаря Цвай - Блок",
-          "desc": "<sprite name=\"CanDuelGuard\"><color=#f8c200><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Повышает <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокацию</link></u></color> этого слота умения на 5 в следующем ходу\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style> (Единожды за ход)\n[WinDuel] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>",
+          "desc": "<sprite name=\"CanDuelGuard\"><color=#9f6a3a><u><link=\"CanDuelGuard\">Блок с поединком</link></u></color>\n[StartBattle] Повышает <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокацию</link></u></color> этого слота умения на 5 в следующем ходу\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style> (Единожды за ход)\n[WinDuel] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                  "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                 }
               ]
             }
@@ -927,12 +927,12 @@
         {
           "level": 1,
           "name": "Курьерская сумка — Разлагающий молот",
-          "desc": "[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
+          "desc": "[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
                 }
               ]
             },
@@ -948,19 +948,19 @@
         {
           "level": 2,
           "name": "Курьерская сумка — Разлагающий молот",
-          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
+          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает счётчик на 1"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает счётчик на 1"
                 }
               ]
             }
@@ -969,19 +969,19 @@
         {
           "level": 4,
           "name": "Курьерская сумка — Разлагающий молот",
-          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
+          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает счётчик на 1"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает счётчик на 1"
                 }
               ]
             }
@@ -995,12 +995,12 @@
         {
           "level": 1,
           "name": "Курьерская сумка — Подрывной гаджет",
-          "desc": "[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
+          "desc": "[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
                 }
               ]
             },
@@ -1023,26 +1023,26 @@
         {
           "level": 2,
           "name": "Курьерская сумка — Подрывной гаджет",
-          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)\n[WhenUse] При 20- на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)",
+          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)\n[WhenUse] При 20- на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на 1"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на 1"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на 1"
                 }
               ]
             }
@@ -1051,26 +1051,26 @@
         {
           "level": 4,
           "name": "Курьерская сумка — Подрывной гаджет",
-          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)\n[WhenUse] При 30- на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)",
+          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> (Единожды за монету)\n[WhenUse] При 30- на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
+                  "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумки - Синклер</link></u></color> на 1\n- Если у персонажа менее 15 на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, дополнительно повышает её число на 2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на <style=\"highlight\">2</style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на <style=\"highlight\">2</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на <style=\"highlight\">2</style>"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color>, повышает счётчик на <style=\"highlight\">2</style>"
                 }
               ]
             }
@@ -1084,19 +1084,19 @@
         {
           "level": 3,
           "name": "Полудница... Я верю в тебя!",
-          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого повышает силу последней монеты на 2\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит на 3% больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 90%)",
+          "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого повышает силу последней монеты на 2\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит на 3% больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 90%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1\n- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 2)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1\n- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- Дополнительно наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 2)"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- Дополнительно наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 2)"
                 }
               ]
             },
@@ -1112,19 +1112,19 @@
         {
           "level": 4,
           "name": "Полудница... Я верю в тебя!",
-          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого повышает силу последней монеты на 4\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит на 4% больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 120%)",
+          "desc": "Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> и не повышает их счётчик при ударе, а вместо этого повышает силу последней монеты на 4\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит на 4% больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До 120%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1\n- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1\n- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До <style=\"highlight\">3</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- Дополнительно наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> за каждые <style=\"highlight\">8</style> единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n- Дополнительно наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> за каждые <style=\"highlight\">8</style> единиц на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> (До <style=\"highlight\">4</style>)"
                 }
               ]
             },
@@ -1145,7 +1145,7 @@
         {
           "level": 1,
           "name": "Система помощи курьера и контроля кризисов",
-          "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> вместо этого активирует 'П-погоди, мне нужно провести техобслуживание...!' (Раз за ход)\n[StartBattle] При активации этого навыка получает щит, равный (<sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color> / 2)% от максимальных ОЗ персонажа (До 15%, раз за ход)",
+          "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> вместо этого активирует 'П-погоди, мне нужно провести техобслуживание...!' (Раз за ход)\n[StartBattle] При активации этого навыка получает щит, равный (<sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color> / 2)% от максимальных ОЗ персонажа (До 15%, раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,7 +1159,7 @@
         {
           "level": 4,
           "name": "Система помощи курьера и контроля кризисов",
-          "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> вместо этого активирует 'П-погоди, мне нужно провести техобслуживание...!' (Раз за ход)\n[StartBattle] При активации этого навыка получает щит, равный <style=\"highlight\">(<sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)%</style> от максимальных ОЗ персонажа (До <style=\"highlight\">25%</style>, раз за ход)",
+          "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерской сумке - Синклер</link></u></color> вместо этого активирует 'П-погоди, мне нужно провести техобслуживание...!' (Раз за ход)\n[StartBattle] При активации этого навыка получает щит, равный <style=\"highlight\">(<sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)%</style> от максимальных ОЗ персонажа (До <style=\"highlight\">25%</style>, раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "П-погоди, мне нужно провести техобслуживание...!",
-          "desc": "[StartBattle] При активации этого навыка получает щит, равный (<sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)% от максимальных ОЗ персонажа (До 15%, раз за ход)\n[EndBattle] Активирует <sprite name=\"Retreat\"><color=#f8c200><u><link=\"Retreat\">Режим стратегического отступления</link></u></color>",
+          "desc": "[StartBattle] При активации этого навыка получает щит, равный (<sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)% от максимальных ОЗ персонажа (До 15%, раз за ход)\n[EndBattle] Активирует <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Режим стратегического отступления</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "П-погоди, мне нужно провести техобслуживание...!",
-          "desc": "[StartBattle] При активации этого навыка получает щит, равный <style=\"highlight\">(<sprite name=\"DevyatDimensionalSackSinclair\"><color=#f8c200><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)%</style> от максимальных ОЗ персонажа (До <style=\"highlight\">25%</style>, раз за ход)\n[EndBattle] Активирует <sprite name=\"Retreat\"><color=#f8c200><u><link=\"Retreat\">Режим стратегического отступления</link></u></color>",
+          "desc": "[StartBattle] При активации этого навыка получает щит, равный <style=\"highlight\">(<sprite name=\"DevyatDimensionalSackSinclair\"><color=#9f6a3a><u><link=\"DevyatDimensionalSackSinclair\">Курьерская сумка - Синклер</link></u></color>)%</style> от максимальных ОЗ персонажа (До <style=\"highlight\">25%</style>, раз за ход)\n[EndBattle] Активирует <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Режим стратегического отступления</link></u></color>",
           "coinlist": [
             {
               "coindescs": [

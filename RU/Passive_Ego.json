@@ -18,7 +18,7 @@
         {
             "id": 2020111,
             "name": "Апатия",
-            "desc": "Если противник оглушён во время атаки этого персонажа, 1 союзник с наименьшей СД получает +2 к <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultIncrease_Typo\">Эффективности восстановления СД</link></u></color> на следующий ход (До 3-х раз за ход)"
+            "desc": "Если противник оглушён во время атаки этого персонажа, 1 союзник с наименьшей СД получает +2 к <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#9f6a3a><u><link=\"MentalSystemResultIncrease_Typo\">Эффективности восстановления СД</link></u></color> на следующий ход (До 3-х раз за ход)"
         },
         {
             "id": 2020211,
@@ -73,7 +73,7 @@
         {
             "id": 2060211,
             "name": "Связывающие ленты",
-            "desc": "Цель самого левого на приборной панели навыка получает (Абсолют Похоти / 4) <sprite name=\"ScarletTakeDamageUp\"><color=#f8c200><u><link=\"ScarletTakeDamageUp\">Уязвимости к Похоти</link></u></color> на следующий ход."
+            "desc": "Цель самого левого на приборной панели навыка получает (Абсолют Похоти / 4) <sprite name=\"ScarletTakeDamageUp\"><color=#e30000><u><link=\"ScarletTakeDamageUp\">Уязвимости к Похоти</link></u></color> на следующий ход."
         },
         {
             "id": 2070111,
@@ -93,7 +93,7 @@
         {
             "id": 2080211,
             "name": "Розовые ленты",
-            "desc": "При победе в столкновении наносит 1 <sprite name=\"PinkRibbon_Ishmael\"><color=#f8c200><u><link=\"PinkRibbon_Ishmael\">Розовую ленту</link></u></color>"
+            "desc": "При победе в столкновении наносит 1 <sprite name=\"PinkRibbon_Ishmael\"><color=#e30000><u><link=\"PinkRibbon_Ishmael\">Розовую ленту</link></u></color>"
         },
         {
             "id": 2080311,
@@ -103,7 +103,7 @@
         {
             "id": 2090111,
             "name": "Отсечение",
-            "desc": "+1 к <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultIncrease_Typo\">Эффективности восстановления СД</link></u></color>, -1 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color>"
+            "desc": "+1 к <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#9f6a3a><u><link=\"MentalSystemResultIncrease_Typo\">Эффективности восстановления СД</link></u></color>, -1 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#9f6a3a><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color>"
         },
         {
             "id": 2090211,
@@ -113,7 +113,7 @@
         {
             "id": 2090311,
             "name": "Холод",
-            "desc": "При ударе, если на цели 5+ <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, наносит ей 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижение силы атаки</link></u></color>.\n(До 3-х раз на одного персонажа)"
+            "desc": "При ударе, если на цели 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит ей 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> и <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color>.\n(До 3-х раз на одного персонажа)"
         },
         {
             "id": 2100111,
@@ -143,12 +143,12 @@
         {
             "id": 2120111,
             "name": "Неконтролируемое превращение",
-            "desc": "В начале хода, если ОЗ ниже 25%, восстанавливает 15 ОЗ и получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nПри активации этого эффекта даёт 1 случайному союзнику и 1 случайному противнику +2 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color>."
+            "desc": "В начале хода, если ОЗ ниже 25%, восстанавливает 15 ОЗ и получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>.\nПри активации этого эффекта даёт 1 случайному союзнику и 1 случайному противнику +2 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#9f6a3a><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color>."
         },
         {
             "id": 2120211,
             "name": "Опарыши",
-            "desc": "При ударе наносит 5 <sprite name=\"Muckworm\"><color=#f8c200><u><link=\"Muckworm\">Опарышей</link></u></color> с вероятностью (Абсолют Чревоугодия x8)%."
+            "desc": "При ударе наносит 5 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарышей</link></u></color> с вероятностью (Абсолют Чревоугодия x8)%."
         },
         {
             "id": 2120311,
@@ -228,7 +228,7 @@
         {
             "id": 2040511,
             "name": "Открытая банка",
-            "desc": "При ударе, если на цели 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>, наносит 1 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижение силы защиты</link></u></color>. (5 раз за ход)"
+            "desc": "При ударе, если на цели 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит 1 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Понижение силы защиты</link></u></color>. (5 раз за ход)"
         },
         {
             "id": 2060411,
@@ -268,7 +268,7 @@
         {
             "id": 2080511,
             "name": "Безрассудный вояж",
-            "desc": "В конце хода, наносит 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на союзника с наименьшими ОЗ (кроме себя); даёт этому союзнику 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход."
+            "desc": "В конце хода, наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на союзника с наименьшими ОЗ (кроме себя); даёт этому союзнику 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход."
         },
         {
             "id": 2090411,
@@ -288,12 +288,12 @@
         {
             "id": 2070511,
             "name": "Нескончаемая ненависть",
-            "desc": "Если на грешнике статусный или негативный эффект, а на нападающем/цели — позитивные эффекты:\n- Наносит 1 дополнительный <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на себя или врагов эффектами навыков или монет\n- Повышает счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> эффектами навыков или монет."
+            "desc": "Если на грешнике статусный или негативный эффект, а на нападающем/цели — позитивные эффекты:\n- Наносит 1 дополнительный <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на себя или врагов эффектами навыков или монет\n- Повышает счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> эффектами навыков или монет."
         },
         {
             "id": 2110511,
             "name": "Заслуженный подарок",
-            "desc": "Когда грешница даёт позитивные эффекты своим союзникам через навыки или монеты, случайным образом накладывает 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на случайного противника\n(Активируется до 5-и раз за ход. Наносит до 5-и эффектов на врага. Для аномалий наносит эффекты на случайную их часть.)"
+            "desc": "Когда грешница даёт позитивные эффекты своим союзникам через навыки или монеты, случайным образом накладывает 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на случайного противника\n(Активируется до 5-и раз за ход. Наносит до 5-и эффектов на врага. Для аномалий наносит эффекты на случайную их часть.)"
         },
         {
             "id": 2030511,
@@ -308,12 +308,12 @@
         {
             "id": 2120611,
             "name": "Если бы я только мог обратить всё вспять…",
-            "desc": "При убийстве противника в конце атаки Грегора получает +1 наименьший ЭГО ресурс.\nПолучает дополнительный ЭГО ресурс за каждые 5 единиц в сумме потенциала и счётчика <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на цели. (До 3)\n(Если среди ЭГО ресурсов 2 и более наименьших греха, полученные ЭГО ресурсы распределяются между ними в случайном порядке)"
+            "desc": "При убийстве противника в конце атаки Грегора получает +1 наименьший ЭГО ресурс.\nПолучает дополнительный ЭГО ресурс за каждые 5 единиц в сумме потенциала и счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели. (До 3)\n(Если среди ЭГО ресурсов 2 и более наименьших греха, полученные ЭГО ресурсы распределяются между ними в случайном порядке)"
         },
         {
             "id": 2010611,
             "name": "Осколки вчерашнего дня",
-            "desc": "Сила в поединке +1 против целей с 6 и более потенциалом <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>\nСила в поединке +1 против целей с 4 и более счётчиком <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>."
+            "desc": "Сила в поединке +1 против целей с 6 и более потенциалом <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\nСила в поединке +1 против целей с 4 и более счётчиком <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
         },
         {
             "id": 2030611,
@@ -350,19 +350,19 @@
         {
             "id": 2060611,
             "name": "Чувство уныния",
-            "desc": "При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков наносит 1 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход. (До 3-ёх раз за ход, включая ЭГО навыки)",
+            "desc": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход. (До 3-ёх раз за ход, включая ЭГО навыки)",
             "summary": "When triggering [VibrationExplosion], inflict 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> and 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> next turn"
         },
         {
             "id": 2100611,
             "name": "Слёзная оболочка",
-            "desc": "Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> при получении щита в начале хода.\nПолучает 1 дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> при наличии <sprite name=\"ShieldManagerCryingToad\"><color=#f8c200><u><link=\"ShieldManagerCryingToad\">Слезинки</link></u></color> на себе",
+            "desc": "Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> при получении щита в начале хода.\nПолучает 1 дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> при наличии <sprite name=\"ShieldManagerCryingToad\"><color=#9f6a3a><u><link=\"ShieldManagerCryingToad\">Слезинки</link></u></color> на себе",
             "summary": "If this unit has Shield, gain 1 [Protection]\nIf [ShieldManagerCryingToad] is active, gain 1 [Protection]"
         },
         {
             "id": 2020611,
             "name": "Бег времени",
-            "desc": "При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (До 4-ёх раз за ход, включая ЭГО навыки)",
+            "desc": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (До 4-ёх раз за ход, включая ЭГО навыки)",
             "summary": "When using a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)"
         },
         {
@@ -378,19 +378,19 @@
         {
             "id": 2110711,
             "name": "Блуждающая",
-            "desc": "Верхняя граница счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> +5.\nНавыки, что тратят счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносят +(2 x (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1))% урона. (До 10%)",
+            "desc": "Верхняя граница счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> +5.\nНавыки, что тратят счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносят +(2 × (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1))% урона. (До 10%)",
             "summary": "Skills that consume [Charge] Count deal more damage"
         },
         {
             "id": 2120711,
             "name": "Скорбь",
-            "desc": "В конце хода: если на персонаже есть негативный эффект, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход\nПри атаке целей, находящихся в срыве или под действием <sprite name=\"EgoErode\"><color=#f8c200><u><link=\"EgoErode\">Коррозии ЭГО</link></u></color>: наносит на 15% больше урона",
+            "desc": "В конце хода: если на персонаже есть негативный эффект, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход\nПри атаке целей, находящихся в срыве или под действием <sprite name=\"EgoErode\"><color=#9f6a3a><u><link=\"EgoErode\">Коррозии ЭГО</link></u></color>: наносит на 15% больше урона",
             "summary": ""
         },
         {
             "id": 2080711,
             "name": "Приём незваных гостей",
-            "desc": "Сила в поединке +1 против <sprite name=\"UninvitedGuestPersonality\"><color=#f8c200><u><link=\"UninvitedGuestPersonality\">Незваных гостей</link></u></color> и целей с эффектами, меняющими тип срыва.\nПри ударе этой цели Измаил восстанавливает 5 СД союзнику с наименьшей Силой духа. (Единожды за ход)"
+            "desc": "Сила в поединке +1 против <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Незваных гостей</link></u></color> и целей с эффектами, меняющими тип срыва.\nПри ударе этой цели Измаил восстанавливает 5 СД союзнику с наименьшей Силой духа. (Единожды за ход)"
         },
         {
             "id": 2020711,
@@ -401,7 +401,7 @@
         {
             "id": 2060711,
             "name": "Время охоты",
-            "desc": "Если противник или союзник погибает от урона <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, накладывает 2 <sprite name=\"Snare\"><color=#f8c200><u><link=\"Snare\">Лассо</link></u></color> на случайного противника и даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу (один раз за ход)"
+            "desc": "Если противник или союзник погибает от урона <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, накладывает 2 <sprite name=\"Snare\"><color=#e30000><u><link=\"Snare\">Лассо</link></u></color> на случайного противника и даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу (один раз за ход)"
         },
         {
             "id": 2030711,
@@ -411,7 +411,7 @@
         {
             "id": 2090711,
             "name": "Железный кол в сердце",
-            "desc": "При нанесении <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> или 'Уникального <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>' врагу с помощью базовых атакующих навыков накладывает 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (один раз за ход)\n- Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> или 'Уникальное <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>', дополнительно накладывает 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (один раз за ход)\n\nКогда союзник, включая этого персонажа, получает прямой урон по ОЗ от врага, накладывает 1 <sprite name=\"Curse\"><color=#f8c200><u><link=\"Curse\">Проклятие</link></u></color> на атаковавшего врага (2 раза за ход)",
+            "desc": "При нанесении <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> или 'Уникального <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>' врагу с помощью базовых атакующих навыков накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (один раз за ход)\n- Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> или 'Уникальное <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>', дополнительно накладывает 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (один раз за ход)\n\nКогда союзник, включая этого персонажа, получает прямой урон по ОЗ от врага, накладывает 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятие</link></u></color> на атаковавшего врага (2 раза за ход)",
             "summary": ""
         },
         {
@@ -422,7 +422,7 @@
         {
             "id": 2050711,
             "name": "Кровожадное пиршество",
-            "desc": "Когда этот персонаж наносит или получает урон от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, восстанавливает здоровье, равное урону от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (максимум 10 за ход)\n- При активации эффекта Умения/Монеты, накладывающего <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, если у цели есть <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шип розы</link></u></color>, накладывает на цель 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>. (2 раза за ход)"
+            "desc": "Когда этот персонаж наносит или получает урон от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, восстанавливает здоровье, равное урону от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (максимум 10 за ход)\n- При активации эффекта Умения/Монеты, накладывающего <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, если у цели есть <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шип розы</link></u></color>, накладывает на цель 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>. (2 раза за ход)"
         },
         {
             "id": 2010711,
@@ -432,7 +432,7 @@
         {
             "id": 2070811,
             "name": "Разбитый колокол",
-            "desc": "Накладывает <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> в этот ход на врагов, по которым попала <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокация Тремора</link></u></color> от эффектов Навыков, Монет или Пассивных умений.\n- Не складывается с Дарами П.О.Э., накладывающими <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> при срабатывании <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провокации Тремора</link></u></color>. (Если указанные Дары П.О.Э. были усилены, вычтите значение этого эффекта из конечного значения перед его наложением.)",
+            "desc": "Накладывает <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> в этот ход на врагов, по которым попала <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провокация Тремора</link></u></color> от эффектов Навыков, Монет или Пассивных умений.\n- Не складывается с Дарами П.О.Э., накладывающими <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> при срабатывании <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провокации Тремора</link></u></color>. (Если указанные Дары П.О.Э. были усилены, вычтите значение этого эффекта из конечного значения перед его наложением.)",
             "summary": "Inflict 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> upon triggering [VibrationExplosion] "
         },
         {
@@ -448,12 +448,12 @@
         {
           "id": 2110811,
           "name": "Семь пуль",
-          "desc": "- При попадании Базовыми Атакующими навыками: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Трижды за ход)\n- Для идентичности ЭГО «Лоботомии»::Магичская пуля[TabExplain] Отис: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> вместо этого (Трижды за ход)\n- Если цель имеет 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, наносит 1 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color> вместо этого эффекта (Дважды ха ход)"
+          "desc": "- При попадании Базовыми Атакующими навыками: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Трижды за ход)\n- Для идентичности ЭГО «Лоботомии»::Магичская пуля[TabExplain] Отис: наносит (Имеющихся <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>) <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> вместо этого (Трижды за ход)\n- Если цель имеет 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, наносит 1 <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Тёмное пламя</link></u></color> вместо этого эффекта (Дважды ха ход)"
         },
         {
           "id": 2040811,
           "name": "Дыхание",
-          "desc": "Начало следующего хода после использования этого ЭГО: даёт 1 <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзер β</link></u></color> (Единожды за ход)\n- Если этот навык убил противников, даёт дополнительные <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеры β</link></u></color>, равные количеству этих противников\n- Если навык убил союзников, даёт (Целей убито x 2) дополнительных <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеров β</link></u></color>\n- Этот эффект складывается на протяжении всего столкновения"
+          "desc": "Начало следующего хода после использования этого ЭГО: даёт 1 <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзер β</link></u></color> (Единожды за ход)\n- Если этот навык убил противников, даёт дополнительные <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеры β</link></u></color>, равные количеству этих противников\n- Если навык убил союзников, даёт (Целей убито × 2) дополнительных <sprite name=\"NebulizerInhale\"><color=#f8c200><u><link=\"NebulizerInhale\">Небулайзеров β</link></u></color>\n- Этот эффект складывается на протяжении всего столкновения"
         },
         {
           "id": 2020811,

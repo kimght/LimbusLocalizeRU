@@ -3,7 +3,7 @@
         {
             "id": 837804,
             "name": "Голодный и иссохший",
-            "desc": "В начале битвы получает <sprite name=\"StarvingPriestTwo\"><color=#f8c200><u><link=\"StarvingPriestTwo\">Иссохший</link></u></color>"
+            "desc": "В начале битвы получает <sprite name=\"StarvingPriestTwo\"><color=#e30000><u><link=\"StarvingPriestTwo\">Иссохший</link></u></color>"
         },
         {
             "id": 837801,
@@ -18,7 +18,7 @@
         {
             "id": 837803,
             "name": "Недужное сердце",
-            "desc": "Получает новые паттерны в зависимости от значения <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненного сердца</link></u></color>\nВ конце хода: получает 1 <sprite name=\"WornHeart\"><color=#f8c200><u><link=\"WornHeart\">Болезненное сердце</link></u></color>"
+            "desc": "Получает новые паттерны в зависимости от значения <sprite name=\"WornHeart\"><color=#9f6a3a><u><link=\"WornHeart\">Болезненного сердца</link></u></color>\nВ конце хода: получает 1 <sprite name=\"WornHeart\"><color=#9f6a3a><u><link=\"WornHeart\">Болезненное сердце</link></u></color>"
         },
         {
             "id": 837805,
@@ -28,22 +28,22 @@
         {
             "id": 837901,
             "name": "Некогда любимые",
-            "desc": "В начале хода: если у всех врагов есть <sprite name=\"AffectionTeddy\"><color=#f8c200><u><link=\"AffectionTeddy\">Привязанность</link></u></color>, использует мощный навык"
+            "desc": "В начале хода: если у всех врагов есть <sprite name=\"AffectionTeddy\"><color=#e30000><u><link=\"AffectionTeddy\">Привязанность</link></u></color>, использует мощный навык"
         },
         {
             "id": 837902,
             "name": "Ржавый железный кол",
-            "desc": "При нанесении удара противнику навыком с одной монетой накладывает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> силой 3 и <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> силой 2 до конца следующего хода.\nЕсли у цели уже есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, вместо этого накладывает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> силой 5"
+            "desc": "При нанесении удара противнику навыком с одной монетой накладывает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> силой 3 и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> силой 2 до конца следующего хода.\nЕсли у цели уже есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, вместо этого накладывает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> силой 5"
         },
         {
             "id": 837903,
             "name": "Вспомнить",
-            "desc": "Если персонаж был оглушён из-за эффекта в конце хода от \"Печального объятия\", получает 10 <sprite name=\"FaintMemory\"><color=#f8c200><u><link=\"FaintMemory\">Тусклых воспоминаний</link></u></color> в начале следующего хода"
+            "desc": "Если персонаж был оглушён из-за эффекта в конце хода от \"Печального объятия\", получает 10 <sprite name=\"FaintMemory\"><color=#9f6a3a><u><link=\"FaintMemory\">Тусклых воспоминаний</link></u></color> в начале следующего хода"
         },
         {
             "id": 837904,
             "name": "Любить",
-            "desc": "Если в конце хода ОЗ меньше или равно 30%: вместо нанесения 3 <sprite name=\"AffectionTeddy\"><color=#f8c200><u><link=\"AffectionTeddy\">Привязанность</link></u></color> всем врагам, получает 15 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход (Один раз за бой)"
+            "desc": "Если в конце хода ОЗ меньше или равно 30%: вместо нанесения 3 <sprite name=\"AffectionTeddy\"><color=#e30000><u><link=\"AffectionTeddy\">Привязанность</link></u></color> всем врагам, получает 15 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход (Один раз за бой)"
         },
         {
             "id": 837905,
@@ -73,28 +73,28 @@
         {
             "id": 837503,
             "name": "Душащий цветок одиночества",
-            "desc": "После атаки: накладывает 1 <sprite name=\"TinyCarmilla\"><color=#f8c200><u><link=\"TinyCarmilla\">Маленькую Кармиллу</link></u></color>\nЕсли у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, после атаки дополнительно накладывает 1 <sprite name=\"TinyCarmilla\"><color=#f8c200><u><link=\"TinyCarmilla\">Маленькую Кармиллу</link></u></color>"
+            "desc": "После атаки: накладывает 1 <sprite name=\"TinyCarmilla\"><color=#e30000><u><link=\"TinyCarmilla\">Маленькую Кармиллу</link></u></color>\nЕсли у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, после атаки дополнительно накладывает 1 <sprite name=\"TinyCarmilla\"><color=#e30000><u><link=\"TinyCarmilla\">Маленькую Кармиллу</link></u></color>"
         },
         {
             "id": 837601,
             "name": "Шипованный кнут",
-            "desc": "Если у цели есть <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> непосредственно перед атакой, 20% шанс увеличить счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на 1\nПри наложении <sprite name=\"ThornNoose\"><color=#f8c200><u><link=\"ThornNoose\">Колючего лассо</link></u></color> создаёт персонажа «<sprite name=\"ThornNoose\"><color=#f8c200><u><link=\"ThornNoose\">Колючее лассо</link></u></color>»",
+            "desc": "Если у цели есть <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> непосредственно перед атакой, 20% шанс увеличить счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на 1\nПри наложении <sprite name=\"ThornNoose\"><color=#e30000><u><link=\"ThornNoose\">Колючего лассо</link></u></color> создаёт персонажа «<sprite name=\"ThornNoose\"><color=#e30000><u><link=\"ThornNoose\">Колючее лассо</link></u></color>»",
             "summary": "If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count"
         },
         {
             "id": 837602,
             "name": "Шипастый скакун",
-            "desc": "Получает скорость равную количеству персонажей «<sprite name=\"ThornNoose\"><color=#f8c200><u><link=\"ThornNoose\">Колючее лассо</link></u></color>» на поле"
+            "desc": "Получает скорость равную количеству персонажей «<sprite name=\"ThornNoose\"><color=#e30000><u><link=\"ThornNoose\">Колючее лассо</link></u></color>» на поле"
         },
         {
             "id": 837603,
             "name": "Переплетённые шипы",
-            "desc": "При 40% ОЗ или меньше получает новый паттерн\nКаждый ход накладывает <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на каждого врага, равный их скорости\nВместо этого накладывает 2 <sprite name=\"ThornNoose\"><color=#f8c200><u><link=\"ThornNoose\">Колючее лассо</link></u></color>\nПолучает 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> с каждым проходящим ходом (максимум 12)"
+            "desc": "При 40% ОЗ или меньше получает новый паттерн\nКаждый ход накладывает <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на каждого врага, равный их скорости\nВместо этого накладывает 2 <sprite name=\"ThornNoose\"><color=#e30000><u><link=\"ThornNoose\">Колючее лассо</link></u></color>\nПолучает 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> с каждым проходящим ходом (максимум 12)"
         },
         {
             "id": 838006,
             "name": "В мечтах",
-            "desc": "В начале столкновения: получите <sprite name=\"Dreamy\"><color=#f8c200><u><link=\"Dreamy\">Мечтательную нерешительность</link></u></color>.\nВ начале столкновения: пропитавшая поле боя спящая кровь выходит на поверхность, увеличивая <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 400."
+            "desc": "В начале столкновения: получите <sprite name=\"Dreamy\"><color=#e30000><u><link=\"Dreamy\">Мечтательную нерешительность</link></u></color>.\nВ начале столкновения: пропитавшая поле боя спящая кровь выходит на поверхность, увеличивая <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 400."
         },
         {
             "id": 838001,
@@ -104,18 +104,18 @@
         {
             "id": 838002,
             "name": "Если мы сможем избавиться от этой мучительной болезни",
-            "desc": "Восстанавливает ОЗ части и ядра на 40% от урона, нанесённого цели с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>.\n- Эффект восстановления увеличивается на 1% за каждую единицу силы <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе (максимум 20%)\n- Для Нерушимых монет: эффект не срабатывает при попадании после проигрыша в поединке.\nВ начале каждого хода: восстанавливает (<sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>/10) ОЗ (максимум 50)\nВ начале каждого хода: при -15 или менее СД, потребляет (20 - текущее СД) <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить СД и 2 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышения силы в поединке</link></u></color>\nПри убийстве: получает 5 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>",
+            "desc": "Восстанавливает ОЗ части и ядра на 40% от урона, нанесённого цели с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>.\n- Эффект восстановления увеличивается на 1% за каждую единицу силы <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе (максимум 20%)\n- Для Нерушимых монет: эффект не срабатывает при попадании после проигрыша в поединке.\nВ начале каждого хода: восстанавливает (<sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>/10) ОЗ (максимум 50)\nВ начале каждого хода: при -15 или менее СД, потребляет (20 - текущее СД) <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить СД и 2 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышения силы в поединке</link></u></color>\nПри убийстве: получает 5 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>",
             "summary": "On Hit, if the target has [Laceration], heal HP"
         },
         {
             "id": 838003,
             "name": "Можно мне тоже отправиться в приключение?",
-            "desc": "В конце хода: за каждые 10% недостающих ОЗ получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color>. (До 5-и раз)\nВ конце хода: +1 к минимальной и максимальной скорости за каждые 300 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>"
+            "desc": "В конце хода: за каждые 10% недостающих ОЗ получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color>. (До 5-и раз)\nВ конце хода: +1 к минимальной и максимальной скорости за каждые 300 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>"
         },
         {
             "id": 838004,
             "name": "Кровавый пир",
-            "desc": "Если этот персонаж находится на поле боя или является одним из персонажей, которые могут появиться на этом этапе, увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на величину урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, полученного всеми персонажами.\nКогда этот персонаж выходит на поле боя, пропитавшая поле боя спящая кровь затопляет поверхность."
+            "desc": "Если этот персонаж находится на поле боя или является одним из персонажей, которые могут появиться на этом этапе, увеличивает значение <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на величину урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, полученного всеми персонажами.\nКогда этот персонаж выходит на поле боя, пропитавшая поле боя спящая кровь затопляет поверхность."
         },
         {
             "id": 838005,
@@ -125,12 +125,12 @@
         {
             "id": 838007,
             "name": "Но у меня есть отец и семья, которых я не могу бросить",
-            "desc": "Конец хода: если персонаж в панике, снимает панику и тратит 100 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>\n- Если персонаж не смог потратить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 30 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>"
+            "desc": "Конец хода: если персонаж в панике, снимает панику и тратит 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>\n- Если персонаж не смог потратить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 30 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>"
         },
         {
             "id": 837701,
             "name": "Колючее лассо",
-            "desc": "Когда этот персонаж погибает, <sprite name=\"ThornNoose\"><color=#f8c200><u><link=\"ThornNoose\">Колючее лассо</link></u></color> врага, привязанного к этому персонажу, истекает"
+            "desc": "Когда этот персонаж погибает, <sprite name=\"ThornNoose\"><color=#e30000><u><link=\"ThornNoose\">Колючее лассо</link></u></color> врага, привязанного к этому персонажу, истекает"
         },
         {
             "id": 839401,
@@ -140,7 +140,7 @@
         {
             "id": 840301,
             "name": "Раскалывающаяся, Разлетающаяся Твердая Кровь",
-            "desc": "Когда этот персонаж погибает от вражеской атаки или урона от эффектов Состояния, увеличивает значение <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 30 и увеличивает ЭГО ресурс случайного Сродства на 2. Не активируется, если персонаж убил себя сам."
+            "desc": "Когда этот персонаж погибает от вражеской атаки или урона от эффектов Состояния, увеличивает значение <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 30 и увеличивает ЭГО ресурс случайного Сродства на 2. Не активируется, если персонаж убил себя сам."
         },
         {
             "id": 840302,
@@ -160,17 +160,17 @@
         {
             "id": 839003,
             "name": "Вечный цикл мельниц, колёс и нас",
-            "desc": "Нельзя атаковать, когда на поле есть Гондола.\nНе теряет ОЗ от урона Навыков. Не получает урон ОЗ от <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>."
+            "desc": "Нельзя атаковать, когда на поле есть Гондола.\nНе теряет ОЗ от урона Навыков. Не получает урон ОЗ от <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
         },
         {
             "id": 839004,
             "name": "Ну что ж... ещё один круг.",
-            "desc": "Если <sprite name=\"FerrisWheel\"><color=#f8c200><u><link=\"FerrisWheel\">Бесконечное колесо</link></u></color> равно 0, и нет персонажей для появления в следующий ход в конце хода или во время фазы боя, переходит в следующую фазу."
+            "desc": "Если <sprite name=\"FerrisWheel\"><color=#9f6a3a><u><link=\"FerrisWheel\">Бесконечное колесо</link></u></color> равно 0, и нет персонажей для появления в следующий ход в конце хода или во время фазы боя, переходит в следующую фазу."
         },
         {
             "id": 839005,
             "name": "Голодный и иссохший",
-            "desc": "В начале битвы получает <sprite name=\"StarvingDonqui\"><color=#f8c200><u><link=\"StarvingDonqui\">Изголодавшийся и Иссохший</link></u></color>"
+            "desc": "В начале битвы получает <sprite name=\"StarvingDonqui\"><color=#e30000><u><link=\"StarvingDonqui\">Изголодавшийся и Иссохший</link></u></color>"
         },
         {
             "id": 841001,
@@ -185,17 +185,17 @@
         {
             "id": 841003,
             "name": "Незнакомое пиршество",
-            "desc": "Если этот персонаж восстановил более 15% от максимального запаса здоровья или поглотил <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> врага, получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> в следующем ходу. (один раз за ход)\nЕсли этот персонаж убивает цель своим умением, получает 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> и 1 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в следующем ходу. (3 раза за ход)"
+            "desc": "Если этот персонаж восстановил более 15% от максимального запаса здоровья или поглотил <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> врага, получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> в следующем ходу. (один раз за ход)\nЕсли этот персонаж убивает цель своим умением, получает 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> и 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в следующем ходу. (3 раза за ход)"
         },
         {
             "id": 841004,
             "name": "Ради семьи...",
-            "desc": "В конце хода: если персонаж в срыве, восстанавливается от срыва в начале следующего хода и сбрасывает СД до 0.\nПри восстановлении от срыва:\n- Тратит 30 <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу, а также восстанавливает 30 СД.\n- Если персонаж не смог потратить <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 40 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, немедленно получает урон от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, затем теряет 5 единиц <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.\n- После этого получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> в следующем ходу и восстанавливает 30 СД"
+            "desc": "В конце хода: если персонаж в срыве, восстанавливается от срыва в начале следующего хода и сбрасывает СД до 0.\nПри восстановлении от срыва:\n- Тратит 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> в следующем ходу, а также восстанавливает 30 СД.\n- Если персонаж не смог потратить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 40 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, немедленно получает урон от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, затем теряет 5 единиц <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.\n- После этого получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> в следующем ходу и восстанавливает 30 СД"
         },
         {
             "id": 841101,
             "name": "Разбитый осколок тщетной, наивной мечты",
-            "desc": "Если этот персонаж уничтожен, увеличивает <sprite name=\"BloodDinner\"><color=#f8c200><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 30.\nПри убийстве Грешником создаёт Воспоминания о приключении во сне."
+            "desc": "Если этот персонаж уничтожен, увеличивает <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на 30.\nПри убийстве Грешником создаёт Воспоминания о приключении во сне."
         },
         {
             "id": 841102,
@@ -210,12 +210,12 @@
         {
             "id": 841302,
             "name": "Напоминания о решимости",
-            "desc": "При убийстве Дон Кихотом: Дон Кихот получает 3 <sprite name=\"Reduction\"><color=#f8c200><u><link=\"Reduction\">Понижения силы атаки</link></u></color> в этот и следующий ход."
+            "desc": "При убийстве Дон Кихотом: Дон Кихот получает 3 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color> в этот и следующий ход."
         },
         {
             "id": 841201,
             "name": "Темница Клина Твердой Крови",
-            "desc": "Когда этот персонаж уничтожен, союзник, пронзённый этим персонажем, потеряет статус <sprite name=\"Penetration\"><color=#f8c200><u><link=\"Penetration\">Сгущающейся крови</link></u></color> в следующем ходу."
+            "desc": "Когда этот персонаж уничтожен, союзник, пронзённый этим персонажем, потеряет статус <sprite name=\"Penetration\"><color=#e30000><u><link=\"Penetration\">Сгущающейся крови</link></u></color> в следующем ходу."
         },
         {
             "id": 841202,
@@ -235,17 +235,17 @@
         {
             "id": 841103,
             "name": "Мне не следовало видеть эту безответственную мечту",
-            "desc": "Если у этого персонажа есть <sprite name=\"Precarious\"><color=#f8c200><u><link=\"Precarious\">Безответственная мечта</link></u></color>, при смерти не будут создаваться Воспоминания о приключении во сне"
+            "desc": "Если у этого персонажа есть <sprite name=\"Precarious\"><color=#9f6a3a><u><link=\"Precarious\">Безответственная мечта</link></u></color>, при смерти не будут создаваться Воспоминания о приключении во сне"
         },
         {
             "id": 839006,
             "name": "Принудительный Арбитраж Золотой Ветви",
-            "desc": "В начале битвы получает <sprite name=\"ConfinementOfGoldenBranch\"><color=#f8c200><u><link=\"ConfinementOfGoldenBranch\">Принудительный Арбитраж Золотой Ветви</link></u></color>"
+            "desc": "В начале битвы получает <sprite name=\"ConfinementOfGoldenBranch\"><color=#e30000><u><link=\"ConfinementOfGoldenBranch\">Принудительный Арбитраж Золотой Ветви</link></u></color>"
         },
         {
             "id": 841005,
             "name": "Попробуй ещё раз",
-            "desc": "При получении нового паттерна уменьшает вдвое силу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на частях тела этого персонажа."
+            "desc": "При получении нового паттерна уменьшает вдвое силу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на частях тела этого персонажа."
         },
         {
             "id": 841104,

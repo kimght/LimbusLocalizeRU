@@ -24,7 +24,7 @@
                   "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
                 }
               ]
             }
@@ -186,7 +186,7 @@
                   "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
                 }
               ]
             }
