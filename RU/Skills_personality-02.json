@@ -1,1352 +1,1352 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 1020501,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "Патрулирование",
-          "desc": "[DefeatDuel] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
+            "id": 1020501,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                    "level": 1,
+                    "name": "Патрулирование",
+                    "desc": "[DefeatDuel] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Патрулирование",
+                    "desc": "[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Патрулирование",
+                    "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 2,
-          "name": "Патрулирование",
-          "desc": "[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
+            "id": 1020502,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                    "level": 1,
+                    "name": "Охрана клиента",
+                    "desc": "[WhenUse] Даёт 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Охрана клиента",
+                    "desc": "[WhenUse] Даёт 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Охрана клиента",
+                    "desc": "[WhenUse] Даёт 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 4,
-          "name": "Патрулирование",
-          "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
+            "id": 1020503,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
+                    "level": 3,
+                    "name": "Закон и порядок",
+                    "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 2 ОЗ",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Закон и порядок",
+                    "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 4 ОЗ",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
+                                },
+                                {
+                                    "desc": "Если союзник — корректировщик ассоциации «Цвай», даёт дополнительные 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
+        },
+        {
+            "id": 1020504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Блок",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Блок",
+                    "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ужимающая смирительная рубашка",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Ужимающая смирительная рубашка",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ужимающая смирительная рубашка",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3\n[DefeatDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Металлический звон",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Металлический звон",
+                    "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Металлический звон",
+                    "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1.\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Высвобожденная ярость",
+                    "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1 (До 2 раз)\n[DefeatDuel] Теряет 20 СД\nНаносит на 3% больше урона за каждый тип негативного эффекта на цели (До 15%)\n[EnemyKill] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color> (До 13)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color> (До 13)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (До 13)\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Высвобожденная ярость",
+                    "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1 (До 2 раз)\n[DefeatDuel] Теряет 20 СД\nНаносит на 6% больше урона за каждый тип негативного эффекта на цели (До 30%)\n[EnemyKill] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Накапливающаяся злоба",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Накапливающаяся злоба",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 6",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Танец с мечами под луной",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Танец с мечами под луной",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Танец с мечами под луной",
+                    "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Иглоукалывание",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Иглоукалывание",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "Критический урон +30%"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color><style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Иглоукалывание",
+                    "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n</style>[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "Критический урон +30%"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color><style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Разлетающиеся лепестки красной сливы",
+                    "desc": "Урон +3% за каждый <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color> на цели\n[WinDuel] Тратит половину счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>, равное потраченному числу на его счётчике. (До 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Разлетающиеся лепестки красной сливы",
+                    "desc": "Урон +3% за каждый <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color> на цели\n<style=\"highlight\">Сила монет +1 за каждые 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 3)</style>\n[WinDuel] Тратит половину счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>, равное потраченному числу на его счётчике. (До 10)\n<style=\"highlight\">Этот навык не тратит <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красные лепестки сливы</link></u></color> во время критических ударов.</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> целям с 10 и более <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красными лепестками сливы</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> целям с 10 и более <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красными лепестками сливы</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Отражение удара",
+                    "desc": "[WhenUse]Итоговая сила +1 за каждые 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 3)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Отражение удара",
+                    "desc": "[WhenUse]Итоговая сила +1 за каждые 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 5)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Конфискация",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Конфискация",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Конфискация",
+                    "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Приём незваных гостей",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Приём незваных гостей",
+                    "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Приём незваных гостей",
+                    "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Сила монет +1 против целей с 3 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
+                    "desc": "[WhenUse] Сила монет +2 против целей с 5 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1020904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Подготовка к охоте",
+                    "desc": "[WhenUse] Сила монет +3 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Подготовка к охоте",
+                    "desc": "[WhenUse] Сила монет +7 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Запуск 40Y-3",
+                    "desc": "[WhenUse] Сила монет +1 при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Запуск 40Y-3",
+                    "desc": "[WhenUse] Сила монет +1 при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color><style=\"highlight\"></style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на <style=\"highlight\">3</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Запуск 40Y-3",
+                    "desc": "[WhenUse] Сила монет <style=\"highlight\">+2</style> при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Обратный заряженный поток",
+                    "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет +1 при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 60%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Обратный заряженный поток",
+                    "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет +1 при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color><style=\"highlight\"></style>",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +<style=\"highlight\">(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + 3)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 120%)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Обратный заряженный поток",
+                    "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет <style=\"highlight\">+2</style> при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +<style=\"highlight\">(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + 4)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 180%)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Заряд 40Y-3",
+                    "desc": "Сила монет +2 при 2 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядах</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> +4)] (До 7)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> +4)] (До 7)"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "При 3 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает +4% урона за каждый счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Заряд 40Y-3",
+                    "desc": "<style=\"highlight\">Сила монет +1 за каждую единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 4)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + <style=\"highlight\">5</style>)(До <style=\"highlight\">8</style>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + <style=\"highlight\">5</style>)(До <style=\"highlight\">8</style>)"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "При 3 и более<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает <style=\"highlight\">+8%</style> урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">40%</style>)\n<style=\"highlight\">[OnSucceedAttack] Наносит 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> на следующий ход\n- Наносит ещё 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> при 2 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 Envy Fragility next turn\n- At 2+ [Charge], inflict 1 additional Envy Fragility</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Подзарядка",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2 (Дважды за ход)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Подзарядка",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на <style=\"highlight\">4</style> (Дважды за ход)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Воспламенение",
+                    "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Воспламенение",
+                    "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n<style=\"highlight\">[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит 1 дополнительный <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Воспламенение",
+                    "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе наносит <style=\"highlight\">3</style> дополнительных <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "ЭГО — Активация A.B.S",
+                    "desc": "[WhenUse] <style=\"highlight\">При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "ЭГО — Активация A.B.S",
+                    "desc": "<style=\"highlight\">[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] При 4+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "ЭГО — Активация A.B.S",
+                    "desc": "[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 4 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Если цель имеет 15+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, повышает его счётчик цели на 2</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Привлечённая огнём",
+                    "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели): Базовая сила +1\n[WhenUse] Если менее 70% ОЗ, Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Привлечённая огнём",
+                    "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на <style=\"highlight\">12.5</style>% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые за каждые 30% потерянных ОЗ <(До 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Резонанс при повышении уровня настройки A.B.S",
+                    "desc": "[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Резонанс при повышении уровня настройки A.B.S",
+                    "desc": "<style=\"highlight\">[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>: Сила монеты +3</style>\n[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1021105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
+                    "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Базовая сила +1\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 2)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
+                    "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на <style=\"highlight\">12.5%</style> больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 3)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До <style=\"highlight\">4</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 1020502,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020503,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Закон и порядок",
-          "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 2 ОЗ",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Закон и порядок",
-          "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 4 ОЗ",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
-                },
-                {
-                  "desc": "Если союзник — корректировщик ассоциации «Цвай», даёт дополнительные 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020504,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Блок",
-          "desc": "",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Блок",
-          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020701,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Ужимающая смирительная рубашка",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Ужимающая смирительная рубашка",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Ужимающая смирительная рубашка",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3\n[DefeatDuel] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020702,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Металлический звон",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Металлический звон",
-          "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Металлический звон",
-          "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1.\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 4",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020703,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Высвобожденная ярость",
-          "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1 (До 2 раз)\n[DefeatDuel] Теряет 20 СД\nНаносит на 3% больше урона за каждый тип негативного эффекта на цели (До 15%)\n[EnemyKill] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color> (До 13)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color> (До 13)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 20% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (До 13)\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Высвобожденная ярость",
-          "desc": "[StartBattle] Понижает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 5, чтобы увеличить число целей этого навыка на 1 (До 2 раз)\n[DefeatDuel] Теряет 20 СД\nНаносит на 6% больше урона за каждый тип негативного эффекта на цели (До 30%)\n[EnemyKill] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>,\nПосле наносит урон Гневом на 30% от повышения последней границы выносливости <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокацией Тремора</link></u></color>. (Max 20)\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020704,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Накапливающаяся злоба",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Накапливающаяся злоба",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 6",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020801,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Танец с мечами под луной",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Танец с мечами под луной",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Танец с мечами под луной",
-          "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020802,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Иглоукалывание",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Иглоукалывание",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
-                },
-                {
-                  "desc": "Критический урон +30%"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color><style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Иглоукалывание",
-          "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n</style>[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
-                },
-                {
-                  "desc": "Критический урон +30%"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестка сливы</link></u></color><style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020803,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Разлетающиеся лепестки красной сливы",
-          "desc": "Урон +3% за каждый <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color> на цели\n[WinDuel] Тратит половину счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>, равное потраченному числу на его счётчике. (До 10)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Разлетающиеся лепестки красной сливы",
-          "desc": "Урон +3% за каждый <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красный лепесток сливы</link></u></color> на цели\n<style=\"highlight\">Сила монет +1 за каждые 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 3)</style>\n[WinDuel] Тратит половину счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color>, равное потраченному числу на его счётчике. (До 10)\n<style=\"highlight\">Этот навык не тратит <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красные лепестки сливы</link></u></color> во время критических ударов.</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> целям с 10 и более <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красными лепестками сливы</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 5 <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красных лепестков сливы</link></u></color>"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимость к Рубящему урону</link></u></color> целям с 10 и более <sprite name=\"RedApricotBlossom\"><color=#e30000><u><link=\"RedApricotBlossom\">Красными лепестками сливы</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020804,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Отражение удара",
-          "desc": "[WhenUse]Итоговая сила +1 за каждые 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 3)",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Отражение удара",
-          "desc": "[WhenUse]Итоговая сила +1 за каждые 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 5)",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020901,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Конфискация",
-          "desc": "",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Конфискация",
-          "desc": "",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Конфискация",
-          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020902,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Приём незваных гостей",
-          "desc": "",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Приём незваных гостей",
-          "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Приём незваных гостей",
-          "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Сила монет +1 против целей с 3 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020903,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                }
-              ]
-            },
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
-          "desc": "[WhenUse] Сила монет +2 против целей с 5 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                }
-              ]
-            },
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1020904,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Подготовка к охоте",
-          "desc": "[WhenUse] Сила монет +3 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Подготовка к охоте",
-          "desc": "[WhenUse] Сила монет +7 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021001,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Запуск 40Y-3",
-          "desc": "[WhenUse] Сила монет +1 при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Запуск 40Y-3",
-          "desc": "[WhenUse] Сила монет +1 при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color><style=\"highlight\"></style>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на <style=\"highlight\">3</style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Запуск 40Y-3",
-          "desc": "[WhenUse] Сила монет <style=\"highlight\">+2</style> при трате 5 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021002,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Обратный заряженный поток",
-          "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет +1 при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
-          "coinlist": [
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color>)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 60%)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Обратный заряженный поток",
-          "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет +1 при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color><style=\"highlight\"></style>",
-          "coinlist": [
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +<style=\"highlight\">(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + 3)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 120%)</style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Обратный заряженный поток",
-          "desc": "[WhenUse] При 5~9 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит (2 × (10 - текущий счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>))% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10\n[WhenUse] Сила монет <style=\"highlight\">+2</style> при трате 10 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
-          "coinlist": [
-            {},
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "Если резонанс с этим навыком состоит из 3-ёх грехов, тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получая +<style=\"highlight\">(<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + 4)% урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, потраченную этим навыком (До 180%)</style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021003,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Заряд 40Y-3",
-          "desc": "Сила монет +2 при 2 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядах</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> +4)] (До 7)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> +4)] (До 7)"
-                }
-              ]
-            },
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "При 3 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает +4% урона за каждый счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 20%)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Заряд 40Y-3",
-          "desc": "<style=\"highlight\">Сила монет +1 за каждую единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 4)</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + <style=\"highlight\">5</style>)(До <style=\"highlight\">8</style>)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> + <style=\"highlight\">5</style>)(До <style=\"highlight\">8</style>)"
-                }
-              ]
-            },
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "При 3 и более<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> получает <style=\"highlight\">+8%</style> урона за каждую единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">40%</style>)\n<style=\"highlight\">[OnSucceedAttack] Наносит 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> на следующий ход\n- Наносит ещё 1 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимость к Зависти</link></u></color> при 2 и более <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 Envy Fragility next turn\n- At 2+ [Charge], inflict 1 additional Envy Fragility</style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021004,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Подзарядка",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2 (Дважды за ход)",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Подзарядка",
-          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на <style=\"highlight\">4</style> (Дважды за ход)",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021101,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Воспламенение",
-          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Воспламенение",
-          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n<style=\"highlight\">[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит 1 дополнительный <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Воспламенение",
-          "desc": "[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона\n[WhenUse] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе наносит <style=\"highlight\">3</style> дополнительных <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021102,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "ЭГО — Активация A.B.S",
-          "desc": "[WhenUse] <style=\"highlight\">При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> наносит на 10% больше урона</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "ЭГО — Активация A.B.S",
-          "desc": "<style=\"highlight\">[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] При 4+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "ЭГО — Активация A.B.S",
-          "desc": "[WhenUse] Наносит на 10% больше урона за каждые 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 20%)\n[WhenUse] Повышает свой счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые 4 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если цель имеет 15+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, повышает его счётчик цели на 2</style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021103,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "Привлечённая огнём",
-          "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели): Базовая сила +1\n[WhenUse] Если менее 70% ОЗ, Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Привлечённая огнём",
-          "desc": "[StartBattle] Получает 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1\n[BeforeUse] При 30+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, заменяет этот навык на 'Максимальная настройка A.B.S. 【Деградированная коррозия】’\n[WhenUse] Наносит на <style=\"highlight\">12.5</style>% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] <style=\"highlight\">Сила монет +1 за каждые за каждые 30% потерянных ОЗ <(До 2)</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021104,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Резонанс при повышении уровня настройки A.B.S",
-          "desc": "[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Резонанс при повышении уровня настройки A.B.S",
-          "desc": "<style=\"highlight\">[WhenUse] При 10+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>: Сила монеты +3</style>\n[WhenUse] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)\n[OnSucceedEvade] Теряет 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> (Единожды за ход)",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1021105,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
-          "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на 7.5% больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До 30%)\n[WhenUse] При 10+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели), Базовая сила +1\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 2)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До 2)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Максимальная настройка A.B.S. [Деградированная коррозия]",
-          "desc": "После использования этого навыка погибает.\n\n- ОЗ не может опуститься ниже 1 во время использования этого навыка.\n[WhenUse] Наносит на <style=\"highlight\">12.5%</style> больше урона за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на себе (До <style=\"highlight\">50%</style>)\n[WhenUse] <style=\"highlight\">Базовая сила +1 за каждые 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на себе + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> на цели) (До 2)</style>\n[WhenUse] Сила монет +1 за каждые 30% потерянных ОЗ (До 3)\n[BeforeAttack] Вес атаки +1 за каждые 20% потерянных ОЗ (До <style=\"highlight\">4</style>)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит на 10% больше урона за каждые 20% потерянных ОЗ (До 30%)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

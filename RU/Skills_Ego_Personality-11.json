@@ -1,560 +1,560 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 2110511,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2110511,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                    "level": 1,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 2-м союзникам с наименьшей СД"
+                                },
+                                {
+                                    "desc": "[EndSkill] Восстанавливает 20 СД 2-м союзникм с наименьшей СД"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 2-м союзникам с наименьшей СД"
+                    "level": 3,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 3-м союзникам с наименьшей СД"
+                                },
+                                {
+                                    "desc": "[EndSkill] Восстанавливает 20 СД 3-м союзникм с наименьшей СД"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД 2-м союзникм с наименьшей СД"
+                    "level": 4,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 4-м союзникам с наименьшей СД"
+                                },
+                                {
+                                    "desc": "[EndSkill] Восстанавливает 20 СД 4-м союзникм с наименьшей СД"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 3,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2110521,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                    "level": 1,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Наносит 1 уязвимость к греху с наибольшим резонансом"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 3-м союзникам с наименьшей СД"
+                    "level": 3,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Наносит 2 уязвимости к греху с наибольшим резонансом"
+                                },
+                                {
+                                    "desc": "[EndSkillTail] Получает 1 повышениу рона греха с наибольшим резонансом"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД 3-м союзникм с наименьшей СД"
+                    "level": 4,
+                    "name": "Праздник",
+                    "abName": "Сан-дольф",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 уязвимости к греху с наибольшим резонансом"
+                                },
+                                {
+                                    "desc": "[EndSkillTail] Получает 1 повышение урона греха с наибольшим резонансом"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         },
         {
-          "level": 4,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 2110611,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                    "level": 1,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\n[EndSkill] В течение следующих 3-ёх ходов теряет по 10 СД за ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 повышение урона греха с наибольшим резонансом 4-м союзникам с наименьшей СД"
+                    "level": 3,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 9 СД за ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД 4-м союзникм с наименьшей СД"
+                    "level": 4,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +100% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 8 СД за ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
+        },
+        {
+            "id": 2110621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Узы",
+                    "abName": "Связанный король",
+                    "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит 15% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 10%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 1)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 1 за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[BeforeAttack] Число целей +1 при <style=\"highlight\">3</style> и более грехов в наибольшем резонансе\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит 15% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">20</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До <style=\"highlight\">2</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">2</style> за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[BeforeAttack] Число целей <style=\"highlight\">+(число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит <style=\"highlight\">10</style>% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">30</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">3</style> за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит (недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> X 1.5)% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 20%) ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 2 за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит (недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> X <style=\"highlight\">1.2</style>)% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">40</style>%) ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 2 за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Разрыв измерений",
+                    "abName": "Заблудший пассажир",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей <style=\"highlight\">+(число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит <style=\"highlight\">(недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>)%</style> от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">60</style>%) ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До <style=\"highlight\">4</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">3</style> за навык)"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110811,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "На 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 2 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "На <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">3</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "На <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">4</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110821,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "[CantIdentify]\nСлучайные цели\nНа 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 3 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">5</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Магическая пуля",
+                    "abName": "Der Freischütz",
+                    "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">7</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / <style=\"highlight\">2</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 2110521,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] Наносит 1 уязвимость к греху с наибольшим резонансом"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] Наносит 2 уязвимости к греху с наибольшим резонансом"
-                },
-                {
-                  "desc": "[EndSkillTail] Получает 1 повышениу рона греха с наибольшим резонансом"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Праздник",
-          "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 уязвимости к греху с наибольшим резонансом"
-                },
-                {
-                  "desc": "[EndSkillTail] Получает 1 повышение урона греха с наибольшим резонансом"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110611,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\n[EndSkill] В течение следующих 3-ёх ходов теряет по 10 СД за ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 9 СД за ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +100% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 8 СД за ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110621,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Узы",
-          "abName": "Связанный король",
-          "desc": "[BeforeAttack] Число целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в <sprite name=\"VibrationCrack\"><color=#e30000><u><link=\"VibrationCrack\">Тремор — Разлом</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110711,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит 15% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 10%)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 1)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 1 за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Число целей +1 при <style=\"highlight\">3</style> и более грехов в наибольшем резонансе\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит 15% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">20</style>%)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До <style=\"highlight\">2</style>)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">2</style> за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Число целей <style=\"highlight\">+(число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] При менее 10 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> тратит <style=\"highlight\">10</style>% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 10 (Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +1% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">30</style>%)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">3</style> за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110721,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит (недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> X 1.5)% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 20%) ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 2 за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 4 и более грехов в наибольшем резонансе\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит (недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> X <style=\"highlight\">1.2</style>)% от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">40</style>%) ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До 2)<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До 2 за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Разрыв измерений",
-          "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей <style=\"highlight\">+(число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> не максимально заполнен, тратит <style=\"highlight\">(недостающее число счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>)%</style> от максимальных ОЗ для повышения своего счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до получаемого максимума (Получаемый максимум счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>: 30. Неспособно убить грешницу, десятичные опускаются)\n[BeforeAttack] Тратит до 40 единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>; +2% урона за каждую потраченную единицу счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">60</style>%) ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит (<sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> - 1) <sprite name=\"DimensionRift\"><color=#f8c200><u><link=\"DimensionRift\">Пространственных разломов</link></u></color> (До <style=\"highlight\">4</style>)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает по 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешке</link></u></color> и 1 <sprite name=\"ChargeLoad\"><color=#f8c200><u><link=\"ChargeLoad\">Нагрузке</link></u></color> за каждый <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряд</link></u></color> на следующий ход (До <style=\"highlight\">3</style> за навык)"
-                },
-                {
-                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110811,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "На 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 2 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "На <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">3</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "На <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">4</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2110821,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nСлучайные цели\nНа 1% больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 10%)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит 3 <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">2%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">20%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">5</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / 3)</style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Магическая пуля",
-          "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nСлучайные цели\nНа <style=\"highlight\">3%</style> больше урона за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30%</style>)\n[BeforeAttack] Если нет <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, получает одну.\n- Количество <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> определяет ту, которой будет произведён выстрел.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Получает <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магические пули</link></u></color>, равные наибольшему резонансу (От одной до четырёх)\n[EndSkill] Если главная цель убита, наносит <style=\"highlight\">7</style> <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмного пламени</link></u></color> на всех противников с <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, равный <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на (<sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> / <style=\"highlight\">2</style>)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"DarkFlame\"><color=#f8c200><u><link=\"DarkFlame\">Тёмное пламя</link></u></color>, равное <sprite name=\"FreischutzShotCount\"><color=#9f6a3a><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> (Единожды за ход на каждого противника)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

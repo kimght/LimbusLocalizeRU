@@ -1,149 +1,149 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 806301,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "Зверское избиение",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 806301,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                    "level": 1,
+                    "name": "Зверское избиение",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 806302,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Мощное! Крушение",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 806302,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит +4 счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                    "level": 1,
+                    "name": "Мощное! Крушение",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +4 счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 806303,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Крабовая пена",
-          "desc": "[CantIdentify]",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 806303,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                    "level": 1,
+                    "name": "Крабовая пена",
+                    "desc": "[CantIdentify]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
+            ]
+        },
+        {
+            "id": 806304,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                    "level": 1,
+                    "name": "Ракушечная атака!!!",
+                    "desc": "[CantIdentify] \nНаносит +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 806304,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Ракушечная атака!!!",
-          "desc": "[CantIdentify] \nНаносит +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 806305,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                    "level": 1,
+                    "name": "Крабовый рейв",
+                    "desc": "[CantIdentify] +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели\n[EndSkill] Призывает 3-х Крабов при наличии на поле боя менее 5 Крабов в конце хода (до 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 806305,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Крабовый рейв",
-          "desc": "[CantIdentify] +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели\n[EndSkill] Призывает 3-х Крабов при наличии на поле боя менее 5 Крабов в конце хода (до 5)",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 806306,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                    "level": 1,
+                    "name": "Пенная броня",
+                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
+                    "coinlist": [
+                        {}
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 806306,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Пенная броня",
-          "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
-          "coinlist": [
-            {}
-          ]
+            "id": 806307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пенная броня",
+                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 806307,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пенная броня",
-          "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

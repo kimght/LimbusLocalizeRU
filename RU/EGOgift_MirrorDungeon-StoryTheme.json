@@ -1,282 +1,282 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 9403,
-      "name": "Древесная брошь",
-      "desc": "Начало первого хода столкновения: Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 всем противникам.\n\nНаносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> всем противникам на протяжении 3 ходов.",
-      "simpleDesc": [
+    "dataList": [
         {
-          "abilityID": 9403,
-          "simpleDesc": "Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 всем противникам"
+            "id": 9403,
+            "name": "Древесная брошь",
+            "desc": "Начало первого хода столкновения: Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 всем противникам.\n\nНаносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> всем противникам на протяжении 3 ходов.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9403,
+                    "simpleDesc": "Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 2 всем противникам"
+                },
+                {
+                    "abilityID": 94031,
+                    "simpleDesc": "Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> всем противникам"
+                }
+            ]
         },
         {
-          "abilityID": 94031,
-          "simpleDesc": "Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> всем противникам"
+            "id": 9404,
+            "name": "Опарыши в банке",
+            "desc": "При использовании навыков с грехом Чревоугодия (ЭГО навыки не учитываются), наносит 2 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color> на цель.\n\nЕсли же этот навык наносит силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, повышает его счётчик, или наносит Особое Кровотечение, наносит 3 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color> вместо этого.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9404,
+                    "simpleDesc": "Наносит 2 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color>"
+                },
+                {
+                    "abilityID": 94041,
+                    "simpleDesc": "Наносит 3 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color>"
+                }
+            ]
+        },
+        {
+            "id": 9407,
+            "name": "Сделано-по-заказу",
+            "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНачало столкновения: повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> идентичности на 3.\n\nНачало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9407,
+                    "simpleDesc": "Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> третьей идентичности на 3"
+                },
+                {
+                    "abilityID": 94071,
+                    "simpleDesc": "Даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement]"
+                }
+            ]
+        },
+        {
+            "id": 9408,
+            "name": "Розовые туфельки",
+            "desc": "[Эффекты активируются для #2 Выбранной Идентичности]\n\nНачало столкновения: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> идентичности на 3.\n\nНачало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9408,
+                    "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> второй идентичности на 3"
+                },
+                {
+                    "abilityID": 94081,
+                    "simpleDesc": "Начало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement]."
+                }
+            ]
+        },
+        {
+            "id": 9409,
+            "name": "Застывшие крики",
+            "desc": "Накладывается на одного союзника с наименьшей скоростью в начале хода.\n\nЕсли этот союзник побеждает в столкновении или получает удар от противника, наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на этого противника.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9409,
+                    "simpleDesc": "Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на противника"
+                }
+            ]
+        },
+        {
+            "id": 9410,
+            "name": "Следы инея",
+            "desc": "Начало первого хода волны: все союзники получают 3 счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, а всем противникам (Или частям Аномалии) наносится 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и его счётчик повышается на 8.\n\nПротивники с <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопанием</link></u></color> теряют 2 Силы в столкновении; когда союзник побеждает в столкновении против этих противников, наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>; когда союзники получают удар от этих противников, наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9410,
+                    "simpleDesc": "Наосит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 8 всем противникам."
+                },
+                {
+                    "abilityID": 94101,
+                    "simpleDesc": "Противники с <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопанием</link></u></color> теряют 2 Силы в столкновении"
+                }
+            ]
+        },
+        {
+            "id": 9413,
+            "name": "Писания Гвоздя и Молота",
+            "desc": "При победе в столкновении навыками, которые наносят силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повышают его счётчик, или наносят Особое Кровотечение, наносит 1~2 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>.\n\nЕсли победившим в столкновении союзником была идентичность Фанатика Корп. N, даёт ей 1 [Assemble] в начале хода.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9413,
+                    "simpleDesc": "Наносит 1~2 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
+                },
+                {
+                    "abilityID": 94131,
+                    "simpleDesc": "Даёт идентичностям Корпорации N [Assemble] в начале хода"
+                }
+            ]
+        },
+        {
+            "id": 9414,
+            "name": "Кроваво-красная грива",
+            "desc": "Накладывается на все идентичности с грехами Гнева или Похоти в навыках.\n\nКонец хода: если этот союзник не получил никакого урона от атакующих навыков противников к концу хода, даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> на следующий ход.\n\nКонец хода: если же этот союзник получил урон от Атакующих навыков противников к концу хода, наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и даёт +2 к Силе в столкновении на следующий ход.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9414,
+                    "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> на следующий ход"
+                },
+                {
+                    "abilityID": 94141,
+                    "simpleDesc": "Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и даёт +2 к Силе в столкновении на следующий ход"
+                }
+            ]
+        },
+        {
+            "id": 9415,
+            "name": "Нечистота",
+            "desc": "Когда союзник атакует противника, который имеет [Laceration] навыками, которые наносят силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, повышают его счётчик, или наносят Особое Кровотечение: на 15% больше урона по этому противнику.\n\nЕсли же ОЗ цели 33% и менее, на 25% больше урона вместо этого.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9415,
+                    "simpleDesc": "На 15% больше урона"
+                },
+                {
+                    "abilityID": 94151,
+                    "simpleDesc": "На 25% больше урона"
+                }
+            ]
+        },
+        {
+            "id": 9416,
+            "name": "Единство",
+            "desc": "При победе в столкновении навыком, который наносит силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повышает его счётчик, или наносит Особое Кровотечение: наносит 2~3 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color> на цель.\n\nЕсли союзник это идентичность Фанатика Корп. N, даёт этому союзнику 1 <sprite name=\"Assemble\"><color=#f8c200><u><link=\"Assemble\">Фанатичность</link></u></color> в начале хода и повышает наносимый целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> урон на 25%.\n\nАктивирует специальный эффект, когда на поле боя 5 и более идентичностей Фанатиков Корп. N:\n- Эти союзники получают +1 к Итоговой силе навыков, +1 к Силе положительных монет, -1 к Силе отрицательных, а Атакующие навыки наносят на 1 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвозди</link></u></color> больше. Если этот союзник имеет 45 СД в начале хода, даёт ему 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9416,
+                    "simpleDesc": "Победа в столкновении: наносит 2~3 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
+                },
+                {
+                    "abilityID": 94161,
+                    "simpleDesc": "Идентичности Корп. N наносят на 25% больше"
+                },
+                {
+                    "abilityID": 94162,
+                    "simpleDesc": "Активирует специальный эффект, когда на поле боя 5 и более Идентичностей Корп. N"
+                }
+            ]
+        },
+        {
+            "id": 9419,
+            "name": "Ветвь линдеры",
+            "desc": "На протяжении столкновения: эффект активируется, когда первый, второй и третий навыки были спользованы хотя бы единожды.\n\nНачало хода: даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 [SkillPowerUp]. (Может складываться до 3 раз)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9419,
+                    "simpleDesc": "Начало хода: даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 [SkillPowerUp]."
+                }
+            ]
+        },
+        {
+            "id": 9420,
+            "name": "Калейдоскоп",
+            "desc": "Начало хода: грешники, сопровождаемые идентичностями из той же фракции, что и они, получают <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, равные количеству идентичностей этой фракции. (До 4)\n\nИдентичности Альянса Освобождения Технологий получают +1 к Силе в столкновении.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9420,
+                    "simpleDesc": "Даёт [AttackUp]"
+                },
+                {
+                    "abilityID": 94201,
+                    "simpleDesc": "+1 к Силе в столкновении"
+                }
+            ]
+        },
+        {
+            "id": 9423,
+            "name": "Разбитые очки",
+            "desc": "+1 к Силе в столкновении с более быстрыми противниками.\n\nКогда союзник побеждает в столкновении этими противниками, даёт 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход. (До 4)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9423,
+                    "simpleDesc": "+1 к Силе в столкновении"
+                },
+                {
+                    "abilityID": 94231,
+                    "simpleDesc": "Даёт 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход"
+                }
+            ]
+        },
+        {
+            "id": 9424,
+            "name": "Неотправленное письмо",
+            "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nПри победе в столкновении навыком, который наносит силу <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или повышает его счётчик, наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3. (Единожды за ход на идентичность)\n\n+1 к Силе в столкновении с более быстрыми противниками и на 25% больше урона по ним.\n\nПри победе в столкновении с противником, у которого есть [AttackUp], даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход и наносит на этого противника 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> (До 9 на все эффекты в сумме)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9424,
+                    "simpleDesc": "Победа в столкновении: наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3"
+                },
+                {
+                    "abilityID": 94241,
+                    "simpleDesc": "+1 к Итоговой силе и на 25% больше урона"
+                },
+                {
+                    "abilityID": 94242,
+                    "simpleDesc": "Наносит 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> противникам, проигравшим в столкновении"
+                }
+            ]
+        },
+        {
+            "id": 9429,
+            "name": "Гарпун-протез",
+            "desc": "Конец хода: даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход союзникам с наибольшей суммой силы и счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\n\nИдентичности Пекода получают +1 к максимальной скорости.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9429,
+                    "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход"
+                },
+                {
+                    "abilityID": 94291,
+                    "simpleDesc": "Идентичности Пекода получают +1 к максимальной скорости"
+                }
+            ]
+        },
+        {
+            "id": 9430,
+            "name": "Газовая лампа",
+            "desc": "Начало первого хода волны: все союзники получают 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 5.\n\nКонец хода: союзник с наибольшей суммой силы и счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход.\n\nИдентичности Пекода получают +2 к Силе навыков и +2 к максимальной скорости.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9430,
+                    "simpleDesc": "Все союзники получают 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 5"
+                },
+                {
+                    "abilityID": 94301,
+                    "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход"
+                },
+                {
+                    "abilityID": 94302,
+                    "simpleDesc": "+2 к Силе навыков, +2 к максимальной скорости."
+                }
+            ]
+        },
+        {
+            "id": 9433,
+            "name": "Секретные искусства главного дворецкого",
+            "desc": "Начало первого хода волны: наносит противнику с наименьшей скоростью (Или части Аномалии) 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на 5 ходов начиная со следующего хода.\n\nПобеда в столкновении: если скорость выше скорости цели, восстанавливает СД, равное разнице в скорости, а так же даёт этому навыку половину от этой разницы в виде Уровней атаки. (До 3 Уровней атаки)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9433,
+                    "simpleDesc": "Наносит 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на 5 ходов начиная со следующего"
+                },
+                {
+                    "abilityID": 94331,
+                    "simpleDesc": "Восстанавливает СД и даёт такое же количество Уровней атаки"
+                }
+            ]
+        },
+        {
+            "id": 9434,
+            "name": "Карманное зеркало",
+            "desc": "Начало первого хода волны: наносит двум противникам с наименьшей скоростью (Или частям Аномалии) 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> в начале хода начиная со следующего хода.\n\nКогда противник восстанавливается от оглушения, и если у него не остаётся границ выносливости, создаёт новую границу выносливости на уровне 66% его текущих ОЗ (Трижды за битву). Если союзник оглушает противника своим Атакующим навыком (ЭГО навыки не учитываются), который наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или повышает его счётчик (Включая те, которые накладывают его на себя или союзников), случайно наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, равную половине силы <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели, между остальными противниками (Или частями Аномалии), а так же увеличивает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на оглушённой цели в 2 раза.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9433,
+                    "simpleDesc": "Начало хода: наносит 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                },
+                {
+                    "abilityID": 94331,
+                    "simpleDesc": "Создаёт новую границу выносливости на уровне 66% текущих ОЗ противника при его оглушении"
+                },
+                {
+                    "abilityID": 94332,
+                    "simpleDesc": "Потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на оглушённом противнике увеличивается в 2 раза"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 9404,
-      "name": "Опарыши в банке",
-      "desc": "При использовании навыков с грехом Чревоугодия (ЭГО навыки не учитываются), наносит 2 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color> на цель.\n\nЕсли же этот навык наносит силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, повышает его счётчик, или наносит Особое Кровотечение, наносит 3 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color> вместо этого.",
-      "simpleDesc": [
-        {
-          "abilityID": 9404,
-          "simpleDesc": "Наносит 2 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color>"
-        },
-        {
-          "abilityID": 94041,
-          "simpleDesc": "Наносит 3 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Опарыша</link></u></color>"
-        }
-      ]
-    },
-    {
-      "id": 9407,
-      "name": "Сделано-по-заказу",
-      "desc": "[Эффекты активируются для #3 Выбранной Идентичности]\n\nНачало столкновения: повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> идентичности на 3.\n\nНачало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement].",
-      "simpleDesc": [
-        {
-          "abilityID": 9407,
-          "simpleDesc": "Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> третьей идентичности на 3"
-        },
-        {
-          "abilityID": 94071,
-          "simpleDesc": "Даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement]"
-        }
-      ]
-    },
-    {
-      "id": 9408,
-      "name": "Розовые туфельки",
-      "desc": "[Эффекты активируются для #2 Выбранной Идентичности]\n\nНачало столкновения: повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> идентичности на 3.\n\nНачало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement].",
-      "simpleDesc": [
-        {
-          "abilityID": 9408,
-          "simpleDesc": "Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> второй идентичности на 3"
-        },
-        {
-          "abilityID": 94081,
-          "simpleDesc": "Начало хода: даёт 1 [Protection], 1 [AttackDmgUp] и 1 [ResultEnhancement]."
-        }
-      ]
-    },
-    {
-      "id": 9409,
-      "name": "Застывшие крики",
-      "desc": "Накладывается на одного союзника с наименьшей скоростью в начале хода.\n\nЕсли этот союзник побеждает в столкновении или получает удар от противника, наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на этого противника.",
-      "simpleDesc": [
-        {
-          "abilityID": 9409,
-          "simpleDesc": "Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на противника"
-        }
-      ]
-    },
-    {
-      "id": 9410,
-      "name": "Следы инея",
-      "desc": "Начало первого хода волны: все союзники получают 3 счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, а всем противникам (Или частям Аномалии) наносится 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и его счётчик повышается на 8.\n\nПротивники с <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопанием</link></u></color> теряют 2 Силы в столкновении; когда союзник побеждает в столкновении против этих противников, наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>; когда союзники получают удар от этих противников, наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>.",
-      "simpleDesc": [
-        {
-          "abilityID": 9410,
-          "simpleDesc": "Наосит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 8 всем противникам."
-        },
-        {
-          "abilityID": 94101,
-          "simpleDesc": "Противники с <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопанием</link></u></color> теряют 2 Силы в столкновении"
-        }
-      ]
-    },
-    {
-      "id": 9413,
-      "name": "Писания Гвоздя и Молота",
-      "desc": "При победе в столкновении навыками, которые наносят силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повышают его счётчик, или наносят Особое Кровотечение, наносит 1~2 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>.\n\nЕсли победившим в столкновении союзником была идентичность Фанатика Корп. N, даёт ей 1 [Assemble] в начале хода.",
-      "simpleDesc": [
-        {
-          "abilityID": 9413,
-          "simpleDesc": "Наносит 1~2 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
-        },
-        {
-          "abilityID": 94131,
-          "simpleDesc": "Даёт идентичностям Корпорации N [Assemble] в начале хода"
-        }
-      ]
-    },
-    {
-      "id": 9414,
-      "name": "Кроваво-красная грива",
-      "desc": "Накладывается на все идентичности с грехами Гнева или Похоти в навыках.\n\nКонец хода: если этот союзник не получил никакого урона от атакующих навыков противников к концу хода, даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> на следующий ход.\n\nКонец хода: если же этот союзник получил урон от Атакующих навыков противников к концу хода, наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и даёт +2 к Силе в столкновении на следующий ход.",
-      "simpleDesc": [
-        {
-          "abilityID": 9414,
-          "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> на следующий ход"
-        },
-        {
-          "abilityID": 94141,
-          "simpleDesc": "Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и даёт +2 к Силе в столкновении на следующий ход"
-        }
-      ]
-    },
-    {
-      "id": 9415,
-      "name": "Нечистота",
-      "desc": "Когда союзник атакует противника, который имеет [Laceration] навыками, которые наносят силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, повышают его счётчик, или наносят Особое Кровотечение: на 15% больше урона по этому противнику.\n\nЕсли же ОЗ цели 33% и менее, на 25% больше урона вместо этого.",
-      "simpleDesc": [
-        {
-          "abilityID": 9415,
-          "simpleDesc": "На 15% больше урона"
-        },
-        {
-          "abilityID": 94151,
-          "simpleDesc": "На 25% больше урона"
-        }
-      ]
-    },
-    {
-      "id": 9416,
-      "name": "Единство",
-      "desc": "При победе в столкновении навыком, который наносит силу <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повышает его счётчик, или наносит Особое Кровотечение: наносит 2~3 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color> на цель.\n\nЕсли союзник это идентичность Фанатика Корп. N, даёт этому союзнику 1 <sprite name=\"Assemble\"><color=#f8c200><u><link=\"Assemble\">Фанатичность</link></u></color> в начале хода и повышает наносимый целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> урон на 25%.\n\nАктивирует специальный эффект, когда на поле боя 5 и более идентичностей Фанатиков Корп. N:\n- Эти союзники получают +1 к Итоговой силе навыков, +1 к Силе положительных монет, -1 к Силе отрицательных, а Атакующие навыки наносят на 1 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвозди</link></u></color> больше. Если этот союзник имеет 45 СД в начале хода, даёт ему 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color>.",
-      "simpleDesc": [
-        {
-          "abilityID": 9416,
-          "simpleDesc": "Победа в столкновении: наносит 2~3 <sprite name=\"NailPersonality\"><color=#e30000><u><link=\"NailPersonality\">Гвоздя</link></u></color>"
-        },
-        {
-          "abilityID": 94161,
-          "simpleDesc": "Идентичности Корп. N наносят на 25% больше"
-        },
-        {
-          "abilityID": 94162,
-          "simpleDesc": "Активирует специальный эффект, когда на поле боя 5 и более Идентичностей Корп. N"
-        }
-      ]
-    },
-    {
-      "id": 9419,
-      "name": "Ветвь линдеры",
-      "desc": "На протяжении столкновения: эффект активируется, когда первый, второй и третий навыки были спользованы хотя бы единожды.\n\nНачало хода: даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 [SkillPowerUp]. (Может складываться до 3 раз)",
-      "simpleDesc": [
-        {
-          "abilityID": 9419,
-          "simpleDesc": "Начало хода: даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 [SkillPowerUp]."
-        }
-      ]
-    },
-    {
-      "id": 9420,
-      "name": "Калейдоскоп",
-      "desc": "Начало хода: грешники, сопровождаемые идентичностями из той же фракции, что и они, получают <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, равные количеству идентичностей этой фракции. (До 4)\n\nИдентичности Альянса Освобождения Технологий получают +1 к Силе в столкновении.",
-      "simpleDesc": [
-        {
-          "abilityID": 9420,
-          "simpleDesc": "Даёт [AttackUp]"
-        },
-        {
-          "abilityID": 94201,
-          "simpleDesc": "+1 к Силе в столкновении"
-        }
-      ]
-    },
-    {
-      "id": 9423,
-      "name": "Разбитые очки",
-      "desc": "+1 к Силе в столкновении с более быстрыми противниками.\n\nКогда союзник побеждает в столкновении этими противниками, даёт 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход. (До 4)",
-      "simpleDesc": [
-        {
-          "abilityID": 9423,
-          "simpleDesc": "+1 к Силе в столкновении"
-        },
-        {
-          "abilityID": 94231,
-          "simpleDesc": "Даёт 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход"
-        }
-      ]
-    },
-    {
-      "id": 9424,
-      "name": "Неотправленное письмо",
-      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nПри победе в столкновении навыком, который наносит силу <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> или повышает его счётчик, наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3. (Единожды за ход на идентичность)\n\n+1 к Силе в столкновении с более быстрыми противниками и на 25% больше урона по ним.\n\nПри победе в столкновении с противником, у которого есть [AttackUp], даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> на следующий ход и наносит на этого противника 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> (До 9 на все эффекты в сумме)",
-      "simpleDesc": [
-        {
-          "abilityID": 9424,
-          "simpleDesc": "Победа в столкновении: наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 3"
-        },
-        {
-          "abilityID": 94241,
-          "simpleDesc": "+1 к Итоговой силе и на 25% больше урона"
-        },
-        {
-          "abilityID": 94242,
-          "simpleDesc": "Наносит 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> противникам, проигравшим в столкновении"
-        }
-      ]
-    },
-    {
-      "id": 9429,
-      "name": "Гарпун-протез",
-      "desc": "Конец хода: даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход союзникам с наибольшей суммой силы и счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\n\nИдентичности Пекода получают +1 к максимальной скорости.",
-      "simpleDesc": [
-        {
-          "abilityID": 9429,
-          "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход"
-        },
-        {
-          "abilityID": 94291,
-          "simpleDesc": "Идентичности Пекода получают +1 к максимальной скорости"
-        }
-      ]
-    },
-    {
-      "id": 9430,
-      "name": "Газовая лампа",
-      "desc": "Начало первого хода волны: все союзники получают 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 5.\n\nКонец хода: союзник с наибольшей суммой силы и счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход.\n\nИдентичности Пекода получают +2 к Силе навыков и +2 к максимальной скорости.",
-      "simpleDesc": [
-        {
-          "abilityID": 9430,
-          "simpleDesc": "Все союзники получают 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 5"
-        },
-        {
-          "abilityID": 94301,
-          "simpleDesc": "Даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>, и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход"
-        },
-        {
-          "abilityID": 94302,
-          "simpleDesc": "+2 к Силе навыков, +2 к максимальной скорости."
-        }
-      ]
-    },
-    {
-      "id": 9433,
-      "name": "Секретные искусства главного дворецкого",
-      "desc": "Начало первого хода волны: наносит противнику с наименьшей скоростью (Или части Аномалии) 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на 5 ходов начиная со следующего хода.\n\nПобеда в столкновении: если скорость выше скорости цели, восстанавливает СД, равное разнице в скорости, а так же даёт этому навыку половину от этой разницы в виде Уровней атаки. (До 3 Уровней атаки)",
-      "simpleDesc": [
-        {
-          "abilityID": 9433,
-          "simpleDesc": "Наносит 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на 5 ходов начиная со следующего"
-        },
-        {
-          "abilityID": 94331,
-          "simpleDesc": "Восстанавливает СД и даёт такое же количество Уровней атаки"
-        }
-      ]
-    },
-    {
-      "id": 9434,
-      "name": "Карманное зеркало",
-      "desc": "Начало первого хода волны: наносит двум противникам с наименьшей скоростью (Или частям Аномалии) 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> в начале хода начиная со следующего хода.\n\nКогда противник восстанавливается от оглушения, и если у него не остаётся границ выносливости, создаёт новую границу выносливости на уровне 66% его текущих ОЗ (Трижды за битву). Если союзник оглушает противника своим Атакующим навыком (ЭГО навыки не учитываются), который наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или повышает его счётчик (Включая те, которые накладывают его на себя или союзников), случайно наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, равную половине силы <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели, между остальными противниками (Или частями Аномалии), а так же увеличивает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на оглушённой цели в 2 раза.",
-      "simpleDesc": [
-        {
-          "abilityID": 9433,
-          "simpleDesc": "Начало хода: наносит 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связываний</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
-        },
-        {
-          "abilityID": 94331,
-          "simpleDesc": "Создаёт новую границу выносливости на уровне 66% текущих ОЗ противника при его оглушении"
-        },
-        {
-          "abilityID": 94332,
-          "simpleDesc": "Потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на оглушённом противнике увеличивается в 2 раза"
-        }
-      ]
-    }
-  ]
+    ]
 }

@@ -1,354 +1,354 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 9010101,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "Человек-омы!",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010101,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                    "level": 1,
+                    "name": "Человек-омы!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010102,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Захват добычи",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010102,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "+40% урона при критическом ударе"
+                    "level": 1,
+                    "name": "Захват добычи",
+                    "desc": "[WinDuel] Восстанавливает 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "+40% урона при критическом ударе"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010103,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Омы, Омы!!",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010103,
+            "levelList": [
                 {
-                  "desc": "+30% урона при критическом попадании"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                    "level": 1,
+                    "name": "Омы, Омы!!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+30% урона при критическом попадании"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+30% урона при критическом попадании"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "+30% урона при критическом попадании"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010201,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Свежее Мясо-омы",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010201,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                    "level": 1,
+                    "name": "Свежее Мясо-омы",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> в следующий ход"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> в следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010202,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Бодрость духа",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010202,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 2"
-                },
-                {
-                  "desc": "+40% урона при критическом ударе"
+                    "level": 1,
+                    "name": "Бодрость духа",
+                    "desc": "[WinDuel] Восстанавливает 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 2"
+                                },
+                                {
+                                    "desc": "+40% урона при критическом ударе"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010203,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Бесполезно!",
-          "desc": "[EndBattle] Если у этого персонажа есть Щит, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010203,
+            "levelList": [
                 {
-                  "desc": ""
+                    "level": 1,
+                    "name": "Бесполезно!",
+                    "desc": "[EndBattle] Если у этого персонажа есть Щит, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010301,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Превращу Тебя в Мебель-омы!",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010301,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
+                    "level": 1,
+                    "name": "Превращу Тебя в Мебель-омы!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010302,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Движение вперёд",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010302,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "+40% урона при критическом ударе"
+                    "level": 1,
+                    "name": "Движение вперёд",
+                    "desc": "[WinDuel] Восстанавливает 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "+40% урона при критическом ударе"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010303,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Хум-хум~",
-          "desc": "[OnSucceedEvade] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2.\n[OnDefeatEvade] Повышает порог оглушения на 10",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010303,
+            "levelList": [
                 {
-                  "desc": ""
+                    "level": 1,
+                    "name": "Хум-хум~",
+                    "desc": "[OnSucceedEvade] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2.\n[OnDefeatEvade] Повышает порог оглушения на 10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010401,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Я Достану Тебя-омы",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010401,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                    "level": 1,
+                    "name": "Я Достану Тебя-омы",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010402,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Золотая жила",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010402,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
-                },
-                {
-                  "desc": "+50% урона при критическом ударе"
+                    "level": 1,
+                    "name": "Золотая жила",
+                    "desc": "[WinDuel] Восстанавливает 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "+50% урона при критическом ударе"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "+50% урона при критическом ударе"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "+50% урона при критическом ударе"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010403,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Местные сырьевые материалы!",
-          "desc": "[WinDuel] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010403,
+            "levelList": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +20% урона для последней монеты"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                    "level": 1,
+                    "name": "Местные сырьевые материалы!",
+                    "desc": "[WinDuel] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] +20% урона для последней монеты"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] +20% урона для последней монеты"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Не тратит счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Наносит дополнительный Дробящий урон, равный <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханию</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] +20% урона для последней монеты"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[CriticalOnSucceedAttack] Не тратит счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Наносит дополнительный Дробящий урон, равный <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханию</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9010404,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Бесполезно!",
-          "desc": "[EndBattle] Если у этого персонажа есть Щит, получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9010404,
+            "levelList": [
                 {
-                  "desc": ""
+                    "level": 1,
+                    "name": "Бесполезно!",
+                    "desc": "[EndBattle] Если у этого персонажа есть Щит, получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

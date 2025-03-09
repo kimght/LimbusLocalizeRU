@@ -41,6 +41,14 @@
       "content": "Прохождения"
     },
     {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
+      "content": "Команды"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
+      "content": "Магазин"
+    },
+    {
       "id": "mirrordungeon_mission_date",
       "content": "Награды можно получить до выхода #6 обновления Зеркального подземелья."
     },

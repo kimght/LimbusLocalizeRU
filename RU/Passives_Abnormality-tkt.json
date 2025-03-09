@@ -3,12 +3,12 @@
         {
             "id": 827701,
             "name": "Спасённое время",
-            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденного времени</link></u></color>"
+            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденного времени</link></u></color>."
         },
         {
             "id": 827702,
             "name": "Ускоренная регенерация",
-            "desc": "Если в конце хода часть повреждена, тратит 100 времени этой части, чтобы восстановить её."
+            "desc": "Если в конце хода часть повреждена, тратит 100 <sprite name=\"OwnTime\"><color=#9f6a3a><u><link=\"OwnTime\">Распределённого времени</link></u></color> этой части, чтобы восстановить её."
         },
         {
             "id": 827801,
@@ -18,7 +18,7 @@
         {
             "id": 827802,
             "name": "Равные расходы",
-            "desc": "В конце хода получает <sprite name=\"EquitableDistribution\"><color=#9f6a3a><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color>."
+            "desc": "В конце хода получает [EquitableDistribution]."
         },
         {
             "id": 827803,
@@ -28,7 +28,7 @@
         {
             "id": 827804,
             "name": "Вначале у них забери!",
-            "desc": "При менее 60% ОЗ преобразует <sprite name=\"EquitableDistribution\"><color=#9f6a3a><u><link=\"EquitableDistribution\">Издержки распределённого времени</link></u></color> в <sprite name=\"UnfairDistribution\"><color=#9f6a3a><u><link=\"UnfairDistribution\">Распри</link></u></color>."
+            "desc": "При менее 60% ОЗ [EquitableDistribution] превращаются в [UnfairDistribution]."
         }
     ]
 }

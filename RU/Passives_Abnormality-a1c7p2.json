@@ -3,52 +3,52 @@
         {
             "id": 838101,
             "name": "Фестиваль чудес",
-            "desc": "Получает 1 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> каждый раз, когда этот персонаж накладывает положительный эффект на других союзников своими умениями (один раз для каждого типа эффекта)\n\nВ начале хода: получает <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> в количестве, равном числу других союзников (максимум 3)\nВ конце хода: восстанавливает СД в количестве, равном <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячке</link></u></color> (не активируется при -45 СД)\n\nВ конце хода: при 10+ <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> использует мощное умение в следующий ход (однако если активен эффект \"Парад длится вечно\", этот эффект не активируется)"
+            "desc": "Получает 1 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> каждый раз, когда даёт положительные эффекты другии союзникам своими навыками. (Единожды за тип эффекта)\n\nВ начале хода: получает <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> в количестве других союзников. (До 3)\nВ конце хода: восстанавливает СД в количестве <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>. (Не активируется при -45 СД)\n\nВ конце хода: при 10 и более <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> опасный навык в следующий ход. (Не будет использовано, если эффект \"Парад длится вечно\" одного из Кровожадов активен)"
         },
         {
             "id": 838102,
             "name": "Леди Парада",
-            "desc": "В начале хода получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>\n- За каждого погибшего союзника получает на 1 меньше <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> в начале хода\nВ конце хода: если персонаж не получил урон по ОЗ в этом ходу, получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color> на следующий ход"
+            "desc": "В начале хода получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённостей</link></u></color>.\n- За каждого мёртвого союзника получает на 1 [Protection] меньше.\n\nВ конце хода: не было получено урона по ОЗ в течение хода, получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
         },
         {
             "id": 838103,
             "name": "Парад длится вечно",
-            "desc": "В конце хода: при 5+ <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенный парад</link></u></color> использует мощное умение в следующий ход"
+            "desc": "В конце хода: при 5 и более <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенного парада</link></u></color>, использует крайне сильный навык в следующий ход."
         },
         {
             "id": 838104,
             "name": "Парад счастья",
-            "desc": "Получает новый паттерн, когда ОЗ этого персонажа впервые опускается до 66% или ниже\n\nПри смене паттерна:\n- Повышает минимальное и максимальное значение скорости на 1\n- Превращает <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color> на себе в <sprite name=\"BloomingThorns_2nd\"><color=#f8c200><u><link=\"BloomingThorns_2nd\">Кровотканый шип</link></u></color>\n- Все союзники получают 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> и 3 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color> каждый ход"
+            "desc": "Меняет поведение, когда ОЗ впервые опускается до ниже 66%:\n- Повышает минимальную и максимальную скорость на 1;\n- Превращает свои <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущие шипы</link></u></color> в <sprite name=\"BloomingThorns_2nd\"><color=#f8c200><u><link=\"BloomingThorns_2nd\">Кровотканые шипы</link></u></color>;\n- Все союзники получают 3 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничных горячки</link></u></color> и 3 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипа</link></u></color> каждый ход."
         },
         {
             "id": 838105,
             "name": "Вечный парад счастья",
-            "desc": "Получает новый паттерн, когда ОЗ этого персонажа впервые опускается до 33% или ниже\n\nПри смене паттерна:\n- Повышает минимальное и максимальное значение скорости на 2\n- Использует мощное умение, затем ослабляет сопротивление к режущему, колющему и дробящему урону (+0.5)\n- Превращает <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color> и <sprite name=\"BloomingThorns_2nd\"><color=#f8c200><u><link=\"BloomingThorns_2nd\">Кровотканый шип</link></u></color> на себе в <sprite name=\"BloomingThorns_3rd\"><color=#f8c200><u><link=\"BloomingThorns_3rd\">Кровавый отлитый шип</link></u></color>\n- Все союзники получают 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничная горячка</link></u></color> и 5 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущий шип</link></u></color> каждый ход"
+            "desc": "Меняет поведение, когда ОЗ впервые опускается до ниже 33%:\n- Повышает минимальную и максимальную скорость на 2;\n- Использует опасный навык, затем ослабляет своё сопротивление к рубящему, пронзающему и дробящему урону;\n- Превращает свои <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущие</link></u></color> и <sprite name=\"BloomingThorns_2nd\"><color=#f8c200><u><link=\"BloomingThorns_2nd\">Кровотканые</link></u></color> шипы в <sprite name=\"BloomingThorns_3rd\"><color=#f8c200><u><link=\"BloomingThorns_3rd\">Кровавые литые шипы</link></u></color>;\n- Все союзники получают 5 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничных горячек</link></u></color> и 5 <sprite name=\"BloomingThorns\"><color=#f8c200><u><link=\"BloomingThorns\">Цветущих шипов</link></u></color> каждый ход."
         },
         {
             "id": 838106,
             "name": "Это не конец",
-            "desc": "В конце хода: Если нет выживших союзников или союзников в запасе, поглощает всю <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> и <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенный парад</link></u></color> в следующем ходу и становится ошеломлённым (активируется немедленно, если нет выживших союзников в начале хода)\n\nВ ходу после того, как этот персонаж становится ошеломлённым, призывает 2 Родственных кровопийц"
+            "desc": "В конце хода: если нет живых союзников на поле боя или союзников в запасе, теряет всю <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> с <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенным парадом</link></u></color> и оглушается в следующем ходу.\n\nПосле оглушения призывает двух кровососов."
         },
         {
             "id": 838107,
             "name": "Кровавый пир",
-            "desc": "Если этот персонаж находится на поле боя или является одним из персонажей, которые могут появиться на этом этапе, увеличивает значение <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на величину урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, полученного всеми персонажами.\nКогда этот персонаж выходит на поле боя, пропитавшая поле боя спящая кровь заполняет поверхность."
+            "desc": "Если находится на поле боя или является одним из тех, кто может появиться на этом этапе, увеличивает значение <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на величину урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, полученного всеми участниками битвы.\nПри выходе на поле боя, пропитавшая его спящая кровь заполняет поверхность."
         },
         {
             "id": 838108,
-            "name": "Голодный и иссохший",
-            "desc": "В начале битвы получает <sprite name=\"StarvingDolcineaOne\"><color=#e30000><u><link=\"StarvingDolcineaOne\">Иссохший</link></u></color>"
+            "name": "Голод и иссушение",
+            "desc": "Находится в состоянии <sprite name=\"StarvingDolcineaOne\"><color=#e30000><u><link=\"StarvingDolcineaOne\">Иссушения</link></u></color> на протяжении всей битвы"
         },
         {
             "id": 838901,
             "name": "Рыцарь Белой Луны",
-            "desc": "Получаемый урон -20%\nПри поражении в поединке получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>"
+            "desc": "Получаемый урон снижен на 20%.\nПри поражении в столкновении получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>."
         },
         {
             "id": 838902,
             "name": "Равный поединок",
-            "desc": "После 10+ поединков с одним и тем же противником случайно получает или теряет силу в поединке, равную (количество поединков / 10) (округляется вниз)"
+            "desc": "После 10 и более комбо в столкновении с одним и тем же противником, случайно получает или теряет силу в столкновении, равную (Количество комбо / 10). (Округляется вниз)"
         }
     ]
 }

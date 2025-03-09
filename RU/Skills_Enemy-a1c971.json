@@ -1,246 +1,246 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 9018101,
-      "levelList": [
+    "dataList": [
         {
-          "level": 1,
-          "name": "От■■сь",
-          "desc": "[WhenUse] Если цель не имеет [Burst], Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018101,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                    "level": 1,
+                    "name": "От■■сь",
+                    "desc": "[WhenUse] Если цель не имеет [Burst], Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018102,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "■ав■■ ■■ть!",
-          "desc": "[WhenUse] Если цель имеет 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018102,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                    "level": 1,
+                    "name": "■ав■■ ■■ть!",
+                    "desc": "[WhenUse] Если цель имеет 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018103,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Э■о г■■ ■■■ть ■ту!!",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 2)",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018103,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                    "level": 1,
+                    "name": "Э■о г■■ ■■■ть ■ту!!",
+                    "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] При менее чем 50% ОЗ, заново подкидывает монету"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] При менее чем 50% ОЗ, заново подкидывает монету"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018104,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "З■щ■■■",
-          "desc": "[WhenUse] Получает щит за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели\n[EndBattle] Восстанавливает ОЗ на количество оставшегося щита",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018104,
+            "levelList": [
                 {
-                  "desc": ""
+                    "level": 1,
+                    "name": "З■щ■■■",
+                    "desc": "[WhenUse] Получает щит за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели\n[EndBattle] Восстанавливает ОЗ на количество оставшегося щита",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018201,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "За■■■ть",
-          "desc": "[WhenUse] Если цель не имеет [Burst], Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018201,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                    "level": 1,
+                    "name": "За■■■ть",
+                    "desc": "[WhenUse] Если цель не имеет [Burst], Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018202,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "Раз■■в",
-          "desc": "[WhenUse] Если цель имеет 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Сила монет +1",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018202,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                    "level": 1,
+                    "name": "Раз■■в",
+                    "desc": "[WhenUse] Если цель имеет 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Сила монет +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018203,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "В■мя е■■ь!",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 2)",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018203,
+            "levelList": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                    "level": 1,
+                    "name": "В■мя е■■ь!",
+                    "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] При менее чем 50% ОЗ, заново подкидывает монету"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] При менее чем 50% ОЗ, заново подкидывает монету"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9018204,
-      "levelList": [
+            ]
+        },
         {
-          "level": 1,
-          "name": "■■щит■",
-          "desc": "[WhenUse] Получает щит за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели\n[EndBattle] Восстанавливает ОЗ на количество оставшегося щита",
-          "coinlist": [
-            {
-              "coindescs": [
+            "id": 9018204,
+            "levelList": [
                 {
-                  "desc": ""
+                    "level": 1,
+                    "name": "■■щит■",
+                    "desc": "[WhenUse] Получает щит за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели\n[EndBattle] Восстанавливает ОЗ на количество оставшегося щита",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

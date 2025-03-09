@@ -1,1950 +1,1950 @@
 ﻿{
-  "dataList": [
-    {
-      "id": 810001,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Всеобщее рассеяние",
-          "desc": "Приоритет отдаётся врагам с <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Пометкой</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит СД урон равный количеству зажжённых Свечей"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит СД урон равный количеству зажжённых Свечей"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810002,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Тоска...",
-          "desc": "Приоритет отдаётся противникам с <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Пометкой</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> в следующем ходу"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> в следующем ходу"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810003,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "9:2",
-          "desc": "Гасит все Свечи в следующий ход.\nПри попадании по целям с <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>, цель теряет дополнительно 5% от максимума ОЗ.\n[DefeatDuel] Наносит 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>. Наносит цели <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Помеченный</link></u></color> в следующий ход.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Максимум ОЗ цели уменьшается на 10%."
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Максимум ОЗ цели уменьшается на 10%."
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810004,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "6:5",
-          "desc": "[CantDuel][CantChangeTarget]\nПолучает урон вместо цели. Оглушается в следующий ход.\nНаносит <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Помеченный</link></u></color> случайному противнику без <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Максимум ОЗ этого персонажа уменьшается на 10%."
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит себе 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Максимум ОЗ этого персонажа уменьшается на 10%."
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит себе 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810005,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Всё Будет Раскрыто",
-          "desc": "[CantDuel]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810006,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Всё сгорит",
-          "desc": "[CantDuel]",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810701,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Искрящееся пламя",
-          "desc": "Выбирает цели с <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и +2 к счётчику <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810702,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Чтобы всё сгорело",
-          "desc": "[StartBattle] Получить 20 Защиты\nПогасить свет в следующий ход, когда Защита закончится",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> и +1 к счётчику <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810101,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Токсичная жидкость",
-          "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810102,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Коррозийная жидкость",
-          "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в размере <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color> на цель"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинку</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в размере <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color> на цель"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинку</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810103,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Паралитическая жидкость",
-          "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яд</link></u></color>, накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яд</link></u></color>, накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810104,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пожирающая жидкость",
-          "desc": "[StartBattle] Поглощает 2 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёные слизи</link></u></color>\n[WhenUse] Накладывает 3 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> в следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> в следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810105,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пузырящаяся зелёная слизь",
-          "desc": "[StartBattle] Получает вес атаки от <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>\n[StartBattle] Получает 10 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 10 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Теряет 7 СД"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> в следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810106,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Поглощение",
-          "desc": "[CantDuel][CantChangeTarget]\nВ первую очередь нацеливается на <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>\nУничтожает <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color> при атаке",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[TargetKill] Получает 3 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810107,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Переполняющий яд",
-          "desc": "[OnSucceedEvade] Наносит 5 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810201,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Headbutt",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810202,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Pound",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810203,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Press",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810204,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Слепая одержимость",
-          "desc": "[DefeatDuel] Флуоресцентная часть персонажа теряет 34% от максимального ОЗ\n[DefeatDuel] Получает 1 <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Провоцирует <sprite name=\"SinkingSurge\"><color=#f8c200><u><link=\"SinkingSurge\">Шквал утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810205,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Обрушивающийся илистый поток",
-          "desc": "[CantDuel][StartBattle] Изменяет окружение",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Получает -2 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color> в следующем ходу"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810206,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Блуждающая слепая одержимость",
-          "desc": "[CantDuel][CantChangeTarget] Нацеливается на уничтоженные обломки\n[EndSkill] Флуоресцентная часть теряет 34% от максимального ОЗ\n[EndBattle] Получает 1 <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Уничтожает цель"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810207,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Sweep",
-          "desc": "[EndBattle] Создать обломки",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810208,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Wriggle",
-          "desc": "[StartBattle] Потратить всю <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>\n[StartBattle] Уничтожить все обломки и уничтоженные обломки",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811001,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Прокол",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811002,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Усугубление раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811003,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Защитим город!",
-          "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811004,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Tangling Javelin",
-          "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBk\"><color=#f8c200><u><link=\"AaCePcBk\">Опутывание</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811005,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Блок",
-          "desc": "При получении урона, пока у этого персонажа есть щит, получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811101,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Быстрые уколы",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит +2 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811102,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Вырезание раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811103,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Защитим город!",
-          "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811104,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Capturing Javelin",
-          "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBl\"><color=#f8c200><u><link=\"AaCePcBl\">Захват</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 811105,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Уворот",
-          "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход (Максимум 3)",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810301,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Начало охоты",
-          "desc": "[StartBattle] Призывает 4 союзников на следующий ход\n[WhenUse] Накладывает <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810302,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Гарпунирование",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810303,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пронзающий гарпун",
-          "desc": "",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810304,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Глубокий вдох",
-          "desc": "[StartBattle] Получает 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +10 счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nКритические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> с этим навыком.\nКонец хода: Получает <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход по числу выживших союзников.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810305,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Контратака",
-          "desc": "Критические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при использовании этого навыка.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает +2 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810306,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Выслеживание добычи",
-          "desc": "+30% урона при критическом попадании",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810307,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Перерезать горло",
-          "desc": "При критической атаке не расходует счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nНаносит на 5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели\n[WhenUse] Оглушает в конце хода, если на персонаже нет <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "+50% урона при критической атаке"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Оглушает цель в следующем ходу"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810308,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Глубокое дыхание",
-          "desc": "[StartBattle] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +5 счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nВ этот ход получает Финальную силу, равную силе <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе.\nВ этот ход теряет 1 счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при получении атаки.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810309,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Чтобы Выжить",
-          "desc": "+30% урона при критическом попадании",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810310,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Должен... Защитить",
-          "desc": "[TurnStartBattle] При использовании этого Навыка, если у персонажа больше 0 <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>, активирует <sprite name=\"AaCePcBs\"><color=#f8c200><u><link=\"AaCePcBs\">Защиту поддержки</link></u></color>.\n[StartBattle] Получает 10% от макс. ОЗ в виде <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810311,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Упорный гарпун",
-          "desc": "Финальная сила +1 при атаке той же цели, что и Старбак",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и частей на 50% от нанесённого урона"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBk\"><color=#f8c200><u><link=\"AaCePcBk\">Опутывание</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и частей на 50% от нанесённого урона"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810312,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Охота должна завершиться...",
-          "desc": "Критические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при использовании этого навыка.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "+50% урона при критическом попадании"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Оглушает цель в следующем ходу"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810401,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пронзание",
-          "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810402,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пронзание",
-          "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Повторно использует эту монету один раз (Макс. 3)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810403,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Я Следую Приказам...",
-          "desc": "[TurnStartBattle] Если у Квиквега больше 0 <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>, активирует <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810404,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Засада",
-          "desc": "+50% урона при критическом попадании\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810405,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Испуганный Вздох",
-          "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 6",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810406,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Решительный гарпун",
-          "desc": "Финальная сила +2 при атаке той же цели, что и Квикег",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBl\"><color=#f8c200><u><link=\"AaCePcBl\">Захват</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
-                },
-                {
-                  "desc": "[OnSucceedAttackTail] Повторно использует эту монету один раз (Макс. 3)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810407,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Спастись...",
-          "desc": "+100% урона при критическом попадании\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                },
-                {
-                  "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810501,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Подчинись Моим Приказам",
-          "desc": "[WhenUse] Восстанавливает 10 СД себе и 1 союзнику с наименьшим количеством СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810502,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Ко Мне!",
-          "desc": "[StartBattle] Приказывает Квиквегу активировать <sprite name=\"AaCePcBs\"><color=#f8c200><u><link=\"AaCePcBs\">Защиту поддержки</link></u></color> в следующем ходу. Приказ отменяется, когда этот персонаж Ошеломлён.",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810503,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Выследить Их До Конца!",
-          "desc": "[StartBattle] Приказывает Старбаку активировать <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color> в следующем ходу. Приказ отменяется, когда этот персонаж Ошеломлён.\n[WhenUse] Накладывает 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> в следующем ходу",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810504,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Гарпун ветерана",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810505,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Пылающий гарпун",
-          "desc": "Финальная сила +1 за каждый отрицательный эффект на основной цели (Макс. 5)\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810506,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Безрассудство!",
-          "desc": "[WhenUse] Восстанавливает 5 СД\n[OnSucceedEvade] Цель теряет 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {}
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810507,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Выдох!",
-          "desc": "[WhenUse] Накладывает 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> на следующий ход\n[WinDuel] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2 других союзников.\nЕсли других союзников нет, вместо этого получает 2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810508,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Будь бесстрашным!",
-          "desc": "[WhenUse] Восстанавливает 10 СД себе. 1 другой союзник с наибольшим СД теряет 10 СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810509,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Закалка Смерти",
-          "desc": "[WhenUse] Накладывает <sprite name=\"AaCePcBn\"><color=#f8c200><u><link=\"AaCePcBn\">Неоспоримый приказ</link></u></color> на 1 союзника с наименьшим СД\n[DefeatDuel] Повышает порог оглушения на 20 для 1 союзника с наименьшим СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810601,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Сокрушительный раскол!",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810602,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Смертельный удар",
-          "desc": "Нацеливается на персонажа с наименьшими макс. ОЗ",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810603,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Бессмертная Душа",
-          "desc": "Повторное использование Уворота при неудачном уклонении (До 2 раз)\n[OnDefeatEvade] Теряет 2 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810604,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Мутная Невинность",
-          "desc": "[DefeatDuel] Получает 2 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижение силы защиты</link></u></color>. Теряет 10 СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810605,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Тяжесть вины",
-          "desc": "Нацеливается на 3 персонажа с наименьшими максимальными ОЗ\n[StartBattle] Базовая сила +2 и вес атаки +1 за каждые 5 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>\n[WhenUse] Теряет 3 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повышает порог ошеломления на 30"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 10 СД"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810606,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "사용하지않는스킬(번역x)",
-          "desc": "",
-          "coinlist": [
-            {},
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810607,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Окутанный страх",
-          "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 4"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810608,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Проколотая слабость",
-          "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810609,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Эхо крика",
-          "desc": "Наносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели\nСила монет +1, если у цели нет <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метки добычи</link></u></color>\n[DefeatDuel] Теряет 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Повторно использует последнюю монету за каждые 10 <sprite name=\"AaCePcBp\"><color=#f8c200><u><link=\"AaCePcBp\">Эго Старбака</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810610,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Затуманенный путь",
-          "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810611,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Отбеленное Искупление",
-          "desc": "[WhenUse] Теряет 5 <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>\n[WinDuel] Получает 6 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>\n[DefeatDuel] Теряет 5 СД",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Оглушает цель"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810612,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Коварное обледенение",
-          "desc": "[StartBattle] Получает щит равный 10% от максимального здоровья. За каждое <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color> получает дополнительно 0.5% от максимального здоровья в качестве щита.\nПри получении атаки с щитом, атакующий теряет 5 СД\nПри получении атаки, использует этот навык один раз за каждые 10 <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810007,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Не пренебрегай пророчеством",
-          "desc": "",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и 2 счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    "dataList": [
+        {
+            "id": 810001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Всеобщее рассеяние",
+                    "desc": "Приоритет отдаётся врагам с <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Пометкой</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит СД урон равный количеству зажжённых Свечей"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит СД урон равный количеству зажжённых Свечей"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Тоска...",
+                    "desc": "Приоритет отдаётся противникам с <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Пометкой</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> в следующем ходу"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> в следующем ходу"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "9:2",
+                    "desc": "Гасит все Свечи в следующий ход.\nПри попадании по целям с <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>, цель теряет дополнительно 5% от максимума ОЗ.\n[DefeatDuel] Наносит 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>. Наносит цели <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Помеченный</link></u></color> в следующий ход.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Максимум ОЗ цели уменьшается на 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Максимум ОЗ цели уменьшается на 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "6:5",
+                    "desc": "[CantDuel][CantChangeTarget]\nПолучает урон вместо цели. Оглушается в следующий ход.\nНаносит <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Помеченный</link></u></color> случайному противнику без <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Максимум ОЗ этого персонажа уменьшается на 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит себе 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Максимум ОЗ этого персонажа уменьшается на 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит себе 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Всё Будет Раскрыто",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Всё сгорит",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Искрящееся пламя",
+                    "desc": "Выбирает цели с <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и +2 к счётчику <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Чтобы всё сгорело",
+                    "desc": "[StartBattle] Получить 20 Защиты\nПогасить свет в следующий ход, когда Защита закончится",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> и +1 к счётчику <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Токсичная жидкость",
+                    "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Коррозийная жидкость",
+                    "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в размере <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color> на цель"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинку</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> в размере <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color> на цель"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинку</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Паралитическая жидкость",
+                    "desc": "[StartBattle] Поглощает 1 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яд</link></u></color>, накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яд</link></u></color>, накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пожирающая жидкость",
+                    "desc": "[StartBattle] Поглощает 2 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёные слизи</link></u></color>\n[WhenUse] Накладывает 3 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> в следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> в следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пузырящаяся зелёная слизь",
+                    "desc": "[StartBattle] Получает вес атаки от <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>\n[StartBattle] Получает 10 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 10 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Теряет 7 СД"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"AaCePcBg\"><color=#f8c200><u><link=\"AaCePcBg\">Личинки</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> и 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> в следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Поглощение",
+                    "desc": "[CantDuel][CantChangeTarget]\nВ первую очередь нацеливается на <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color>\nУничтожает <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёную слизь</link></u></color> при атаке",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[TargetKill] Получает 3 <sprite name=\"AaCePcBh\"><color=#f8c200><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Переполняющий яд",
+                    "desc": "[OnSucceedEvade] Наносит 5 <sprite name=\"Poison\"><color=#f8c200><u><link=\"Poison\">Яда</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Headbutt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pound",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Press",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Слепая одержимость",
+                    "desc": "[DefeatDuel] Флуоресцентная часть персонажа теряет 34% от максимального ОЗ\n[DefeatDuel] Получает 1 <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Накладывает 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Провоцирует <sprite name=\"SinkingSurge\"><color=#f8c200><u><link=\"SinkingSurge\">Шквал утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Обрушивающийся илистый поток",
+                    "desc": "[CantDuel][StartBattle] Изменяет окружение",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Получает -2 к <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#f8c200><u><link=\"MentalSystemResultDecrease_Typo\">Эффективности потери СД</link></u></color> в следующем ходу"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Блуждающая слепая одержимость",
+                    "desc": "[CantDuel][CantChangeTarget] Нацеливается на уничтоженные обломки\n[EndSkill] Флуоресцентная часть теряет 34% от максимального ОЗ\n[EndBattle] Получает 1 <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Уничтожает цель"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "[EndBattle] Создать обломки",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на 2, если у цели есть <sprite name=\"AaCePcBb\"><color=#f8c200><u><link=\"AaCePcBb\">Осколок флюоресценции</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggle",
+                    "desc": "[StartBattle] Потратить всю <sprite name=\"AaCePcBc\"><color=#f8c200><u><link=\"AaCePcBc\">Слепую одержимость</link></u></color>\n[StartBattle] Уничтожить все обломки и уничтоженные обломки",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Прокол",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Усугубление раны",
+                    "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Защитим город!",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tangling Javelin",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBk\"><color=#f8c200><u><link=\"AaCePcBk\">Опутывание</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Блок",
+                    "desc": "При получении урона, пока у этого персонажа есть щит, получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Быстрые уколы",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит +2 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Вырезание раны",
+                    "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Защитим город!",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capturing Javelin",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBl\"><color=#f8c200><u><link=\"AaCePcBl\">Захват</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Уворот",
+                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход (Максимум 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Начало охоты",
+                    "desc": "[StartBattle] Призывает 4 союзников на следующий ход\n[WhenUse] Накладывает <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Гарпунирование",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пронзающий гарпун",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Глубокий вдох",
+                    "desc": "[StartBattle] Получает 10 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +10 счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nКритические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> с этим навыком.\nКонец хода: Получает <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color> на следующий ход по числу выживших союзников.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Контратака",
+                    "desc": "Критические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при использовании этого навыка.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает +2 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Выслеживание добычи",
+                    "desc": "+30% урона при критическом попадании",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Перерезать горло",
+                    "desc": "При критической атаке не расходует счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nНаносит на 5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели\n[WhenUse] Оглушает в конце хода, если на персонаже нет <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% урона при критической атаке"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Оглушает цель в следующем ходу"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810308,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Глубокое дыхание",
+                    "desc": "[StartBattle] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +5 счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>.\nВ этот ход получает Финальную силу, равную силе <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе.\nВ этот ход теряет 1 счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при получении атаки.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Чтобы Выжить",
+                    "desc": "+30% урона при критическом попадании",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает здоровье ядра и частей на 50% от нанесённого урона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810310,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Должен... Защитить",
+                    "desc": "[TurnStartBattle] При использовании этого Навыка, если у персонажа больше 0 <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>, активирует <sprite name=\"AaCePcBs\"><color=#f8c200><u><link=\"AaCePcBs\">Защиту поддержки</link></u></color>.\n[StartBattle] Получает 10% от макс. ОЗ в виде <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Упорный гарпун",
+                    "desc": "Финальная сила +1 при атаке той же цели, что и Старбак",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и частей на 50% от нанесённого урона"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBk\"><color=#f8c200><u><link=\"AaCePcBk\">Опутывание</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и частей на 50% от нанесённого урона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810312,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Охота должна завершиться...",
+                    "desc": "Критические удары не расходуют счётчики <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> при использовании этого навыка.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% урона при критическом попадании"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Оглушает цель в следующем ходу"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пронзание",
+                    "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пронзание",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Повторно использует эту монету один раз (Макс. 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Я Следую Приказам...",
+                    "desc": "[TurnStartBattle] Если у Квиквега больше 0 <sprite name=\"AaCePcBr\"><color=#f8c200><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>, активирует <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Засада",
+                    "desc": "+50% урона при критическом попадании\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Испуганный Вздох",
+                    "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 6",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Решительный гарпун",
+                    "desc": "Финальная сила +2 при атаке той же цели, что и Квикег",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"AaCePcBl\"><color=#f8c200><u><link=\"AaCePcBl\">Захват</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Повторно использует эту монету один раз (Макс. 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810407,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Спастись...",
+                    "desc": "+100% урона при критическом попадании\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Повышает первый порог оглушения цели на 50% от нанесённого урона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Подчинись Моим Приказам",
+                    "desc": "[WhenUse] Восстанавливает 10 СД себе и 1 союзнику с наименьшим количеством СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ко Мне!",
+                    "desc": "[StartBattle] Приказывает Квиквегу активировать <sprite name=\"AaCePcBs\"><color=#f8c200><u><link=\"AaCePcBs\">Защиту поддержки</link></u></color> в следующем ходу. Приказ отменяется, когда этот персонаж Ошеломлён.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Выследить Их До Конца!",
+                    "desc": "[StartBattle] Приказывает Старбаку активировать <sprite name=\"CoverAttack\"><color=#f8c200><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color> в следующем ходу. Приказ отменяется, когда этот персонаж Ошеломлён.\n[WhenUse] Накладывает 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> в следующем ходу",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Гарпун ветерана",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Пылающий гарпун",
+                    "desc": "Финальная сила +1 за каждый отрицательный эффект на основной цели (Макс. 5)\n+5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Безрассудство!",
+                    "desc": "[WhenUse] Восстанавливает 5 СД\n[OnSucceedEvade] Цель теряет 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Выдох!",
+                    "desc": "[WhenUse] Накладывает 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метку добычи</link></u></color> на следующий ход\n[WinDuel] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Накладывает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2 других союзников.\nЕсли других союзников нет, вместо этого получает 2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810508,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Будь бесстрашным!",
+                    "desc": "[WhenUse] Восстанавливает 10 СД себе. 1 другой союзник с наибольшим СД теряет 10 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Увеличивает количество <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> случайному другому союзнику на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810509,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Закалка Смерти",
+                    "desc": "[WhenUse] Накладывает <sprite name=\"AaCePcBn\"><color=#f8c200><u><link=\"AaCePcBn\">Неоспоримый приказ</link></u></color> на 1 союзника с наименьшим СД\n[DefeatDuel] Повышает порог оглушения на 20 для 1 союзника с наименьшим СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Сокрушительный раскол!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Смертельный удар",
+                    "desc": "Нацеливается на персонажа с наименьшими макс. ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Бессмертная Душа",
+                    "desc": "Повторное использование Уворота при неудачном уклонении (До 2 раз)\n[OnDefeatEvade] Теряет 2 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Мутная Невинность",
+                    "desc": "[DefeatDuel] Получает 2 <sprite name=\"Disarming\"><color=#f8c200><u><link=\"Disarming\">Понижение силы защиты</link></u></color>. Теряет 10 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Тяжесть вины",
+                    "desc": "Нацеливается на 3 персонажа с наименьшими максимальными ОЗ\n[StartBattle] Базовая сила +2 и вес атаки +1 за каждые 5 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>\n[WhenUse] Теряет 3 <sprite name=\"AaCePcBo\"><color=#f8c200><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает порог ошеломления на 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Цель теряет 10 СД"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "사용하지않는스킬(번역x)",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Окутанный страх",
+                    "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810608,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Проколотая слабость",
+                    "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810609,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Эхо крика",
+                    "desc": "Наносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели\nСила монет +1, если у цели нет <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метки добычи</link></u></color>\n[DefeatDuel] Теряет 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 СД урона 3 случайным врагам"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Повторно использует последнюю монету за каждые 10 <sprite name=\"AaCePcBp\"><color=#f8c200><u><link=\"AaCePcBp\">Эго Старбака</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810610,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Затуманенный путь",
+                    "desc": "[WhenUse] Наносит 1 <sprite name=\"AaCePcBj\"><color=#f8c200><u><link=\"AaCePcBj\">Метка добычи</link></u></color> на следующий ход",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Отбеленное Искупление",
+                    "desc": "[WhenUse] Теряет 5 <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>\n[WinDuel] Получает 6 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color>\n[DefeatDuel] Теряет 5 СД",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AaCePbBa\"><color=#f8c200><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Оглушает цель"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810612,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Коварное обледенение",
+                    "desc": "[StartBattle] Получает щит равный 10% от максимального здоровья. За каждое <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color> получает дополнительно 0.5% от максимального здоровья в качестве щита.\nПри получении атаки с щитом, атакующий теряет 5 СД\nПри получении атаки, использует этот навык один раз за каждые 10 <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Не пренебрегай пророчеством",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и 2 счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
