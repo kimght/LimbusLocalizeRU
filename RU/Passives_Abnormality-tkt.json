@@ -3,17 +3,17 @@
         {
             "id": 827701,
             "name": "Спасённое время",
-            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденного времени</link></u></color>."
+            "desc": "В начале битвы получает 1000 <sprite name=\"LimitedTime\"><color=#cc9901><u><link=\"LimitedTime\">Украденного времени</link></u></color>."
         },
         {
             "id": 827702,
             "name": "Ускоренная регенерация",
-            "desc": "Если в конце хода часть повреждена, тратит 100 <sprite name=\"OwnTime\"><color=#9f6a3a><u><link=\"OwnTime\">Распределённого времени</link></u></color> этой части, чтобы восстановить её."
+            "desc": "Если в конце хода часть повреждена, тратит 100 <sprite name=\"OwnTime\"><color=#f5be14><u><link=\"OwnTime\">Распределённого времени</link></u></color> этой части, чтобы восстановить её."
         },
         {
             "id": 827801,
             "name": "Всеобщее время",
-            "desc": "При 75% ОЗ переходит во вторую фазу. При смене фазы восстанавливает СД до 30 и разделяет <sprite name=\"LimitedTime\"><color=#9f6a3a><u><link=\"LimitedTime\">Украденное время</link></u></color> между всеми частями как <sprite name=\"OwnTime\"><color=#9f6a3a><u><link=\"OwnTime\">Распределённое время</link></u></color>."
+            "desc": "При 75% ОЗ переходит во вторую фазу. При смене фазы восстанавливает СД до 30 и разделяет <sprite name=\"LimitedTime\"><color=#cc9901><u><link=\"LimitedTime\">Украденное время</link></u></color> между всеми частями как <sprite name=\"OwnTime\"><color=#f5be14><u><link=\"OwnTime\">Распределённое время</link></u></color>."
         },
         {
             "id": 827802,

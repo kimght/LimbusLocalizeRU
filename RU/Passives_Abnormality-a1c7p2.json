@@ -3,17 +3,17 @@
         {
             "id": 838101,
             "name": "Фестиваль чудес",
-            "desc": "Получает 1 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> каждый раз, когда даёт положительные эффекты другии союзникам своими навыками. (Единожды за тип эффекта)\n\nВ начале хода: получает <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> в количестве других союзников. (До 3)\nВ конце хода: восстанавливает СД в количестве <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>. (Не активируется при -45 СД)\n\nВ конце хода: при 10 и более <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> опасный навык в следующий ход. (Не будет использовано, если эффект \"Парад длится вечно\" одного из Кровожадов активен)"
+            "desc": "Получает 1 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> каждый раз, когда даёт положительные эффекты другии союзникам своими навыками. (Единожды за тип эффекта)\n\nВ начале хода получает <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> в количестве других союзников. (До 3)\nВ конце хода восстанавливает СД в количестве своей <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>. (Не активируется при -45 СД)\n\nВ конце хода: при 10 и более <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color> использует опасный навык на следующем ходу. (Не будет использовано, если эффект «Парад длится вечно» одного из Кровожадов активен)"
         },
         {
             "id": 838102,
             "name": "Леди Парада",
-            "desc": "В начале хода получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённостей</link></u></color>.\n- За каждого мёртвого союзника получает на 1 [Protection] меньше.\n\nВ конце хода: не было получено урона по ОЗ в течение хода, получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
+            "desc": "В начале хода получает 8 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённостей</link></u></color>.\n- За каждого мёртвого союзника получает на 1 [Protection] меньше.\n\nВ конце хода: если не было получено урона по ОЗ в течение хода, получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
         },
         {
             "id": 838103,
             "name": "Парад длится вечно",
-            "desc": "В конце хода: при 5 и более <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенного парада</link></u></color>, использует крайне сильный навык в следующий ход."
+            "desc": "В конце хода: при 5 и более <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенного парада</link></u></color>, использует сильную атаку на следующем ходу."
         },
         {
             "id": 838104,
@@ -28,7 +28,7 @@
         {
             "id": 838106,
             "name": "Это не конец",
-            "desc": "В конце хода: если нет живых союзников на поле боя или союзников в запасе, теряет всю <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> с <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенным парадом</link></u></color> и оглушается в следующем ходу.\n\nПосле оглушения призывает двух кровососов."
+            "desc": "В конце хода: если нет живых союзников на поле боя или союзников в запасе, теряет всю <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничную горячку</link></u></color> с <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенным парадом</link></u></color> и оглушается на следующем ходу.\n\nПосле оглушения призывает двух кровососов."
         },
         {
             "id": 838107,
@@ -38,7 +38,7 @@
         {
             "id": 838108,
             "name": "Голод и иссушение",
-            "desc": "Находится в состоянии <sprite name=\"StarvingDolcineaOne\"><color=#e30000><u><link=\"StarvingDolcineaOne\">Иссушения</link></u></color> на протяжении всей битвы"
+            "desc": "Находится в состоянии <sprite name=\"StarvingDolcineaOne\"><color=#e30000><u><link=\"StarvingDolcineaOne\">Иссушения</link></u></color> на протяжении всей битвы."
         },
         {
             "id": 838901,

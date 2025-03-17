@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "Сдерживание нарушителей",
-                    "desc": "[WhenUse] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 4 СД",
+                    "desc": "[WhenUse] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 4 СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "Исполнение правил",
-                    "desc": "[WhenUse] Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Сила монет +1",
+                    "desc": "[WhenUse] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Сила монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -40,7 +40,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
@@ -50,7 +50,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         }
@@ -64,25 +64,25 @@
                 {
                     "level": 1,
                     "name": "Казнь нарушителей",
-                    "desc": "[WinDuel] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> в следующем ходу",
+                    "desc": "[WinDuel] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -96,7 +96,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "Если у этого персонажа остаётся п​р​о​ч​н​о​с​т​ь щита в конце хода, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
+                    "desc": "Если остаётся щит к концу хода, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -115,19 +115,19 @@
                 {
                     "level": 1,
                     "name": "Устранение нарушителей",
-                    "desc": "[WhenUse] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 4 СД",
+                    "desc": "[WhenUse] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 4 СД",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 2 Счётчика"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на 2 Счётчика"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 }
                             ]
                         }
@@ -141,25 +141,25 @@
                 {
                     "level": 1,
                     "name": "Исполнение приговора",
-                    "desc": "[WhenUse] Если Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> у цели 4 или более, Сила монет +1",
+                    "desc": "[WhenUse] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, Сила монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         }
@@ -173,25 +173,25 @@
                 {
                     "level": 1,
                     "name": "Наказание нарушителей",
-                    "desc": "[WinDuel] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> в следующем ходу",
+                    "desc": "[WinDuel] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> у цели 4 или более, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> у цели 4 или более, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -205,7 +205,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "Если у этого персонажа остаётся п​р​о​ч​н​о​с​т​ь щита в конце хода, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
+                    "desc": "Если остаётся щит к концу хода, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -224,7 +224,7 @@
                 {
                     "level": 1,
                     "name": "Исполнение наказания",
-                    "desc": "[WinDuel] Если у цели Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> 5 или более, использует этот Навык повторно (один раз)",
+                    "desc": "[WinDuel] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 5 и более, повтороно использует атаку (Единожды)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -243,25 +243,25 @@
                 {
                     "level": 1,
                     "name": "Дисциплина нарушителей",
-                    "desc": "Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 30% больше урона",
+                    "desc": "Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 30% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, накладывает 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> в следующем ходу"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный (Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>/2) на цель"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели / 2)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 7 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 7 СД"
                                 }
                             ]
                         }
@@ -275,7 +275,7 @@
                 {
                     "level": 1,
                     "name": "Нарушенный договор",
-                    "desc": "Сила монет +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> у цели (максимум 3)\n[WinDuel] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 40% больше урона",
+                    "desc": "Сила монет +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WinDuel] Если на цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 40% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -283,20 +283,20 @@
                                     "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечению</link></u></color> цели"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 10 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 10 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повторно использует этот навык (один раз)"
+                                    "desc": "[OnSucceedAttackHead] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, повтороно использует атаку (Единожды)"
                                 }
                             ]
                         }
@@ -310,7 +310,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[OnSucceedEvade] Получает <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> (Максимум 1)",
+                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> (Единожды)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -370,7 +370,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
@@ -380,14 +380,14 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечению</link></u></color> на цели"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 }
                             ]
                         }
@@ -406,30 +406,30 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, использует этот Навык повторно (максимум 1 раз)"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, заново использует атаку (Единожды)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -443,7 +443,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "Если у этого персонажа остаётся п​р​о​ч​н​о​с​т​ь щита в конце хода, получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
+                    "desc": "Если остаётся щит к концу хода, получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -500,27 +500,27 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Увеличивает Счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, восстанавливает 5 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечению</link></u></color> на цели"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 }
                             ]
                         }
@@ -539,30 +539,30 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 4+ счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 4+ счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит 20% от нанесённого урона как дополнительный урон"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, наносит ещё 20% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 4+ счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, использует этот Навык повторно (максимум 1 раз)"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели 4 и более, заново использует атаку (Единожды)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -576,7 +576,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "Если у этого персонажа остаётся п​р​о​ч​н​о​с​т​ь щита в конце хода, получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
+                    "desc": "Если остаётся щит к концу хода, получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -595,7 +595,7 @@
                 {
                     "level": 1,
                     "name": "Окрашивание",
-                    "desc": "[WinDuel] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, использует этот Навык повторно на случайном враге После Атаки (один раз)",
+                    "desc": "[WinDuel] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, заново использует атаку (Единожды)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -633,27 +633,27 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, накладывает 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечению</link></u></color> на цели"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 }
                             ]
                         }
@@ -667,7 +667,7 @@
                 {
                     "level": 1,
                     "name": "Пуантилизм",
-                    "desc": "Сила монет +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> у цели (максимум 4)\n[WinDuel] Если у цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 40% больше урона",
+                    "desc": "Сила монет +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 4)\n[WinDuel] Если на цели 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 40% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -679,14 +679,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> со счётчиком равным счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на количество счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> равный <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечению</link></u></color> цели"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> в количестве <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели"
                                 }
                             ]
                         }
@@ -700,32 +700,32 @@
                 {
                     "level": 1,
                     "name": "Кровавая долина",
-                    "desc": "[WinDuel] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход\n[WinDuel] Если на цели 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "desc": "[WinDuel] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход\n- Если на цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает ещё 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, использует этот Навык повторно (максимум 3 раза)"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, заново использует атаку (До 3 раз)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели на 1"
+                                    "desc": "[OnSucceedAttack] Уменьшает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Накладывает 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -739,7 +739,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[OnSucceedEvade] Получает <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> (Максимум 2)",
+                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> (До 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -816,7 +816,7 @@
                 {
                     "level": 1,
                     "name": "Normal Attack 3",
-                    "desc": "[WhenUse] Если у цели 2+ <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, Сила столкновения +1",
+                    "desc": "[WhenUse] Если у цели 2 и более <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>, Сила столкновения +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -824,37 +824,37 @@
                                     "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
                                 }
                             ]
                         }
@@ -868,7 +868,7 @@
                 {
                     "level": 1,
                     "name": "Normal Attack 4",
-                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WhenUse] Сила столкновения +1 за каждые 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на цели (максимум 3)",
+                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WhenUse] Сила в столкновении +1 за каждые 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на цели (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -889,7 +889,7 @@
                                     "desc": "[OnSucceedAttack] Наносит на 20% больше урона за каждые 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на цели (максимум 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Если у цели 3+ отрицательных эффекта, использует эту монету повторно (максимум 1 раз)"
+                                    "desc": "[OnSucceedAttackHead] Если на цели 3 и более отрицательных эффекта, заново подкидывает монету (Единожды)"
                                 }
                             ]
                         }
@@ -903,7 +903,7 @@
                 {
                     "level": 1,
                     "name": "Контратака",
-                    "desc": "Если у цели есть <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>, Базовая сила +1",
+                    "desc": "Если на цели есть <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>, Базовая сила +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -921,7 +921,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Damn Plebs...!",
+                    "name": "Проклятые плебеи...!",
                     "desc": "",
                     "coinlist": [
                         {
@@ -947,20 +947,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "I'll Remove You",
+                    "name": "Я сотру тебя",
                     "desc": "[WinDuel] Базовая сила +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит 20% от нанесённого урона как дополнительный Дробящий урон"
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит ещё 20% от нанесённого урона Дробящим уроном"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит 20% от нанесённого урона как дополнительный Дробящий урон"
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит ещё 20% от нанесённого урона Дробящим уроном"
                                 }
                             ]
                         }
@@ -973,28 +973,28 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Make Things Right Again",
-                    "desc": "[WinDuel] Если у цели 2+ <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, Базовая сила +1\n[WhenUse] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит на 30% больше урона",
+                    "name": "Снова все исправить",
+                    "desc": "[WinDuel] Если у цели 2 и более <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>, Базовая сила +1\n[WhenUse] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит на 30% больше урона",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         }
@@ -1007,8 +1007,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Get Crushed",
-                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WinDuel] Сила монеты +1 за каждые 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на цели (максимум 3)",
+                    "name": "Раздавлю",
+                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WinDuel] Сила монет +1 за каждые 3 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1026,10 +1026,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит на 30% больше урона за каждые 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на цели (максимум 120%)"
+                                    "desc": "[OnSucceedAttack] На 30% больше урона за каждые 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на цели (До 120%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Если у цели 3+ отрицательных эффекта, использует эту монету повторно (максимум 1 раз)"
+                                    "desc": "[OnSucceedAttackHead] Если на цели 3 и более отрицательных эффекта, заново подкидывает монету (Единожды)"
                                 }
                             ]
                         }
@@ -1043,7 +1043,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "[StartBattle] Получает 20 дополнительных единиц щита за каждого другого выжившего союзника",
+                    "desc": "[StartBattle] Получает ещё 20 ОЗ щита за каждого живого союзника",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1093,7 +1093,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
                                 }
                             ]
                         },
@@ -1110,7 +1110,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели, равное количеству <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> в количестве <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> цели"
                                 }
                             ]
                         }
@@ -1124,19 +1124,19 @@
                 {
                     "level": 1,
                     "name": "Переворот",
-                    "desc": "Сила в поединке +1 против целей с 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\nСила в поединке +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3",
+                    "desc": "Сила в столкновении +1 против целей с 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\nСила в столкновении +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Следующая монета получает +1 к силе"
+                                    "desc": "[OnSucceedAttackHead] Следующая монета получает +1 к своей силе"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Следующая монета получает +2 к силе"
+                                    "desc": "[OnSucceedAttackHead] Следующая монета получает +2 к своей силе"
                                 }
                             ]
                         },
@@ -1146,7 +1146,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит дополнительный пронзающий урон, равный (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> × счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] Наносит дополнительный Пронзающий урон в количестве (Сила × счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели)"
                                 }
                             ]
                         }

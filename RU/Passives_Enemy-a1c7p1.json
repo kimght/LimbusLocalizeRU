@@ -23,12 +23,12 @@
         {
             "id": 9015205,
             "name": "Кровавые лезвия",
-            "desc": "При наличии 1+ <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color> усиливает лезвия ножниц."
+            "desc": "При наличии 1+ <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color>, усиливает лезвия ножниц."
         },
         {
             "id": 9015207,
             "name": "Кровосос",
-            "desc": "При получении удара повышает свой счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1.\n\nПолучает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> каждый раз, когда теряет 20% ОЗ.\n\nЕсли на поле боя находится Кровожад, независимо от того, союзник это или враг, увеличивает значение <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> на 30."
+            "desc": "При получении удара повышает свой счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1.\n\nПолучает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color> каждый раз, когда теряет 20% ОЗ.\n\nЕсли на поле боя находится Кровожад, независимо от того, союзник это или враг, увеличивает [BloodDinner] на 30."
         },
         {
             "id": 9015401,
@@ -38,7 +38,7 @@
         {
             "id": 9015402,
             "name": "Застывание крови",
-            "desc": "После атаки: если у цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>."
+            "desc": "После атаки: если на цели 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, получает 1 <sprite name=\"HardenedBlood\"><color=#f8c200><u><link=\"HardenedBlood\">Застывшую кровь</link></u></color>."
         },
         {
             "id": 9015403,
@@ -68,7 +68,7 @@
         {
             "id": 9015603,
             "name": "Молот против кровожадов",
-            "desc": "При использовании навыка, если у цели 10 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, то вместо нанесения <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> навыками их урон повышается на 30%."
+            "desc": "При использовании навыка, если у цели 10 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, то вместо нанесения <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> навыками, их урон повышается на 30%."
         },
         {
             "id": 9015604,

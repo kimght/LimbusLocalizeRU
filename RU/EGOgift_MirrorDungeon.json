@@ -3349,7 +3349,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9124,
-                    "simpleDesc": "На 1 еденицу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> больше при нанесении"
+                    "simpleDesc": "На 1 единицу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> больше при нанесении"
                 }
             ]
         },

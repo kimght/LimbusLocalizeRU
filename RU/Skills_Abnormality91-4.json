@@ -44,7 +44,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +4 счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 4"
                                 }
                             ]
                         }
@@ -63,14 +63,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -84,7 +84,7 @@
                 {
                     "level": 1,
                     "name": "Ракушечная атака!!!",
-                    "desc": "[CantIdentify] \nНаносит +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели",
+                    "desc": "[CantIdentify] Наносит на 20% больше урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -92,7 +92,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -106,7 +106,7 @@
                 {
                     "level": 1,
                     "name": "Крабовый рейв",
-                    "desc": "[CantIdentify] +20% урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> у цели\n[EndSkill] Призывает 3-х Крабов при наличии на поле боя менее 5 Крабов в конце хода (до 5)",
+                    "desc": "[CantIdentify] На 20% больше урона за каждые 5 счётчиков <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели\n[EndSkill] Призывает 3 Краба при наличии на поле боя менее 5 Крабов к концу хода (До 5)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -125,7 +125,7 @@
                 {
                     "level": 1,
                     "name": "Пенная броня",
-                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
+                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
                     "coinlist": [
                         {}
                     ]
@@ -138,7 +138,7 @@
                 {
                     "level": 1,
                     "name": "Пенная броня",
-                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и наносит ему 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
+                    "desc": "[StartBattle] При получении атаки при наличии ОЗ щита, наносит 7 урона атаковавшему и 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>",
                     "coinlist": [
                         {}
                     ]

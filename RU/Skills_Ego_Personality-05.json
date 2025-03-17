@@ -15,7 +15,7 @@
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2;\nДополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Абсолют Гнева /3)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -33,7 +33,7 @@
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; Дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Абсолют Гнева /3)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева"
                                 }
                             ]
                         }
@@ -51,7 +51,7 @@
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; Дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Абсолют Гнева /3)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева"
                                 }
                             ]
                         }
@@ -71,7 +71,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>.\nПри провокации тремора дополнительно повышает границы выносливости на 30% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>.\nПри провокации тремора дополнительно повышает границы выносливости на 30% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
                                 },
                                 {
                                     "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 <sprite name=\"HitResultUp\"><color=#f8c200><u><link=\"HitResultUp\">Повышение силы Дробящей атаки</link></u></color> на следующий ход."
@@ -89,7 +89,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nПри провокации тремора дополнительно повышает границы выносливости на 40% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nПри провокации тремора дополнительно повышает границы выносливости на 40% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
                                 },
                                 {
                                     "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 <sprite name=\"HitResultUp\"><color=#f8c200><u><link=\"HitResultUp\">Повышение силы Дробящей атаки</link></u></color> на следующий ход."
@@ -107,7 +107,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nПри провокации тремора дополнительно повышает границы выносливости на 50% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>\nПри провокации тремора дополнительно повышает границы выносливости на 50% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провокации <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(Абсолют Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
                                 },
                                 {
                                     "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 <sprite name=\"HitResultUp\"><color=#f8c200><u><link=\"HitResultUp\">Повышение силы Дробящей атаки</link></u></color> на следующий ход."
@@ -180,7 +180,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
@@ -198,7 +198,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
@@ -216,7 +216,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
@@ -253,20 +253,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шип розы</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шип розы</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели один раз (цель теряет 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>)"
@@ -304,20 +304,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шип розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шип розы</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (1 + (наибольший резонанс/2)) раз. (До 3 раз; цель теряет <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> равное количеству активаций)"
@@ -355,20 +355,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (1 + (наибольший резонанс/2)) раз. (До 3 раз; цель теряет <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> равное количеству активаций)<style=\"highlight\"></style>"
@@ -408,23 +408,23 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шип розы</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шип розы</link></u></color>"
                                 },
                                 {
-                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color>"
+                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели один раз (цель теряет 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>)"
@@ -456,23 +456,23 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шип розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Наносит +1 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шип розы</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (1 + (наибольший резонанс/2)) раз. (До 3 раз; цель теряет <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> равное количеству активаций)</style>"
@@ -510,23 +510,23 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[WinDuelAttack] Наносит +2 <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипа розы</link></u></color>"
                                 },
                                 {
-                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#f8c200><u><link=\"RoseWedge\">Шипов розы</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "- Если у цели не было <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color>, наносит 4 дополнительной силы <sprite name=\"RoseWedge\"><color=#e30000><u><link=\"RoseWedge\">Шипов розы</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<sprite name=\"SuperCoin\"><color=#f8c200><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
+                                    "desc": "<sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечная монета</link></u></color>"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] Активирует <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> цели (1 + (наибольший резонанс/2)) раз. (До 3 раз; цель теряет <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> равное количеству активаций)<style=\"highlight\"></style>"

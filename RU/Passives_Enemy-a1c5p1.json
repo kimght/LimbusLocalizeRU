@@ -18,27 +18,27 @@
         {
             "id": 9008402,
             "name": "Две стороны монеты",
-            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 1 [AttackDmgUp] на следующий ход.\nЕсли на первой монете выпала решка, получает 1 [AttackDmgDown] на следующий ход."
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 1 [AttackDmgUp] на следующий ход.\n- Если же на первой монете выпала решка, получает 1 [AttackDmgDown] на следующий ход."
         },
         {
             "id": 9008601,
             "name": "Не уколола?",
-            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели."
+            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели."
         },
         {
             "id": 9008701,
             "name": "На абордаж!!",
-            "desc": "При получении <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>, получает дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>, если скорость минмальна."
+            "desc": "При получении <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>, получает дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>, если скорость равна 1."
         },
         {
             "id": 9008702,
             "name": "Не колется?",
-            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели."
+            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели."
         },
         {
             "id": 9101201,
             "name": "Две стороны монеты",
-            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 [Enhancement] на следующий ход.\nЕсли на первой монете выпала решка, получает 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> и 1 [Reduction] на следующий ход."
+            "desc": "Каждый ход, если на первой монете выпадает орёл, получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 1 [Enhancement] на следующий ход.\n- Если же на первой монете выпала решка, получает 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижения урона</link></u></color> и 1 [Reduction] на следующий ход."
         },
         {
             "id": 9101202,
@@ -58,7 +58,7 @@
         {
             "id": 9101205,
             "name": "Не колется?",
-            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели."
+            "desc": "При ударе, если на цели есть [Laceration], восстанавливает себе СД на количество <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели."
         },
         {
             "id": 9101101,

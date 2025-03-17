@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "Посадка Госсипиума",
-                    "desc": "[WhenUse] Наносит 3 <sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиума</link></u></color>",
+                    "desc": "[WhenUse] Наносит 3 <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиума</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -47,19 +47,19 @@
                 {
                     "level": 1,
                     "name": "Высасывающие корни",
-                    "desc": "[CantDuel]\nСреди целей с <sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиумом</link></u></color> атакует персонажа с самой низкой Скоростью;\nНаносит на (<sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 10)% больше урона",
+                    "desc": "[CantDuel]\nСреди целей с <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиумом</link></u></color> атакует персонажа с самой низкой Скоростью;\nНаносит на (<sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 10)% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 5)% от нанесённого урона"
+                                    "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 5)% от нанесённого урона"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 5)% от нанесённого урона"
+                                    "desc": "[OnSucceedAttack] Восстанавливает (<sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиум</link></u></color> x 5)% от нанесённого урона"
                                 }
                             ]
                         }
@@ -78,7 +78,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 2 <sprite name=\"ScarletTakeDamageUp\"><color=#f8c200><u><link=\"ScarletTakeDamageUp\">Уязвимость к Похоти</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 2 <sprite name=\"ScarletTakeDamageUp\"><color=#e30000><u><link=\"ScarletTakeDamageUp\">Уязвимость к Похоти</link></u></color> на следующий ход"
                                 }
                             ]
                         },
@@ -99,7 +99,7 @@
                 {
                     "level": 1,
                     "name": "Разлетающийся Госсипиум",
-                    "desc": "Среди целей с <sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиумом</link></u></color> атакует персонажа с наименьшим HP\n[WhenUse] Если основная цель является целью с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +5\n[EndBattle] Состояние <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> спадает в следующем ходу",
+                    "desc": "Среди целей с <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиумом</link></u></color> атакует персонажа с наименьшим HP\n[WhenUse] Если основная цель является целью с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +5\n[EndBattle] Состояние <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> спадает в следующем ходу",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -150,7 +150,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAfBa\"><color=#f8c200><u><link=\"MRcAfBa\">Госсипиума</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиума</link></u></color>"
                                 }
                             ]
                         }
@@ -220,7 +220,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"CrimsonResistDown\"><color=#f8c200><u><link=\"CrimsonResistDown\">Понижение сопротивления к Гневу</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"CrimsonResistDown\"><color=#e30000><u><link=\"CrimsonResistDown\">Понижение сопротивления к Гневу</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -239,7 +239,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели 3 и более <sprite name=\"MRcAiBb\"><color=#f8c200><u><link=\"MRcAiBb\">Мерцающей Искры</link></u></color>, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2, наносит 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и 2 <sprite name=\"MRcAiBc\"><color=#f8c200><u><link=\"MRcAiBc\">Искры</link></u></color>."
+                                    "desc": "[OnSucceedAttack] Если на цели 3 и более <sprite name=\"MRcAiBb\"><color=#e30000><u><link=\"MRcAiBb\">Мерцающей Искры</link></u></color>, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2, наносит 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и 2 <sprite name=\"MRcAiBc\"><color=#e30000><u><link=\"MRcAiBc\">Искры</link></u></color>."
                                 }
                             ]
                         },
@@ -249,7 +249,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"CrimsonResistDown\"><color=#f8c200><u><link=\"CrimsonResistDown\">Понижения сопротивления к Гневу</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"CrimsonResistDown\"><color=#e30000><u><link=\"CrimsonResistDown\">Понижения сопротивления к Гневу</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -363,7 +363,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"MRcAiBb\"><color=#f8c200><u><link=\"MRcAiBb\">Мерцающей Искры</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"MRcAiBb\"><color=#e30000><u><link=\"MRcAiBb\">Мерцающей Искры</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -399,7 +399,7 @@
                 {
                     "level": 1,
                     "name": "Коварство во плоти",
-                    "desc": "[WinDuel] Удваивает <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> и <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, наносимые эффектами Монет.",
+                    "desc": "[WinDuel] Удваивает <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> и <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, наносимые эффектами Монет.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -407,7 +407,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
@@ -439,17 +439,17 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#f8c200><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход"
@@ -471,7 +471,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAmBb\"><color=#f8c200><u><link=\"MRcAmBb\">Хватки</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хватки</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход"
@@ -481,7 +481,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAmBb\"><color=#f8c200><u><link=\"MRcAmBb\">Хватки</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хватки</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход"
@@ -498,7 +498,7 @@
                 {
                     "level": 1,
                     "name": "Да будет отвергнуто",
-                    "desc": "Если выжил персонаж с '<sprite name=\"MRcAmBb\"><color=#f8c200><u><link=\"MRcAmBb\">Хваткой</link></u></color>', Финальная мощь +5",
+                    "desc": "Если выжил персонаж с '<sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хваткой</link></u></color>', Финальная мощь +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -527,7 +527,7 @@
                 {
                     "level": 1,
                     "name": "Да будет презрено всё",
-                    "desc": "Если выжил персонаж с '<sprite name=\"MRcAmBb\"><color=#f8c200><u><link=\"MRcAmBb\">Хваткой</link></u></color>', Финальная мощь +5\n[EndBattle] Снимает <sprite name=\"MRcAmBc\"><color=#f8c200><u><link=\"MRcAmBc\">Взор</link></u></color> со всех врагов",
+                    "desc": "Если выжил персонаж с '<sprite name=\"MRcAmBb\"><color=#e30000><u><link=\"MRcAmBb\">Хваткой</link></u></color>', Финальная мощь +5\n[EndBattle] Снимает <sprite name=\"MRcAmBc\"><color=#e30000><u><link=\"MRcAmBc\">Взор</link></u></color> со всех врагов",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -578,7 +578,7 @@
                 {
                     "level": 1,
                     "name": "6:5",
-                    "desc": "[CantDuel][CantChangeTarget]\nПолучает урон вместо цели. Оглушается в следующий ход.\nНаносит <sprite name=\"Target\"><color=#f8c200><u><link=\"Target\">Помеченный</link></u></color> случайному противнику без <sprite name=\"AaCePcBa\"><color=#f8c200><u><link=\"AaCePcBa\">Помеченный</link></u></color>.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ",
+                    "desc": "[CantDuel][CantChangeTarget]\nПолучает урон вместо цели. Оглушается в следующий ход.\nНаносит <sprite name=\"Target\"><color=#9f6a3a><u><link=\"Target\">Помеченный</link></u></color> случайному противнику без <sprite name=\"AaCePcBa\"><color=#e30000><u><link=\"AaCePcBa\">Помеченный</link></u></color>.\n[EndBattle] Все Свечи восстанавливают максимум ОЗ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -632,7 +632,7 @@
                 {
                     "level": 1,
                     "name": "Коварное обледенение",
-                    "desc": "[StartBattle] Получает щит равный 10% от максимального здоровья. За каждое <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color> получает дополнительно 0.3% от максимального здоровья в качестве щита.\nПри получении атаки с щитом, атакующий теряет 5 СД\nПри получении атаки, использует этот навык один раз за каждые 10 <sprite name=\"AaCePcBq\"><color=#f8c200><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>",
+                    "desc": "[StartBattle] Получает щит равный 10% от максимального здоровья. За каждое <sprite name=\"AaCePcBq\"><color=#9f6a3a><u><link=\"AaCePcBq\">Эго Квикег</link></u></color> получает дополнительно 0.3% от максимального здоровья в качестве щита.\nПри получении атаки с щитом, атакующий теряет 5 СД\nПри получении атаки, использует этот навык один раз за каждые 10 <sprite name=\"AaCePcBq\"><color=#9f6a3a><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [

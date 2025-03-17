@@ -8,12 +8,12 @@
         {
             "id": 837102,
             "name": "Размеренное дыхание",
-            "desc": "В конце хода восстанавливает 7 СД и получает <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, равную (<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> / 4) в следующем ходу. (До 3)"
+            "desc": "В конце хода восстанавливает 7 СД и получает <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, равную (<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> / 4) на следующий ход (До 3)"
         },
         {
             "id": 837103,
             "name": "Поединок",
-            "desc": "Использует навык \"Салют\", если цель оглушена."
+            "desc": "Использует навык «Салют», если цель оглушена."
         },
         {
             "id": 837104,

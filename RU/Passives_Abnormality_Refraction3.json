@@ -93,7 +93,7 @@
         {
             "id": 857301,
             "name": "Обнажённая жемчужина",
-            "desc": "В начале хода: если количество <sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color> равно 0, становится оглушённым. Когда часть Жемчужины оглушена, часть Жемчужины теряет все сопротивления к Сродству на 0.5.\nПри восстановлении от оглушения получает 10 <sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>."
+            "desc": "В начале хода: если количество <sprite name=\"AaCePcBh\"><color=#689f35><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color> равно 0, становится оглушённым. Когда часть Жемчужины оглушена, часть Жемчужины теряет все сопротивления к Сродству на 0.5.\nПри восстановлении от оглушения получает 10 <sprite name=\"AaCePcBh\"><color=#689f35><u><link=\"AaCePcBh\">Зелёной слизи</link></u></color>."
         },
         {
             "id": 857302,
@@ -103,7 +103,7 @@
         {
             "id": 857401,
             "name": "Загрязняющая слизь",
-            "desc": "В конце хода: накладывает (<sprite name=\"AaCePcBh\"><color=#9f6a3a><u><link=\"AaCePcBh\">Зелёная слизь</link></u></color> + 4) <sprite name=\"Poison\"><color=#e30000><u><link=\"Poison\">Яда</link></u></color> на всех врагов."
+            "desc": "В конце хода: накладывает (<sprite name=\"AaCePcBh\"><color=#689f35><u><link=\"AaCePcBh\">Зелёная слизь</link></u></color> + 4) <sprite name=\"Poison\"><color=#e30000><u><link=\"Poison\">Яда</link></u></color> на всех врагов."
         },
         {
             "id": 857501,

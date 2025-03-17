@@ -12,7 +12,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 5)"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 5)"
                                 }
                             ]
                         }
@@ -27,7 +27,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 5)"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 5)"
                                 },
                                 {
                                     "desc": "[EnemyKill] Даёт 2-ум случайным союзникам 1 счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> или <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышение уровня защиты</link></u></color> на следующий ход"
@@ -45,7 +45,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
                                 },
                                 {
                                     "desc": "[EnemyKill] Даёт 2-ум случайным союзникам 2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> или <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
@@ -68,7 +68,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
                                 }
                             ]
                         }
@@ -83,7 +83,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
                                 }
                             ]
                         }
@@ -98,7 +98,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> или <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на следующий ход. Повторяет эффект 2 + (максимальное число абсолюта Чревоугодия) раза (До 7)"
                                 }
                             ]
                         }
@@ -118,13 +118,13 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -142,13 +142,13 @@
                                     "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -166,13 +166,13 @@
                                     "desc": "[OnSucceedAttack]  Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -195,13 +195,13 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -219,13 +219,13 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -243,13 +243,13 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                                 }
                             ]
                         }
@@ -264,22 +264,22 @@
                     "level": 1,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> \n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 3-ёх)\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> \n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 3-ёх)\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+5% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 35%)"
+                                    "desc": "+5% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 35%)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
+                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
                                 }
                             ]
                         }
@@ -289,22 +289,22 @@
                     "level": 3,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">4</style>)\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">4</style>)\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+<style=\"highlight\">10</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">70</style>%)"
+                                    "desc": "+<style=\"highlight\">10</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">70</style>%)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
+                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color> (До 2-ух раз)"
                                 }
                             ]
                         }
@@ -314,22 +314,22 @@
                     "level": 4,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">7</style>)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">7</style>)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+<style=\"highlight\">15</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">105</style>%)"
+                                    "desc": "+<style=\"highlight\">15</style>% критического урона за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">105</style>%)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#f8c200><u><link=\"Bullet\">Патрон</link></u></color> (До 3-ёх раз)"
+                                    "desc": "[CriticalTargetKill] Если у этой идентичности Хитклифа есть возможность использовать <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патроны</link></u></color>, получает 1 <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color> (До 3-ёх раз)"
                                 }
                             ]
                         }
@@ -344,12 +344,12 @@
                     "level": 1,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] +2% урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 14%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 3)\n[BeforeAttack] +3% урона за каждые 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 15%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] +2% урона за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 14%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 3)\n[BeforeAttack] +3% урона за каждые 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 15%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 }
                             ]
                         }
@@ -359,12 +359,12 @@
                     "level": 3,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n<style=\"highlight\">[BeforeAttack] При 3 и более <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаниях</link></u></color>, число целей +1</style>\n[BeforeAttack] +2% урона за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 14%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">4</style>)\n[BeforeAttack] +<style=\"highlight\">4</style>% урона за каждые 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До <style=\"highlight\">20</style>%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n<style=\"highlight\">[BeforeAttack] При 3 и более <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаниях</link></u></color>, число целей +1</style>\n[BeforeAttack] +2% урона за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До 14%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">4</style>)\n[BeforeAttack] +<style=\"highlight\">4</style>% урона за каждые 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До <style=\"highlight\">20</style>%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 }
                             ]
                         }
@@ -374,12 +374,12 @@
                     "level": 4,
                     "name": "Роковая пуля",
                     "abName": "Роковой стрелок",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Число целей +1 <style=\"highlight\">за каждые 3</style> <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванных воспоминаниях</link></u></color> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>당 피해량 +<style=\"highlight\">3</style>% (До <style=\"highlight\">21</style>%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">7</style>)\n[BeforeAttack] +<style=\"highlight\">5</style>%  (До <style=\"highlight\">25</style>%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#f8c200><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (число грехов в наибольшем резонансе + 1) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color> (До 7-и)\n- Если это абсолют, получает (число грехов в наибольшем резонансе + 2) <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаний</link></u></color>\n[BeforeAttack] Число целей +1 <style=\"highlight\">за каждые 3</style> <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванных воспоминаниях</link></u></color> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>당 피해량 +<style=\"highlight\">3</style>% (До <style=\"highlight\">21</style>%)\n[BeforeAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> за каждое <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванное воспоминание</link></u></color> (До <style=\"highlight\">7</style>)\n[BeforeAttack] +<style=\"highlight\">5</style>%  (До <style=\"highlight\">25</style>%)\n[BeforeAttack] Тратит 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе\n[EndSkill] Тратит все <sprite name=\"BoseProjektil\"><color=#9f6a3a><u><link=\"BoseProjektil\">Разорванные воспоминания</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 }
                             ]
                         }
@@ -394,7 +394,7 @@
                     "level": 1,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[BeforeAttack] Получает (наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 6, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 6, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -412,7 +412,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был А-резонансом Лености 4 и более, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был А-резонансом Лености 4 и более, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }
@@ -422,7 +422,7 @@
                     "level": 3,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[BeforeAttack] Получает (<style=\"highlight\">2 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">8</style>, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (<style=\"highlight\">2 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">8</style>, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -440,7 +440,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">А-резонансом Лености</style>, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">А-резонансом Лености</style>, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }
@@ -450,7 +450,7 @@
                     "level": 4,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[BeforeAttack] Получает (<style=\"highlight\">4 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[BeforeAttack] Получает (<style=\"highlight\">4 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -468,7 +468,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">резонансом Лености 3 и более</style>, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">резонансом Лености 3 и более</style>, накладывает 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимость к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }
@@ -483,7 +483,7 @@
                     "level": 1,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (2 + наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (2 + наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -501,10 +501,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был А-резонансом Лености 4 и более, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был А-резонансом Лености 4 и более, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }
@@ -514,7 +514,7 @@
                     "level": 3,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (<style=\"highlight\">4 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (<style=\"highlight\">4 +</style> наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До 8, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -532,10 +532,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">А-резонансом Лености</style>, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">А-резонансом Лености</style>, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }
@@ -545,7 +545,7 @@
                     "level": 4,
                     "name": "Асимметричная инерция",
                     "abName": "Заводной перекати-поле",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (4 + наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">10</style>, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#f8c200><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#e30000><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (4 + наибольший резонанс) к счётчику <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">10</style>, не более 20 за ход)\n- Если указанный резонанс был резонансом Лености, <sprite name=\"Switch_Vibration\"><color=#9f6a3a><u><link=\"Switch_Vibration\">преобразует амплитуду</link></u></color> своего <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> в <sprite name=\"VibrationSpring\"><color=#f8c200><u><link=\"VibrationSpring\">Тремор — Завод</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -563,10 +563,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">резонансом Лености 3 и более</style>, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#f8c200><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1\n- При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> в этом ходу\n- Если наибольший резонанс был <style=\"highlight\">резонансом Лености 3 и более</style>, накладывает 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u><link=\"AmberTakeDamageUp\">Уязвимости к Лености</link></u></color> и в следующем ходу"
                                 }
                             ]
                         }

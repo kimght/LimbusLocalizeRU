@@ -37,7 +37,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+50% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "На 50% больше урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
@@ -59,21 +59,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+20% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+20% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+10% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+10% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+40% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+40% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         }
@@ -87,7 +87,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышение Рубящего урона</link></u></color> на следующий ход (Раз за ход)",
+                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышение Рубящего урона</link></u></color> на следующий ход (Единожды за ход)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -130,7 +130,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "На 30% больше урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
@@ -152,21 +152,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+10% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+10% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+10% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+10% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+20% урона против целей с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
+                                    "desc": "+20% урона целям с <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>"
                                 }
                             ]
                         }
@@ -389,19 +389,19 @@
                 {
                     "level": 1,
                     "name": "Чернильные облака",
-                    "desc": "[WhenUse] +10% урона против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+                    "desc": "[WhenUse] Наносит на 10% больше урона целям с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>и повышает его счётчик на 1"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>и повышает его счётчик на 1"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 1"
                                 }
                             ]
                         }
@@ -480,7 +480,7 @@
                 {
                     "level": 1,
                     "name": "Заточенное острие",
-                    "desc": "[StartBattle] Даёт 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> всем союзникам (включая себя)\n[StartBattle] Получает 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>",
+                    "desc": "[StartBattle] Даёт 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> всем союзникам (Включая себя)\n[StartBattle] Получает 2 <sprite name=\"SlashResultUp\"><color=#f8c200><u><link=\"SlashResultUp\">Повышения силы Рубящей атаки</link></u></color>",
                     "coinlist": [
                         {},
                         {
@@ -500,7 +500,7 @@
                 {
                     "level": 1,
                     "name": "Разрез, расчищающий небо",
-                    "desc": "[StartBattle] Число целей +1, если у основной цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[StartBattle] Итоговая сила +1 при 5 атакующих навыках в слотах на начало хода\n[WinDuel] Восстанавливает 10 СД всем союзникам\n+30% урона против целей с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+                    "desc": "[StartBattle] Вес атаки +1, если у главной цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[StartBattle] Итоговая сила +1 при 5 атакующих навыках в слотах на начало хода\n[WinDuel] Восстанавливает 10 СД всем союзникам\nНаносит на 30% урона целям с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -519,7 +519,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+50% урона против целей с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                                    "desc": "На 50% больше урона целям с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 10"
@@ -536,7 +536,7 @@
                 {
                     "level": 1,
                     "name": "Правила Подворотен",
-                    "desc": "[WhenUse] Получает монету за каждого живого союзника (кроме себя) (До 3)",
+                    "desc": "[WhenUse] Получает ещё 1 монету за каждого другого  живого союзника (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [

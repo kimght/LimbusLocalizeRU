@@ -75,6 +75,10 @@
     {
       "id": "IsOFFInfinityMod",
       "content": "ВЫКЛ"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
+      "content": "Бои"
     }
   ]
 }

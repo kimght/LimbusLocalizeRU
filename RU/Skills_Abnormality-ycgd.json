@@ -52,7 +52,7 @@
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#e30000><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> на следующий ход"
                                 }
                             ]
                         },
@@ -62,7 +62,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#f8c200><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttackHead] Наносит 1 <sprite name=\"CrimsonTakeDamageUp\"><color=#e30000><u><link=\"CrimsonTakeDamageUp\">Уязвимость к Гневу</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -100,14 +100,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 2"
                                 }
                             ]
                         }
@@ -121,12 +121,12 @@
                 {
                     "level": 1,
                     "name": "Отстрел",
-                    "desc": "[WinDuel] Базовая сила +2 против целей с <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопанием</link></u></color>",
+                    "desc": "[WinDuel] Базовая сила +2 против целей с <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопанием</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 3"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и повышает его счётчик на 3"
                                 }
                             ]
                         }
@@ -140,15 +140,15 @@
                 {
                     "level": 1,
                     "name": "Водяная бомба",
-                    "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#f8c200><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -162,7 +162,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[OnSucceedEvade] Наносит 2 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Утопания</link></u></color> на атакующего",
+                    "desc": "[OnSucceedEvade] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на атакующего",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -225,7 +225,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
                                 }
                             ]
                         },
@@ -235,7 +235,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -267,7 +267,7 @@
                                     "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышение Рубящего урона</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"SlashResistDown\"><color=#f8c200><u><link=\"SlashResistDown\">Понижения сопротивления к Рубящему урону</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"SlashResistDown\"><color=#e30000><u><link=\"SlashResistDown\">Понижения сопротивления к Рубящему урону</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -299,7 +299,7 @@
                                     "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"SlashResistDown\"><color=#f8c200><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"SlashResistDown\"><color=#e30000><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
                                 }
                             ]
                         },
@@ -309,7 +309,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3"
@@ -326,19 +326,19 @@
                 {
                     "level": 1,
                     "name": "Дабы забрать их кости",
-                    "desc": "[StartBattle] Получает 50 щита\n[WhenUse] Сила столкновения +5 с оставшимся щитом",
+                    "desc": "[StartBattle] Получает 50 щита\n[WhenUse] Сила в столкновении +5 с оставшимся щитом",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"SlashResistDown\"><color=#f8c200><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"SlashResistDown\"><color=#e30000><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+100% критического урона"
+                                    "desc": "На 100% больше критического урона"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 2"
@@ -348,7 +348,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если щит не был снят, разделяет <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> между целями атаки фиксированным уроном."
+                                    "desc": "[OnSucceedAttack] Если щит не был снят, разделяет <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущую горечь</link></u></color> между целями атаки фиксированным уроном"
                                 }
                             ]
                         }
@@ -381,7 +381,7 @@
                 {
                     "level": 1,
                     "name": "Уступаю плоть",
-                    "desc": "Получает <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> в количестве урона, полученного во время навыка, вызвавшего контратаку",
+                    "desc": "Получает <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущую горечь</link></u></color> в количестве урона, полученного от навыка, вызвавшего контратаку",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -400,22 +400,22 @@
                 {
                     "level": 1,
                     "name": "Дабы забрать их кости",
-                    "desc": "[StartBattle] Получает 200 щита\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3\n[WhenUse] Сила столкновения +10 с оставшимся щитом",
+                    "desc": "[StartBattle] Получает 200 щита\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3\n[WhenUse] Сила в столкновении +10 с оставшимся щитом",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"SlashResistDown\"><color=#f8c200><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"SlashResistDown\"><color=#e30000><u><link=\"SlashResistDown\">Понижения сопротивления Рубящему урону</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+100% критического урона"
+                                    "desc": "На 100% больше критического урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Параличей</link></u></color> на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 2"
@@ -425,7 +425,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если щит не был снят, разделяет <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> между целями атаки фиксированным уроном."
+                                    "desc": "[OnSucceedAttack] Если щит не был снят, разделяет <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущую горечь</link></u></color> между целями атаки фиксированным уроном"
                                 }
                             ]
                         }
@@ -439,7 +439,7 @@
                 {
                     "level": 1,
                     "name": "Танец с мечом",
-                    "desc": "[EnemyKill] Получает 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
+                    "desc": "[EnemyKill] Получает 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -458,14 +458,14 @@
                 {
                     "level": 1,
                     "name": "Дабы забрать их кости",
-                    "desc": "[CantChangeTarget]\nАтакует цель с наименьшими ОЗ\n[EnemyKill] Удваивает <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color>\n[EnemyKill] Восстанавливает ОЗ на число <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущей горечи</link></u></color>",
+                    "desc": "[CantChangeTarget]\nАтакует цель с наименьшими ОЗ\n[EnemyKill] Удваивает <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущую горечь</link></u></color>\n[EnemyKill] Восстанавливает ОЗ на количество <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущей горечи</link></u></color>",
                     "coinlist": [
                         {},
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> фиксированным уроном"
+                                    "desc": "[OnSucceedAttack] Наносит фиксированный урон в количестве своей <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущей горечи</link></u></color>"
                                 }
                             ]
                         }

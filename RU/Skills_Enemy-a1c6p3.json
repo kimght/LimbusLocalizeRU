@@ -14,7 +14,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> в следующем ходу"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
                                 }
                             ]
                         },
@@ -24,7 +24,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> в следующем ходу"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -38,12 +38,12 @@
                 {
                     "level": 1,
                     "name": "...очистить",
-                    "desc": "[WhenUse] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, если у цели 10 или менее СД\n[WinDuel] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>",
+                    "desc": "[WhenUse] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>, если СД цели 10 или менее\n[WinDuel] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> в следующем ходу"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Ослабление положительной монеты</link></u></color> на следующий ход"
                                 }
                             ]
                         },
@@ -53,7 +53,7 @@
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Накладывает 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> в следующем ходу"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -66,7 +66,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "...mmands...!",
+                    "name": "...иледи...!",
                     "desc": "[WhenUse] Базовая сила +1 за каждые 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (макс. 3)\n[WinDuel] Все союзники восстанавливают 5 СД",
                     "coinlist": [
                         {
@@ -109,32 +109,32 @@
                 {
                     "level": 1,
                     "name": "...из Праха",
-                    "desc": "[WhenUse] Базовая сила +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (макс. 3)\n[WhenUse] Наносит на 10% больше урона за каждые 6 счётчиков <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (макс. 30%)",
+                    "desc": "[WhenUse] Базовая сила +1 за каждые 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (макс. 3)\n[WhenUse] Наносит на 10% больше урона за каждые 6 счётчиков <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 30%)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит бонусный урон сродства Уныния, равный <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на цели. Уменьшает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели на 1"
+                                    "desc": "[OnSucceedAttack] Наносит урон Унынием в количестве <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит бонусный урон сродства Уныния, равный <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на цели. Уменьшает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели на 1"
+                                    "desc": "[OnSucceedAttack] Наносит урон Унынием в количестве <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит бонусный урон сродства Уныния, равный <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color> на цели."
+                                    "desc": "[OnSucceedAttack] Наносит урон Унынием в количестве <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и понижает его счётчик на 1"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 3+ счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, Повторно использует эту Монету (дважды)"
+                                    "desc": "[OnSucceedAttack] Если у цели 3 и более счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, заново подкидывает монету (Дважды)"
                                 }
                             ]
                         }
@@ -147,8 +147,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Скольж...",
-                    "desc": "Если у этого персонажа остались ОЗ щита в конце хода, снижает порог оглушения на 50",
+                    "name": "Скольз...",
+                    "desc": "Если остаётся щит к концу хода, снижает свою границу выносливости на 50",
                     "coinlist": [
                         {}
                     ]
@@ -160,20 +160,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Damn Pl...",
+                    "name": "Проклятые пле...",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> в следующий ход"
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> в следующий ход"
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -186,20 +186,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "I'll Remo...",
+                    "name": "Я сотру...",
                     "desc": "[WinDuel] Базовая сила +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит 20% от нанесённого урона как дополнительный Дробящий урон"
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит ещё 20% от нанесённого урона Дробящим уроном"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит 20% от нанесённого урона как дополнительный Дробящий урон"
+                                    "desc": "[OnSucceedAttack] Если у цели есть <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, наносит ещё 20% от нанесённого урона Дробящим уроном"
                                 }
                             ]
                         }
@@ -212,28 +212,28 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Make Things...",
-                    "desc": "[WinDuel] Если у цели 2+ <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color>, Базовая сила +1\n[WhenUse] Если у цели есть <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>, наносит 30% от нанесённого урона как дополнительный Дробящий урон",
+                    "name": "Снова все...",
+                    "desc": "[WinDuel] Если у цели 2 и более <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>, Базовая сила +1\n[WhenUse] Если у цели есть <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color>, наносит ещё 30% от нанесённого урона Дробящим уроном",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД себе"
+                                    "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
                                 }
                             ]
                         }
@@ -246,8 +246,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "... ove You",
-                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WinDuel] Сила монеты +1 за каждые 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на цели (максимум 3)",
+                    "name": "Раздав..",
+                    "desc": "Выбирает цели с наибольшим количеством отрицательных эффектов\n[WinDuel] Сила монет +1 за каждые 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на цели (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -265,10 +265,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит на 30% больше урона за каждые 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на цели (максимум 120%)"
+                                    "desc": "[OnSucceedAttack] На 30% больше урона за каждые 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> цели (До 120%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Если у цели 3+ отрицательных эффекта, использует эту монету повторно (один раз)"
+                                    "desc": "[OnSucceedAttackHead] Если на цели 3 и более отрицательных эффекта, заново подкидывает монету (Единожды)"
                                 }
                             ]
                         }
@@ -282,7 +282,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "[StartBattle] Получает 20 дополнительных единиц щита за каждого выжившего союзника",
+                    "desc": "[StartBattle] Получает ещё 20 ОЗ щита за каждого живого союзника",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -300,7 +300,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Marc...",
+                    "name": "Сби...",
                     "desc": "",
                     "coinlist": [
                         {
@@ -319,8 +319,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "...te",
-                    "desc": "[WhenUse] Если у цели 2+ отрицательных эффекта, Базовая сила +1",
+                    "name": "...се",
+                    "desc": "[WhenUse] Если на цели 2 и более отрицательных эффекта, Базовая сила +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -338,8 +338,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Fl...he",
-                    "desc": "[WhenUse] Если у цели 4+ отрицательных эффекта, Сила монеты +1",
+                    "name": "Про...",
+                    "desc": "[WhenUse] Если на цели 4 и более отрицательных эффекта, Сила монеты +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -367,8 +367,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Cou...oit",
-                    "desc": "[WhenUse] Если у цели 5+ отрицательных эффектов, Базовая сила +2\n[WhenUse] Если у цели 5+ отрицательных эффектов, наносит на 30% больше урона",
+                    "name": "Пря..",
+                    "desc": "[WhenUse] Если на цели 5 и более отрицательных эффектов, Базовая сила +2\n[WhenUse] Если на цели 5 и более отрицательных эффектов, наносит на 30% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -383,7 +383,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если у цели 5+ отрицательных эффектов, использует эту монету повторно (максимум 2 раза)"
+                                    "desc": "[OnSucceedAttack] Если на цели 5 и более отрицательных эффектов, заново подкидывает монету (До 2 раз)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Убирает 1 случайный съёмный отрицательный эффект с цели"
@@ -400,7 +400,7 @@
                 {
                     "level": 1,
                     "name": "...",
-                    "desc": "[OnSucceedEvade] Восстанавливает 5 СД (До 2-х раз за ход)",
+                    "desc": "[OnSucceedEvade] Восстанавливает 5 СД (До 2 раз за ход)",
                     "coinlist": [
                         {
                             "coindescs": [

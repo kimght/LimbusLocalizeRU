@@ -25,7 +25,7 @@
                 {
                     "level": 1,
                     "name": "Усугубление раны",
-                    "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на 5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -109,8 +109,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "name": "Копьё",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "Блок",
-                    "desc": "При получении урона, пока у этого персонажа есть щит, получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход",
+                    "desc": "При получении урона по щиту, получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -153,14 +153,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит +2 счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит +1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>"
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 }
                             ]
                         }
@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "Вырезание раны",
-                    "desc": "[WinDuel] Восстанавливает 5 СД.\nНаносит +5% урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
+                    "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на 5% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -265,8 +265,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+                    "name": "Копьё",
+                    "desc": "[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -285,7 +285,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход (Максимум 3)",
+                    "desc": "[OnSucceedEvade] Получает 1 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышение уровня атаки</link></u></color> на следующий ход (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [

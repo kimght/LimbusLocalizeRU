@@ -1195,7 +1195,7 @@
                 {
                     "level": 1,
                     "name": "Цель отмечена",
-                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1",
+                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая единица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1226,7 +1226,7 @@
                 {
                     "level": 2,
                     "name": "Цель отмечена",
-                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">2</style>",
+                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая единица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на 20%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">2</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1260,7 +1260,7 @@
                 {
                     "level": 4,
                     "name": "Цель отмечена",
-                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая еденица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на <style=\"highlight\">25</style>%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">3</style>",
+                    "desc": "Базовая сила +1 за каждый <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патрон</link></u></color><style=\"highlight\"></style>, который должен потратиться при использовании этого навыка\n[WhenUse] Если Корректировщик Офиса Точки Хитклиф на поле боя, каждая единица резонанса наибольшего резонанса греха повышает шанс активации <sprite name=\"CoveringFire\"><color=#9f6a3a><u><link=\"CoveringFire\">Обнаружения цели</link></u></color> на <style=\"highlight\">25</style>%\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"highlight\">3</style>",
                     "coinlist": [
                         {
                             "coindescs": [

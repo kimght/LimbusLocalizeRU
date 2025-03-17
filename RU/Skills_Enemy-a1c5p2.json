@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "Узреть ужас",
-                    "desc": "[WinDuel] Цель теряет 5 СД; этот персонаж восстанавливает 10 ОЗ",
+                    "desc": "[WinDuel] Восстанавливает 10 ОЗ и цель теряет 5 СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -51,7 +51,7 @@
                 {
                     "level": 1,
                     "name": "Пожинать ужас",
-                    "desc": "Если СД цели ниже 20, восстанавливает на 20% больше ОЗ с помощью этого навыка",
+                    "desc": "Если СД цели ниже 20, восстанавливает на 20% больше ОЗ с помощью этой атаки",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -157,7 +157,7 @@
                 {
                     "level": 1,
                     "name": "...- .",
-                    "desc": "Итоговая сила +1 за каждого живого Обледневшего союзника (не считая этого персонажа)",
+                    "desc": "Итоговая сила +1 за каждого другого живого Обледневшего союзника",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -165,7 +165,7 @@
                                     "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Копирует один из эффектов на цели. Получает скопированный эффект на следующий ход.\n(Только <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color>, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] Копирует одно из стандартных усилений на цели и получает его на следующий ход"
                                 }
                             ]
                         },
@@ -234,7 +234,7 @@
                 {
                     "level": 1,
                     "name": ".-.. -",
-                    "desc": "[WinDuel] Цель теряет 1 СД за каждого живого Обледневшего союзника (не считая этого персонажа)",
+                    "desc": "[WinDuel] Цель теряет 1 СД за каждого другого живого Обледневшего союзника",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -242,7 +242,7 @@
                                     "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
                                 },
                                 {
-                                    "desc": "Копирует один из эффектов на цели. Получает скопированный эффект на следующий ход.\n(Только <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color>, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>)"
+                                    "desc": "Копирует одно из стандартных усилений на цели и получает его на следующий ход"
                                 }
                             ]
                         },
@@ -263,7 +263,7 @@
                 {
                     "level": 1,
                     "name": "-... .…",
-                    "desc": "Если на цели есть <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, то эффект восстановления ОЗ также действует на одного Обледневшего союзника с наименьшей СД",
+                    "desc": "Если на цели есть <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, эффект восстановления ОЗ будет действовать на одного Обледневшего союзника с наименьшей СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -295,7 +295,7 @@
                 {
                     "level": 1,
                     "name": ".--- .",
-                    "desc": "Если на цели есть <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, то эффект восстановления ОЗ также действует на одного Обледневшего союзника с наименьшей СД",
+                    "desc": "Если на цели есть <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопание</link></u></color>, эффект восстановления ОЗ будет действовать на одного Обледневшего союзника с наименьшей СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -322,14 +322,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Копирует один из эффектов на цели. Получает скопированный эффект на следующий ход.\n(Только <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color>, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> и <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>)"
+                                    "desc": "Копирует одно из стандартных усилений на цели и получает его на следующий ход"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает 20 ОЗ"
+                                    "desc": "[OnSucceedAttack] Восстанавливает себе 20 ОЗ"
                                 }
                             ]
                         }
@@ -369,7 +369,7 @@
                 {
                     "level": 1,
                     "name": "-... .-",
-                    "desc": "[WhenUse] Даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> случайному союзнику на следующий ход. Если союзник является Обледневшим, даёт ему 1 дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>.",
+                    "desc": "[WhenUse] Даёт 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> случайному союзнику на следующий ход\n- Даёт Обледневшим союзникам 1 дополнительную <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -393,10 +393,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Провоцирует <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 2"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color>"
@@ -406,7 +403,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 4"
+                                    "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и повышает его счётчик на 4"
                                 }
                             ]
                         }
@@ -420,7 +417,7 @@
                 {
                     "level": 1,
                     "name": ".--. .",
-                    "desc": "[StartBattle] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> за каждых двух Обледневших союзников (не считая этого персонажа)\nБудучи атакованным при наличии щита, наносит 1 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> атаковавшему",
+                    "desc": "[StartBattle] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> за каждых двух других Обледневших союзников\nБудучи атакованным при наличии щита, наносит 1 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color> атаковавшему",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -509,7 +506,7 @@
                 {
                     "level": 1,
                     "name": "--. . ...-",
-                    "desc": "Если на цели есть <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color>, то она теряет 1 СД за каждого живого союзника",
+                    "desc": "Если на цели есть <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color>, она теряет 1 СД за каждого другого союзника",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -586,7 +583,7 @@
                 {
                     "level": 1,
                     "name": "-.- -",
-                    "desc": "Будучи атакованным при наличии щита, наносит 1 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color> цели\n[EndBattle] При наличии щита получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на следующий ход",
+                    "desc": "Будучи атакованным при наличии щита, наносит 1 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color> атакующему\n[EndBattle] Если щит остался, получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -659,7 +656,7 @@
                 {
                     "level": 1,
                     "name": "-- .... -",
-                    "desc": "[WhenUse] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> за каждого живого союзника. (До 3)",
+                    "desc": "[WhenUse] Получает 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color> за каждого живого союзника (До 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -691,7 +688,7 @@
                 {
                     "level": 1,
                     "name": "-.- ..",
-                    "desc": "[WhenUse] Получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>\nБудучи атакованным при наличии щита, наносит 1 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color> цели\n[EndBattle] Восстанавливает ОЗ на х2 от оставшихся ОЗ щита.",
+                    "desc": "[WhenUse] Получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>\nБудучи атакованным при наличии щита, наносит 1 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Бледный шум</link></u></color> атакующему\n[EndBattle] Восстанавливает ОЗ на двойное количество оставшегося щита",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -741,7 +738,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит дополнительный фиксированный урон, равный количеству убитых во время этой волны союзников Среднего пальца"
+                                    "desc": "[OnSucceedAttack] Наносит дополнительный фиксированный урон в количестве убитых во время этой волны союзников Среднего пальца"
                                 }
                             ]
                         }
@@ -781,7 +778,7 @@
                 {
                     "level": 1,
                     "name": "Готовность записывать",
-                    "desc": "[EndBattle] Если у этого персонажа есть Щит, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "desc": "[EndBattle] Если остался щит, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -879,7 +876,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит дополнительный фиксированный урон, равный количеству убитых во время этой волны союзников Среднего пальца"
+                                    "desc": "[OnSucceedAttack] Наносит дополнительный фиксированный урон в количестве убитых во время этой волны союзников Среднего пальца"
                                 }
                             ]
                         }
@@ -919,7 +916,7 @@
                 {
                     "level": 1,
                     "name": "Готовность записывать",
-                    "desc": "Если щит этого персонажа полностью израсходован, то он получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "desc": "Если щит был снят, получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [

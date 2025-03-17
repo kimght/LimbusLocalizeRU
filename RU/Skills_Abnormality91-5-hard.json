@@ -1,0 +1,58 @@
+﻿{
+  "dataList": [
+    {
+      "id": 107804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Get Packing",
+          "desc": "Если есть [AaCeSeBa], наносит каждой монетой 1 [Paralysis] на следующий ход\nНацеливается на противника с наименьшей скоростью\n[EndBattle] Тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон в количестве своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> и повышает его счётчик на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Случайно накладывает 1 [Protection], [Enhancement], [Vulnerable] или [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Цель теряет СД в количестве счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> Сантаты"
+                },
+                {
+                  "desc": "[EnemyKill] Все противники теряют 10 СД"
+                },
+                {
+                  "desc": "[EnemyKillFail] Получает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

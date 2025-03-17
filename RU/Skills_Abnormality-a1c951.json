@@ -5,13 +5,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Be The Joy",
-                    "desc": "[WhenUse] Получает +2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "name": "Быть Весёлым",
+                    "desc": "[WhenUse] Повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> цели на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
@@ -43,7 +43,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Получает <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> в количестве равном своему <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыханию</link></u></color>"
+                                    "desc": "[CriticalOnSucceedAttack] Удваивает своё [Breath]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
@@ -59,8 +59,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вот подарок",
-                    "desc": "Если у цели есть <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, и если скорость этого персонажа выше, получает силу столкновения равную разнице в скорости",
+                    "name": "Вот подарок!",
+                    "desc": "Если на цели есть <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, и если скорость выше скорости цели, +(Разнца в скорости) к Силе в столкновении",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -68,10 +68,10 @@
                                     "desc": "[OnSucceedAttack] Теряет 5 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и +3 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 3"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                                 }
                             ]
                         }
@@ -85,7 +85,7 @@
                 {
                     "level": 1,
                     "name": "Собираем вещички",
-                    "desc": "Если у этого персонажа есть <sprite name=\"AaCeSeBa\"><color=#f8c200><u><link=\"AaCeSeBa\">ХО! ХО! ХО!</link></u></color>, добавляет эффект 'Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход' к эффектам монет\nВыбирает цель с наименьшей скоростью\n[EndBattle] Тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+                    "desc": "Если есть <sprite name=\"AaCeSeBa\"><color=#f8c200><u><link=\"AaCeSeBa\">ХО! ХО! ХО!</link></u></color>, наносит каждой монетой 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралич</link></u></color> на следующий ход\nНацеливается на противника с наименьшей скоростью\n[EndBattle] Тратит весь счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -97,26 +97,26 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит дополнительный урон, равный количеству <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе"
+                                    "desc": "[OnSucceedAttack] Наносит дополнительный урон в количестве своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3"
+                                    "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> и повышает его счётчик на 3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Случайно выбирает 1 из 4 эффектов (<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённость</link></u></color>, <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>, <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралич</link></u></color>). Накладывает 3 выбранного эффекта."
+                                    "desc": "[OnSucceedAttack] Случайно накладывает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>, <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> или <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Цель теряет СД в количестве, равном счётчику <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на этом персонаже"
+                                    "desc": "[OnSucceedAttack] Цель теряет СД в количестве счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> Сантаты"
                                 },
                                 {
-                                    "desc": "[EnemyKill] Все враги теряют 10 СД."
+                                    "desc": "[EnemyKill] Все противники теряют 10 СД"
                                 },
                                 {
-                                    "desc": "[EnemyKillFail] Получает 2 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход."
+                                    "desc": "[EnemyKillFail] Получает 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход."
                                 }
                             ]
                         }
@@ -130,7 +130,7 @@
                 {
                     "level": 1,
                     "name": "Время упаковываться",
-                    "desc": "Если Щит полностью израсходован, получает Ошеломление на следующий ход.\nЕсли остался запас Щита, получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
+                    "desc": "Если ОЗ щита не осталось, оглушается в следующем ходе\nЕсли остался щит, получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {}
                     ]

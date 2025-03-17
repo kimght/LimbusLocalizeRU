@@ -13,12 +13,12 @@
         {
             "id": 815301,
             "name": "Мстительные ножны",
-            "desc": "Получает <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущую горечь</link></u></color> в начале хода, если навык «Дабы забрать их кости» находится в слоте навыков. [Grudge] исчезает в конце хода."
+            "desc": "Получает <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущую горечь</link></u></color> в начале хода, если навык «Дабы забрать их кости» находится в слоте навыков. <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущая горечь</link></u></color> исчезает в конце хода."
         },
         {
             "id": 815402,
             "name": "Танец клинка",
-            "desc": "При 20% ОЗ меняет поведение, и начиная со следующего хода, получает 20 <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущей горечи</link></u></color> каждый ход. <sprite name=\"Grudge\"><color=#f8c200><u><link=\"Grudge\">Растущая горечь</link></u></color> больше не исчезает."
+            "desc": "При 20% ОЗ меняет поведение, и начиная со следующего хода, получает 20 <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущей горечи</link></u></color> каждый ход. <sprite name=\"Grudge\"><color=#4b679d><u><link=\"Grudge\">Растущая горечь</link></u></color> больше не исчезает."
         },
         {
             "id": 815403,

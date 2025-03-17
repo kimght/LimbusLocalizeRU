@@ -1,0 +1,311 @@
+﻿{
+  "dataList": [
+    {
+      "id": 9017801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Учение шестерней",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня плоти: Остановка",
+          "desc": "[WhenUse] Получает 4 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Paralysis] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Paralysis] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пар",
+          "desc": "Сила в столкновении +1 за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели (До 2)\nНаносит на 10% больше урона за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе (До 20%)\n[WhenUse] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, Сила монет +2\n[EndSkill] Тратит весь свой [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Снова подкидывает монету за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели (До 3 раз)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Приказ уворота",
+          "desc": "[OnSucceedEvade] Получает 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 1\n[OnSucceedEvade] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, получает 1 [ParryingResultUp] и 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Направляемый шестернями",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня плоти: Хватка",
+          "desc": "[WhenUse] Получает 4 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Binding] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Binding] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Приказ наступления",
+          "desc": "Сила в столкновении +1 за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели (До 2)\nНаносит на 10% больше урона за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе (До 20%)\n[WhenUse] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, Сила монет +2\n[EndSkill] Тратит весь свой [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> цели на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Снова подкидывает монету за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели (До 3 раз)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Приказ уворота",
+          "desc": "[OnSucceedEvade] Получает 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 1\n[OnSucceedEvade] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, получает 1 [ParryingResultUp] и 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня плоти: Команда",
+          "desc": "[WhenUse] Получает 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня мышления: Сбор",
+          "desc": "[WhenUse] Получает 4 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Paralysis] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня плоти: Ограничить",
+          "desc": "Сила монет +1 за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели\nНаносит на 10% больше урона за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе\nТратит 3 своего <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> при каждом повторном подкидывании монет\n[WhenUse] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, Сила монет +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Снова подкидывает монету за каждые 5 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня плоти: Стереть",
+          "desc": "Сила монет +1 за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели\nНаносит на 20% больше урона за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе\n[WhenUse] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, Сила монет +1\n[EndSkill] Тратит весь свой [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Снова подкидывает монету за каждые 3 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шестерня мышления: Пар",
+          "desc": "[WhenUse] Получает 5 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> и повышает его счётчик на 2\n[WhenUse] При 10 <sprite name=\"Smoke\"><color=#e30000><u><link=\"Smoke\">Дыма</link></u></color> на себе, получает 2 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиления положительной монеты</link></u></color> и 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

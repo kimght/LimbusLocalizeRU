@@ -124,7 +124,7 @@
         {
             "id": 9167,
             "name": "Омнивибро-октовекти-колокол",
-            "desc": "Начало столкновения: эффект активируется при наличии 5 и более идентичностей на поле боя, чьи навыки наносят силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n(Не распространяется на идентичностей, повышающих только свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>)\n\nПри победе в столкновени навыком, который повышает счётчик или наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, или же тратит свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>: наносит (# оставшихся монет) едениц потенциала <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель; если цель не имеет <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, повышает его счётчик на 3.\n\nНачало хода: даёт (1 + (Счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе / 5)) <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышений силы в поединке</link></u></color>. (До 3)\n\nИспользуя навык, который тратит свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>: при победе над противником или его оглушении, повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Потраченный счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> / 2). (Единожды за навык)\n\nНавыки, которые тратят свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносят на (Потраченный счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе + сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели + 5)% больше урона. (ЭГО навыки не учитываются; Макс. 50%)",
+            "desc": "Начало столкновения: эффект активируется при наличии 5 и более идентичностей на поле боя, чьи навыки наносят силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> или повышают его счётчик, или наносят Особый Тремор. (ЭГО навыки не учитываются)\n(Не распространяется на идентичностей, повышающих только свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>)\n\nПри победе в столкновени навыком, который повышает счётчик или наносит силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, или же тратит свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>: наносит (# оставшихся монет) единиц потенциала <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цель; если цель не имеет <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</link></u></color>, повышает его счётчик на 3.\n\nНачало хода: даёт (1 + (Счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе / 5)) <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышений силы в поединке</link></u></color>. (До 3)\n\nИспользуя навык, который тратит свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>: при победе над противником или его оглушении, повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (Потраченный счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> / 2). (Единожды за навык)\n\nНавыки, которые тратят свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносят на (Потраченный счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе + сила <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели + 5)% больше урона. (ЭГО навыки не учитываются; Макс. 50%)",
             "simpleDesc": [
                 {
                     "abilityID": 9167,
@@ -151,7 +151,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9168,
-                    "simpleDesc": "Наносит дополнительную еденицу потенциала разрыва"
+                    "simpleDesc": "Наносит дополнительную единицу потенциала разрыва"
                 }
             ]
         },
@@ -166,7 +166,7 @@
                 },
                 {
                     "abilityID": 91701,
-                    "simpleDesc": "Наносит 2 дополнительные еденицы потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                    "simpleDesc": "Наносит 2 дополнительные единицы потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
                     "abilityID": 91702,
@@ -189,7 +189,7 @@
                 },
                 {
                     "abilityID": 91712,
-                    "simpleDesc": "При нанесении едениц потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами навыков, наносит 2 еденицы потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 1"
+                    "simpleDesc": "При нанесении единиц потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами навыков, наносит 2 единицы потенциала <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и повышает его счётчик на 1"
                 },
                 {
                     "abilityID": 91713,
@@ -241,7 +241,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9176,
-                    "simpleDesc": "При нанесении урона навыками, которые наносят утопание: наносит больше едениц потенциала и счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в конце хода"
+                    "simpleDesc": "При нанесении урона навыками, которые наносят утопание: наносит больше единиц потенциала и счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> в конце хода"
                 },
                 {
                     "abilityID": 91761,
@@ -264,7 +264,7 @@
             "simpleDesc": [
                 {
                     "abilityID": 9178,
-                    "simpleDesc": "Тратит 1 еденицу потенциала дыхания для повышения счётчика на 1"
+                    "simpleDesc": "Тратит 1 единицу потенциала дыхания для повышения счётчика на 1"
                 }
             ]
         },
@@ -283,7 +283,7 @@
                 },
                 {
                     "abilityID": 91802,
-                    "simpleDesc": "При получении едениц потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> эффектами навыков, получает дополнительные счётчики и потенциал"
+                    "simpleDesc": "При получении единиц потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> эффектами навыков, получает дополнительные счётчики и потенциал"
                 },
                 {
                     "abilityID": 91803,

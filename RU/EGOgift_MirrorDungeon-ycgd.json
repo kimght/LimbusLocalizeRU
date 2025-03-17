@@ -41,7 +41,7 @@
                 },
                 {
                     "abilityID": 20291,
-                    "simpleDesc": "Дополнительно наносит 4 еденицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4"
+                    "simpleDesc": "Дополнительно наносит 4 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 4"
                 }
             ]
         },

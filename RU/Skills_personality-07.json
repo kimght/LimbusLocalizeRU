@@ -1142,7 +1142,7 @@
                 {
                     "level": 2,
                     "name": "В голову",
-                    "desc": "<style=\"highlight\">Если скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице (До 30%)</style>\n[WhenUse] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 1\n<style=\"highlight\">[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход (Единожды за ход)</style>",
+                    "desc": "<style=\"highlight\">Если скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице (До 30%)</style>\n[WhenUse] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 1\n<style=\"highlight\">[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход (Единожды за ход)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1165,7 +1165,7 @@
                 {
                     "level": 4,
                     "name": "В голову",
-                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице <style=\"highlight\">(До 50%)</style>\n[WhenUse] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на <style=\"highlight\">2</style>\n[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход (Единожды за ход)",
+                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице <style=\"highlight\">(До 50%)</style>\n[WhenUse] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на <style=\"highlight\">2</style>\n[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход (Единожды за ход)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1193,7 +1193,7 @@
                 {
                     "level": 3,
                     "name": "Попаду в яблочко",
-                    "desc": "[BeforeUse] Если имеется <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патрон Ателье логики</link></u></color>, заменяет этот навык на 'Распыляющий патрон AL-HV'\n\nЕсли скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color>, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 12.5)% больше урона",
+                    "desc": "[BeforeUse] Если имеется <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патрон Ателье логики</link></u></color>, заменяет этот навык на 'Распыляющий патрон AL-HV'\n\nЕсли скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color>, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 12.5)% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1204,7 +1204,7 @@
                                     "desc": "На 50% больше урона к критическому попаданию"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 еденицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 едениц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона"
+                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 единицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 единиц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона"
                                 }
                             ]
                         }
@@ -1213,7 +1213,7 @@
                 {
                     "level": 4,
                     "name": "Попаду в яблочко",
-                    "desc": "[BeforeUse] Если имеется <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патрон Ателье логики</link></u></color>, заменяет этот навык на 'Распыляющий патрон AL-HV'\n\nЕсли скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color>, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 12.5)% больше урона\n<style=\"highlight\">[EndSkill] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2</style>",
+                    "desc": "[BeforeUse] Если имеется <sprite name=\"Bullet_LogicAtelier\"><color=#9f6a3a><u><link=\"Bullet_LogicAtelier\">Патрон Ателье логики</link></u></color>, заменяет этот навык на 'Распыляющий патрон AL-HV'\n\nЕсли скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color>, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 12.5)% больше урона\n<style=\"highlight\">[EndSkill] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1227,7 +1227,7 @@
                                     "desc": "<style=\"highlight\">На (Сопротивление цели к пронзающему урону × 50)% больше урона к критическому попаданию</style>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 еденицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 едениц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона<style=\"highlight\"></style>"
+                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 единицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 единиц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона<style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -1266,7 +1266,7 @@
                 {
                     "level": 3,
                     "name": "Распыляющий патрон AL-HV",
-                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color> на себе, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 25)% больше урона",
+                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color> на себе, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 25)% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1277,7 +1277,7 @@
                                     "desc": "На 100% больше урона к критическому попаданию"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 еденицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 едениц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона"
+                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 единицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 единиц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона"
                                 }
                             ]
                         }
@@ -1286,7 +1286,7 @@
                 {
                     "level": 4,
                     "name": "Распыляющий патрон AL-HV",
-                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую еденицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color> на себе, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 25)% больше урона\n<style=\"highlight\">[EndSkill] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 5</style>",
+                    "desc": "Если скороть выше скорости цели, наносит на 10% больше урона за каждую единицу в разнице (До 50%)\n[WhenUse] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Тратит всю <sprite name=\"LogicAtelierAM\"><color=#f8c200><u><link=\"LogicAtelierAM\">Концентрацию</link></u></color> на себе, что бы получить (Потраченное количество × 2) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, а так же наносит на (Потраченное количество × 25)% больше урона\n<style=\"highlight\">[EndSkill] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 5</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1300,7 +1300,7 @@
                                     "desc": "<style=\"highlight\">На (Сопротивление цели к пронзающему урону × 50)% больше урона к критическому попаданию</style>"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 еденицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 едениц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона<style=\"highlight\"></style>"
+                                    "desc": "[CriticalOnSucceedAttack] При более чем 30 единицах потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе, тратит до 10 единиц потенциала после 30 и наносит на (Потраченное <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхание</link></u></color> × 10)% больше урона<style=\"highlight\"></style>"
                                 }
                             ]
                         }

@@ -1,0 +1,62 @@
+﻿{
+  "dataList": [
+    {
+      "id": 9101905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрез, расчищающий небо",
+          "desc": "[StartBattle] Вес атаки +1, если у главной цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[StartBattle] при 5 и более атакующих навыках в слотах на начало хода, Итоговая сила +5\n[WinDuel] Восстанавливает 15 СД всем союзникам\nНаносит на 30% урона целям с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На 50% больше урона целям с 7 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Правила Подворотен",
+          "desc": "[WhenUse] Получает ещё 1 монету за каждого другого  живого союзника (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[EnemyKill] Восстанавливает 20 СД всем союзникам"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
