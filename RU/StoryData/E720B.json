@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 8, Entrance",
+      "place": "Подворотни Района 8, Вход",
       "model": "그레고르",
       "content": "С-Сод?!"
     },
@@ -325,7 +325,7 @@
     {
       "id": 66,
       "model": "단테",
-      "content": "<...В это есть что-то знакомое.>"
+      "content": "<...В этом есть что-то знакомое.>"
     },
     {
       "id": 67,
