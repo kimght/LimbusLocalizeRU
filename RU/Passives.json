@@ -2044,6 +2044,31 @@
             "name": "Техника летящего шага",
             "desc": "Союзник с наибольшей скоростью получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход при победе в столкновении с противниками, имеющими [Combustion] или Особый Огонь. (Единожды за ход)\n<style=\"highlight\">- Если противник имеет 20 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>.</style>",
             "summary": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>\nза победу в столкновении с противником\nс <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>"
+        },
+        {
+            "id": 1041101,
+            "name": "Мутация Хэйшоу [Мао]",
+            "desc": "Пока имеется [LegStrength], на 5% больше урона."
+        },
+        {
+            "id": 1041111,
+            "name": "Мутация Хэйшоу [Мао]",
+            "desc": "Пока имеется [LegStrength], на 5% больше урона.\n<style=\"highlight\">Если на цели есть [BurstAgility], на 5% больше урона.</style>"
+        },
+        {
+            "id": 1041121,
+            "name": "Тренировка частичной мутации Хэйшоу",
+            "desc": "Конец хода: самый быстрый союзник получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
+        },
+        {
+            "id": 1111201,
+            "name": "Мутация Хэйшоу [Мао]",
+            "desc": "Если имеется [LegStrength], а на цель наложен [BurstAgility], на 5% больше урона за каждую еденицу <sprite name=\"LegStrength\"><color=#f8c200><u><link=\"LegStrength\">Стремительности 【Мао】</link></u></color>. (До 15%)"
+        },
+        {
+            "id": 1111221,
+            "name": "В шкуре зайцев",
+            "desc": "Союзник с наибольшей скоростью наносит на 10% больше урона противникам с <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывом</link></u></color>\nПолучает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (Единожды за ход)"
         }
     ]
 }

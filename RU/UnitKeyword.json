@@ -183,6 +183,14 @@
     {
       "id": "UnitKeyword_LA_MANCHA_LAND",
       "content": "Ла-Манчалэнд"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_RABBIT",
+      "content": "Стая Хэйшоу - Филиал Мао"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST",
+      "content": "Стая Хэйшоу"
     }
   ]
 }

@@ -6,14 +6,14 @@
                 {
                     "level": 1,
                     "name": "Озари незнание своё",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 3% максимальных ОЗ)при сбросе этого навыка",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × 3% максимальных ОЗ) при сбросе этого навыка",
                     "coinlist": [
                         {},
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 5"
+                                    "desc": "[OnSucceedAttack] Понижает свою границу выносливости на 5"
                                 }
                             ]
                         }
@@ -22,14 +22,14 @@
                 {
                     "level": 2,
                     "name": "Озари незнание своё",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 4% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Если у грешницы 2+ <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color>, сила монет +(<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> - 1)",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × <style=\"highlight\">4%</style> максимальных ОЗ) при сбросе этого навыка\n<style=\"highlight\">[WhenUse] Если у Роди 2 и более <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровения</link></u></color>, повышает Силу монет на (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> - 1)</style>",
                     "coinlist": [
                         {},
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 8"
+                                    "desc": "[OnSucceedAttack] Понижает свою границу выносливости <style=\"highlight\">на 8</style>"
                                 }
                             ]
                         }
@@ -38,14 +38,14 @@
                 {
                     "level": 4,
                     "name": "Озари незнание своё",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 5% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] Если у грешницы 2 и более <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровений</link></u></color>, сила монет +(<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> - 1)",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × <style=\"highlight\">5%</style> максимальных ОЗ) при сбросе этого навыка\n[WhenUse] Если у Роди 2 и более <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровения</link></u></color>, повышает Силу монет на (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> - 1)",
                     "coinlist": [
                         {},
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 10"
+                                    "desc": "[OnSucceedAttack] Понижает свою границу выносливости <style=\"highlight\">на 10</style>"
                                 }
                             ]
                         }
@@ -59,7 +59,7 @@
                 {
                     "level": 1,
                     "name": "Тяжесть знаний",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 5% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × 5% максимальных ОЗ) при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
                     "coinlist": [
                         {},
                         {},
@@ -76,7 +76,7 @@
                 {
                     "level": 2,
                     "name": "Тяжесть знаний",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 8% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × <style=\"highlight\">8%</style> максимальных ОЗ) при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
                     "coinlist": [
                         {},
                         {},
@@ -84,7 +84,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 }
                             ]
                         }
@@ -93,7 +93,7 @@
                 {
                     "level": 4,
                     "name": "Тяжесть знаний",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 10% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила столкновения +2 против целей с 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × <style=\"highlight\">10%</style> максимальных ОЗ) при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает <style=\"highlight\">5</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n<style=\"highlight\">[WhenUse] Сила в столкновении +2 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color></style>",
                     "coinlist": [
                         {},
                         {},
@@ -101,7 +101,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 }
                             ]
                         }
@@ -115,12 +115,12 @@
                 {
                     "level": 3,
                     "name": "Болезненное просвещение",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 15% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × 15% максимальных ОЗ) при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
+                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
                                 }
                             ]
                         },
@@ -138,12 +138,12 @@
                 {
                     "level": 4,
                     "name": "Болезненное просвещение",
-                    "desc": "Получает щит, равный (<sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Откровение</link></u></color> × 20% максимальных ОЗ)при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color></link></u></color> 2 навыка низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 против целей с 7+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+                    "desc": "Получает щит, равный (Число <sprite name=\"KnowledgeExplored\"><color=#f8c200><u><link=\"KnowledgeExplored\">Откровений</link></u></color> × <style=\"highlight\">20%</style> максимальных ОЗ) при сбросе этого навыка\n[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color></link></u></color> 2 навыка низшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает <style=\"highlight\">5</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 7 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
                                 }
                             ]
                         },
@@ -166,7 +166,7 @@
                 {
                     "level": 3,
                     "name": "Погружённость в познания",
-                    "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+                    "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
                     "coinlist": [
                         {}
                     ]
@@ -174,7 +174,7 @@
                 {
                     "level": 4,
                     "name": "Погружённость в познания",
-                    "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+                    "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех своих слотах навыков\n[WhenUse] Этот слот получает <style=\"highlight\">5</style> <sprite name=\"Aggro\"><color=#9f6a3a><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
                     "coinlist": [
                         {}
                     ]
@@ -208,7 +208,7 @@
                 {
                     "level": 2,
                     "name": "Удары огнём",
-                    "desc": "Сила монет +1 против целей с 3 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+                    "desc": "<style=\"highlight\">Сила монет +1 против целей с 3 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -229,7 +229,7 @@
                 {
                     "level": 4,
                     "name": "Удары огнём",
-                    "desc": "Сила монет +1 за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+                    "desc": "Сила монет +1 <style=\"highlight\">за каждые 3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -274,7 +274,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> двум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 }
                             ]
                         }
@@ -283,7 +283,7 @@
                 {
                     "level": 2,
                     "name": "Пламенная тегатана — Всполохи",
-                    "desc": "Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+                    "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -302,10 +302,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> двум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -314,7 +314,7 @@
                 {
                     "level": 4,
                     "name": "Пламенная тегатана — Всполохи",
-                    "desc": "Сила монет +1 за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+                    "desc": "Сила монет +1 <style=\"highlight\">за каждые 6</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -336,7 +336,7 @@
                                     "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> двум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -350,7 +350,7 @@
                 {
                     "level": 3,
                     "name": "Молниеносное пронзание",
-                    "desc": "+30% урона против целей, чей <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> и счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> равен 6 и более",
+                    "desc": "Наносит на 30% больше урона против целей, чья сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и его счётчик равны 6 и более",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -376,7 +376,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит половину потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели уроном Гневом.(До 20) Понижает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Наносит урон Гневом в количестве половины силы <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 20) и понижает его счётчик на 2"
                                 }
                             ]
                         }
@@ -385,7 +385,7 @@
                 {
                     "level": 4,
                     "name": "Молниеносное пронзание",
-                    "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>\n+30% урона против целей, чей <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> и счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> равен 6 и более",
+                    "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>\nНаносит на 30% больше урона против целей, чья сила <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и его счётчик равны 6 и более",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -411,7 +411,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит потенциал <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели уроном Гневом.(До 30) Понижает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Наносит урон Гневом <style=\"highlight\">в количестве силы</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До <style=\"highlight\">30</style>) и понижает его счётчик на 2"
                                 }
                             ]
                         }
@@ -482,7 +482,7 @@
                 {
                     "level": 2,
                     "name": "Готовность взимать",
-                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -506,7 +506,7 @@
                 {
                     "level": 4,
                     "name": "Готовность взимать",
-                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n[WhenUse]Сила в поединке +1 <style=\"highlight\">за каждые 6 единиц <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели (До 2)</style>",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n[WhenUse] Сила в столкновении +1 <style=\"highlight\">за каждые 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -550,7 +550,7 @@
                 {
                     "level": 2,
                     "name": "Рукопашное подавление Корп. T",
-                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>",
+                    "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -568,15 +568,15 @@
                 {
                     "level": 4,
                     "name": "Рукопашное подавление Корп. T",
-                    "desc": "<style=\"highlight\">+5 урона за каждую единицу <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на цели (До 15%)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n[WhenUse] Сила в поединке +1 <style=\"highlight\">за каждые 6 единиц <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели (До 2)</style>",
+                    "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждое [Binding] на цели (До 15%)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n[WhenUse] Сила в столкновении +1 <style=\"highlight\">за каждые 6</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>"
+                                    "desc": "[WinDuelAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <style=\"highlight\">на 3</style>"
                                 }
                             ]
                         },
@@ -586,7 +586,7 @@
                                     "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход</style>"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Если на цели 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход</style>"
+                                    "desc": "<style=\"highlight\">- Если на цели 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит ещё 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход</style>"
                                 }
                             ]
                         }
@@ -600,7 +600,7 @@
                 {
                     "level": 3,
                     "name": "Исполнение взысканий",
-                    "desc": "[WhenUse] Сила в поединке +1 против целей с 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Сила монет +1 при трате 8 единиц из своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
+                    "desc": "[WhenUse] Сила в столкновении +1 против целей с 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Сила монет +1 при трате 8 единиц из своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -638,12 +638,12 @@
                 {
                     "level": 4,
                     "name": "Исполнение взысканий",
-                    "desc": "<style=\"highlight\">+5 урона за каждую единицу <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на цели (До 20%)</style>\n[WhenUse] Сила в поединке +<style=\"highlight\">2</style> против целей с 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Сила монет +1 при трате 8 единиц из своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
+                    "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждое <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на цели (До 20%)</style>\n[WhenUse] Сила в столкновении <style=\"highlight\">+2</style> против целей с 8 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Сила монет +1 при трате 8 единиц из своего счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на <style=\"highlight\">3</style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> <style=\"highlight\">на 3</style>"
                                 }
                             ]
                         },
@@ -667,13 +667,13 @@
                                     "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход<style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Если этот навык понизил счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> Роди, наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход</style>"
+                                    "desc": "<style=\"highlight\">- Если навык потратил свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит ещё 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Если на Роде есть <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженное время</link></u></color>, наносит 2 <sprite name=\"TimeSuspend\"><color=#e30000><u><link=\"TimeSuspend\">Временных моратория</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик цели на 1</style>"
                                 }
                             ]
                         }
@@ -692,7 +692,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[StartBattle] Если на Роде нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода получает 3 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на атакующего (Дважды за ход)"
+                                    "desc": "[StartBattle] Если на Роде нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода она получает 3 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на атакующего (2 раза за ход)"
                                 }
                             ]
                         }
@@ -706,7 +706,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[StartBattle] Если на Роде нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода получает 3 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на атакующего (До <style=\"highlight\">6-и</style>раз за ход)"
+                                    "desc": "[StartBattle] Если на Роде нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода она получает 3 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на атакующего (<style=\"highlight\">6</style> раз за ход)"
                                 }
                             ]
                         }
@@ -720,12 +720,12 @@
                 {
                     "level": 1,
                     "name": "Курьерская сумка — Разлагающее лезвие",
-                    "desc": "[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> этим навыком, но и не тратит счётчик этого эффекта при атаке",
+                    "desc": "[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ его счётчика, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> этим навыком, но и не тратит их счётчик при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1"
                                 }
                             ]
                         },
@@ -741,12 +741,12 @@
                 {
                     "level": 2,
                     "name": "Курьерская сумка — Разлагающее лезвие",
-                    "desc": "<style=\"highlight\">Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели</style>\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> этим навыком, но и не тратит счётчик этого эффекта при атаке",
+                    "desc": "<style=\"highlight\">Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели</style>\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> этим навыком, но и не тратит их счётчик при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1\n<style=\"highlight\">- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, дополнительно повышает её число на 1</style>"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1\n<style=\"highlight\">- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается на 1</style>"
                                 }
                             ]
                         },
@@ -762,12 +762,12 @@
                 {
                     "level": 4,
                     "name": "Курьерская сумка — Разлагающее лезвие",
-                    "desc": "<style=\"highlight\">Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> Роди или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)</style>\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> этим навыком, но и не тратит счётчик этого эффекта при атаке",
+                    "desc": "Сила монет +1 <style=\"highlight\">за каждые 10 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или каждые 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, Родя не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> этим навыком, но и не тратит их счётчик при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, дополнительно повышает её число на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается на 1"
                                 }
                             ]
                         },
@@ -788,12 +788,12 @@
                 {
                     "level": 1,
                     "name": "Курьерская сумка — Выпуск гаджетов",
-                    "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе",
+                    "desc": "Сила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1"
                                 }
                             ]
                         },
@@ -807,7 +807,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <style=\"highlight\">3</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели (До 2, единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые 10 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2; единожды за ход)"
                                 }
                             ]
                         }
@@ -816,12 +816,12 @@
                 {
                     "level": 2,
                     "name": "Курьерская сумка — Выпуск гаджетов",
-                    "desc": "<style=\"highlight\">Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> Роди или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)</style>\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе",
+                    "desc": "Сила монет +1 <style=\"highlight\">за каждые 10 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или каждые 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1\n<style=\"highlight\">- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, дополнительно повышает её число на 1</style>"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1\n<style=\"highlight\">- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается на 1</style>"
                                 }
                             ]
                         },
@@ -835,7 +835,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые  <style=\"highlight\">5</style> единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <style=\"highlight\">3</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели (До <style=\"highlight\">4</style>, единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые <style=\"highlight\">5</style> на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До <style=\"highlight\">4</style>; единожды за ход)"
                                 }
                             ]
                         }
@@ -844,26 +844,26 @@
                 {
                     "level": 4,
                     "name": "Курьерская сумка — Выпуск гаджетов",
-                    "desc": "<style=\"highlight\">+2% урона за каждую единицу на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 40%)</style>\nСила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> Роди или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> при ударе",
+                    "desc": "<style=\"highlight\">Наносит на 2% больше урона урона за каждую единицу на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 40%)</style>\nСила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или каждые 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при атаке",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 1\n- Если у Роди 15- на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, она дополнительно повышает число эффекта на <style=\"highlight\">2</style>"
+                                    "desc": "[OnSucceedAttack] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 1\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается <style=\"highlight\">на 2</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)\n<style=\"highlight\">- Если у Роди 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, она дополнительно получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color></style>"
+                                    "desc": "[OnSucceedAttackHead] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)\n<style=\"highlight\">- Если у Роди 15 и более на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, она получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color></style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые 5 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <style=\"highlight\">3</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели (До <style=\"highlight\">6</style>, единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Наносит по 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижению уровня защиты</link></u></color> за каждые 5 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До <style=\"highlight\">6</style>; единожды за ход)"
                                 }
                             ]
                         }
@@ -877,20 +877,20 @@
                 {
                     "level": 3,
                     "name": "Давай, Полуденька!",
-                    "desc": "+2% урона за каждую единицу на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 40%)\nСила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели и снова подкидывает монету",
+                    "desc": "Наносит на 2% больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 40%)\nСила монет +1 при 10+ на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывах</link></u></color> на цели\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при атаке и снова подкидывает последнюю монету",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3 (Единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3 (Единожды за ход)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] +15% урона при 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>"
+                                    "desc": "[OnSucceedAttack] На 15% больше урона при 15 и более на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>"
                                 },
                                 {
                                     "desc": "[EndSkill] При оглушении или убийстве цели получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (Единожды за ход)"
@@ -902,20 +902,20 @@
                 {
                     "level": 4,
                     "name": "Давай, Полуденька!",
-                    "desc": "<style=\"highlight\">+4%</style> урона за каждую единицу на урона при 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>(До <style=\"highlight\">80%</style>)\n<style=\"highlight\">Сила монет +1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> Роди или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)</style>\n[WhenUse] Если на цели более 15 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3 счётчиков этого эффекта, не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели и снова подкидывает монету",
+                    "desc": "Наносит на <style=\"highlight\">4%</style> больше урона за каждую единицу на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До <style=\"highlight\">80%</style>)\nСила монет +1 за <style=\"highlight\">каждые 10 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> или 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если на цели 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ их счётчика, этот навык не тратит счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> при атаке и снова подкидывает последнюю монету",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3 (Единожды за ход)\n<style=\"highlight\">- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1 за каждые 10 единиц на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 2)</style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3 (Единожды за ход)\n<style=\"highlight\">- Дополнительно повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1 за каждые 10 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> (До 2)</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <style=\"highlight\">+25%</style> урона при 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>"
+                                    "desc": "[OnSucceedAttack] На <style=\"highlight\">25%</style> больше урона при 15 и более на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>"
                                 },
                                 {
                                     "desc": "[EndSkill] При оглушении или убийстве цели получает <style=\"highlight\">2</style> <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход (Единожды за ход)"
@@ -932,7 +932,7 @@
                 {
                     "level": 1,
                     "name": "Помощь в доставке и контрольная последовательность",
-                    "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> заменяет навык на 「Это... Всего-лишь стратегическая пауза!」 (Единожды за ход)\n[StartBattle] Перед использованием этого навыка Родя получает щит на (<sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерская сумка - Родион</link></u></color>/2)% от максимальных ОЗ (До 15%, Единожды за ход)\n[WhenUse] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 2 (Единожды за ход)\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, дополнительно повышает её число на 1",
+                    "desc": "[StartBattle] При 15 и более на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> использует 「Это... Всего-лишь стратегическая пауза!」 вместо этого (Единожды за ход)\n[StartBattle] Перед использованием этого навыка Родя получает щит на (Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> / 2)% от максимальных ОЗ (До 15%; единожды за ход)\n[WhenUse] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 2 (Единожды за ход)\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается на 1",
                     "coinlist": [
                         {}
                     ]
@@ -940,7 +940,7 @@
                 {
                     "level": 4,
                     "name": "Помощь в доставке и контрольная последовательность",
-                    "desc": "[StartBattle] При 15+ на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> заменяет навык на 「Это... Всего-лишь стратегическая пауза!」 (Единожды за ход)\n[StartBattle] Перед использованием этого навыка Родя получает щит на <style=\"highlight\">(<sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерская сумка - Родион</link></u></color>)%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>, Единожды за ход)\n[WhenUse] Повышает число <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумки</link></u></color> на 2 (Единожды за ход)\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, дополнительно повышает её число на 1",
+                    "desc": "[StartBattle] При 15 и более на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> использует 「Это... Всего-лишь стратегическая пауза!」 вместо этого (Единожды за ход)\n[StartBattle] Перед использованием этого навыка Родя получает щит на <style=\"highlight\">(Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>)%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>; единожды за ход)\n[WhenUse] Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> повышается на 2 (Единожды за ход)\n- Если у Роди менее 15 на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>, её число дополнительно повышается на 1",
                     "coinlist": [
                         {}
                     ]
@@ -953,7 +953,7 @@
                 {
                     "level": 1,
                     "name": "Это... Всего-лишь стратегическая пауза!",
-                    "desc": "[StartBattle] Перед использованием этого навыка Родя получает щит на (<sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерская сумка - Родион</link></u></color>/2)% от максимальных ОЗ (До 15%, Единожды за ход)\n[EndBattle] <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Стратегически отступает</link></u></color>",
+                    "desc": "[StartBattle] Перед использованием этого навыка Родя получает щит на (Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color> / 2)% от максимальных ОЗ (До 15%, единожды за ход)\n[EndBattle] <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Стратегически отступает</link></u></color>",
                     "coinlist": [
                         {}
                     ]
@@ -961,7 +961,7 @@
                 {
                     "level": 4,
                     "name": "Это... Всего-лишь стратегическая пауза!",
-                    "desc": "[StartBattle] Перед использованием этого навыка Родя получает щит на <style=\"highlight\">(<sprite name=\"DevyatDimensionalSack\"><color=#9f6a3a><u><link=\"DevyatDimensionalSack\">Курьерская сумка - Родион</link></u></color>)%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>, Единожды за ход)\n[EndBattle] <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Стратегически отступает</link></u></color>",
+                    "desc": "[StartBattle] Перед использованием этого навыка Родя получает щит на <style=\"highlight\">(Число на <sprite name=\"DevyatDimensionalSack\"><color=#6fb78f><u><link=\"DevyatDimensionalSack\">Курьерской сумке</link></u></color>)%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>, единожды за ход)\n[EndBattle] <sprite name=\"Retreat\"><color=#9f6a3a><u><link=\"Retreat\">Стратегически отступает</link></u></color>",
                     "coinlist": [
                         {}
                     ]
@@ -974,7 +974,7 @@
                 {
                     "level": 1,
                     "name": "Изыди...",
-                    "desc": "[StartBattle] На себя и 1 союзника с наибольшим максимумом ОЗ: поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает 1 дополнительный <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>",
+                    "desc": "[StartBattle] Поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> на себя и союзника с наибольшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {},
                         {
@@ -992,7 +992,7 @@
                 {
                     "level": 2,
                     "name": "Изыди...",
-                    "desc": "[StartBattle] На себя и 1 союзника с наибольшим максимумом ОЗ: поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает 1 дополнительный <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] Если у цели 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>, сила монет +1</style>",
+                    "desc": "[StartBattle] Поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> на себя и союзника с наибольшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style>",
                     "coinlist": [
                         {},
                         {
@@ -1010,7 +1010,7 @@
                 {
                     "level": 4,
                     "name": "Изыди...",
-                    "desc": "[StartBattle] На себя и 1 союзника с наибольшим максимумом ОЗ: поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает 1 дополнительный <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>",
+                    "desc": "[StartBattle] Поглощает до 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> на себя и союзника с наибольшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {},
                         {
@@ -1033,15 +1033,15 @@
                 {
                     "level": 1,
                     "name": "В тонкой измороси тумана",
-                    "desc": "[StartBattle] На себя и 1 союзника с наименьшим максимумом ОЗ: накладывает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает дополнительно 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>",
+                    "desc": "[StartBattle] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> с 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышением силы атаки</link></u></color> на себя и союзника с наименьшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 [Enhancement] и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 }
                             ]
                         },
@@ -1061,15 +1061,15 @@
                 {
                     "level": 2,
                     "name": "В тонкой измороси тумана",
-                    "desc": "[StartBattle] На себя и 1 союзника с наименьшим максимумом ОЗ: накладывает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает дополнительно 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] При 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели, сила монет +1</style>",
+                    "desc": "[StartBattle] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> с 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышением силы атаки</link></u></color> на себя и союзника с наименьшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 [Enhancement] и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> <style=\"highlight\">на 2</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> <style=\"highlight\">на 2</style>"
                                 }
                             ]
                         },
@@ -1089,15 +1089,15 @@
                 {
                     "level": 4,
                     "name": "В тонкой измороси тумана",
-                    "desc": "[StartBattle] На себя и 1 союзника с наименьшим максимумом ОЗ: накладывает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color>, поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Bloodfiend>\n- Если затронутый союзник является <Bloodfiend>, персонаж накладывает дополнительно 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если персонаж не смог поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели (До 2)</style>",
+                    "desc": "[StartBattle] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и накладывает 1 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущий шип</link></u></color> с 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышением силы атаки</link></u></color> на себя и союзника с наименьшими максимальными ОЗ за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (2 раза за ход)\n- Приоритет отдаётся союзникам <Кровожадам>\n- Если затронутый союзник является <Кровожадом>, накладывает ещё 1 [Enhancement] и 2 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
                                 }
                             ]
                         },
@@ -1122,15 +1122,15 @@
                 {
                     "level": 3,
                     "name": "Фестиваль закончится",
-                    "desc": "[BeforeUse] При 25+ <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>, вместо этого активирует 'Восходящее искусство крепкой крови Дон Кихота - Финал'\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает (3 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> в этот и следующий ход (До 10)\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает 3 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
+                    "desc": "[BeforeUse] При 25 и более <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>, вместо этого навыка активирует 「Восходящее искусство затвердевшей крови Дон Кихота - Финал」\n[WhenUse] Накладывает (3 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color>)) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> на себя и на других (Наибольший резонанс) союзников на этот и следующий ход (До 10), а так же даёт им и себе 3 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 }
                             ]
                         },
@@ -1159,15 +1159,15 @@
                 {
                     "level": 4,
                     "name": "Фестиваль закончится",
-                    "desc": "[BeforeUse] При 25+ <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>, вместо этого активирует 'Восходящее искусство крепкой крови Дон Кихота - Финал'\n<style=\"highlight\">[WhenUse] При 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели, сила монет +1</style>\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает (3 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> в этот и следующий ход (До 10)\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает 3 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
+                    "desc": "[BeforeUse] При 25 и более <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>, вместо этого навыка активирует 「Восходящее искусство затвердевшей крови Дон Кихота - Финал」\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style>\n[WhenUse] Накладывает (3 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color>)) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> на себя и на других (Наибольший резонанс) союзников на этот и следующий ход (До 10), а так же даёт им и себе 3 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 }
                             ]
                         },
@@ -1200,8 +1200,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство закалённой крови Дон Кихота 15: Зонт",
-                    "desc": "[DuelCounter]\n[WhenUse] Снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3 у 2 других союзников с наибольшим значением (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> × Счётчик) и повышает <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> × Снижение счётчика до применения)\n  - Если эффект снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> до 0, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> спадает\n[WinDuel] Получает 4 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
+                    "name": "Искусство затвердевшей крови Дон Кихота 15: Зонт",
+                    "desc": "[DuelCounter]\n[WhenUse] Снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3 двум другим союзникам с наибольшим значением (Сила × счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>), а затем увеличивает [BloodDinner] на (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> перед снижением × сниженный счётчик)\n[WinDuel] Получает 4 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1221,8 +1221,8 @@
                 },
                 {
                     "level": 4,
-                    "name": "Искусство закалённой крови Дон Кихота 15: Зонт",
-                    "desc": "[DuelCounter]\n[WhenUse] Снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3 у 2 других союзников с наибольшим значением (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> × Счётчик) и повышает <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> × Снижение счётчика до применения)\n  - Если эффект снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> до 0, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> спадает\n<style=\"highlight\">  - Если под действием эффекта оказался <Кровожадный>, снижает счётчик их <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> ещё на 2</style>\n[WinDuel] Получает 4 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
+                    "name": "Искусство затвердевшей крови Дон Кихота 15: Зонт",
+                    "desc": "[DuelCounter]\n[WhenUse] Снижает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 3 двум другим союзникам с наибольшим значением (Сила × счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>), а затем увеличивает [BloodDinner] на (Сила <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> перед снижением × сниженный счётчик)\n<style=\"highlight\">- Если этим союзником был <Кровожад>, снижает ему счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> ещё на 2</style>\n[WinDuel] Получает 4 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипа</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1247,16 +1247,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Восходящее искусство крепкой крови Дон Кихота - Финал",
-                    "desc": "[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает (5 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> в этот и следующий ход (До 10)\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает 5 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>\n[WhenUse] Наносит +1% больше урона за каждые 5 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем (До 50%)\n[EndSkill] Поглощает все <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущие шипы</link></u></color> на себе",
+                    "name": "Восходящее искусство затвердевшей крови Дон Кихота - Финал",
+                    "desc": "[WhenUse] Накладывает (5 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color>)) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> на себя и на других (Наибольший резонанс) союзников на этот и следующий ход (До 10), а так же даёт им и себе 5 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>\n[WhenUse] Наносит на 1% больше урона за каждые 5 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color> (До 50%)\n[EndSkill] Тратит все свои <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущие шипы</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
                                 }
                             ]
                         },
@@ -1284,16 +1284,16 @@
                 },
                 {
                     "level": 4,
-                    "name": "Восходящее искусство крепкой крови Дон Кихота - Финал",
-                    "desc": "<style=\"highlight\">[WhenUse] При 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color> на цели, сила монет +1</style>\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает (5 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> в этот и следующий ход (До 10)\n[WhenUse] На себя и союзников с (наибольшим абсолютом): накладывает 5 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>\n[WhenUse] Наносит +1% больше урона за каждые 5 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">поглощённого кровавого пиршества</link></u></color> персонажем (До 50%)\n[EndSkill] Поглощает все <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущие шипы</link></u></color> на себе",
+                    "name": "Восходящее искусство затвердевшей крови Дон Кихота - Финал",
+                    "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style>\n[WhenUse] Накладывает (5 + (1 за каждые 50 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color>)) <sprite name=\"FestivalFeverRodion\"><color=#f8c200><u><link=\"FestivalFeverRodion\">Праздничной горячки</link></u></color> на себя и на других (Наибольший резонанс) союзников на этот и следующий ход (До 10), а так же даёт им и себе 5 <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущих шипов</link></u></color>\n[WhenUse] Наносит на 1% больше урона за каждые 5 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого Родион кровавого пиршества</link></u></color> (До 50%)\n[EndSkill] Тратит все свои <sprite name=\"BloomingThornsRodionFirst\"><color=#f8c200><u><link=\"BloomingThornsRodionFirst\">Цветущие шипы</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> к счётчику <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> <style=\"highlight\">на 2</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +<style=\"highlight\">2</style> к счётчику <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> <style=\"highlight\">на 2</style>"
                                 }
                             ]
                         },

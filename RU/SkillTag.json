@@ -134,7 +134,7 @@
     },
     {
       "id": "OnDefeatEvade",
-      "name": "[Неудачный уворот]"
+      "name": "<color=#fe0000>[Неудачный уворот]</color>"
     },
     {
       "id": "EndSkillHead",
@@ -194,7 +194,7 @@
     },
     {
       "id": "DuelCounter",
-      "name": "[Контратака с поединком]"
+      "name": "[Контратака столкновением]"
     },
     {
       "id": "CantBreak",
@@ -202,7 +202,7 @@
     },
     {
       "id": "DuelGuard",
-      "name": "[Защита с поединком]"
+      "name": "[Блок столкновением]"
     },
     {
       "id": "WhenUseEvade",
@@ -243,6 +243,14 @@
     {
       "id": "BeforeHit",
       "name": "[Перед получением удара]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[Односторонняя атака]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[Повтор, при попадании]"
     }
   ]
 }

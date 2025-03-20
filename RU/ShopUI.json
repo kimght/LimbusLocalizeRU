@@ -154,11 +154,11 @@
     },
     {
       "id": "remain_hours",
-      "content": "{0} часов"
+      "content": " {0} часов"
     },
     {
       "id": "remain_minutes",
-      "content": "{0} минут"
+      "content": " {0} минут"
     },
     {
       "id": "enkephalin_charge_finished",
