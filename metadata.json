@@ -1,5 +1,5 @@
 {
-  "version": "1.1.55",
+  "version": "1.1.56",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -2939,7 +2939,7 @@
     },
     {
       "path": "RU/StoryData/E719B.json",
-      "checksum": "681f994a53bbe6de312126d797955616"
+      "checksum": "39d82decca99e471169c8310ea97696e"
     },
     {
       "path": "RU/StoryData/5D303B.json",
@@ -3347,7 +3347,7 @@
     },
     {
       "path": "RU/StoryData/E627B.json",
-      "checksum": "6a1d28945bf1ac7a503938e5fd2c49ca"
+      "checksum": "b049e8fd5ee08d7d336eb6e178b9c17f"
     },
     {
       "path": "RU/StoryData/S524B.json",
@@ -3519,7 +3519,7 @@
     },
     {
       "path": "RU/StoryData/E625B.json",
-      "checksum": "a665560e6abbd1bee15596f9d561267a"
+      "checksum": "8d7ddfec0aca882700fb3ec2b53a795c"
     },
     {
       "path": "RU/StoryData/S318B.json",
@@ -4727,7 +4727,7 @@
     },
     {
       "path": "RU/StoryData/E726B.json",
-      "checksum": "51ad0d5048a57c20538a00a547f06d97"
+      "checksum": "4794f7fa091bdc28070779084901daed"
     },
     {
       "path": "RU/StoryData/7D111I3.json",
