@@ -141,8 +141,18 @@
       "area": "16-й Район",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "4-я Валпургиева ночь",
+      "chaptertitle": "4-я Вальпургиева ночь",
       "timeline": "984/12"
+    },
+
+    {
+      "id": "chapter_p_9019",
+      "company": "Корп. P",
+      "area": "16-й Район",
+      "chapter": "",
+      "chapterNumber": "",
+      "chaptertitle": "5-я Вальпургиева ночь",
+      "timeline": "984-12"
     },
     {
       "id": "chapter_p_9114",
@@ -152,6 +162,15 @@
       "chapterNumber": "7.5",
       "chaptertitle": "Регулярный осмотр LCB",
       "timeline": "984-12"
+    },
+    {
+      "id": "chapter_h_9116",
+      "company": "Корп. H",
+      "area": "8-й Район",
+      "chapter": "Антракт V",
+      "chapterNumber": "7.5",
+      "chaptertitle": "Ночная чистка",
+      "timeline": "985-01"
     }
   ]
 }

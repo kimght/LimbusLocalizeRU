@@ -1,0 +1,54 @@
+﻿{
+  "dataList": [
+    {
+      "id": 112601,
+      "name": "Дарованная миссия",
+      "desc": "Входит в битву с <sprite name=\"WeighedMurderousIntend\"><color=#e30000><u><link=\"WeighedMurderousIntend\">Раздавленной жадой крови</link></u></color>."
+    },
+    {
+      "id": 112603,
+      "name": "Стремительность [Mao]",
+      "desc": "При атаке более медленных целей, наносит на 1 силу или счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> больше, а урон повышается на 10%."
+    },
+    {
+      "id": 112602,
+      "name": "Усиление [Mao]",
+      "desc": "При попадании по целям с наложенным <sprite name=\"BurstAgility\"><color=#e30000><u><link=\"BurstAgility\">Смертным ритуалом</link></u></color>: повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> цели на 2. (6 раз за ход)"
+    },
+    {
+      "id": 112604,
+      "name": "Доминирование [Mao]",
+      "desc": "При использовании навыка, Сила монет +1 против целей, чья скорость ниже на 2 и более."
+    },
+    {
+      "id": 112701,
+      "name": "Старший брат",
+      "desc": "В начале хода все союзники и сам Рикардо восстанавливают 10 СД.\n\nПолучает на 20% меньше урона от <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> и <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>."
+    },
+    {
+      "id": 112702,
+      "name": "Татуировки воздаяния",
+      "desc": "Каждый раз, когда союзник из Среднего пальца погибает в этом бою, получает 1 [AttackUp]. (До 5)"
+    },
+    {
+      "id": 112703,
+      "name": "В мире секущихся волос",
+      "desc": "Получает 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color> на следующий ход после проигрыша в столкноениях 2 раза."
+    },
+    {
+      "id": 112704,
+      "name": "Книга мести",
+      "desc": "Когда союзника или самого Рикардо успешно атакуют, накладывает 1 <sprite name=\"MiddleFingerBook\"><color=#e30000><u><link=\"MiddleFingerBook\">Метку воздаяния</link></u></color> на атаковавшего и получает 1 [AttackUp]. (До 5 раз за ход)\n- Когда союзник Среднего пальца погибает от атаки противника, накладывает ещё 2 <sprite name=\"MiddleFingerBook\"><color=#e30000><u><link=\"MiddleFingerBook\">Метки воздаяния</link></u></color> на убившего его противника."
+    },
+    {
+      "id": 112705,
+      "name": "Раненный в бою",
+      "desc": "Входит в битву с 40% ОЗ"
+    },
+    {
+      "id": 112707,
+      "name": "Встряска волосами",
+      "desc": "Будучи в срыве, восстанавливается от срыва в начале следующего хода и сбрасывает СД до 0."
+    }
+  ]
+}

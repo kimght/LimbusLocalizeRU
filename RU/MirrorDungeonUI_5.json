@@ -491,6 +491,50 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22+ Очка"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "Удержание стартового бонуса"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "В течение срока хранения стартовые бонусы этих идентичностей не будут потрачены на прохождение Зеркального подземелья."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "Идентичности"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "Идентичности с удержанным стартовым бонусом"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "До {0}"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "※ Покупка {0} Опыта достижений стоит {1} Платного Безумства."
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "Потратить {0} Платного Безумства на покупку Опыта достижений?"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "Покупка Опыта достижений"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "Прогресс"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "Превышен уровень достижений, который можно приобрести"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "Уровень достижений максимален"
     }
   ]
 }

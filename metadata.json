@@ -1,5 +1,5 @@
 {
-  "version": "1.1.56",
+  "version": "1.1.57",
   "files": [
     {
       "path": "RU/Skills_Abnormality_Refraction.json",
@@ -35,7 +35,7 @@
     },
     {
       "path": "RU/MentalCondition.json",
-      "checksum": "50f1f1805e18520cb20639800e4f17a8"
+      "checksum": "ff14245322f4a96d65341c33b065c8e7"
     },
     {
       "path": "RU/MirrorDungeonEnemyBuffDesc.json",
@@ -147,7 +147,7 @@
     },
     {
       "path": "RU/Bufs-a1c5p2.json",
-      "checksum": "828fa647424ab678a7c01bd5c0cfad3e"
+      "checksum": "e2d63a387b17f5353458bb8607f1d6e9"
     },
     {
       "path": "RU/BuffAbilities.json",
@@ -314,6 +314,10 @@
       "checksum": "9d2ed16d81578cbff2d314a6529f671b"
     },
     {
+      "path": "RU/Enemies-sweep.json",
+      "checksum": "8b83b14a251706a41642c61388ae335e"
+    },
+    {
       "path": "RU/ActionEvents-a1c7p3.json",
       "checksum": "a384bec8c575db1ff5630e7dbaa6b139"
     },
@@ -331,7 +335,7 @@
     },
     {
       "path": "RU/NickName.json",
-      "checksum": "a3b9aef0348548726c766efdd813c3d1"
+      "checksum": "55395ecd1141c92c76266b5f438a186f"
     },
     {
       "path": "RU/Bufs-a1c7p3.json",
@@ -376,6 +380,10 @@
     {
       "path": "RU/Passives_check4.json",
       "checksum": "04ecd60549a6edd471be747f922e5539"
+    },
+    {
+      "path": "RU/Skills_Abnormality-a1c9116.json",
+      "checksum": "0f540afe39e7a463b70a1560f3b8cc78"
     },
     {
       "path": "RU/MirrorDungeonUI_3.json",
@@ -562,6 +570,10 @@
       "checksum": "5dc2a6e2e0b0959672caef8c49af0fd8"
     },
     {
+      "path": "RU/Skills_Enemy-a1c9116.json",
+      "checksum": "dc1f91db7d34bf52b0b27f7661931207"
+    },
+    {
       "path": "RU/BattleKeywords_Refraction4.json",
       "checksum": "e79de616a03441771dd05b6c30ac6fae"
     },
@@ -611,7 +623,7 @@
     },
     {
       "path": "RU/StoryTheaterDanteNoteDetail_2.json",
-      "checksum": "382e921a36856a43ca3b1c3d46dcbe0d"
+      "checksum": "a34187d9dcf57a1a59daee84137d2c12"
     },
     {
       "path": "RU/Skills_Enemy-a1c6p1.json",
@@ -655,7 +667,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p2.json",
-      "checksum": "ee2c4e7bdfedb81051bc3e3579d50461"
+      "checksum": "2f3aa4656109a75f2daf69b4ead3f1a0"
     },
     {
       "path": "RU/Skills_Ego_Personality-12.json",
@@ -711,7 +723,7 @@
     },
     {
       "path": "RU/BattleKeywords-a1c5p2.json",
-      "checksum": "634c09666f54000e77854dae64cf3bfa"
+      "checksum": "5dacf8f359c8e3eb0d8753060c8dfc0b"
     },
     {
       "path": "RU/Skills_Abnormality_Refraction5.json",
@@ -859,7 +871,7 @@
     },
     {
       "path": "RU/UnitKeyword.json",
-      "checksum": "2fe8473250c5a44c5f2902e33f422c77"
+      "checksum": "7d1f01f6d43b1dbbedad934b8f4bcc8c"
     },
     {
       "path": "RU/Bufs_Refraction2.json",
@@ -879,7 +891,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon-EventTheme_2.json",
-      "checksum": "684d533e281133cccf059b861a0979c4"
+      "checksum": "c4d32be033a3cb035f8f7b2855caefef"
     },
     {
       "path": "RU/TutorialNewUpperSkillInfoUI.json",
@@ -915,7 +927,7 @@
     },
     {
       "path": "RU/StageChapterText.json",
-      "checksum": "192e3ac217fee0221de8d929c555b53d"
+      "checksum": "539ee71d981df3453d97b4ee012b55bd"
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p1.json",
@@ -923,7 +935,7 @@
     },
     {
       "path": "RU/Passives.json",
-      "checksum": "091dc67017f192807237640279c6ee10"
+      "checksum": "378e60c50f528494a7e8232d28b1dc23"
     },
     {
       "path": "RU/RailwayDungeonStationName2.json",
@@ -991,7 +1003,7 @@
     },
     {
       "path": "RU/BattleKeywords-a1c9116.json",
-      "checksum": "1a646c4bd42528c8ef14a8d57778e99c"
+      "checksum": "1b6f3644cf90410bf7b2ca53ae9163e0"
     },
     {
       "path": "RU/BattleKeywords-ycgd.json",
@@ -1019,7 +1031,7 @@
     },
     {
       "path": "RU/EGOgift_MirrorDungeon.json",
-      "checksum": "2c9dfcc8a97832a3632cda0677b389fb"
+      "checksum": "90321b0b314476c63862669ea65c0f5c"
     },
     {
       "path": "RU/Announcer-a1c7p1.json",
@@ -1055,7 +1067,7 @@
     },
     {
       "path": "RU/MirrorDungeonUI_5.json",
-      "checksum": "42addaa8bc6943b355a24d5c20a50653"
+      "checksum": "59eb1ec528560997ad4a391c33e78771"
     },
     {
       "path": "RU/EventYCGDText.json",
@@ -1068,6 +1080,10 @@
     {
       "path": "RU/Bufs-a1c7p2.json",
       "checksum": "49288c0e43204af14faaa30e17536af3"
+    },
+    {
+      "path": "RU/Passives_Abnormality-a1c9116.json",
+      "checksum": "bc787376dbd3aa08ff97131d19868ea1"
     },
     {
       "path": "RU/RailwayDungeonUI_3.json",
@@ -1115,7 +1131,7 @@
     },
     {
       "path": "RU/Personalities.json",
-      "checksum": "f3ec9945cfe5eff89d141d4b7aac456e"
+      "checksum": "efe50192d84592ad45f10df13b44cb48"
     },
     {
       "path": "RU/MirrorDungeonEgoGiftLockedDesc.json",
@@ -1151,7 +1167,7 @@
     },
     {
       "path": "RU/Personality_Get_Condition.json",
-      "checksum": "b0514b8bdcea30e6d7903ce5eb49c2c2"
+      "checksum": "5966e32ea17acce9c35498e7511ba67b"
     },
     {
       "path": "RU/Passive-walpu2.json",
@@ -1383,7 +1399,7 @@
     },
     {
       "path": "RU/Bufs-a1c9116.json",
-      "checksum": "1a646c4bd42528c8ef14a8d57778e99c"
+      "checksum": "1b6f3644cf90410bf7b2ca53ae9163e0"
     },
     {
       "path": "RU/Skills_personality-10.json",
@@ -1414,6 +1430,10 @@
       "checksum": "4ded297d14db4c8f7d8975b6fda57297"
     },
     {
+      "path": "RU/Passives-a1c9116.json",
+      "checksum": "afc3da77c012d4e4ca09a26e29683051"
+    },
+    {
       "path": "RU/StoryTheaterDanteNoteDetail_3.json",
       "checksum": "b882a308ce2b7444203b91799f11fba0"
     },
@@ -1423,7 +1443,7 @@
     },
     {
       "path": "RU/MirrorDungeonUI_5_InfinityFloor.json",
-      "checksum": "c61580acd41e99cf34a2d47a7f7aad11"
+      "checksum": "d924929418ecdb41a39531746195feb6"
     },
     {
       "path": "RU/StoryTheaterDanteNote_2.json",
@@ -1614,6 +1634,10 @@
       "checksum": "3a4a143c1f781a299ab6f3df54cc205d"
     },
     {
+      "path": "RU/StageNode91-16.json",
+      "checksum": "b639310f5ef461c64d457bc6d9e20379"
+    },
+    {
       "path": "RU/StoryTheaterMain-a1c7p1.json",
       "checksum": "d6df70c1744f65093055d7d26b6f8d7b"
     },
@@ -1636,6 +1660,10 @@
     {
       "path": "RU/RailwayDungeonUI_5.json",
       "checksum": "6b56ea516a8cc07aa54d4bfb10b92f14"
+    },
+    {
+      "path": "RU/PanicInfo-a1c9116.json",
+      "checksum": "1954154c35a235e4459a3d31928d85fb"
     },
     {
       "path": "RU/EventCommonText.json",
@@ -1747,7 +1775,7 @@
     },
     {
       "path": "RU/Skills_Abnormality-a1c5p2.json",
-      "checksum": "7c1ca871d498e45b9ed4c23e5a80d5b3"
+      "checksum": "559109feab9ccaa84d4e55507d5319e5"
     },
     {
       "path": "RU/Skills_Abnormality-a1c7p3.json",
@@ -2927,7 +2955,7 @@
     },
     {
       "path": "RU/StoryData/E726I.json",
-      "checksum": "33f2523c302f610b7752abea5d548037"
+      "checksum": "7c561c48dcdf12130f44cee30ebcc2de"
     },
     {
       "path": "RU/StoryData/S506B.json",
@@ -3927,7 +3955,7 @@
     },
     {
       "path": "RU/StoryData/E728B.json",
-      "checksum": "b407fc63257cccf89342888c6db933a5"
+      "checksum": "07e6cfde839e9f794bac931644a36ae9"
     },
     {
       "path": "RU/StoryData/E614B.json",
@@ -3943,7 +3971,7 @@
     },
     {
       "path": "RU/StoryData/E725A.json",
-      "checksum": "3d2565031fc13ed4f14175a096fdad99"
+      "checksum": "a1a9d7032ad352b3289ad71caf3adda4"
     },
     {
       "path": "RU/StoryData/P11111.json",
@@ -4235,7 +4263,7 @@
     },
     {
       "path": "RU/StoryData/E726A.json",
-      "checksum": "e5c093c96ad12ead13a4df43285b6092"
+      "checksum": "d02c1fb199626dec392687238cb5a678"
     },
     {
       "path": "RU/StoryData/S509A.json",
@@ -4387,7 +4415,7 @@
     },
     {
       "path": "RU/StoryData/E727A.json",
-      "checksum": "42ea75dd8f671b2244458e68f88a9d63"
+      "checksum": "deadd31a757cf5a5661b19756289e822"
     },
     {
       "path": "RU/StoryData/S205A.json",
@@ -4727,7 +4755,7 @@
     },
     {
       "path": "RU/StoryData/E726B.json",
-      "checksum": "4794f7fa091bdc28070779084901daed"
+      "checksum": "6a558dee9744d5e4c228e6e1055ad51b"
     },
     {
       "path": "RU/StoryData/7D111I3.json",
