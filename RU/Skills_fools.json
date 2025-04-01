@@ -1,0 +1,130 @@
+﻿{
+  "dataList": [
+    {
+      "id": 899901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дай конфет.",
+          "desc": "Выбирает цели, у которых, наверное, есть <sprite name=\"CandyForCharon\"><color=#e30000><u><link=\"CandyForCharon\">Конфеты</link></u></color>\n[EndSkill] Если у цели небыло предполагаемых <sprite name=\"CandyForCharon\"><color=#e30000><u><link=\"CandyForCharon\">Конфет</link></u></color>, они у неё появляются",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если у цели были <sprite name=\"CandyForCharon\"><color=#e30000><u><link=\"CandyForCharon\">Конфеты?</link></u></color>, оглушает её на следующем ходу"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Нет конфет.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ты...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Ккоми злой.",
+          "desc": "[BeforeAttack] Количество целей и сила в столкновении повышаются на количество противников с предполагаемыми <sprite name=\"CandyForCharon\"><color=#e30000><u><link=\"CandyForCharon\">Конфетами</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Врум-врум",
+          "desc": "[WhenUse] Сила в столкновении повышается на количество противников с предполагаемыми <sprite name=\"CandyForCharon\"><color=#e30000><u><link=\"CandyForCharon\">Конфетами</link></u></color>, а урон на 10% (До 100%)",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ты сделал больно Ккоми.",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"ParryingResultUp\"><color=#f8c200><u><link=\"ParryingResultUp\">Повышения силы в столкновении</link></u></color> и 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

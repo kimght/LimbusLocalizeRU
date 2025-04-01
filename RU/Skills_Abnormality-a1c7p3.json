@@ -707,7 +707,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 4 - Рассечение",
+                    "name": "Искусство застывшей крови Дон Кихота 4 - Рассечение",
                     "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Наносит на 20% больше урона за каждую Фазу <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> (До 60%)\n[DefeatDuel] Тратит 4 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>, чтобы получить 20 ОЗ щита",
                     "coinlist": [
                         {
@@ -733,7 +733,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 11 - Пронзание",
+                    "name": "Искусство застывшей крови Дон Кихота 11 - Пронзание",
                     "desc": "[WhenUse] Базовая сила +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WinDuel] Наносит на 20% больше урона за каждую Фазу <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> (До 60%)\n[DefeatDuel] Тратит 4 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>, чтобы получить 20 ОЗ щита",
                     "coinlist": [
                         {
@@ -766,7 +766,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 2 - Кровавая броня",
+                    "name": "Искусство застывшей крови Дон Кихота 2 - Кровавая броня",
                     "desc": "Можно перехватить независимо от скорости\n[StartBattle] Поглощает 200 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 500 ОЗ щита, 5 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> и 1 <sprite name=\"SwirlingBlood\"><color=#f8c200><u><link=\"SwirlingBlood\">Присутствие второго сородича</link></u></color>\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, получает 50 урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> и теряет 2 его счётчика. Получает 500 ОЗ щита и 1 <sprite name=\"SwirlingBlood\"><color=#f8c200><u><link=\"SwirlingBlood\">Присутствие второго сородича</link></u></color> (ОЗ не может упасть ниже 1 от этого)\n[WinDuel] Получает 200 ОЗ щита\n[DefeatDuel] Получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, пока активен щит, полученный этим навыком\n[DefeatDuel] Атака наносит на 50% меньше урона и не может оглушить противников\n[EndSkill] Завершает ход",
                     "coinlist": [
                         {
@@ -893,7 +893,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "La Aventura Ha Terminado",
+                    "name": "Ла Авентура Ха Терминадо",
                     "desc": "[WhenUse] Поглощает (45 - текущее СД) <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы восстановить СД до 45\n- Если не удалось поглотить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, вместо этого поглощает до (45 - текущее СД) ОЗ, чтобы восстановить СД до 45 (ОЗ не может упасть ниже 1 от этого)\n- Получает ОЗ щита в количестве оставшегося <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршеству</link></u></color> (До 100)\n[WinDuel] Наносит 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[DefeatDuel] Потребляет 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[EndSkill] Увеличивает <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color> на количество нанесённого урона",
                     "coinlist": [
                         {
@@ -1020,7 +1020,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Шипованный Хлыст",
+                    "name": "Шипованный хлыст",
                     "desc": "[WhenUse] Сила в столкновении +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
                     "coinlist": [
                         {
@@ -1065,7 +1065,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Удушающая Терновая Корона",
+                    "name": "Удушающая терновая корона",
                     "desc": "Нацеливается на противника с наименьшей СД\n[WhenUse] Если у цели 0 или менее СД, Сила в столкновении +3\n[WhenUse] Сила монет +1 за каждые 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 3)",
                     "coinlist": [
                         {
@@ -1244,7 +1244,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бесконечный Парад",
+                    "name": "Бесконечный парад",
                     "desc": "[CantDuel]\nНе наносит урона по защитным навыкам\n[WhenUse] На поле боя появляется 1 Гондола в следующем ходу",
                     "coinlist": [
                         {
@@ -1261,7 +1261,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вечный Фестиваль",
+                    "name": "Вечный фестиваль",
                     "desc": "[CantDuel]\nНе наносит урона по защитным навыкам\n[WhenUse] На поле боя появляются 4 Гондолы в следующем ходу",
                     "coinlist": [
                         {
@@ -1400,7 +1400,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 2 - Кол",
+                    "name": "Искусство застывшей крови Дон Кихота 2 - Кол",
                     "desc": "Атакует противника с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Сила монет +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)",
                     "coinlist": [
                         {
@@ -1542,7 +1542,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Момент кровавого пира",
+                    "name": "Момент кровавого пиршества",
                     "desc": "[CantIdentify]\n[WhenUse] Поглощает до 300 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающуюся жажду крови</link></u></color> и восстановить 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если удалось полготить <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавое пиршество</link></u></color>, восстанавливает 30 СД",
                     "coinlist": [
                         {
@@ -1561,7 +1561,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 4 - Рассечение",
+                    "name": "Искусство застывшей крови Дон Кихота 4 - Рассечение",
                     "desc": "Дон Кихот не может быть оглушён до окончания этой атаки\n[WhenUse] Поглощает до 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающуюся жажду крови</link></u></color> и восстановить 15 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила в столкновении +1 за каждое <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённое собой кровавое пиршество</link></u></color> (До 15)\n[DefeatDuel] Атака наносит на 50% меньше урона и не может оглушить целей\n[EndSkill] В этом и следующем ходе получает <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> и <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> в количестве полученной Силы в столкновении (До 15)",
                     "coinlist": [
                         {
@@ -1586,7 +1586,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Искусство твёрдой крови Дон Кихота 14: Мантия",
+                    "name": "Искусство застывшей крови Дон Кихота 14: Мантия",
                     "desc": "[DuelGuard]\n[WinDuel] Наносит 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>\n[DefeatDuel] Тратит 2 <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающейся жажды крови</link></u></color>",
                     "coinlist": [
                         {
@@ -1605,7 +1605,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Хрупкий, такой хрупкий",
+                    "name": "Хрупки, столь хрупки",
                     "desc": "[DuelCounter]\nБазовая сила +1 за каждые 10 <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающейся жажды крови</link></u></color>\nСила монет +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 2)\n[DefeatDuel] Теряет 3 СД",
                     "coinlist": [
                         {
@@ -1701,7 +1701,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Возвышенное искусство твёрдой крови Дон Кихота - Сфера",
+                    "name": "Восходящее искусство застывшей крови Дон Кихота - Сфера",
                     "desc": "Дон Кихот не может быть оглушён до окончания этой атаки\nНаносит дополнительный урон в количестве <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Common_Accumulation\">Общего поглощённого кровавого пиршества</link></u></color> (До 300%)\n[WhenUse] Восстанавливает 30 СД\n[WhenUse] Сила в столкновении +1 за каждые 10 <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающейся жажды крови</link></u></color>\n[EndSkill] Тратит всю <sprite name=\"RegainedStrength\"><color=#f8c200><u><link=\"RegainedStrength\">Возвращающуюся жажду крови</link></u></color>, получает 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимостей</link></u></color> на этот и следующий ход, получает 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -1893,7 +1893,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Возвышенное искусство крепкой крови Дон Кихота - Ла Сангре",
+                    "name": "Восходящее искусство застывшей крови Дон Кихота - Ла Сангре",
                     "desc": "",
                     "coinlist": [
                         {
@@ -1910,7 +1910,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Сияющие Воспоминания о Приключении",
+                    "name": "Сияющие воспоминания о приключении",
                     "desc": "[StartBattle] Даёт 1 [ParryingResultUp] и 1 [AttackDmgUp] случайному Грешнику\n[StartBattle] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> Дон Кихоту и его Свернувшейся Мечте",
                     "coinlist": [
                         {

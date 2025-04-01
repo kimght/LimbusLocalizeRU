@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Уходи Отсюда",
+                    "name": "Прочь отсюда",
                     "desc": "[WhenUse] Если у цели 4+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, Сила столкновения +1",
                     "coinlist": [
                         {
@@ -24,7 +24,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Не Корчи Такое Лицо",
+                    "name": "Не корчи такое лицо",
                     "desc": "[WhenUse] Если у цели счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> 3+, Сила столкновения +1",
                     "coinlist": [
                         {
@@ -93,7 +93,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Так вы вторженец?",
+                    "name": "Так вы незваный гость?",
                     "desc": "Нацеливается в первую очередь на <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженца</link></u></color>\nЕсли у цели есть <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженец</link></u></color>, увеличивает потенциал и счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1",
                     "coinlist": [
                         {
@@ -128,7 +128,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Уходи, вторженец",
+                    "name": "Уходи, незваный гость",
                     "desc": "Нацеливается в первую очередь на <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженца</link></u></color>\nПолучает вес атаки, равный количеству врагов с <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженец</link></u></color>\n[WhenUse] Получает силу столкновения, равную количеству врагов с <sprite name=\"UninvitedGuest\"><color=#9f6a3a><u><link=\"UninvitedGuest\">Вторженец</link></u></color>",
                     "coinlist": [
                         {
@@ -157,7 +157,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "My Master",
+                    "name": "Мой мастер",
                     "desc": "[DefeatDuel] Открывает Портрет, прикреплённый к этому слоту навыка",
                     "coinlist": [
                         {
@@ -176,7 +176,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "My Tragic Master",
+                    "name": "Мой трагичный мастер",
                     "desc": "[DefeatDuel] Открывает Портрет, прикреплённый к этому слоту навыка",
                     "coinlist": [
                         {
@@ -323,7 +323,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Электрический крик",
+                    "name": "Электрическое блеяние",
                     "desc": "[WhenUse] Вес атаки +1 за каждые 4 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 5)\n[WhenUse] Сила столкновения +3 за каждые 5 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 4)\n[WhenUse] Получает 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color> за каждые 6 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 3)\n[EndBattle] Все счётчики <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе истекают. Теряет <sprite name=\"ConnectedPlug\"><color=#e30000><u><link=\"ConnectedPlug\">Подключение</link></u></color>",
                     "coinlist": [
                         {
@@ -356,7 +356,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Электрический крик",
+                    "name": "Электрическое блеяние",
                     "desc": "[CantDuel]\n[WhenUse] Получает 10 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>\n[WhenUse] Вес атаки +1 за каждые 4 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 5)\n[WhenUse] Сила столкновения +3 за каждые 5 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 4)\n[WhenUse] Получает 1 <sprite name=\"VioletDamageUp\"><color=#f8c200><u><link=\"VioletDamageUp\">Повышение урона Завистью</link></u></color> за каждые 6 счётчиков <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на себе (макс. 3)",
                     "coinlist": [
                         {
@@ -420,7 +420,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Всепоглощающая Покорность",
+                    "name": "Всепоглощающая покорность",
                     "desc": "Если у цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, Сила монеты +1\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3",
                     "coinlist": [
                         {
@@ -545,7 +545,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ты Утонешь",
+                    "name": "Ты утонешь",
                     "desc": "Если у цели есть <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color>, Сила столкновения +1\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2\n[DefeatDuel] Уменьшает потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4",
                     "coinlist": [
                         {
@@ -564,7 +564,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Предстань перед Королём",
+                    "name": "Предстань пред королём",
                     "desc": "[CantDuel]\n[StartBattle] Получает 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color>, 1 <sprite name=\"ComeForwardToTheKing\"><color=#f8c200><u><link=\"ComeForwardToTheKing\">Момент Внимания</link></u></color> и 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> на следующий ход\n[WhenUse] Применяет 300 Защиты к целям с <sprite name=\"BandageOfTheBoundKing\"><color=#f8c200><u><link=\"BandageOfTheBoundKing\">Повязками Связанного короля</link></u></color>",
                     "coinlist": [
                         {
@@ -586,7 +586,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Портрет Мастера",
+                    "name": "Портрет мастера",
                     "desc": "",
                     "coinlist": [
                         {

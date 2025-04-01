@@ -104,7 +104,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Парад длится вечно",
+                    "name": "Вечный парад",
                     "desc": "[WhenUse] Сила в столкновении +1 за каждые 20 <sprite name=\"BloodDinner_Accumulation\"><color=#9f6a3a><u><link=\"BloodDinner_Accumulation\">Поглощённого собой кровавого пиршества</link></u></color> (До 10)\n[WhenUse] При менее 50 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, дважды получает 25 урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> (При ОЗ менее 10% только получает 25 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 его счётчика)\n[WhenUse] Поглощает половину <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[EndBattle] Тратит весь <sprite name=\"IncompleteParade\"><color=#e30000><u><link=\"IncompleteParade\">Несовершенный парад</link></u></color>\n[EndBattle] Получает 10 <sprite name=\"FestivalFever\"><color=#f8c200><u><link=\"FestivalFever\">Праздничной горячки</link></u></color>",
                     "coinlist": [
                         {
@@ -220,7 +220,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Дракон Весны",
+                    "name": "Весенний дракон",
                     "desc": "[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -246,7 +246,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Лотос Осени",
+                    "name": "Осенний лотос",
                     "desc": "[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -272,7 +272,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Слабый След",
+                    "name": "Слабый след",
                     "desc": "[WhenUse] Получает 3 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -298,7 +298,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бледный След",
+                    "name": "Бледный след",
                     "desc": "Сила в столкновении +5, если скорость выше скорости цели на 5 или более",
                     "coinlist": [
                         {
@@ -324,7 +324,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Красный Арве",
+                    "name": "Красная стрела",
                     "desc": "[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -350,7 +350,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Чёрный Арве",
+                    "name": "Чёрная стрела",
                     "desc": "[WhenUse] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -395,7 +395,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Активация электронного ускорительного рельса",
+                    "name": "Активация рельсотронного-ускорителя электронов",
                     "desc": "[StartBattle] Получает 10 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышений силы атаки</link></u></color> и 10 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -414,7 +414,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Арве",
+                    "name": "Стрела",
                     "desc": "[WhenUse] Получает 5 <sprite name=\"PenetrateDamageUp\"><color=#f8c200><u><link=\"PenetrateDamageUp\">Повышений Пронзающего урона</link></u></color>",
                     "coinlist": [
                         {

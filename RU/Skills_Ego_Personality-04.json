@@ -15,7 +15,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EnemyKill] Получает 3 ЭГО ресурса случайного Греха, имеющегося на данный момент"
+                                    "desc": "[EnemyKill] Даёт 3 ЭГО ресурса случайного Греха из уже имеющихся"
                                 }
                             ]
                         }
@@ -30,10 +30,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EnemyKill] Получает 3 ЭГО ресурса случайного Греха, имеющегося на данный момент; Все союзники восстанавливают 3 СД"
+                                    "desc": "[EnemyKill] Даёт 3 ЭГО ресурса случайного Греха из уже имеющихся<style=\"highlight\">, а все союзники восстанавливают 3 СД</style>"
                                 }
                             ]
                         }
@@ -48,10 +48,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EnemyKill] Получает 3 ЭГО ресурса случайного Греха, имеющегося на данный момент; Все союзники восстанавливают 3 СД"
+                                    "desc": "[EnemyKill] Даёт 3 ЭГО ресурса случайного Греха из уже имеющихся, а все союзники восстанавливают 3 СД"
                                 }
                             ]
                         }
@@ -74,7 +74,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EndSkill] Все союзники получают +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color>"
+                                    "desc": "[EndSkill] Все союзники получают 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color>"
                                 }
                             ]
                         }
@@ -89,10 +89,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EndSkill] Все союзники получают +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color>"
+                                    "desc": "[EndSkill] Все союзники получают 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color>"
                                 }
                             ]
                         }
@@ -107,10 +107,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[EndSkill] Все союзники получают +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color>, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход"
+                                    "desc": "[EndSkill] Все союзники получают 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Множитель ЭГО ресурсов</link></u></color> <style=\"highlight\">и 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход</style>"
                                 }
                             ]
                         }
@@ -143,7 +143,7 @@
                     "level": 3,
                     "name": "Слепая одержимость",
                     "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
-                    "desc": "[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[EndBattle] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого противника, побеждённого этим навыком",
+                    "desc": "[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n<style=\"highlight\">[EndBattle] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого противника, побеждённого этим навыком</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -184,7 +184,7 @@
                     "level": 1,
                     "name": "Слепая одержимость",
                     "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[BeforeAttack] Тратит по 2 единицы счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10)\n[EndBattle] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 4 за каждого противника, побеждённого этим навыком",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -199,7 +199,7 @@
                     "level": 3,
                     "name": "Слепая одержимость",
                     "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[BeforeAttack] Тратит по 2 единицы счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10)\n[EndBattle] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 4 за каждого противника, побеждённого этим навыком",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -214,7 +214,7 @@
                     "level": 4,
                     "name": "Слепая одержимость",
                     "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[BeforeAttack] Тратит по 2 единицы счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10)\n[EndBattle] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 4 за каждого противника, побеждённого этим навыком",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -222,7 +222,7 @@
                                     "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Критический урон +30% при счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 10 и больше"
+                                    "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] На 30% больше критического урона при 10 и более на счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>"
                                 }
                             ]
                         }
@@ -237,7 +237,7 @@
                     "level": 1,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[BeforeAttack] Число целей +(число грехов в наибольшем резонансе) (До 2)\n[BeforeAttack] Наносит (число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> (До 7)\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
+                    "desc": "[BeforeAttack] Количество целей +(Число грехов в наибольшем резонансе) (До 2)\n[BeforeAttack] Получает (Число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> (До 7)\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
                     "coinlist": [
                         {},
                         {
@@ -253,7 +253,7 @@
                     "level": 3,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[BeforeAttack] Число целей +(число грехов в наибольшем резонансе) (До <style=\"highlight\">4</style>)\n[BeforeAttack] Наносит (число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> (До 7)\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
+                    "desc": "[BeforeAttack] Количество целей +(Число грехов в наибольшем резонансе) (До <style=\"highlight\">4</style>)\n[BeforeAttack] Получает (Число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> (До 7)\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
                     "coinlist": [
                         {},
                         {
@@ -269,7 +269,7 @@
                     "level": 4,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[BeforeAttack] Число целей +(число грехов в наибольшем резонансе) (До <style=\"highlight\">6</style>)\n[BeforeAttack] Наносит (число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> <style=\"highlight\">на этот и следующий ход</style> (До 7)\n<style=\"highlight\">[EndSkill] Если с этим навыком образуется резонанс Похоти, +1 к ресурсам атак идентичности Рёшу</style>\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
+                    "desc": "[BeforeAttack] Количество целей +(Число грехов в наибольшем резонансе) (До <style=\"highlight\">6</style>)\n[BeforeAttack] Получает (Число грехов в наибольшем резонансе + 1) <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color> <style=\"highlight\">на этот и следующий ход</style> (До 7)\n<style=\"highlight\">[EndSkill] Если этот навык является частью резонанса Похоти, даёт 1 ЭГО ресурс греха каждого Атакующего навыка Рёшу</style>\n[EndSkill] В конце последующих 2-ух ходов теряет 10 СД",
                     "coinlist": [
                         {},
                         {
@@ -290,15 +290,15 @@
                     "level": 1,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Наносит 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Получает 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, +(сумма потенциала и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели)% урона (До 20%)"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, на (Сумма силы и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели)% больше урона (До 20%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит (1 + число грехов в наибольшем резонансе x 1.5) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До 10, округление в меньшую сторону)"
+                                    "desc": "[OnSucceedAttack] Наносит (1 + число грехов в наибольшем резонансе × 1.5) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До 10; округляется вниз)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 2"
@@ -311,15 +311,15 @@
                     "level": 3,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Наносит 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Получает 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, +(сумма потенциала и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели)% урона (До <style=\"highlight\">40%</style>)"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, на (Сумма силы и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели)% больше урона (До <style=\"highlight\">40%</style>)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">(3 + число грехов в наибольшем резонансе x 2)</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До <style=\"highlight\">15</style>, округление в меньшую сторону)"
+                                    "desc": "[OnSucceedAttack] Наносит (<style=\"highlight\">3</style> + число грехов в наибольшем резонансе × <style=\"highlight\">2</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До <style=\"highlight\">15</style>; округляется вниз)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на <style=\"highlight\">3</style>"
@@ -332,15 +332,15 @@
                     "level": 4,
                     "name": "Презрение, трепет",
                     "abName": "Спираль презрения",
-                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Наносит 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>\n<style=\"highlight\">[EndSkill] Если с этим навыком образуется резонанс Похоти, +1 к ресурсам атак идентичности Рёшу</style>",
+                    "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Получает 7 <sprite name=\"GazePersonality\"><color=#f8c200><u><link=\"GazePersonality\">Взоров презрения</link></u></color>\n<style=\"highlight\">[EndSkill] Если этот навык является частью резонанса Похоти, даёт 1 ЭГО ресурс греха каждого Атакующего навыка Рёшу</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, +(сумма потенциала и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели)% урона (До <style=\"highlight\">60%</style>)"
+                                    "desc": "[OnSucceedAttack] Если на цели есть <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color>, на (Сумма силы и счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> цели)% больше урона (До <style=\"highlight\">60%</style>)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">(10 + число грехов в наибольшем резонансе x 2.5)</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До <style=\"highlight\">25</style>, округление в меньшую сторону)"
+                                    "desc": "[OnSucceedAttack] Наносит (<style=\"highlight\">10</style> + число грехов в наибольшем резонансе × <style=\"highlight\">2.5</style>) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> (До <style=\"highlight\">25</style>; округляется вниз)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на <style=\"highlight\">5</style>"
@@ -358,13 +358,13 @@
                     "level": 1,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 4)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До 4)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До 2)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До 2)\n[TargetKill] Получает 1 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокое дыхание</link></u></color> на следующий ход (2 раза за ход)",
+                    "desc": "[BeforeAttack] Получает (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 4)\n- Если уже имеется 15 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную числу грехов в наибольшем резонансе (До 4)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Число грехов в наибольшем резонансе / 2) (До 2)\n- Если уже 5 и более на счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Число грехов в наибольшем резонансе / 2) к Силе монет (До 2)\n[TargetKill] Получает 1 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокое дыхание</link></u></color> на следующий ход (2 раза за ход)",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыхания</link></u></color> (Единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
                                 }
                             ]
                         }
@@ -374,16 +374,16 @@
                     "level": 3,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До <style=\"highlight\">6</style>)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До <style=\"highlight\">6</style>)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До 2)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До 2)\n[TargetKill] Получает <style=\"highlight\">2</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">4</style> раза за ход)",
+                    "desc": "[BeforeAttack] Получает (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До <style=\"highlight\">6</style>)\n- Если уже имеется 15 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную числу грехов в наибольшем резонансе (До <style=\"highlight\">6</style>)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Число грехов в наибольшем резонансе / 2) (До 2)\n- Если уже 5 и более на счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Число грехов в наибольшем резонансе / 2) к Силе монет (До 2)\n[TargetKill] Получает <style=\"highlight\">2</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">4</style> раза за ход)",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<style=\"highlight\">Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                                    "desc": "<style=\"highlight\">Наносит на (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До 20%)</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокое дыхание</link></u></color> (Единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхание</link></u></color> (Единожды за ход)"
                                 }
                             ]
                         }
@@ -393,16 +393,16 @@
                     "level": 4,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[BeforeAttack] Получает (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 6)\n- Если же имеется 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную (Наибольший резонанс) (До 6)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Наибольший резонанс / 2) (До <style=\"highlight\">3</style>)\n- Если же имеется 5+ счётчиков <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Наибольший резонанс / 2) к Силе монет (До <style=\"highlight\">3</style>)\n[TargetKill] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">6</style> раз за ход)",
+                    "desc": "[BeforeAttack] Получает (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 6)\n- Если уже имеется 15 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает Итоговую силу, равную числу грехов в наибольшем резонансе (До 6)\n[BeforeAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на (Число грехов в наибольшем резонансе / 2) (До <style=\"highlight\">3</style>)\n- Если уже 5 и более на счётчике <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тогда получает +(Число грехов в наибольшем резонансе / 2) к Силе монет (До <style=\"highlight\">3</style>)\n[TargetKill] Получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (<style=\"highlight\">6</style> раз за ход)",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40</style>%)"
+                                    "desc": "Наносит на (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До <style=\"highlight\">40%</style>)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Получает <style=\"highlight\">4</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыхания</link></u></color> (Единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Получает <style=\"highlight\">4</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
                                 }
                             ]
                         }
@@ -417,7 +417,7 @@
                     "level": 1,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2",
+                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2",
                     "coinlist": [
                         {},
                         {
@@ -433,13 +433,13 @@
                     "level": 3,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n<style=\"highlight\">- Получает 1 [Breath] за каждого союзника, который является целью этого навыка (До 2)</style>\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2\n- Восстанавливает половину потраченной этим навыком СД",
+                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n<style=\"highlight\">- Получает 1 [Breath] за каждого союзника, который является целью (До 2)</style>\n\n[EndSkill] Если цель побеждена, получает 2 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на 2\n<style=\"highlight\">- Восстанавливает половину потраченной этим навыком СД</style>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<style=\"highlight\">Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                                    "desc": "<style=\"highlight\">На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До 20%)</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Получает 4 <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
@@ -452,16 +452,16 @@
                     "level": 4,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\nминувших дней",
-                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы  получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n- Получает <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого союзника, который является целью этого навыка (До <style=\"highlight\">4</style>)\n\n[EndSkill] Если цель побеждена, получает <style=\"highlight\">3</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник, активирует следующее:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на <style=\"highlight\">4</style>\n- Восстанавливает потраченную этим навыком СД и добавляет по 1 ЭГО ресурсу к каждому использованному ЭГО ресурсу",
+                    "desc": "[CantIdentify]\nВ приоритете союзники с наименьшими ОЗ\nЕсли союзник является одной из целей, наносит на 30% больше урона\n\n[BeforeAttack] При менее чем 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, тратит 10% ОЗ, чтобы  получить 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повысить его счётчик на 5\n- Не может быть оглушена или убита из-за этого эффекта\n- Получает <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого союзника, который является целью (До <style=\"highlight\">4</style>)\n\n[EndSkill] Если цель побеждена, получает <style=\"highlight\">3</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> на следующий ход (Единожды за ход). Если же этой целью был союзник:\n- Союзники, которые были целями этой атаки, или же пришли из запаса после убитых союзников, получают 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышают его счётчик на <style=\"highlight\">4</style>\n- Восстанавливает <style=\"highlight\">потраченную</style> этим навыком СД <style=\"highlight\">и добавляет по 1 ЭГО ресурсу к каждому использованному ЭГО ресурсу</style>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Наносит на (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                                    "desc": "На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До <style=\"highlight\">40%</style>)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Получает <style=\"highlight\">7</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубоких дыханий</link></u></color> (Единожды за ход)"
+                                    "desc": "[OnSucceedAttack] Получает <style=\"highlight\">7</style> <sprite name=\"HoldingBreath\"><color=#f8c200><u><link=\"HoldingBreath\">Глубокого дыхания</link></u></color> (Единожды за ход)"
                                 }
                             ]
                         }

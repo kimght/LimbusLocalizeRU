@@ -127,7 +127,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Всё Будет Раскрыто",
+                    "name": "Всё будет раскрыто",
                     "desc": "[CantDuel]",
                     "coinlist": [
                         {
@@ -1099,7 +1099,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Чтобы Выжить",
+                    "name": "Чтобы выжить",
                     "desc": "Наносит на 30% больше урона при критическом попадании",
                     "coinlist": [
                         {
@@ -1132,7 +1132,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Должна... Защитить",
+                    "name": "Должна... защитить",
                     "desc": "[TurnStartBattle] При использовании этого Навыка, если больше 0 <sprite name=\"AaCePcBr\"><color=#9f6a3a><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>, активирует <sprite name=\"AaCePcBs\"><color=#9f6a3a><u><link=\"AaCePcBs\">Защитную поддержку</link></u></color>.\n[StartBattle] Получает 10% от макс. ОЗ в виде <sprite name=\"AaCePcBr\"><color=#9f6a3a><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color>",
                     "coinlist": [
                         {
@@ -1262,7 +1262,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Я Следую Приказам...",
+                    "name": "Я следую приказам...",
                     "desc": "[TurnStartBattle] Если <sprite name=\"AaCePcBr\"><color=#9f6a3a><u><link=\"AaCePcBr\">Барьера поддержки</link></u></color> Квиквег больше нуля, активирует <sprite name=\"CoverAttack\"><color=#9f6a3a><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color>",
                     "coinlist": [
                         {
@@ -1303,7 +1303,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Испуганный Вздох",
+                    "name": "Испуганный вздох",
                     "desc": "[WhenUse] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 6",
                     "coinlist": [
                         {
@@ -1390,7 +1390,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Подчинись Моим Приказам",
+                    "name": "Подчинись моим приказам",
                     "desc": "[WhenUse] Восстанавливает 10 СД себе и союзнику с наименьшей СД",
                     "coinlist": [
                         {
@@ -1407,7 +1407,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ко Мне!",
+                    "name": "Ко мне!",
                     "desc": "[StartBattle] Приказывает Квиквег активировать <sprite name=\"AaCePcBs\"><color=#9f6a3a><u><link=\"AaCePcBs\">Защитную поддержку</link></u></color> в следующем ходу (Приказ отменяется, если Ахав в оглушении)",
                     "coinlist": [
                         {
@@ -1424,7 +1424,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Выследить Их До Конца!",
+                    "name": "Выследить их до конца!",
                     "desc": "[StartBattle] Приказывает Старбаку активировать <sprite name=\"CoverAttack\"><color=#9f6a3a><u><link=\"CoverAttack\">Вспомогательную атаку</link></u></color> в следующем ходу (Приказ отменяется, если Ахав в оглушении)\n[WhenUse] Накладывает <sprite name=\"AaCePcBj\"><color=#e30000><u><link=\"AaCePcBj\">Метку добычи</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -1655,7 +1655,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бессмертная Душа",
+                    "name": "Бессмертная душа",
                     "desc": "Заново использует уворот при неудачном увороте (До 2 раз)\n[OnDefeatEvade] Теряет 2 <sprite name=\"AaCePcBo\"><color=#d1dbdc><u><link=\"AaCePcBo\">Эго Пипа</link></u></color>",
                     "coinlist": [
                         {}
@@ -1668,7 +1668,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Мутная Невинность",
+                    "name": "Мутная невинность",
                     "desc": "[DefeatDuel] Получает 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Понижения силы защиты</link></u></color> и теряет 10 СД",
                     "coinlist": [
                         {
@@ -1884,7 +1884,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Отбеленное Искупление",
+                    "name": "Бледное искупление",
                     "desc": "[WhenUse] Теряет 5 <sprite name=\"AaCePcBq\"><color=#d9d1e0><u><link=\"AaCePcBq\">Эго Квикег</link></u></color>\n[WinDuel] Получает 6 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышений уровня защиты</link></u></color>\n[DefeatDuel] Теряет 5 СД",
                     "coinlist": [
                         {

@@ -1087,7 +1087,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Сбитие с ног",
+                    "name": "Избиение",
                     "desc": "[WinDuel] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -1123,7 +1123,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Переворот",
+                    "name": "Взбучка",
                     "desc": "Сила в столкновении +1 против целей с 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\nСила в столкновении +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 3",
                     "coinlist": [
                         {

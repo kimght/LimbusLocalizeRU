@@ -24,7 +24,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Прямой Выпад",
+                    "name": "Прямой выпад",
                     "desc": "[WhenUse] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
                     "coinlist": [
                         {
@@ -252,7 +252,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Я разрежу и тебя тоже!",
+                    "name": "Разрежу и тебя тоже!",
                     "desc": "[BeforeAttack] Вес атаки +1 за каждую Фазу <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color> (До 2)\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстановить 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила в столкновении +2 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {
@@ -303,7 +303,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Я разрежу вас вместе!",
+                    "name": "Разрежу вас вместе!",
                     "desc": "[BeforeAttack] Вес атаки +1 за каждую Фазу <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color>\n[WhenUse] Поглощает до 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленные лезвия ножниц</link></u></color> и восстановить 3 СД за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n[WhenUse] Сила в столкновении +2 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Тратит 10 <sprite name=\"BloodScissor\"><color=#f8c200><u><link=\"BloodScissor\">Окровавленных лезвий ножниц</link></u></color>",
                     "coinlist": [
                         {

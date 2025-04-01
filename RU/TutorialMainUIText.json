@@ -6,7 +6,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_01_desc_01",
-      "content": "Вы можете настроить Команду из ваших 12 Грешников и их Личностей."
+      "content": "Вы можете настроить Команду из ваших 12 Грешников и их Идентичностей."
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_title_01",
@@ -14,7 +14,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_desc_01",
-      "content": "В окне 'Грешники', выбор портрета Личности Грешника покажет список их Личностей. Оттуда вы можете выбрать Личность для развертывания."
+      "content": "В окне 'Грешники', выбор портрета Грешника покажет список их Идентичностей. Оттуда вы можете выбрать Идентичность для развертывания."
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_title_01",
@@ -22,27 +22,27 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_desc_01",
-      "content": "Выбор верхней части портрета Личности Грешника покажет список их Личностей. Оттуда вы можете выбрать Личность для развертывания."
+      "content": "Выбор верхней части портрета Грешника покажет список их Идентичностей. Оттуда вы можете выбрать Идентичность для развертывания."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_01",
-      "content": "Выбор нижней части портрета Личности Грешника развернет эту Личность для этого боя."
+      "content": "Выбор нижней части портрета Грешника развернет эту Идентичность для этого боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_02",
-      "content": "Это показывает общее количество развертываемых Личностей для этого боя."
+      "content": "Это показывает общее количество развертываемых Идентичностей для этого боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_05_desc_01",
-      "content": "Вы не сможете редактировать свою Команду в определенных боевых столкновениях. В таких случаях, выбор портрета Личности Грешника развернет эту Личность для боя."
+      "content": "Вы не сможете редактировать свою Команду в определенных боевых столкновениях. В таких случаях, выбор портрета Грешника развернет эту Идентичность для боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_title_01",
-      "content": "Команда - Детали Личности"
+      "content": "Команда - Детали Идентичности"
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_desc_01",
-      "content": "Во всех меню Команды вы можете нажать и удерживать портрет Личности, чтобы просмотреть подробную информацию о текущей экипированной Личности и E.G.O этого Грешника."
+      "content": "Во всех меню Команды вы можете нажать и удерживать портрет Идентичности, чтобы просмотреть подробную информацию о текущей экипированной Идентичности и Э.Г.О этого Грешника."
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_title_01",
@@ -74,35 +74,35 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_09_desc_01",
-      "content": "Здесь вы можете просмотреть следующую информацию: Типы Атак Навыков всех Личностей, Грехи и экипированные E.G.O."
+      "content": "Здесь вы можете просмотреть следующую информацию: Типы Атак Навыков всех Идентичностей, Грехи и экипированные Э.Г.О."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_title_01",
-      "content": "Ресурсы E.G.O"
+      "content": "Ресурсы Э.Г.О"
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_01",
-      "content": "Здесь вы можете просмотреть типы и количество Стоимости E.G.O, которые ваша команда может получить в бою."
+      "content": "Здесь вы можете просмотреть типы и количество ресурсов Э.Г.О, которые ваша команда может получить в бою."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_02",
-      "content": "Выберите это, и вы сможете просмотреть Личности, которые получают Стоимость E.G.O, и E.G.O, которые их используют."
+      "content": "Нажав на тип греха, вы сможете просмотреть Идентичности, которые получают этот ресурс Э.Г.О, и Э.Г.О, которые их используют."
     },
     {
       "id": "tutorial_mainui_02_identityandegolist",
-      "content": "Списки Личностей и E.G.O"
+      "content": "Списки Идентичностей и Э.Г.О"
     },
     {
       "id": "tutorial_mainui_02_identitylist",
-      "content": "Список Личностей"
+      "content": "Список Идентичностей"
     },
     {
       "id": "tutorial_mainui_02_egolist",
-      "content": "Список E.G.O"
+      "content": "Список Э.Г.О"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
-      "content": "Здесь показаны Личности вашего Грешника. Вы можете проверить их Грейды, Уровни связи, Уровни и Фракции."
+      "content": "Здесь показаны Идентичности вашего Грешника. Вы можете проверить их Редкость, Уровни связи, Уровень и Фракцию."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_title_01",
@@ -110,7 +110,7 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
-      "content": "Здесь вы можете видеть как Личности, так и E.G.O, установленные для команды. Для каждого грейда можно зарегистрировать один E.G.O."
+      "content": "Здесь вы можете видеть как Идентичности, так и Э.Г.О, установленные для команды. Для каждого уровня опасности можно зарегистрировать одно Э.Г.О."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_title_01",
@@ -118,11 +118,11 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
-      "content": "Нажатие на эту кнопку приведет вас к списку E.G.O, которые можно экипировать на слот."
+      "content": "Нажатие на эту кнопку приведет вас к списку Э.Г.О, которые можно экипировать в слот."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
-      "content": "Вы можете просмотреть грейд E.G.O, Уровень связи, основной атрибут и название."
+      "content": "Вы можете просмотреть уровень опасности Э.Г.О, Уровень связи, основной атрибут и название."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_title_01",
@@ -134,19 +134,19 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
-      "content": "При выборе отображается список Личностей поддержки ваших друзей."
+      "content": "При выборе отображается список Идентичностей поддержки ваших друзей."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
-      "content": "Здесь показаны Личности поддержки и E.G.O, зарегистрированные друзьями."
+      "content": "Здесь показаны Идентичности поддержки и Э.Г.О, зарегистрированные друзьями."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
-      "content": "Вы можете одолжить Личность и E.G.O друга для помощи. Обратите внимание, что в вашей команде может быть только одна Личность поддержки за раз."
+      "content": "Вы можете одолжить Идентичность и Э.Г.О друга для помощи. Обратите внимание, что в вашей команде может быть только одна Идентичность поддержки за раз."
     },
     {
       "id": "tutorial_mainui_03_identityinfo",
-      "content": "Информация о Личности"
+      "content": "Информация о Идентичности"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
@@ -154,7 +154,7 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
-      "content": "Повышение уровня Личности увеличивает ее характеристики."
+      "content": "Повышение уровня Идентичности увеличивает ее характеристики."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
@@ -170,7 +170,7 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
-      "content": "Здесь отображаются Максимальные ОЗ Личности, Диапазон Скорости, Уровень Защиты и его модификатор."
+      "content": "Здесь отображаются Максимальные ОЗ Идентичности, Диапазон Скорости, Уровень Защиты и его модификатор."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
@@ -178,15 +178,15 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
-      "content": "Здесь отображаются Сопротивления Личности."
+      "content": "Здесь отображаются Сопротивления Идентичности."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
-      "content": "Сводка Личности"
+      "content": "Сводка Идентичности"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
-      "content": "Здесь отображаются экипированный E.G.O Личности и разблокированные Навыки."
+      "content": "Здесь отображаются экипированные Э.Г.О Идентичности и разблокированные Навыки."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
@@ -194,15 +194,15 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
-      "content": "У каждой Личности есть Навыки различных функций. Здесь вы можете просмотреть подробности о них."
+      "content": "У каждой Идентичности есть Навыки с разными эффектами. Здесь вы можете просмотреть подробности о них."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
-      "content": "Личности, развернутые в бою, могут активировать свои Пассивные навыки. В начале каждого хода Пассивные навыки будут активироваться при выполнении их условий."
+      "content": "Идентичности, развернутые в бою, могут активировать свои Пассивные навыки. В начале каждого хода Пассивные навыки будут активироваться при выполнении их условий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
-      "content": "Личности, не развернутые в бою, могут активировать свои Пассивные навыки поддержки. В начале каждого хода Пассивные навыки поддержки будут активироваться при выполнении их условий."
+      "content": "Идентичности, не развернутые в бою, могут активировать свои Пассивные навыки поддержки. В начале каждого хода Пассивные навыки поддержки будут активироваться при выполнении их условий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
@@ -230,7 +230,7 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
-      "content": "Это указывает, сколько копий Навыка находится в Наборе навыков Личности."
+      "content": "Это указывает, сколько копий Навыка находится в Наборе навыков Идентичности."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
@@ -238,7 +238,7 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
-      "content": "Здесь отображается Вес атаки Навыка. Более высокий Вес атаки будет нацеливаться на большее количество врагов. (например, 1 Вес атаки будет нацеливаться на 1 врага, 3 Веса атаки будут нацеливаться на 3 врагов)"
+      "content": "Здесь отображается Количество целей Навыка. Более высокое Количество целей будет нацеливаться на большее количество врагов. (например, 1 Количество целей будет нацеливаться на 1 врага, 3 Количества целей будут нацеливаться на 3 врагов)"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
@@ -254,11 +254,11 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
-      "content": "Навыки могут иметь эффекты, которые активируются при выполнении указанных условий Монет (например, Попадание Орла, Попадание Решки). Эффекты Монет не будут активироваться, если условия не выполнены."
+      "content": "Навыки могут иметь эффекты, которые активируются при выполнении указанных условий Монет (например, Выпадение Орла, Выпадение Решки). Эффекты Монет не будут активироваться, если условия не выполнены."
     },
     {
       "id": "tutorial_mainui_04_egoinfo",
-      "content": "Информация об Э.П.О.С."
+      "content": "Информация об Э.Г.О."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
@@ -266,7 +266,7 @@
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
-      "content": "Более высокие Уровни связи улучшат Навыки и способности Э.П.О.С."
+      "content": "Более высокие Уровни связи улучшат Навыки и способности Э.Г.О."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
@@ -274,51 +274,51 @@
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
-      "content": "The E.G.O's Resistances are displayed here. If an Identity has used an E.G.O Skill, its Resistances will be overwritten by the used E.G.O's Resistances."
+      "content": "Здесь отображаются сопротивления Э.Г.О. Если Идентичность использовала навык Э.Г.О, её Сопротивления будут заменены сопротивлениями использованного Э.Г.О."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_02",
-      "content": "Sanity Cost"
+      "content": "Стоимость рассудка"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_02",
-      "content": "The amount of SP spent when using this E.G.O Skill is displayed here."
+      "content": "Количество СД, которое будет потрачено при использовании Э.Г.О отображается здесь."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_03",
-      "content": "E.G.O Resource Cost"
+      "content": "Стоимость ресурсов Э.Г.О"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_03",
-      "content": "E.G.O resources required to use this E.G.O Skill are displayed here."
+      "content": "Ресурсы Э.Г.О необходимые для использования навыка Э.Г.О отображаются здесь."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
-      "content": "E.G.O Skills"
+      "content": "Навыки Э.Г.О"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
-      "content": "E.G.O Skills have high Base/Coin Power values and potent Skill effects. Details about the E.G.O Skill are displayed here."
+      "content": "Навыки Э.Г.О имеют высокие значения Базовой силы/силы Монет и мощные эффекты. Подробности о навыке Э.Г.О отображаются здесь."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_04_desc_01",
-      "content": "If an Identity with a low SP value uses an E.G.O Skill, there is a chance that a much more powerful E.G.O Corrosion Skill will be activated instead. Using E.G.O Corrosion Skills carries a risk, however, as it attacks indiscriminately and may target allies as well."
+      "content": "Если Идентичность с низким значением СД использовала навык Э.Г.О, имеется шанс, что вместо этого активируется более мощный навык коррозии Э.Г.О. Использование навыка коррозии Э.Г.О несёт огромный риск, вместе с тем, выбирая случайные цели и так же задевая союзников."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
-      "content": "You can force activate an E.G.O Corrosion Skill by Overclocking, which consumes 1.5 times as many E.G.O Resources and SP as the E.G.O Skill's usual cost. This is called E.G.O Overclock.\nE.G.O Overclock can be activated by pressing and holding the E.G.O Card in the E.G.O Skill selection menu in combat."
+      "content": "You can force activate an Э.Г.О Corrosion Skill by Overclocking, which consumes 1.5 times as many Э.Г.О Resources and SP as the Э.Г.О Skill's usual cost. This is called Э.Г.О Overclock.\nЭ.Г.О Overclock can be activated by pressing and holding the Э.Г.О Card in the Э.Г.О Skill selection menu in combat."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
-      "content": "Stable E.G.O Overclock Skill will be activated if there are enough E.G.O Costs(1.5 times the usual cost) at hand. Stable E.G.O Overclock Skill is able to distinguish allies from foes."
+      "content": "Stable Э.Г.О Overclock Skill will be activated if there are enough Э.Г.О Costs(1.5 times the usual cost) at hand. Stable Э.Г.О Overclock Skill is able to distinguish allies from foes."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_03",
-      "content": "If there aren't enough E.G.O Costs at hand, Unstable E.G.O Overclock Skill will be activated instead. Unstable E.G.O Overclock Skill does not distinguish allies from foes."
+      "content": "If there aren't enough Э.Г.О Costs at hand, Unstable Э.Г.О Overclock Skill will be activated instead. Unstable Э.Г.О Overclock Skill does not distinguish allies from foes."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_06_desc_01",
-      "content": "Using an E.G.O Skill will activate the E.G.O's Passive."
+      "content": "Using an Э.Г.О Skill will activate the Э.Г.О's Passive."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_07_title_01",
@@ -566,11 +566,11 @@
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Э.Г.О Gifts"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration."
+      "content": "As you explore the dungeon, you may acquire Э.Г.О Gifts; these items offer powerful effects that last until the end of the exploration."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
@@ -594,19 +594,19 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
-      "content": "E.G.O Gift Compendium"
+      "content": "Э.Г.О Gift Compendium"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
-      "content": "You can check the list of E.G.O Gifts that appear in the Mirror Dungeon. Certain E.G.O Gifts need to be unlocked by fulfilling specific conditions."
+      "content": "You can check the list of Э.Г.О Gifts that appear in the Mirror Dungeon. Certain Э.Г.О Gifts need to be unlocked by fulfilling specific conditions."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
-      "content": "Starting E.G.O Gift"
+      "content": "Starting Э.Г.О Gift"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
-      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of E.G.O Gifts to help the exploration. Choose one to take with you."
+      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of Э.Г.О Gifts to help the exploration. Choose one to take with you."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
@@ -626,11 +626,11 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
-      "content": "Selecting E.G.O"
+      "content": "Selecting Э.Г.О"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_06_desc_01",
-      "content": "Choose E.G.O for your Sinners to equip. You can only select ZAYIN-grade E.G.O during deployment."
+      "content": "Choose Э.Г.О for your Sinners to equip. You can only select ZAYIN-grade Э.Г.О during deployment."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
@@ -642,11 +642,11 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Э.Г.О Gifts"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration."
+      "content": "As you explore the dungeon, you may acquire Э.Г.О Gifts; these items offer powerful effects that last until the end of the exploration."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
@@ -670,7 +670,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
-      "content": "In Mirror Dungeons, Identities power up in steps as you progress. Level up and equip more E.G.O through combat encounters and events."
+      "content": "In Mirror Dungeons, Identities power up in steps as you progress. Level up and equip more Э.Г.О through combat encounters and events."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
@@ -698,7 +698,7 @@
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_desc_02",
-      "content": "You can spend Lunacy to extract Identities or E.G.O."
+      "content": "You can spend Lunacy to extract Identities or Э.Г.О."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_title_01",
@@ -714,7 +714,7 @@
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_desc_02",
-      "content": "View details on the featured Identity or E.G.O here."
+      "content": "View details on the featured Identity or Э.Г.О here."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_title_01",
@@ -730,7 +730,7 @@
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_desc_02",
-      "content": "You can view the likelihood of the featured Identity or E.G.O being extracted."
+      "content": "You can view the likelihood of the featured Identity or Э.Г.О being extracted."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_04_title_01",
@@ -750,7 +750,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
-      "content": "You can exchange Egoshards for Identities or E.G.O you don’t yet own."
+      "content": "You can exchange Egoshards for Identities or Э.Г.О you don’t yet own."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
@@ -758,7 +758,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
-      "content": "You can purchase permanently available Identities and E.G.O, as well as those from past seasons."
+      "content": "You can purchase permanently available Identities and Э.Г.О, as well as those from past seasons."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
@@ -766,7 +766,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
-      "content": "To buy Identities or E.G.O from here, you will need Egoshards of the Sinner."
+      "content": "To buy Identities or Э.Г.О from here, you will need Egoshards of the Sinner."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
@@ -782,7 +782,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
-      "content": "Thread is used for the Uptying of Identities and Threadspinning of E.G.O."
+      "content": "Thread is used for the Uptying of Identities and Threadspinning of Э.Г.О."
     },
     {
       "id": "tutorial_mainui_13_userinfo_manager",
@@ -826,7 +826,7 @@
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
-      "content": "You can check the artwork of the Identities and E.G.O you own."
+      "content": "You can check the artwork of the Identities and Э.Г.О you own."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_05_title_01",
@@ -854,7 +854,7 @@
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
-      "content": "You can assign support Identities and E.G.O to assist others."
+      "content": "You can assign support Identities and Э.Г.О to assist others."
     },
     {
       "id": "tutorial_mainui_13_userinfo_friend",
@@ -998,15 +998,15 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_03_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities and Э.Г.О to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_17_railway_page_04_desc_01",
-      "content": "Unlike other combat-based content, the level-ups and tier-ups done to your Identities and E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
+      "content": "Unlike other combat-based content, the level-ups and tier-ups done to your Identities and Э.Г.О while an expedition is in progress will not be immediately reflected on your team’s status."
     },
     {
       "id": "tutorial_mainui_17_railway_page_05_desc_01",
-      "content": "You may not change your team in the middle of an expedition. \nIf you wish to modify your setup or reflect upgrades on your Identities and E.G.O, you must start a new expedition."
+      "content": "You may not change your team in the middle of an expedition. \nIf you wish to modify your setup or reflect upgrades on your Identities and Э.Г.О, you must start a new expedition."
     },
     {
       "id": "tutorial_mainui_17_railway_page_06_title_01",
@@ -1026,11 +1026,11 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_title_01",
-      "content": "Current E.G.O Resources"
+      "content": "Current Э.Г.О Resources"
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a stage can be carried over to the next stage."
+      "content": "The Э.Г.О resources held after clearing a stage can be carried over to the next stage."
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_title_02",
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_15_desc_01",
-      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Station will be reset."
+      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and Э.Г.О resources reverted to that point, and any progress you've made since that Station will be reset."
     },
     {
       "id": "tutorial_mainui_17_railway_page_16_title_01",
@@ -1154,7 +1154,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
-      "content": "Having Identities and E.G.O from the Hell’s Chicken event on your team increases the amount of [Bongy Plushies] earned from stages and dungeons."
+      "content": "Having Identities and Э.Г.О from the Hell’s Chicken event on your team increases the amount of [Bongy Plushies] earned from stages and dungeons."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_05_title_01",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Coupon Trade-in]."
+      "content": "You can acquire event reward Identities and Э.Г.О, as well as various currencies from the [Coupon Trade-in]."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
@@ -1186,11 +1186,11 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_title_01",
-      "content": "Selecting E.G.O Gifts"
+      "content": "Selecting Э.Г.О Gifts"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
-      "content": "Several E.G.O Gifts from the Mirror Dungeon will appear in the Hell’s Chicken Dungeon.\nThese E.G.O Gifts will assist event Identities and E.G.O to shine in their respective specialties."
+      "content": "Several Э.Г.О Gifts from the Mirror Dungeon will appear in the Hell’s Chicken Dungeon.\nThese Э.Г.О Gifts will assist event Identities and Э.Г.О to shine in their respective specialties."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_09_title_01",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
-      "content": "There are special encounters and E.G.O Gifts unique to the Hell’s Chicken dungeons.\nThese specialties are marked with a unique icon below the node in the dungeon for easier identification."
+      "content": "There are special encounters and Э.Г.О Gifts unique to the Hell’s Chicken dungeons.\nThese specialties are marked with a unique icon below the node in the dungeon for easier identification."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_12_title_01",
@@ -1250,23 +1250,23 @@
     },
     {
       "id": "tutorial_manual_1_season_information_02_desc_01",
-      "content": "You can obtain currencies for the current season as well as E.G.O from the Battle Pass."
+      "content": "You can obtain currencies for the current season as well as Э.Г.О from the Battle Pass."
     },
     {
       "id": "tutorial_manual_1_season_information_03_title_01",
-      "content": "Season Info for Identities & E.G.O"
+      "content": "Season Info for Identities & Э.Г.О"
     },
     {
       "id": "tutorial_manual_1_season_information_03_desc_01",
-      "content": "You can check the season an Identity or E.G.O belongs to below its name in the info tab.\nThose without a season shown are categorized into the [Regular] tag."
+      "content": "You can check the season an Identity or Э.Г.О belongs to below its name in the info tab.\nThose without a season shown are categorized into the [Regular] tag."
     },
     {
       "id": "tutorial_manual_1_season_information_04_title_01",
-      "content": "Season Info for Event Identities & E.G.O"
+      "content": "Season Info for Event Identities & Э.Г.О"
     },
     {
       "id": "tutorial_manual_1_season_information_04_desc_01",
-      "content": "Event Identities and E.G.O have [EVENT] marked next to their season tag."
+      "content": "Event Identities and Э.Г.О have [EVENT] marked next to their season tag."
     },
     {
       "id": "tutorial_manual_1_season_information_05_title_01",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_07_desc_01",
-      "content": "A new Season’s Identities and E.G.O will be added to the list of Extractable items.\nIdentities from previous Seasons remain in the pool, so you can still acquire them from Extraction.\n※ Event Identities & E.G.O from previous Seasons may appear from Sinner Target Extractions. (except those from the immediately preceding Season)"
+      "content": "A new Season’s Identities and Э.Г.О will be added to the list of Extractable items.\nIdentities from previous Seasons remain in the pool, so you can still acquire them from Extraction.\n※ Event Identities & Э.Г.О from previous Seasons may appear from Sinner Target Extractions. (except those from the immediately preceding Season)"
     },
     {
       "id": "tutorial_manual_1_season_information_08_title_01",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_08_desc_01",
-      "content": "Identities and E.G.O from the new Season will become available at the Dispenser.\nIn addition, you will be able to exchange for Identities and E.G.O from the Battle Passes of past Seasons.\nPlease note that Extraction IDs belonging to the Season immediately before will be inaccessible until 2 Seasons have passed."
+      "content": "Identities and Э.Г.О from the new Season will become available at the Dispenser.\nIn addition, you will be able to exchange for Identities and Э.Г.О from the Battle Passes of past Seasons.\nPlease note that Extraction IDs belonging to the Season immediately before will be inaccessible until 2 Seasons have passed."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon",
@@ -1330,19 +1330,19 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_04",
-      "content": "E.G.O Gift Compendium"
+      "content": "Э.Г.О Gift Compendium"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "You can check the list of E.G.O Gifts that appear in Mirror Dungeons.\nThe ones you haven't obtained yet in Mirror Dungeon expeditions will be marked with \"No Data\"."
+      "content": "You can check the list of Э.Г.О Gifts that appear in Mirror Dungeons.\nThe ones you haven't obtained yet in Mirror Dungeon expeditions will be marked with \"No Data\"."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_05",
-      "content": "Starting E.G.O Gift"
+      "content": "Starting Э.Г.О Gift"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_05",
-      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of E.G.O Gifts to help the exploration. Choose one to take with you."
+      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of Э.Г.О Gifts to help the exploration. Choose one to take with you."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_06",
@@ -1354,11 +1354,11 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_07",
-      "content": "E.G.O Gifts Owned"
+      "content": "Э.Г.О Gifts Owned"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_07",
-      "content": "You can view the E.G.O Gifts you currently have."
+      "content": "You can view the Э.Г.О Gifts you currently have."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_08",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_08",
-      "content": "By using presets, you can load up Identity and E.G.O Teams you have set up in the 'Sinners' window."
+      "content": "By using presets, you can load up Identity and Э.Г.О Teams you have set up in the 'Sinners' window."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_09",
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_09",
-      "content": "You can view the Cost in your possession here.\nCost is used when purchasing E.G.O Gifts from the shop, or when acquiring new Identities or E.G.O to have on your team at the shop or the rest stop.\nOn Normal difficulty, you are not given any starting Cost, but the initial team setup doesn't require any Cost.\nOn Hard difficulty, you're given a set amount of Cost to build your initial team with."
+      "content": "You can view the Cost in your possession here.\nCost is used when purchasing Э.Г.О Gifts from the shop, or when acquiring new Identities or Э.Г.О to have on your team at the shop or the rest stop.\nOn Normal difficulty, you are not given any starting Cost, but the initial team setup doesn't require any Cost.\nOn Hard difficulty, you're given a set amount of Cost to build your initial team with."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_10",
@@ -1386,11 +1386,11 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_11",
-      "content": "Selecting E.G.O"
+      "content": "Selecting Э.Г.О"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_11",
-      "content": "Choose E.G.O to use for the selected Sinner."
+      "content": "Choose Э.Г.О to use for the selected Sinner."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_12",
@@ -1410,11 +1410,11 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_14",
-      "content": "E.G.O Gifts"
+      "content": "Э.Г.О Gifts"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_14",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts.\nThese items offer powerful effects that last until the end of the exploration."
+      "content": "As you explore the dungeon, you may acquire Э.Г.О Gifts.\nThese items offer powerful effects that last until the end of the exploration."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_15",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_17",
-      "content": "In Mirror Dungeons, there are Rest Stops where you may heal up for free, or spend Cost to gain an Identity or E.G.O to deploy on the team."
+      "content": "In Mirror Dungeons, there are Rest Stops where you may heal up for free, or spend Cost to gain an Identity or Э.Г.О to deploy on the team."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_18",
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_18",
-      "content": "At Shops, you can purchase E.G.O Gifts, heal allies, recruit Identities or E.G.O, or power up selected allies using the Cost you earned from combat encounters."
+      "content": "At Shops, you can purchase Э.Г.О Gifts, heal allies, recruit Identities or Э.Г.О, or power up selected allies using the Cost you earned from combat encounters."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_19",
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_04_desc_01",
-      "content": "Having Identities and E.G.O from S.E.A event on your team increases the amount of [Bus-modifying Scrap] earned from stages and dungeons."
+      "content": "Having Identities and Э.Г.О from S.E.A event on your team increases the amount of [Bus-modifying Scrap] earned from stages and dungeons."
     },
     {
       "id": "tutorial_mainui_20_umida_05_title_01",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Scrap Box]."
+      "content": "You can acquire event reward Identities and Э.Г.О, as well as various currencies from the [Scrap Box]."
     },
     {
       "id": "tutorial_mainui_20_umida_06_desc_02",
@@ -1586,11 +1586,11 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_02_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities and Э.Г.О to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_03_desc_01",
-      "content": "You cannot change your loadout while the expedition is in progress. Unlike other combat-based content, the level-ups and tier-ups done to your Identities and E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
+      "content": "You cannot change your loadout while the expedition is in progress. Unlike other combat-based content, the level-ups and tier-ups done to your Identities and Э.Г.О while an expedition is in progress will not be immediately reflected on your team’s status."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_04_title_01",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "The Э.Г.О resources held after clearing a Station can be carried over to the next Station."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_desc_02",
@@ -1722,7 +1722,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_18_desc_02",
-      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & Э.Г.О, and selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_19_title_01",
@@ -1826,7 +1826,7 @@
     },
     {
       "id": "tutorial_mainui_23_railway2_page_1_desc_02",
-      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Ж/Д Преломления Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & Э.Г.О, and selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_railway2_mainTitle",
@@ -1850,19 +1850,19 @@
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_01_desc_02",
-      "content": "Walpurgis Night Target Extractions will have higher Extraction rates for Identities and E.G.O from the currently active Walpurgis Night event."
+      "content": "Walpurgis Night Target Extractions will have higher Extraction rates for Identities and Э.Г.О from the currently active Walpurgis Night event."
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_02_desc_01",
-      "content": "During the event period, Identities & E.G.O from the current Walpurgis Night event will be Extractable from other Extraction banners(save for Season relevant Extraction banners) as well.\n\nHowever, their extraction rates will be identical to those of other Identities & E.G.O."
+      "content": "During the event period, Identities & Э.Г.О from the current Walpurgis Night event will be Extractable from other Extraction banners(save for Season relevant Extraction banners) as well.\n\nHowever, their extraction rates will be identical to those of other Identities & Э.Г.О."
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_03_desc_01",
-      "content": "During the event period, previous Walpurgis Night Identities & E.G.O will be Extractable from all Extraction banners(save for Season relevant Extraction banners).\n\nHowever, they will not receive increased rates for those Extractions."
+      "content": "During the event period, previous Walpurgis Night Identities & Э.Г.О will be Extractable from all Extraction banners(save for Season relevant Extraction banners).\n\nHowever, they will not receive increased rates for those Extractions."
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_04_desc_01",
-      "content": "Once the event period is over, Walpurgis Night Identities and E.G.O will no longer be Extractable."
+      "content": "Once the event period is over, Walpurgis Night Identities and Э.Г.О will no longer be Extractable."
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine",
@@ -1870,11 +1870,11 @@
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine_page_01_desc_01",
-      "content": "During the event period, Identities and E.G.O from all previous Walpurgis Night events are available from the Dispenser."
+      "content": "During the event period, Identities and Э.Г.О from all previous Walpurgis Night events are available from the Dispenser."
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine_page_02_desc_01",
-      "content": "Identities and E.G.O from the currently active Walpurgis Night event are not available from the Dispenser."
+      "content": "Identities and Э.Г.О from the currently active Walpurgis Night event are not available from the Dispenser."
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_title_01",
@@ -1922,11 +1922,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_title_03",
-      "content": "E.G.O Gift Compendium"
+      "content": "Э.Г.О Gift Compendium"
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_desc_03",
-      "content": "You can view the list of E.G.O Gifts that appear in the Mirror Dungeon. Obtaining an E.G.O Gift in the Mirror Dungeon will add an entry to your E.G.O Gift Compendium."
+      "content": "You can view the list of Э.Г.О Gifts that appear in the Mirror Dungeon. Obtaining an Э.Г.О Gift in the Mirror Dungeon will add an entry to your Э.Г.О Gift Compendium."
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_title_01",
@@ -1934,7 +1934,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_01",
-      "content": "In Mirror of the Lake, you can increase your chances of obtaining higher Tier E.G.O Gifts during your Mirror Dungeon run by activating more Starter Buffs."
+      "content": "In Mirror of the Lake, you can increase your chances of obtaining higher Tier Э.Г.О Gifts during your Mirror Dungeon run by activating more Starter Buffs."
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_02",
@@ -1954,23 +1954,23 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_title_01",
-      "content": "Starting E.G.O Gift Choice"
+      "content": "Starting Э.Г.О Gift Choice"
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_01",
-      "content": "Upon Mirror Dungeon entry, you will be given 8 E.G.O Gift categories to choose from."
+      "content": "Upon Mirror Dungeon entry, you will be given 8 Э.Г.О Gift categories to choose from."
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_02",
-      "content": "You can choose as many E.G.O Gifts as it is available to you from the same category."
+      "content": "You can choose as many Э.Г.О Gifts as it is available to you from the same category."
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_03",
-      "content": "E.G.O Gifts provide special effects in the Mirror Dungeon to assist you in your journey."
+      "content": "Э.Г.О Gifts provide special effects in the Mirror Dungeon to assist you in your journey."
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_04",
-      "content": "You can obtain extra Starlight by choosing an E.G.O Gift category that you did not use in your immediately preceding run."
+      "content": "You can obtain extra Starlight by choosing an Э.Г.О Gift category that you did not use in your immediately preceding run."
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_title_01",
@@ -2042,11 +2042,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Э.Г.О Gifts"
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_desc_01",
-      "content": "Acquired E.G.O Gifts are displayed here. E.G.O Gifts are items that offer powerful effects that last until the end of the Dungeon."
+      "content": "Acquired Э.Г.О Gifts are displayed here. Э.Г.О Gifts are items that offer powerful effects that last until the end of the Dungeon."
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_02",
@@ -2070,11 +2070,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_11_desc_01",
-      "content": "At Shops, you can spend your 'Cost' to purchase E.G.O Gifts, heal allies, deploy/swap out additional Identities or power up selected Identities."
+      "content": "At Shops, you can spend your 'Cost' to purchase Э.Г.О Gifts, heal allies, deploy/swap out additional Identities or power up selected Identities."
     },
     {
       "id": "tutorial_mirrordungeon03_page_11_desc_02",
-      "content": "At Shops, you can sell E.G.O Gifts you don't use to obtain 'Cost'."
+      "content": "At Shops, you can sell Э.Г.О Gifts you don't use to obtain 'Cost'."
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_title_01",
@@ -2082,11 +2082,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_desc_01",
-      "content": "At Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identities or enhance E.G.O Gifts."
+      "content": "At Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identities or enhance Э.Г.О Gifts."
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_desc_02",
-      "content": "You can Fuse E.G.O Gifts to obtain different E.G.O Gifts."
+      "content": "You can Fuse Э.Г.О Gifts to obtain different Э.Г.О Gifts."
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_title_01",
@@ -2094,7 +2094,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_desc_01",
-      "content": "Upon clearing a floor, you will obtain random enemy buffs tied to each E.G.O Gifts."
+      "content": "Upon clearing a floor, you will obtain random enemy buffs tied to each Э.Г.О Gifts."
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_desc_02",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_04_desc_01",
-      "content": "Having E.G.O from the Miracle in District 20 event on your team increases the amount of [Trinkets Sack] earned from stages and dungeons."
+      "content": "Having Э.Г.О from the Miracle in District 20 event on your team increases the amount of [Trinkets Sack] earned from stages and dungeons."
     },
     {
       "id": "tutorial_mainui_24_miracle_05_title_01",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Gift Exchange]."
+      "content": "You can acquire event reward Identities and Э.Г.О, as well as various currencies from the [Gift Exchange]."
     },
     {
       "id": "tutorial_mainui_24_miracle_06_desc_02",
@@ -2214,7 +2214,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_desc_01",
-      "content": "Select the door to begin the Normal difficulty Dawn of Green Ordeal. Dawn of Green Ordeal consumes an Enkephalin Module upon completion. In Normal difficulty, any deployed Identities under Level 40 will be raised to Level 40. However, your Identities' current Uptie Tiers and E.G.O Threadspinning Tiers will be reflected."
+      "content": "Select the door to begin the Normal difficulty Dawn of Green Ordeal. Dawn of Green Ordeal consumes an Enkephalin Module upon completion. In Normal difficulty, any deployed Identities under Level 40 will be raised to Level 40. However, your Identities' current Uptie Tiers and Э.Г.О Threadspinning Tiers will be reflected."
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_title_02",
@@ -2222,7 +2222,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_desc_02",
-      "content": "Clearing the Normal difficulty Dawn of Green Ordeal unlocks the Hard difficulty. In Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+      "content": "Clearing the Normal difficulty Dawn of Green Ordeal unlocks the Hard difficulty. In Hard difficulty, your Identities' current Levels, Uptie Tiers, and Э.Г.О Threadspinning Tiers will be reflected."
     },
     {
       "id": "tutorial_mainui_25_walpu2_04_title_01",
@@ -2282,7 +2282,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_02_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities and Э.Г.О to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_railway3_page_03_title_01",
@@ -2338,7 +2338,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "The Э.Г.О resources held after clearing a Station can be carried over to the next Station."
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_02",
@@ -2366,7 +2366,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_11_desc_01",
-      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Station will be reset."
+      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and Э.Г.О resources reverted to that point, and any progress you've made since that Station will be reset."
     },
     {
       "id": "tutorial_mainui_railway3_page_12_title_01",
@@ -2542,7 +2542,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_04_desc_01",
-      "content": "Having Identities and E.G.O from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages and Mirror Dungeons."
+      "content": "Having Identities and Э.Г.О from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages and Mirror Dungeons."
     },
     {
       "id": "tutorial_mainui_28_tkt_05_title_01",
@@ -2602,7 +2602,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_02",
-      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 45, and Threadspin your E.G.Os to Tier 4."
+      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 45, and Threadspin your Э.Г.Оs to Tier 4."
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_03",
@@ -2614,11 +2614,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_03_desc_01",
-      "content": "Choose a number of Identities and E.G.O to enter the Railway with."
+      "content": "Choose a number of Identities and Э.Г.О to enter the Railway with."
     },
     {
       "id": "tutorial_mainui_railway4_page_03_desc_02",
-      "content": "If you level up, Uptie, or Threadspin your Identities or E.G.O outside the Ж/Д Преломления, the changes will be applied to your characters in the Ж/Д Преломления as well."
+      "content": "If you level up, Uptie, or Threadspin your Identities or Э.Г.О outside the Ж/Д Преломления, the changes will be applied to your characters in the Ж/Д Преломления as well."
     },
     {
       "id": "tutorial_mainui_railway4_page_04_title_01",
@@ -2686,7 +2686,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_09_desc_02",
-      "content": "In Line 4, a defeated ally Identity will give E.G.O resources that correspond with the Sin Affinities of the Attack Skills on the defeated Ally. The amount of E.G.O resources given corresponds with the Rank of each Attack Skill. (S1 gives 1, S2 gives 2, S3 gives 3, for example)"
+      "content": "In Line 4, a defeated ally Identity will give Э.Г.О resources that correspond with the Sin Affinities of the Attack Skills on the defeated Ally. The amount of Э.Г.О resources given corresponds with the Rank of each Attack Skill. (S1 gives 1, S2 gives 2, S3 gives 3, for example)"
     },
     {
       "id": "tutorial_mainui_railway4_page_10_title_01",
@@ -2730,7 +2730,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_13_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Section."
+      "content": "The Э.Г.О resources held after clearing a Station can be carried over to the next Section."
     },
     {
       "id": "tutorial_mainui_railway4_page_13_desc_02",
@@ -2762,7 +2762,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_16_desc_02",
-      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+      "content": "When you do so, the battle will start with the Sinners’ statuses and Э.Г.О resources reverted to that point, and any progress you've made since that Stage will be reset."
     },
     {
       "id": "tutorial_mainui_railway4_page_17_title_01",
@@ -2838,7 +2838,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_04_desc_01",
-      "content": "Having Event Identities and E.G.O from the Murder on the WARP Express event on your team increases the amount of [Civilian Recov. Pack] earned from Stages and Dungeons."
+      "content": "Having Event Identities and Э.Г.О from the Murder on the WARP Express event on your team increases the amount of [Civilian Recov. Pack] earned from Stages and Dungeons."
     },
     {
       "id": "tutorial_mainui_29_mowe_05_title_01",

@@ -12,7 +12,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -22,15 +22,15 @@
                     "level": 3,
                     "name": "Завет, 9:2",
                     "abName": "Пророк кожи",
-                    "desc": "[BeforeAttack] Число целей +1 при абсолюте Похоти, равном 4 и более",
+                    "desc": "<style=\"highlight\">[BeforeAttack] Количество целей +1 при 4 и более грехах в абсолютном резонансе Похоти</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -40,15 +40,15 @@
                     "level": 4,
                     "name": "Завет, 9:2",
                     "abName": "Пророк кожи",
-                    "desc": "[BeforeAttack] Число целей +1 при абсолюте Похоти, равном 4 и более\nДополнительно +1 цель при абсолюте Похоти, равном 6 и более",
+                    "desc": "[BeforeAttack] Количество целей +1 при 4 и более грехах в абсолютном резонансе Похоти\n<style=\"highlight\">- Количество целей повышается ещё на 1 при 6 и более грехах в абсолютном резонансе Похоти</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -71,7 +71,7 @@
                                     "desc": "[OnSucceedAttackTail] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -81,18 +81,18 @@
                     "level": 3,
                     "name": "Завет, 9:2",
                     "abName": "Пророк кожи",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при абсолюте Похоти, равном 4 и более",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при 4 и более грехах в абсолютном резонансе Похоти",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackTail] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -102,7 +102,7 @@
                     "level": 4,
                     "name": "Завет, 9:2",
                     "abName": "Пророк кожи",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при абсолюте Похоти, равном 4 и более\nДополнительно +1 цель при абсолюте Похоти, равном 6 и более",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при 4 и более грехах в абсолютном резонансе Похоти\n<style=\"highlight\">- Количество целей повышается ещё на 1 при 6 и более грехах в абсолютном резонансе Похоти</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -113,7 +113,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10-и)"
+                                    "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижение уровня защиты</link></u></color> (До 10)"
                                 }
                             ]
                         }
@@ -128,7 +128,7 @@
                     "level": 1,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "При атаке более медленной цели урон +(разница между скоростью x 2.5)% (До 25%)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+                    "desc": "При атаке более медленной цели урон повышается на (Разница в скорости × 2.5)% (До 25%)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -143,24 +143,24 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход."
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -170,7 +170,7 @@
                     "level": 3,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "При атаке более медленной цели урон +(разница между скоростью x <style=\"highlight\">3.5</style>)% (До <style=\"highlight\">35%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n<style=\"highlight\">- Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+                    "desc": "При атаке более медленной цели урон повышается на (Разница в скорости × <style=\"highlight\">3.5</style>)% (До <style=\"highlight\">35%</style>)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n<style=\"highlight\">- Если грех резонанса — Леность, так же повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на повышенние его силы (До 5)</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -178,31 +178,31 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 5<style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Производит <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Наложение амплитуд</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color><style=\"highlight\"></style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход.<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -212,42 +212,42 @@
                     "level": 4,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "При атаке более медленной цели, на (разница между скоростью x <style=\"highlight\">3</style>)% (До <style=\"highlight\">50%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на (число грехов в наибольшем резонансе <style=\"highlight\">x 2</style>) (До <style=\"highlight\">10</style>)\n- Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До <style=\"highlight\">10</style>)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+                    "desc": "При атаке более медленной цели урон повышается на (Разница в скорости × <style=\"highlight\">3</style>)% (До <style=\"highlight\">50%</style>)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на <style=\"highlight\">(</style>Число грехов в наибольшем резонансе <style=\"highlight\">× 2)</style> (До <style=\"highlight\">10</style>)\n- Если грех резонанса — Леность, так же повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на повышенние его силы (До <style=\"highlight\">10</style>)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"highlight\">10</style>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">10</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"highlight\">10</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход.<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -262,7 +262,7 @@
                     "level": 1,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x 15)% (До 12%)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли быстрее главной цели, наносит на (Разница в скорости × 1.5)% больше урона (До 12%)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> целей на 3",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -273,13 +273,13 @@
                                     "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход."
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -289,7 +289,7 @@
                     "level": 3,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2</style>)% (До <style=\"highlight\">16%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 4)\n<style=\"highlight\">- [BeforeAttack] Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2</style>",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли быстрее главной цели, наносит на (Разница в скорости × <style=\"highlight\">2</style>)% больше урона (До <style=\"highlight\">16%</style>)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> целей <style=\"highlight\">на число грехов в наибольшем резонансе (До 4)</style>\n<style=\"highlight\">- Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> целей на 2</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -300,13 +300,13 @@
                                     "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color><style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход.<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -316,7 +316,7 @@
                     "level": 4,
                     "name": "Вечность",
                     "abName": "Утка времени",
-                    "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2.5</style>)% (До <style=\"highlight\">20%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на число грехов в наибольшем резонансе (До <style=\"highlight\">4</style>)\n- [BeforeAttack] Если грех резонанса — Леность, <style=\"highlight\">повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли быстрее главной цели, наносит на (Разница в скорости × <style=\"highlight\">2.5</style>)% больше урона (До <style=\"highlight\">20%</style>)\n[BeforeAttack] При наибольшем резонансе в 3 и более греха, повышает силу <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> целей на число грехов в наибольшем резонансе (До <style=\"highlight\">5</style>)\n- Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> целей <style=\"highlight\">на повышение его силы (До 5)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -324,19 +324,19 @@
                                     "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"highlight\">5</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color><style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"FusionVibration\"><color=#9f6a3a><u><link=\"FusionVibration\">Производит наложение амплитуды</link></u></color> с <sprite name=\"VibrationContinue\"><color=#e30000><u><link=\"VibrationContinue\">Тремором — Вечность</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1</style>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход.<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] Понижает максимальную скорость цели вдвое на следующий ход"
                                 }
                             ]
                         }
@@ -356,7 +356,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 1"
                                 }
                             ]
                         },
@@ -380,26 +380,26 @@
                     "level": 3,
                     "name": "Лассо",
                     "abName": "Охотник роз",
-                    "desc": "<style=\"highlight\">Сила монет +1, если сумма скорости персонажа и цели 6 или выше</style>\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n[BeforeAttack] При резонансе Чревоугодия или Похоти 4+, +1 к весу атаки</style>",
+                    "desc": "<style=\"highlight\">Сила монет +1, если сумма своей скорости и скорости цели 6 или выше</style>\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n[BeforeAttack] Количество целей +1 при резонансе Чревоугодия или Похоти в 4 и более греха</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> <style=\"highlight\">на 2</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                                 }
                             ]
                         }
@@ -409,12 +409,12 @@
                     "level": 4,
                     "name": "Лассо",
                     "abName": "Охотник роз",
-                    "desc": "Сила монет +1, если сумма скорости персонажа и цели 6 или выше\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n[BeforeAttack] При наивысшем резонансе 4+, +1 к весу атаки\n<style=\"highlight\">- Если этот резонанс был резонансом Чревоугодия, +1 к весу атаки</style>",
+                    "desc": "Сила монет +1, если сумма своей скорости и скорости цели 6 или выше\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n[BeforeAttack] Количество целей +1 при резонансе Чревоугодия или Похоти в 4 и более греха\n<style=\"highlight\">- Если этот резонанс был резонансом Чревоугодия, Количество целей повышается ещё на 1</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         },
@@ -472,7 +472,7 @@
                     "level": 3,
                     "name": "Лассо",
                     "abName": "Охотник роз",
-                    "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">Сила монет +1, если сумма скорости персонажа и цели 6 или выше</style>\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход</style>",
+                    "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">Сила монет +1,если сумма своей скорости и скорости цели 6 или выше</style>\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -494,7 +494,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Snare\"><color=#e30000><u><link=\"Snare\">Лассо</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] +2% к урону за каждый <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на цели (До 30%)"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] На 2% больше урона за каждый [Burst] на цели (До 30%)</style>"
                                 }
                             ]
                         }
@@ -504,29 +504,29 @@
                     "level": 4,
                     "name": "Лассо",
                     "abName": "Охотник роз",
-                    "desc": "[CantIdentify]\nСлучайная цель\nСила монет +1, если сумма скорости персонажа и цели 6 или выше\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n<style=\"highlight\">[EndSkill] Если цель Ошеломлена или побеждена, получает 1 <sprite name=\"ShamrockResultUp\"><color=#f8c200><u><link=\"ShamrockResultUp\">Повышение силы Чревоугодия</link></u></color> на следующий ход</style>",
+                    "desc": "[CantIdentify]\nСлучайная цель\nСила монет +1, если сумма своей скорости и скорости цели 6 или выше\nСила монет +1 за каждые 7 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[BeforeAttack] Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход\n<style=\"highlight\">[EndSkill] Если цель оглушена или побеждена, получает 1 <sprite name=\"ShamrockResultUp\"><color=#f8c200><u><link=\"ShamrockResultUp\">Повышение силы Чревоугодия</link></u></color> на следующий ход</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на 2"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> <style=\"highlight\">на 2</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Snare\"><color=#e30000><u><link=\"Snare\">Лассо</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Snare\"><color=#e30000><u><link=\"Snare\">Лассо</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] +2% к урону за каждый <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color> на цели (До 60%)"
+                                    "desc": "[OnSucceedAttack] На 2% больше урона за каждый [Burst] на цели (До <style=\"highlight\">60%</style>)"
                                 }
                             ]
                         }
@@ -541,7 +541,7 @@
                     "level": 1,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При 3+ резонансе Гордыни повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+                    "desc": "[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -563,19 +563,19 @@
                     "level": 3,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При 3+ резонансе Гордыни повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+                    "desc": "[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1</style>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1</style>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<style=\"highlight\">На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                                    "desc": "<style=\"highlight\">На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До 20%)</style>"
                                 }
                             ]
                         }
@@ -585,19 +585,19 @@
                     "level": 4,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При 3+ резонансе Гордыни повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
+                    "desc": "[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
+                                    "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                                    "desc": "На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До <style=\"highlight\">40%</style>)"
                                 }
                             ]
                         }
@@ -612,7 +612,7 @@
                     "level": 1,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] × 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 4)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -634,7 +634,7 @@
                     "level": 3,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] × 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До <style=\"highlight\">6</style>)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -646,7 +646,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<style=\"highlight\">На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До 20%)</style>"
+                                    "desc": "<style=\"highlight\">На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До 20%)</style>"
                                 }
                             ]
                         }
@@ -656,7 +656,7 @@
                     "level": 4,
                     "name": "Торакалгия",
                     "abName": "Спальный мешок давно\n минувших дней",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхании</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] x 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Наибольший резонанс) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При 3+ резонансе Гордыни, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] При менее чем 20 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, повышает своё [Breath] до 20 и тратит (Полученное [Breath] × 2)% ОЗ\n- Не может быть оглушена или убита из-за этого эффекта\n[BeforeAttack] Даёт (Число грехов в наибольшем резонансе) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> всем союзникам (До 6)\n- При резонансе Гордыни в 3 и более греха, повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> этих союзников на 1, а так же даёт им 1 <sprite name=\"ReleaseBreath\"><color=#9f6a3a><u><link=\"ReleaseBreath\">Слабый выдох</link></u></color> и 1 [IndigoDamageUp] на следующий ход",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -668,7 +668,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "На (Потенциал + счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше критического урона (До <style=\"highlight\">40%</style>)"
+                                    "desc": "На (Сила + счётчик своего <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)% больше урона при критическом попадании (До <style=\"highlight\">40%</style>)"
                                 }
                             ]
                         }

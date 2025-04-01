@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "CandyForCharon",
+      "name": "Конфеты?",
+      "desc": "Максимальное значение: 1\n· Где конфеты?",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TickTockTickTock",
+      "name": "Тик-так?!",
+      "desc": "В конце хода восстанавливает 10 СД",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CandyForCharon_LowMoral",
+      "name": "Конфеты (Низкий дух)",
+      "desc": "Сила в столкновении +3 против целей с <sprite name=\"CandyForCharon\"><color=#e30000><u>Конфетами</u></color> и -1 против всех остальных",
+      "summary": "Повышает силу в столкновении",
+      "undefined": "-"
+    },
+    {
+      "id": "CandyForCharon_Panic",
+      "name": "Конфеты (Паника)",
+      "desc": "Сила в столкновении +5 против целей с <sprite name=\"CandyForCharon\"><color=#e30000><u>Конфетами</u></color> и -2 против всех остальных",
+      "summary": "Повышает силу в столкновении",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1735,6 +1735,126 @@
     {
       "id": "mainui_battleresult_AbnormalitySuppress_defeat",
       "content": "Не удалось усмирить аномалию"
+    },
+    {
+      "id": "ui_text_unknown",
+      "content": "Неизвестно"
+    },
+    {
+      "id": "buff_effect_for_level_format",
+      "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Ключевые слова"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "Сбросить порядок выбора?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(В наличии : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Платное : {0}, Бесплатное : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Платное : {0}, Бесплатное : {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Использование этого билета на ваш текущий момент прогресса истории повысит уровень выбранной вами Идентичности до {1} вместо {0}, и любой неиспользованный ОПЫТ будет потерян в процессе.\n\nИспользовать этот билет в любом случае?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "Светодобыча опыта #7 (Режущий)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "Светодобыча опыта #7 (Режущий) открывается в ПОН, ВТОР, и ВОСКРЕС."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "Светодобыча опыта #7 (Колющий)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "Светодобыча опыта #7 (Колющий) открывается в СРЕ, ЧЕТ, и ВОСКРЕС."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "Светодобыча опыта #7 (Дробящий)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "Светодобыча опыта #7 (Дробящий) открывается в ПЯТ, СУБ, и ВОСКРЕС."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "Нельзя\nвыбрать\nбазовую\nИдентичность"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "Невозможно продолжить с этой {0} Идентичностью. Добавлены Идентичности Поддержки."
+    },
+    {
+      "id": "caution",
+      "content": "ВНИМАНИЕ"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "Этот Комментатор содержит спойлеры для Главы <color=#990000><{0}-{1}></color>.\n\nОтобразить в любом случае?\""
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "Одна из наград, которую вы собираетесь забрать\nвключает Комментатора, который может содержать спойлеры\nдля главы, которую вы еще не прошли.\n\nЗабрать в любом случае?"
+    },
+    {
+      "id": "select_all",
+      "content": "Выбрать всех"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Отменить выбор всех"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Управление Голосом Истории"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Разблокировка извлечения:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Сезонные идентичности могут быть Извлечены из Автомата начиная с {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v2",
+      "content": "Сезонные Э.Г.О. могут быть Извлечены начиная с {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v3",
+      "content": "Сезонные идентичности & Э.Г.О. могут быть Извлечены начиная с {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "Больше не отображать это сообщение"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Настройки уведомлений"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "Платное Безумство"
     }
   ]
 }

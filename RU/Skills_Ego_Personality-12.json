@@ -7,12 +7,12 @@
                     "level": 1,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[BeforeAttack] Число целей +1 при 3 и более грехов в резонансе\n[WhenUse] Даёт (наибольшее число грехов резонанса) союзникам 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」 и 1 「<sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> *греха резонанса*」\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」",
+                    "desc": "[BeforeAttack] Количество целей +1 при 3 и более грехах в резонансе\n[WhenUse] Даёт (Число грехов в наибольшем резонансе + 1) союзникам 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> и 1 <sprite name=\"AmberResultUp\"><color=#f8c200><u>Повышение силы Греха</u></color> этого резонанса\n- При 4 и более грехах в этом резонансе, даёт ещё 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> этого резонанса",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] Восстанавливает союзнику 15% от максимальных ОЗ\n- Восстанавливает ОЗ ещё (наибольшее число грехов резонанса - 2) союзников (До 3)"
+                                    "desc": "[EndSkill] Восстанавливает союзнику с наименьшим процентом ОЗ 15% от максимальных ОЗ\n- Восстанавливает ОЗ ещё (Наибольшее число грехов в резонансе - 2) союзникам (До 3)"
                                 }
                             ]
                         }
@@ -22,12 +22,12 @@
                     "level": 3,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[BeforeAttack] Число целей +(наибольшее число грехов резонанса - 2) (До 2)\n[WhenUse] Даёт (2+ наибольшее число грехов резонанса) союзникам 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」 и 1 「<sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> *греха резонанса*」\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」\n- Если в резонансе 5 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> *греха резонанса*」",
+                    "desc": "[BeforeAttack] Количество целей повышается на <style=\"highlight\">(Число грехов в наибольшем резонансе - 2) (До 2)</style> \n[WhenUse] Даёт (Число грехов в наибольшем резонансе + <style=\"highlight\">2</style>) союзникам 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> и 1 <sprite name=\"AmberResultUp\"><color=#f8c200><u>Повышение силы Греха</u></color> этого резонанса\n- При 4 и более грехах в этом резонансе, даёт ещё 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> этого резонанса\n<style=\"highlight\">- При 5 и более грехах в этом резонансе, даёт ещё 1 <sprite name=\"AmberResultUp\"><color=#f8c200><u>Повышение силы Греха</u></color> этого резонанса</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] Восстанавливает союзнику 18% от максимальных ОЗ\n- Восстанавливает ОЗ ещё (наибольшее число грехов резонанса - 2) союзников (До 3)"
+                                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">двум</style> союзникам с наименьшим процентом ОЗ <style=\"highlight\">18%</style> от максимальных ОЗ\n- Восстанавливает ОЗ ещё (Наибольшее число грехов в резонансе - 2) союзникам (До 3)"
                                 }
                             ]
                         }
@@ -37,12 +37,12 @@
                     "level": 4,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[BeforeAttack] Число целей +(наибольшее число грехов резонанса - 2) (До 3)\n[WhenUse] Даёт (4+ наибольшее число грехов резонанса) союзникам 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」 и 1 「<sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> *греха резонанса*」\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> *грехом резонанса*」\n- Если в резонансе 5 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"ResultEnhancement\"><color=#f8c200><u><link=\"ResultEnhancement\">Повышение силы</link></u></color> *греха резонанса*」\n- Если в абсолюте 6 и более грехов, даёт эти эффекты и на следующий ход",
+                    "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе - 2) (До <style=\"highlight\">3</style>) \n[WhenUse] Даёт (Число грехов в наибольшем резонансе + <style=\"highlight\">4</style>) союзникам 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> и 1 <sprite name=\"AmberResultUp\"><color=#f8c200><u>Повышение силы Греха</u></color> этого резонанса\n- При 4 и более грехах в этом резонансе, даёт ещё 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> этого резонанса\n- При 5 и более грехах в этом резонансе, даёт ещё 1 <sprite name=\"AmberResultUp\"><color=#f8c200><u>Повышение силы Греха</u></color> этого резонанса\n<style=\"highlight\">- При 6 и более грехах в этом резонансе, даёт эти эффекты так же на следующий ход</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] Восстанавливает союзнику 22% от максимальных ОЗ\n- Восстанавливает ОЗ ещё (наибольшее число грехов резонанса - 2) союзников (До 3)"
+                                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">четырём</style> союзникам с наименьшим процентом ОЗ <style=\"highlight\">22%</style> от максимальных ОЗ\n- Восстанавливает ОЗ ещё (Наибольшее число грехов в резонансе - 2) союзникам (До 3)"
                                 }
                             ]
                         }
@@ -57,15 +57,15 @@
                     "level": 1,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +1 при 3 и более грехов в резонансе",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при 3 и более грехах в резонансе",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>. Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход."
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> и 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」 и 1 「<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> к *греху резонанса*」\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> и 1 <sprite name=\"AmberResultDown\"><color=#e30000><u>Понижение силы[TabExplain] Греха</u></color> наибольшего резонанса\n- При 4 и более грехах в этом резонансе, наносит ещё 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> этого резонанса"
                                 }
                             ]
                         }
@@ -75,15 +75,15 @@
                     "level": 3,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +(наибольшее число грехов резонанса - 2) (До 2)",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей <style=\"highlight\">+(Число грехов в наибольшем резонансе - 2) (До 2)</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>. Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> и 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」 и 1 「<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> к *греху резонанса*」(Учитывается наибольший резонанс грехов)\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」\n- Если в резонансе 5 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> к *греху резонанса*」"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> и 1 <sprite name=\"AmberResultDown\"><color=#e30000><u>Понижение силы[TabExplain] Греха</u></color> наибольшего резонанса\n- При 4 и более грехах в этом резонансе, наносит ещё 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> этого резонанса\n<style=\"highlight\">- При 5 и более грехах в этом резонансе, наносит ещё 1 <sprite name=\"AmberResultDown\"><color=#e30000><u>Понижение силы[TabExplain] Греха</u></color> наибольшего резонанса</style>"
                                 }
                             ]
                         }
@@ -93,15 +93,15 @@
                     "level": 4,
                     "name": "Терновый сад",
                     "abName": "Знак с розами",
-                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Число целей +(наибольшее число грехов резонанса - 2) (До 3)",
+                    "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +(Число грехов в наибольшем резонансе - 2) (До <style=\"highlight\">3</style>)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color>. Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Понижение урона</link></u></color> и 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」 и 1 「<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> к *греху резонанса*」\n- Если в резонансе 4 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"ResultReduction\"><color=#e30000><u><link=\"ResultReduction\">Понижение силы</link></u></color> *греха резонанса*」\n- Если в резонансе 5 и более грехов, дополнительно даёт ещё 1 「<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> к *греху резонанса*」\n- Если в абсолюте 6 и более грехов, наносит эти эффекты и на следующий ход"
+                                    "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> и 1 <sprite name=\"AmberResultDown\"><color=#e30000><u>Понижение силы[TabExplain] Греха</u></color> наибольшего резонанса\n- При 4 и более грехах в этом резонансе, наносит ещё 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> этого резонанса\n- При 5 и более грехах в этом резонансе, наносит ещё 1 <sprite name=\"AmberResultDown\"><color=#e30000><u>Понижение силы[TabExplain] Греха</u></color> наибольшего резонанса\n<style=\"highlight\">- При 6 и более грехах в этом резонансе, наносит эти эффекты так же на следующий ход</style>"
                                 }
                             ]
                         }
@@ -116,7 +116,7 @@
                     "level": 1,
                     "name": "Минувшие дни",
                     "abName": "Портрет того дня",
-                    "desc": "[EndSkill] Восстанавливает 10 СД себе и 2-ум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит 5 единиц счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и восстанавливает потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели в качестве СД себе и 2-ум союзникам (До 20 СД)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> 2-ум случайным противникам (В фокусированной битве — случайным частям)",
+                    "desc": "[EndSkill] Восстанавливает 10 СД себе и двум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит 5 единиц счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели, чтобы восстановить СД себе и этим союзникам на силу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 20)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> двум случайным противникам (В фокусированных битвах — случайным частям)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -129,7 +129,7 @@
                     "level": 3,
                     "name": "Минувшие дни",
                     "abName": "Портрет того дня",
-                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">12</style> СД себе и 2-ум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит 5 единиц счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и восстанавливает потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели в качестве СД себе и 2-ум союзникам (До 20 СД)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> <style=\"highlight\">и 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятие</link></u></color></style> 2-ум случайным противникам (В фокусированной битве — случайным частям)",
+                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">12</style> СД себе и двум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит 5 единиц счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели, чтобы восстановить СД себе и этим союзникам на силу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 20)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> <style=\"highlight\">и 1 [Curse]</style> двум случайным противникам (В фокусированных битвах — случайным частям)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -142,7 +142,7 @@
                     "level": 4,
                     "name": "Минувшие дни",
                     "abName": "Портрет того дня",
-                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">15</style> СД себе и 2-ум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит <style=\"highlight\">3</style> единицы счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели и восстанавливает потенциал <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели в качестве СД себе и 2-ум союзникам (До 20 СД)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятие</link></u></color> <style=\"highlight\">3-ём</style>случайным противникам (В фокусированной битве — случайным частям)",
+                    "desc": "[EndSkill] Восстанавливает <style=\"highlight\">15</style> СД себе и двум союзникам с наименьшей СД\n- Если цель осталась в живых, тратит <style=\"highlight\">3</style> единицы счётчика <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели, чтобы восстановить СД себе и этим союзникам на силу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели (До 20)\n- При смерти цели наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и 1 [Curse] <style=\"highlight\">трём</style> случайным противникам (В фокусированных битвах — случайным частям)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -165,7 +165,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>. Дополнительно наносит 1 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимость к Унынию</link></u></color> при резонансе Уныния, равном 3 и более"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>\n- Наносит ещё 1 [AzureTakeDamageUp] при 3 и более грехах в резонансе Уныния"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
@@ -186,13 +186,13 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>. Дополнительно наносит 1 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимость к Унынию</link></u></color> за каждые 3 греха в резонансе Уныния (До 2)"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>\n- Наносит ещё 1 [AzureTakeDamageUp] <style=\"highlight\">за каждые 3 греха в резонансе Уныния (До 2)</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятия</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятия</link></u></color>"
                                 }
                             ]
                         }
@@ -202,18 +202,18 @@
                     "level": 4,
                     "name": "Минувшие дни",
                     "abName": "Портрет того дня",
-                    "desc": "[CantIdentify]\nСлучайная цель\n+50% урона если на цели есть <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятие</link></u></color>",
+                    "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">Наносит на 50% больше урона целям с <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятием</link></u></color></style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>. Дополнительно наносит 1 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимость к Унынию</link></u></color> за каждые 2 греха в резонансе Уныния (До 2)"
+                                    "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AzureTakeDamageUp\"><color=#e30000><u><link=\"AzureTakeDamageUp\">Уязвимости к Унынию</link></u></color>\n- Наносит ещё 1 [AzureTakeDamageUp] за каждые <style=\"highlight\">2</style> греха в резонансе Уныния (До 2)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятия</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Проклятия</link></u></color>"
                                 }
                             ]
                         }
@@ -228,7 +228,7 @@
                     "level": 1,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "При подкидывании монеты атакует случайную цель.\n- Первой монетой Грегор всегда атакует основную цель.\n- Все эффекты монеты относятся только к цели, атакуемой на момент её подкидывания..\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО навыка, Грегор наносит бабочек Почивших с шансом выпадения орла. Если же Грегор не смог нанести бабочек Почивших, наносит бабочек Живых. (Каждая <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочка</link></u></color> просчитывается отдельно)",
+                    "desc": "При подкидывании монеты она атакует случайную цель среди всех целей навыка\n- Первая монета всегда атакует основую цель\n- Все эффекты монет относятся только к цели, атакуемой на момент их подкидывания\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО, наносит бабочек Почивших с шансом выпадения орла, Живущих с шансом выпадения решки (Каждая отдельно)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -253,7 +253,7 @@
                                     "desc": "[OnSucceedAttack] Теряет 2~6 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Пока СД выше 0, Грегор вновь подкидывает монету (До 5-и раз за ЭГО навык)"
+                                    "desc": "[OnSucceedAttack] Пока СД выше 0, вновь подкидывает монету (До 5 раз)"
                                 }
                             ]
                         }
@@ -263,7 +263,7 @@
                     "level": 3,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "При подкидывании монеты атакует случайную цель.\n- Первой монетой Грегор всегда атакует основную цель.\n- Все эффекты монеты относятся только к цели, атакуемой на момент её подкидывания..\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО навыка, Грегор наносит бабочек Почивших с шансом выпадения орла. Если же Грегор не смог нанести бабочек Почивших, наносит бабочек Живых. (Каждая <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочка</link></u></color> просчитывается отдельно)\n<style=\"highlight\">[EndSkill] Восстанавливает (2 x число попаданий 3-ьей монеты) СД</style>",
+                    "desc": "При подкидывании монеты она атакует случайную цель среди всех целей навыка\n- Первая монета всегда атакует основую цель\n- Все эффекты монет относятся только к цели, атакуемой на момент их подкидывания\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО, наносит бабочек Почивших с шансом выпадения орла, Живущих с шансом выпадения решки (Каждая отдельно)\n<style=\"highlight\">[EndSkill] Восстанавливает (2 × число попаданий 3 монетой) СД</style>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -288,7 +288,7 @@
                                     "desc": "[OnSucceedAttack] Теряет 2~6 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Пока СД выше 0, Грегор вновь подкидывает монету (До 5-и раз за ЭГО навык)"
+                                    "desc": "[OnSucceedAttack] Пока СД выше 0, вновь подкидывает монету (До 5 раз)"
                                 }
                             ]
                         }
@@ -298,7 +298,7 @@
                     "level": 4,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "При подкидывании монеты атакует случайную цель.\n- Первой монетой Грегор всегда атакует основную цель.\n- Все эффекты монеты относятся только к цели, атакуемой на момент её подкидывания..\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО навыка, Грегор наносит бабочек Почивших с шансом выпадения орла. Если же Грегор не смог нанести бабочек Почивших, наносит бабочек Живых. (Каждая <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочка</link></u></color> просчитывается отдельно)\n[EndSkill] Восстанавливает <style=\"highlight\">(3 x число попаданий 3-ьей монеты)</style>СД",
+                    "desc": "При подкидывании монеты она атакует случайную цель среди всех целей навыка\n- Первая монета всегда атакует основую цель\n- Все эффекты монет относятся только к цели, атакуемой на момент их подкидывания\nВ момент нанесения <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек</link></u></color> монетами этого ЭГО, наносит бабочек Почивших с шансом выпадения орла, Живущих с шансом выпадения решки (Каждая отдельно)\n[EndSkill] Восстанавливает (<style=\"highlight\">3</style> × число попаданий 3 монетой) СД",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -323,7 +323,7 @@
                                     "desc": "[OnSucceedAttack] Теряет 2~6 СД"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Пока СД выше 0, Грегор вновь подкидывает монету (До 5-и раз за ЭГО навык)"
+                                    "desc": "[OnSucceedAttack] Пока СД выше 0, вновь подкидывает монету (До 5 раз)"
                                 }
                             ]
                         }
@@ -338,12 +338,12 @@
                     "level": 1,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли СД цели ниже 0, чем ниже СД цели, тем выше процент урона (До 45%)\nЕсли у цели нет СД, +1% урона за каждые 2 единицы <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)\n- Если у цели нет СД, наносит на 1% больше урона за каждые 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Живых</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Живущих</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Почивших</link></u></color>"
@@ -356,12 +356,12 @@
                     "level": 3,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли СД цели ниже 0, чем ниже СД цели, тем выше процент урона (До 45%)\nЕсли у цели нет СД, +1% урона за каждые 2 единицы <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)\n<style=\"highlight\">[EnemyKill] Восстанавливает 5 СД</style>",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)\n- Если у цели нет СД, наносит на 1% больше урона за каждые 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)\n<style=\"highlight\">[EnemyKill] Восстанавливает 5 СД</style>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Живых</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Живущих</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочки Почивших</link></u></color>"
@@ -377,21 +377,21 @@
                     "level": 4,
                     "name": "Торжественный траур",
                     "abName": "Похороны мёртвых бабочек",
-                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли СД цели ниже 0, чем ниже СД цели, тем выше процент урона (До 45%)\nЕсли у цели нет СД, +1% урона за каждые 2 единицы <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)\n[EnemyKill] Восстанавливает 5 СД",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)\n- Если у цели нет СД, наносит на 1% больше урона за каждые 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 45%)\n[EnemyKill] Восстанавливает 5 СД",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек Живых</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек Живущих</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек Почивших</link></u></color>"
+                                    "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочек Почивших</link></u></color>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Если у цели менее 50% ОЗ, наносит урон Унынием, равный всем <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочкам</link></u></color> на цели\n- Считается сумма бабочек Живых и Почивших на цели</style>"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Если у цели менее 50% ОЗ, наносит урон Унынием, равный сумме Живущих и Почивших <sprite name=\"SinkingWhite\"><color=#e30000><u><link=\"SinkingWhite\">Бабочкек</link></u></color> на цели</style>"
                                 }
                             ]
                         }
@@ -414,7 +414,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
@@ -434,7 +434,7 @@
                     "level": 3,
                     "name": "Рождественский кошмар",
                     "abName": "Уютная кровать",
-                    "desc": "<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)</style>\n[EndSkill] При максимальных ОЗ, восстанавливает 10 СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+                    "desc": "<style=\"highlight\">Если у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)</style>\n[EndSkill] При максимальных ОЗ, восстанавливает 10 СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -442,14 +442,14 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (2 + Наибольший резонанс)% потерянных ОЗ (До 30% за навык)"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Восстанавливает (2 + число грехов в наибольшем резонансе)% потерянных ОЗ (До 30% за навык)</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
@@ -465,7 +465,7 @@
                     "level": 4,
                     "name": "Рождественский кошмар",
                     "abName": "Уютная кровать",
-                    "desc": "Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+                    "desc": "Если у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -473,20 +473,20 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (<style=\"highlight\">3</style> + Наибольший резонанс)% потерянных ОЗ (До 30% за навык)"
+                                    "desc": "[OnSucceedAttack] Восстанавливает (<style=\"highlight\">3</style> + число грехов в наибольшем резонансе)% потерянных ОЗ (До 30% за навык)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если цель оглушена, находится в состоянии низкой морали, или в панике, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> <style=\"highlight\">и 1 Уязвимость к греху наибольшего резонанса</style> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Если цель оглушена, находится в состоянии низкой морали, или в панике, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> <style=\"highlight\">и 1 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимость[TabExplain] к Греху</u></color> наибольшего резонанса</style> на следующий ход"
                                 }
                             ]
                         }
@@ -509,7 +509,7 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
@@ -529,7 +529,7 @@
                     "level": 3,
                     "name": "Рождественский кошмар",
                     "abName": "Уютная кровать",
-                    "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)</style>\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+                    "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)</style>\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -537,14 +537,14 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (2 + Наибольший резонанс)% потерянных ОЗ (До 30% за навык)"
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Восстанавливает (2 + число грехов в наибольшем резонансе)% потерянных ОЗ (До 30% за навык)</style>"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
@@ -560,7 +560,7 @@
                     "level": 4,
                     "name": "Рождественский кошмар",
                     "abName": "Уютная кровать",
-                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">20</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+                    "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, наносит на 1% больше урона за каждую единицу СД цели ниже 0 (До 45%)\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">20</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -568,20 +568,20 @@
                                     "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                                    "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color> и понижает его счётчик на 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Восстанавливает (<style=\"highlight\">3</style> + Наибольший резонанс)% потерянных ОЗ (До 30% за навык)"
+                                    "desc": "[OnSucceedAttack] Восстанавливает (<style=\"highlight\">3</style> + число грехов в наибольшем резонансе)% потерянных ОЗ (До 30% за навык)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Если цель оглушена, находится в состоянии низкой морали, или в панике, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> <style=\"highlight\">и 2 Уязвимости к греху наибольшего резонанса</style> на следующий ход"
+                                    "desc": "[OnSucceedAttack] Если цель оглушена, находится в состоянии низкой морали, или в панике, наносит 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижение силы атаки</link></u></color> <style=\"highlight\">и 2 <sprite name=\"AmberTakeDamageUp\"><color=#e30000><u>Уязвимости к Греху</u></color> наибольшего резонанса</style> на следующий ход"
                                 }
                             ]
                         }

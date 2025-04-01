@@ -141,7 +141,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Каскад Уныния",
+                    "name": "Каскад уныния",
                     "desc": "[WhenUse] Сила монет +1 за каждые 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 3)\n[WinDuel] Вес атаки +1 за каждые 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)",
                     "coinlist": [
                         {
@@ -244,7 +244,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вариант искусства затвердевшей крови Дон Кихот 4 - Разрывание",
+                    "name": "Вариант искусства застывшей крови Дон Кихот 4 - Разрывание",
                     "desc": "[WhenUse] Если цель имеет 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Сила монет +1\n[WinDuel] Атака наносит на 20% больше урона за каждую Фазу <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> (До 60%)\n[DefeatDuel] Теряет 4 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>",
                     "coinlist": [
                         {
@@ -270,7 +270,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вариант искусства затвердевшей крови Дон Кихот 11 - Пронзание",
+                    "name": "Вариант искусства застывшей крови Дон Кихот 11 - Пронзание",
                     "desc": "[WhenUse] Базовая сила +1 за каждые 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WinDuel] Атака наносит на 20% больше урона за каждую Фазу <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> (До 60%)\n[DefeatDuel] Теряет 4 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color>",
                     "coinlist": [
                         {
@@ -303,7 +303,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вариант стиля Дон Кихот: Искусство Сначо 4 - Следование",
+                    "name": "Вариант стиля Дон Кихот: Искусство Санчо 4 - Следование",
                     "desc": "Нацеливается на противников с наибольшим <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>\n[BeforeAttack] Вес атаки +1 за каждые 10 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> на себе (До 3)\n[WhenUse] Сила в столкновении +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавую броню</link></u></color> и +1 к Силе монет за каждые 15 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (До 2)\n- Если не удалось поглотить [BloodDinner], получает 10 урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> и теряет 1 его счётчик\n[EndSkill] Увеличивает [BloodDinner] на количество нанесённого этим навыком урона",
                     "coinlist": [
                         {
@@ -329,7 +329,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вариант стиля Дон Кихот: Искусство Сначо 3 - Засада",
+                    "name": "Вариант стиля Дон Кихот: Искусство Санчо 3 - Засада",
                     "desc": "Нацеливается на противников с наибольшим <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color>\n[BeforeAttack] Вес атаки +1 за каждые 10 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> на себе (До 3)\n[WhenUse] Сила в столкновении +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WhenUse] Поглощает до 30 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавую броню</link></u></color> и +1 к Силе монет за каждые 15 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (До 2)\n- Если не удалось поглотить [BloodDinner], получает 10 урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> и теряет 1 его счётчик\n[EndSkill] Увеличивает [BloodDinner] на количество нанесённого этим навыком урона",
                     "coinlist": [
                         {
@@ -362,7 +362,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вариант стиля Дон Кихот: Искусство Сначо 2 - Кровавая броня",
+                    "name": "Вариант стиля Дон Кихот: Искусство Санчо 2 - Кровавая броня",
                     "desc": "Можно столкнуться независимо от скорости\n\n[StartBattle] Получает 1 [SwirlingBlood]\n[StartBattle] Поглощает до 100 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>, чтобы получить 1 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавую броню</link></u></color> и 20 Щита за каждые 10 поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color>\n- Если <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> недостаточно, получает 50 урона <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечением</link></u></color> и теряет 2 его счётчика (Не может опустить ОЗ ниже 1), а так же получает 200 Щита\n[DefeatDuel] Пока щит от этого эффекта остаётся, получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>\n[DefeatDuel] Атака наносит на 50% меньше урона\n[EndSkill] Завершает ход",
                     "coinlist": [
                         {
@@ -405,7 +405,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "La Aventura Ha Terminado",
+                    "name": "Ла Авентура Ха Терминадо",
                     "desc": "Наносит на 10% больше урона за каждое [Laceration] на цели (До 200%)\n- Урон повышается ещё на 10% за каждые 3 <sprite name=\"BloodArmor\"><color=#f8c200><u><link=\"BloodArmor\">Кровавой брони</link></u></color> (До 100%)\n[StartBattle] Поглощает (45 - текущее СД) <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и восстанавливает СД до 45\n- Если <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> недостаточно, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и восстанавливает СД до 45\n- Получает щит, равный <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавому пиршеству</link></u></color> (До 100)\n[WinDuel] Наносит 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Увеличивает [BloodDinner] на количество нанесённого цели урона\n[EndSkill] Если цель побеждена, увеличивает [BloodDinner] на количество макс. ОЗ цели",
                     "coinlist": [
                         {
@@ -430,7 +430,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "La Aventura Ha Terminado...",
+                    "name": "Ла Авентура Ха Терминадо...",
                     "desc": "Наносит на 40% больше урона за каждые 10 (Сумма <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех целях (До 200%)\n- Урон повышается ещё на 10% за каждую единицу поглощённого <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> (До 100%)\n[StartBattle] Поглощает (45 - текущее СД) <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> и восстанавливает СД до 45\n- Если <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавого пиршества</link></u></color> недостаточно, получает 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и восстанавливает СД до 45\n- Получает щит, равный <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавому пиршеству</link></u></color> (До 100)\n[WinDuel] Наносит 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[EndSkill] Увеличивает [BloodDinner] на количество нанесённого цели урона\n[EndSkill] Если цель убита, увеличивает [BloodDinner] на количество макс. ОЗ цели",
                     "coinlist": [
                         {

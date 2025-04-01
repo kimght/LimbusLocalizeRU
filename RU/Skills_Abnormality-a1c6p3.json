@@ -57,7 +57,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Извергающийся Гнев",
+                    "name": "Извергающийся гнев",
                     "desc": "[WhenUse] Сила монет +1 за каждые 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 3)\n[WinDuel] Если на цели 9 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, +1 к Весу атаки",
                     "coinlist": [
                         {
@@ -191,7 +191,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Недостойны речи",
+                    "name": "Недостойный речи",
                     "desc": "[WhenUse] Сила в столкновении +1 против целей с 8 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>",
                     "coinlist": [
                         {
@@ -217,7 +217,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Мешок с телом",
+                    "name": "Мешок для тела",
                     "desc": "[WhenUse] Базовая сила +1 за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 3)\n[WhenUse] Сила в столкновении +1 за каждый отрицательный эффект на цели (До 2)\n[DefeatDuel] Получает 20 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color>\n[DefeatDuel] Получает 1 <sprite name=\"AaCfPcBf\"><color=#e30000><u><link=\"AaCfPcBf\">Оковы скорби</link></u></color>",
                     "coinlist": [
                         {
@@ -425,7 +425,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Overwhelm Interloper",
+                    "name": "Подавить нарушителя",
                     "desc": "[WhenUse] Если скорость выше скорости цели, Сила в столкновении +2",
                     "coinlist": [
                         {
@@ -660,7 +660,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Сбитие с ног",
+                    "name": "Избиение",
                     "desc": "[WinDuel] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -689,7 +689,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Сведение Счётов",
+                    "name": "Сведение счётов",
                     "desc": "Сила в столкновении +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\nСила в столкновении +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3",
                     "coinlist": [
                         {
@@ -722,7 +722,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Возвращённое Кошмарное Отмщение",
+                    "name": "Возвращённое кошмарное отмщение",
                     "desc": "[CantChangeTarget]\n[WhenUse] Если у цели нет <sprite name=\"AaCfPbBa\"><color=#9f6a3a><u><link=\"AaCfPbBa\">Взрывного Уныния</link></u></color>, Сила столкновения +10\n[DefeatDuel] Получает 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -744,7 +744,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Скачи к смерти, Дюллахан",
+                    "name": "Скачи к смерти, Дуллахан",
                     "desc": "[CantDuel]\n[WhenUse] Если у цели есть <sprite name=\"AaCfPbBb\"><color=#9f6a3a><u><link=\"AaCfPbBb\">Взрывная Зависть</link></u></color>, наносит на 100% меньше урона",
                     "coinlist": [
                         {},
@@ -797,7 +797,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Осколок Стекла Рыдающей Скорби",
+                    "name": "Осколок стекла рыдающей скорби",
                     "desc": "[WhenUse] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -838,7 +838,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Сбитие с ног",
+                    "name": "Избиение",
                     "desc": "[WinDuel] Получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышение урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -871,7 +871,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Внемлите зову, Грозовой перевал",
+                    "name": "Внемли зову, Грозовой перевал",
                     "desc": "[CantDuel]\n[WhenUse] Призывает союзника <sprite name=\"WildHunt\"><color=#f8c200><u><link=\"WildHunt\">Дикой охоты</link></u></color> в следующем ходу",
                     "coinlist": [
                         {
@@ -890,7 +890,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "И Тебя Запихнём в Этот Гроб",
+                    "name": "Запихнём тебя в этот гроб",
                     "desc": "[CantDuel]\n[StartBattle] +100% к повышению границы выносливости от <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провокации Тремора</link></u></color> и других эффектов, повышающих её\n[WhenUse] Эрлкинг Хитклиф и все его союзники получают 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
                     "coinlist": [
                         {
@@ -931,7 +931,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Полая Гробовая Булава",
+                    "name": "Полая гробовая булава",
                     "desc": "Сила в столкновении +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\nСила в столкновении +1 против целей с 5 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3",
                     "coinlist": [
                         {
@@ -950,7 +950,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Скачи к смерти, Дюллахан",
+                    "name": "Скачи к смерти, Дуллахан",
                     "desc": "",
                     "coinlist": [
                         {},
@@ -996,7 +996,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Скорбь и плач в следах Лесного Короля",
+                    "name": "Скорбь и плач по следам Эрлкинга",
                     "desc": "",
                     "coinlist": [
                         {
@@ -1055,7 +1055,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Всё Бессмысленно",
+                    "name": "Всё бессмысленно",
                     "desc": "",
                     "coinlist": [
                         {
@@ -1128,7 +1128,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Слёзы Скорби",
+                    "name": "Слёзы скорби",
                     "desc": "",
                     "coinlist": [
                         {
@@ -1237,7 +1237,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Неприкасаемая Душа",
+                    "name": "Неприкасаемая душа",
                     "desc": "",
                     "coinlist": [
                         {
@@ -1256,7 +1256,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Я Уничто...",
+                    "name": "Я уничто...",
                     "desc": "Ядро и Часть восстанавливают 10% от нанесённого атакой урона",
                     "coinlist": [
                         {
