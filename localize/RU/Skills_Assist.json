@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Багровый Удар",
+          "name": "Багровый удар",
           "desc": "[WhenUse] Сила в столкновении +1 против целей с 5 и более отрицательными эффектами\n[WhenUse] Базовая сила +1 за каждые 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 2)",
           "coinlist": [
             {
@@ -37,7 +37,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Багровый Феникс",
+          "name": "Багровый феникс",
           "desc": "[WhenUse] Сила монет +1 против целей с 5 и более отрицательными эффектами\n[WhenUse] Сила монет +1 за каждые 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)",
           "coinlist": [
             {
@@ -92,7 +92,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Багровая Весна",
+          "name": "Багровая весна",
           "desc": "[StartBattle] Вес атаки +1 за каждые 4 отрицательных эффекта на цели (До 2)\n[WhenUse] Базовая сила +5 против целей с 5 и более отрицательными эффектами\n[WhenUse] Если сумма силы и счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели 15 или более, Сила монет +5\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2",
           "coinlist": [
             {

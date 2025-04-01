@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_ggomi_90002_1",
+      "dlg": "Хмм... Тебе понадобится больше грешников, чем сейчас, Данте.",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_2",
+      "dlg": "Еще двое? Хм. Удачи, Данте.",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_3",
+      "dlg": "Тебе лучше привлечь к делу всех, Данте. Даже если ты ещё не командовал силами, превосходящими эти... хаах.",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_4",
+      "dlg": "Разве это не облегчение, что Харон не будет преследовать отступивших Грешников?",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_5",
+      "dlg": "Хм? Что ж, хорошо, что она не превратила тебя в груду плоти и костей прямо там.",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_6",
+      "dlg": "О, хм... возможно, тебе захочется за что-нибудь ухватиться.",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_7",
+      "dlg": "Что за бардак... Итак, каково это - быть побитым... Ккоми?",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    }
+  ]
+}

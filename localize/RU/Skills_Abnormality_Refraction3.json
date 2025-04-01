@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Посадка Госсипиума",
+          "name": "Посадка госсипиума",
           "desc": "[WhenUse] Наносит 3 <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиума</link></u></color>",
           "coinlist": [
             {
@@ -72,7 +72,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Цветущий Госсипиум",
+          "name": "Цветущий госсипиум",
           "desc": "Атакует цель с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Если основная цель является целью с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +5, эффекты удваиваются",
           "coinlist": [
             {
@@ -98,7 +98,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Разлетающийся Госсипиум",
+          "name": "Разлетающийся госсипиум",
           "desc": "Среди целей с <sprite name=\"MRcAfBa\"><color=#e30000><u><link=\"MRcAfBa\">Госсипиумом</link></u></color> атакует персонажа с наименьшим HP\n[WhenUse] Если основная цель является целью с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +5\n[EndBattle] Состояние <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> спадает в следующем ходу",
           "coinlist": [
             {
@@ -143,7 +143,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Наступающий Госсипиум",
+          "name": "Наступающий госсипиум",
           "desc": "[CantDuel]\nВыбирает целью персонажа с самой низкой Скоростью\nУрон от этого Атакующего Навыка фиксирован на 0.\n[StartBattle] Входит в состояние <sprite name=\"MRcAfBb\"><color=#f8c200><u><link=\"MRcAfBb\">Окровавленный Госсипиум</link></u></color> в следующем ходу.",
           "coinlist": [
             {},
@@ -163,7 +163,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Разлетающийся Окровавленный Госсипиум",
+          "name": "Разлетающийся окровавленный госсипиум",
           "desc": "Выбирает цель с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>\n[WhenUse] Если основная цель является целью с наибольшим количеством <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, Базовая сила +10\nЕсли у цели 10 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносит на 50% больше урона",
           "coinlist": [
             {
@@ -433,7 +433,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It Shall Grip",
+          "name": "Оно будет схвачено",
           "desc": "",
           "coinlist": [
             {
@@ -465,7 +465,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It Shall Constrict",
+          "name": "Оно будет сжато",
           "desc": "",
           "coinlist": [
             {

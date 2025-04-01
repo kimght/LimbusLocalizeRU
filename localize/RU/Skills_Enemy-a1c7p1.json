@@ -667,7 +667,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Откровенное Злодейство",
+          "name": "Откровенное злодейство",
           "desc": "[WhenUse] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {

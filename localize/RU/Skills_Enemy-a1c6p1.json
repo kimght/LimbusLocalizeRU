@@ -260,7 +260,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "А-броня Р-",
+          "name": "А-броня рр-",
           "desc": "[WhenUse] Если на цели 3 и более счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Базовая сила +1",
           "coinlist": [
             {
@@ -394,7 +394,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Сдерживать... Их...",
+          "name": "Сдерживать... их...",
           "desc": "[WhenUse] Цель теряет 3 СД\n[WhenUse] Если на цели есть <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>, Базовая сила +1 за каждые 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на цели (До 3)",
           "coinlist": [
             {
@@ -464,7 +464,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Убирайся... Из Моего...",
+          "name": "Убирайся... из моего...",
           "desc": "[WhenUse] Если у цели 3 и более счётчика <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>, Базовая сила +1",
           "coinlist": [
             {
@@ -1223,7 +1223,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Начало Уборки",
+          "name": "Начало уборки",
           "desc": "",
           "coinlist": [
             {
@@ -1252,7 +1252,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Прием Чужака",
+          "name": "Прием чужака",
           "desc": "[WinDuel] Получает 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color>\n[DefeatDuel] Получает 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
           "coinlist": [
             {
@@ -1278,7 +1278,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Этика приёма гостей, вторая церемония: Связывание",
+          "name": "Этика приёма гостей, 2-ая церемония: Связывание",
           "desc": "[WhenUse] Базовая сила +1 за каждые 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели (До 2)",
           "coinlist": [
             {
@@ -1339,7 +1339,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Приступить к Уборке",
+          "name": "Приступить к уборке",
           "desc": "",
           "coinlist": [
             {
@@ -1368,7 +1368,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ответ Чужака",
+          "name": "Ответ чужака",
           "desc": "[WinDuel] Получает 1 <sprite name=\"PlusCoinValueUp\"><color=#f8c200><u><link=\"PlusCoinValueUp\">Усиление положительной монеты</link></u></color>\n[DefeatDuel] Получает 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
           "coinlist": [
             {
@@ -1394,7 +1394,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Этика приёма гостей, вторая церемония: Опрокидывание",
+          "name": "Этика приёма гостей, 2-ая церемония: Опрокидывание",
           "desc": "Базовая сила +1 за каждые 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> у цели (До 2)",
           "coinlist": [
             {
@@ -1561,7 +1561,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ни Пылинки Не Останется!",
+          "name": "Ни пылинки не останется!",
           "desc": "[StartBattle] Даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> и восстанавливает 15 СД всем союзникам включая себя\n[StartBattle] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color> всем союзникам",
           "coinlist": [
             {
@@ -1600,7 +1600,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Скользкая Крыса!",
+          "name": "Скользкая крыса!",
           "desc": "Если остаётся щит к концу хода, снижает свою границу выносливости на 50\n- Если же щит истощён, последний атаковавший восстанавливает 10 СД",
           "coinlist": [
             {
